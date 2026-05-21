@@ -1,0 +1,85 @@
+规则表达形式  json文件
+
+
+{
+  "rule_id": "规则id",
+  "description": "规则描述",
+  "sets": [
+    {
+      "set_name": "集合1",
+      "subset_name": "子集1",
+      "element": "元素1"
+    },
+    {
+      "set_name": "集合2",
+      "subset_name": "子集2",
+      "element": "元素2,元素3"
+    }
+  ],
+  "parameters": {
+    "参数名": {
+      "value": "值",
+      "unit": "单位，如吨/天"
+    }
+  }
+}
+
+例子：
+
+{
+  "rule_id": "MATERIAL_FLOW_V11_TO_FCC1",
+  "description": "1#减一线（V11）进FCC1",
+  "sets": [
+    {
+      "set_name": "U",
+      "subset_name": "Uproc",
+      "element": "FCC1"
+    }
+    {
+      "set_name": "s",
+      "subset_name": null,
+      "element": "V11"
+    },
+    {
+      "set_name": "IU",
+      "subset_name": null,
+      "element": "FCC1.V11"
+    }
+  ],
+  "parameters": {},
+}
+
+
+{
+  "rule_id": "FCC1CapUpbound",
+  "description": "FCC1装置的负荷上限是3600",
+  "sets": [
+    {
+      "set_name": "U",
+      "subset_name": "Uproc",
+      "element": "FCC1"
+    }
+  "parameters": {
+      "CapU": {
+        "value": "3600",
+        "unit": "吨/天"
+      }
+    }
+  }
+
+{
+    "rule_id": "SHCUCapUpbound",
+    "description": "SHCU装置的负荷上限是3600",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Uproc",
+        "element": "SHCU"
+      }
+  "parameters": {
+        "CapU": {
+          "value": "3600",
+          "unit": "吨/天"
+        }
+      }
+    }

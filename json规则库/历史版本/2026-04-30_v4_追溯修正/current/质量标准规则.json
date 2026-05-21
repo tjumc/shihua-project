@@ -1,0 +1,2190 @@
+{
+  "meta": {
+    "library_name": "refinery_extracted_rule_library_by_major_category",
+    "version": "v3",
+    "status": "populated",
+    "encoding": "UTF-8",
+    "source_of_truth": "C:\\Users\\643\\Desktop\\石油项目\\提取结果--mc\\01_当前结果\\主总表.xlsx",
+    "preferred_mapping_sheet": "最终交付表",
+    "grouping_mode": "major_category",
+    "major_category": "质量标准规则",
+    "loaded_rule_count": 53,
+    "last_updated": "2026-04-30",
+    "notes": "当前文件为按所属大类拆分后的规则库文件。"
+  },
+  "rules": [
+    {
+      "rule_id": "规则163",
+      "description": "混合柴油应满足质量标准要求，重点指标包括95%点 | 铜片腐蚀 | 闭口闪点 | 凝点。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "混合柴油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "混合柴油应满足质量标准要求，重点指标包括95%点 | 铜片腐蚀 | 闭口闪点 | 凝点。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：95%点 | 铜片腐蚀 | 闭口闪点 | 凝点",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "14",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则164",
+      "description": "液化气应满足质量标准要求，重点指标包括C1 | C2 | C3 | C5+ | iC4 | nC4。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "液化气"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "液化气应满足质量标准要求，重点指标包括C1 | C2 | C3 | C5+ | iC4 | nC4。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：C1 | C2 | C3 | C5+ | iC4 | nC4",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "28-29",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则165",
+      "description": "重整汽油应满足质量标准要求，重点指标包括密度 | 残留量 | 终馏点 | 腐蚀 | 苯含量 | 蒸气压(冬季) | 蒸气压(夏季) | 辛烷值。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "重整汽油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "重整汽油应满足质量标准要求，重点指标包括密度 | 残留量 | 终馏点 | 腐蚀 | 苯含量 | 蒸气压(冬季) | 蒸气压(夏季) | 辛烷值。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：密度 | 残留量 | 终馏点 | 腐蚀 | 苯含量 | 蒸气压(冬季) | 蒸气压(夏季) | 辛烷值",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "28-29",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则166",
+      "description": "抽余油应满足质量标准要求，重点指标包括助溶剂 | 总硫 | 环丁砜 | 苯。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "抽余油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "抽余油应满足质量标准要求，重点指标包括助溶剂 | 总硫 | 环丁砜 | 苯。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：助溶剂 | 总硫 | 环丁砜 | 苯",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "30",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则167",
+      "description": "苯应满足质量标准要求，重点指标包括中性实验 | 噻吩 | 外观 | 总硫含量 | 溴指数 | 甲苯 | 纯度 | 结晶点(干基) | 非芳烃 | 颜色 | 中性试验 | 密度(20℃) | 结晶点 | 颜色(铂钴号)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "苯"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "苯应满足质量标准要求，重点指标包括中性实验 | 噻吩 | 外观 | 总硫含量 | 溴指数 | 甲苯 | 纯度 | 结晶点(干基) | 非芳烃 | 颜色 | 中性试验 | 密度(20℃) | 结晶点 | 颜色(铂钴号)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：中性实验 | 噻吩 | 外观 | 总硫含量 | 溴指数 | 甲苯 | 纯度 | 结晶点(干基) | 非芳烃 | 颜色 | 中性试验 | 密度(20℃) | 结晶点 | 颜色(铂钴号)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "29-30",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则168",
+      "description": "精制航煤油应满足质量标准要求，重点指标包括10vol%馏程 | 50vol%馏程 | 95vol%馏程 | 冰点 | 密度(20℃) | 总硫 | 总酸值 | 硫醇性硫 | 终馏点 | 铜片腐蚀 | 闪点。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "精制航煤油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "精制航煤油应满足质量标准要求，重点指标包括10vol%馏程 | 50vol%馏程 | 95vol%馏程 | 冰点 | 密度(20℃) | 总硫 | 总酸值 | 硫醇性硫 | 终馏点 | 铜片腐蚀 | 闪点。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10vol%馏程 | 50vol%馏程 | 95vol%馏程 | 冰点 | 密度(20℃) | 总硫 | 总酸值 | 硫醇性硫 | 终馏点 | 铜片腐蚀 | 闪点",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "32-33",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则169",
+      "description": "航煤原料油应满足质量标准要求，重点指标包括10vol%馏程 | 50vol%馏程 | 90vol%馏程 | 冰点 | 含水 | 密度(20℃) | 总硫含量 | 烟点 | 硫醇性硫 | 终馏点 | 芳烃含量。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "航煤原料油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "航煤原料油应满足质量标准要求，重点指标包括10vol%馏程 | 50vol%馏程 | 90vol%馏程 | 冰点 | 含水 | 密度(20℃) | 总硫含量 | 烟点 | 硫醇性硫 | 终馏点 | 芳烃含量。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10vol%馏程 | 50vol%馏程 | 90vol%馏程 | 冰点 | 含水 | 密度(20℃) | 总硫含量 | 烟点 | 硫醇性硫 | 终馏点 | 芳烃含量",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "32-33",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则170",
+      "description": "混合二甲苯应满足质量标准要求，重点指标包括中性试验 | 初馏点 | 外观 | 密度(20℃) | 总硫含量 | 总馏程范围 | 终馏点 | 蒸发残余物 | 铜片腐蚀 | 颜色(Hazen)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "混合二甲苯"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "混合二甲苯应满足质量标准要求，重点指标包括中性试验 | 初馏点 | 外观 | 密度(20℃) | 总硫含量 | 总馏程范围 | 终馏点 | 蒸发残余物 | 铜片腐蚀 | 颜色(Hazen)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：中性试验 | 初馏点 | 外观 | 密度(20℃) | 总硫含量 | 总馏程范围 | 终馏点 | 蒸发残余物 | 铜片腐蚀 | 颜色(Hazen)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "31",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则171",
+      "description": "C10粗芳烃(II型)应满足质量标准要求，重点指标包括50%回收温度 | 90%回收温度 | 初馏点 | 外观 | 密度(20℃) | 总芳烃 | 硫。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "C10粗芳烃(II型)"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "C10粗芳烃(II型)应满足质量标准要求，重点指标包括50%回收温度 | 90%回收温度 | 初馏点 | 外观 | 密度(20℃) | 总芳烃 | 硫。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：50%回收温度 | 90%回收温度 | 初馏点 | 外观 | 密度(20℃) | 总芳烃 | 硫",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "32",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则172",
+      "description": "C10粗芳烃(I型)应满足质量标准要求，重点指标包括50%回收温度 | 90%回收温度 | 初馏点 | 外观 | 密度(20℃) | 总芳烃 | 硫。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "C10粗芳烃(I型)"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "C10粗芳烃(I型)应满足质量标准要求，重点指标包括50%回收温度 | 90%回收温度 | 初馏点 | 外观 | 密度(20℃) | 总芳烃 | 硫。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：50%回收温度 | 90%回收温度 | 初馏点 | 外观 | 密度(20℃) | 总芳烃 | 硫",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "32",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则173",
+      "description": "重汽油应满足质量标准要求，重点指标包括RON | 密度 | 干点 | 残留 | 腐蚀 | 蒸汽压(冬季) | 蒸汽压(夏季)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "重汽油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "重汽油应满足质量标准要求，重点指标包括RON | 密度 | 干点 | 残留 | 腐蚀 | 蒸汽压(冬季) | 蒸汽压(夏季)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：RON | 密度 | 干点 | 残留 | 腐蚀 | 蒸汽压(冬季) | 蒸汽压(夏季)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "698",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则174",
+      "description": "3号喷气燃料应满足质量标准要求，重点指标包括10%回收温度 | 50%回收温度 | 冰点 | 净热值 | 固体颗粒污染物 | 实际胶质 | 密度(20℃) | 总硫含量 | 总酸值 | 抗氧剂(T501)含量 | 抗磨剂(T1602)含量 | 抗静电剂含量 | 水分离指数(加入抗静电剂) | 水分离指数(未加抗静电剂) | 烟点 | 烯烃含量 | 电导率(20℃) | 硫醇性硫 | 磨痕直径WSD | 粘度(-20℃) | 终馏点 | 芳烃含量 | 闪点(闭口)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "3号喷气燃料"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "3号喷气燃料应满足质量标准要求，重点指标包括10%回收温度 | 50%回收温度 | 冰点 | 净热值 | 固体颗粒污染物 | 实际胶质 | 密度(20℃) | 总硫含量 | 总酸值 | 抗氧剂(T501)含量 | 抗磨剂(T1602)含量 | 抗静电剂含量 | 水分离指数(加入抗静电剂) | 水分离指数(未加抗静电剂) | 烟点 | 烯烃含量 | 电导率(20℃) | 硫醇性硫 | 磨痕直径WSD | 粘度(-20℃) | 终馏点 | 芳烃含量 | 闪点(闭口)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%回收温度 | 50%回收温度 | 冰点 | 净热值 | 固体颗粒污染物 | 实际胶质 | 密度(20℃) | 总硫含量 | 总酸值 | 抗氧剂(T501)含量 | 抗磨剂(T1602)含量 | 抗静电剂含量 | 水分离指数(加入抗静电剂) | 水分离指数(未加抗静电剂) | 烟点 | 烯烃含量 | 电导率(20℃) | 硫醇性硫 | 磨痕直径WSD | 粘度(-20℃) | 终馏点 | 芳烃含量 | 闪点(闭口)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "7-9",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则175",
+      "description": "-10号军用柴油应满足质量标准要求，重点指标包括10%残留物残炭 | 90%馏出温度 | 凝点 | 十六烷值 | 固体颗粒污染物 | 外观 | 实际胶质 | 微水 | 灰分 | 硫含量 | 色度号 | 运动粘度(20℃) | 酸度 | 铜片腐蚀(50℃,3h) | 闪点(闭口)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "-10号军用柴油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "-10号军用柴油应满足质量标准要求，重点指标包括10%残留物残炭 | 90%馏出温度 | 凝点 | 十六烷值 | 固体颗粒污染物 | 外观 | 实际胶质 | 微水 | 灰分 | 硫含量 | 色度号 | 运动粘度(20℃) | 酸度 | 铜片腐蚀(50℃,3h) | 闪点(闭口)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%残留物残炭 | 90%馏出温度 | 凝点 | 十六烷值 | 固体颗粒污染物 | 外观 | 实际胶质 | 微水 | 灰分 | 硫含量 | 色度号 | 运动粘度(20℃) | 酸度 | 铜片腐蚀(50℃,3h) | 闪点(闭口)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "176-177",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则176",
+      "description": "92号汽油应满足质量标准要求，重点指标包括密度(20℃) | 抗爆指数 | 烯烃含量 | 研究法辛烷值(RON) | 硫含量 | 终馏点 | 芳烃含量 | 苯含量。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "92号汽油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "92号汽油应满足质量标准要求，重点指标包括密度(20℃) | 抗爆指数 | 烯烃含量 | 研究法辛烷值(RON) | 硫含量 | 终馏点 | 芳烃含量 | 苯含量。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：密度(20℃) | 抗爆指数 | 烯烃含量 | 研究法辛烷值(RON) | 硫含量 | 终馏点 | 芳烃含量 | 苯含量",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "30-31",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则177",
+      "description": "95号汽油应满足质量标准要求，重点指标包括密度(20℃) | 抗爆指数 | 烯烃含量 | 研究法辛烷值(RON) | 硫含量 | 终馏点 | 芳烃含量 | 苯含量。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "95号汽油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "95号汽油应满足质量标准要求，重点指标包括密度(20℃) | 抗爆指数 | 烯烃含量 | 研究法辛烷值(RON) | 硫含量 | 终馏点 | 芳烃含量 | 苯含量。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：密度(20℃) | 抗爆指数 | 烯烃含量 | 研究法辛烷值(RON) | 硫含量 | 终馏点 | 芳烃含量 | 苯含量",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "30-31",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则178",
+      "description": "石油苯-535应满足质量标准要求，重点指标包括中性试验 | 噻吩 | 外观 | 总硫含量 | 甲苯 | 纯度 | 结晶点(干基) | 非芳烃 | 颜色(Hazen)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "石油苯-535"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "石油苯-535应满足质量标准要求，重点指标包括中性试验 | 噻吩 | 外观 | 总硫含量 | 甲苯 | 纯度 | 结晶点(干基) | 非芳烃 | 颜色(Hazen)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：中性试验 | 噻吩 | 外观 | 总硫含量 | 甲苯 | 纯度 | 结晶点(干基) | 非芳烃 | 颜色(Hazen)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "36",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则179",
+      "description": "石油苯-545应满足质量标准要求，重点指标包括中性试验 | 噻吩 | 外观 | 总硫含量 | 甲苯 | 纯度 | 结晶点(干基) | 非芳烃 | 颜色(Hazen)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "石油苯-545"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "石油苯-545应满足质量标准要求，重点指标包括中性试验 | 噻吩 | 外观 | 总硫含量 | 甲苯 | 纯度 | 结晶点(干基) | 非芳烃 | 颜色(Hazen)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：中性试验 | 噻吩 | 外观 | 总硫含量 | 甲苯 | 纯度 | 结晶点(干基) | 非芳烃 | 颜色(Hazen)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "36",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则180",
+      "description": "催化汽油应满足质量标准要求，重点指标包括10%馏程 | 50%馏程 | 90%馏程 | 干点 | 腐蚀。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "催化汽油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "催化汽油应满足质量标准要求，重点指标包括10%馏程 | 50%馏程 | 90%馏程 | 干点 | 腐蚀。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%馏程 | 50%馏程 | 90%馏程 | 干点 | 腐蚀",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "50",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则181",
+      "description": "常压汽油应满足质量标准要求，重点指标包括10%馏程 | 50%馏程 | 90%馏程 | 干点 | 腐蚀。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压汽油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常压汽油应满足质量标准要求，重点指标包括10%馏程 | 50%馏程 | 90%馏程 | 干点 | 腐蚀。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%馏程 | 50%馏程 | 90%馏程 | 干点 | 腐蚀",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "50",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则182",
+      "description": "3℃石油混合二甲苯应满足质量标准要求，重点指标包括初馏点 | 外观 | 密度(20℃) | 总馏程范围 | 终馏点 | 颜色(Hazen)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "3℃石油混合二甲苯"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "3℃石油混合二甲苯应满足质量标准要求，重点指标包括初馏点 | 外观 | 密度(20℃) | 总馏程范围 | 终馏点 | 颜色(Hazen)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：初馏点 | 外观 | 密度(20℃) | 总馏程范围 | 终馏点 | 颜色(Hazen)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "52",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则183",
+      "description": "5℃石油混合二甲苯应满足质量标准要求，重点指标包括初馏点 | 外观 | 密度(20℃) | 总馏程范围 | 终馏点 | 颜色(Hazen)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "5℃石油混合二甲苯"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "5℃石油混合二甲苯应满足质量标准要求，重点指标包括初馏点 | 外观 | 密度(20℃) | 总馏程范围 | 终馏点 | 颜色(Hazen)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：初馏点 | 外观 | 密度(20℃) | 总馏程范围 | 终馏点 | 颜色(Hazen)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "52",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则184",
+      "description": "液化石油气应满足质量标准要求，重点指标包括C3+C4含量 | C5及以上含量 | 总硫含量 | 油渍观察 | 游离水 | 硫化氢 | 蒸发残留物 | 蒸气压(37.8℃) | 铜片腐蚀(40℃,1h)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "液化石油气"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "液化石油气应满足质量标准要求，重点指标包括C3+C4含量 | C5及以上含量 | 总硫含量 | 油渍观察 | 游离水 | 硫化氢 | 蒸发残留物 | 蒸气压(37.8℃) | 铜片腐蚀(40℃,1h)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：C3+C4含量 | C5及以上含量 | 总硫含量 | 油渍观察 | 游离水 | 硫化氢 | 蒸发残留物 | 蒸气压(37.8℃) | 铜片腐蚀(40℃,1h)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "23",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则185",
+      "description": "3号喷气燃料半成品应满足质量标准要求，重点指标包括10%回收温度 | 50%回收温度 | 冰点 | 净热值 | 外观 | 密度(20℃) | 总硫 | 总酸值 | 烟点 | 烯烃 | 硫醇硫 | 终馏点 | 芳烃 | 运动黏度(-20℃) | 闪点(闭口)。",
+      "major_category": "质量标准规则",
+      "sub_category": "产品质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "产品质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "3号喷气燃料半成品"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "3号喷气燃料半成品应满足质量标准要求，重点指标包括10%回收温度 | 50%回收温度 | 冰点 | 净热值 | 外观 | 密度(20℃) | 总硫 | 总酸值 | 烟点 | 烯烃 | 硫醇硫 | 终馏点 | 芳烃 | 运动黏度(-20℃) | 闪点(闭口)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%回收温度 | 50%回收温度 | 冰点 | 净热值 | 外观 | 密度(20℃) | 总硫 | 总酸值 | 烟点 | 烯烃 | 硫醇硫 | 终馏点 | 芳烃 | 运动黏度(-20℃) | 闪点(闭口)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "29-30",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则186",
+      "description": "脱前原油应满足质量标准要求，重点指标包括含水 | 含盐。",
+      "major_category": "质量标准规则",
+      "sub_category": "原油质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "原油质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "脱前原油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "脱前原油应满足质量标准要求，重点指标包括含水 | 含盐。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：含水 | 含盐",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "14",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则187",
+      "description": "吴子安混合原油应满足质量标准要求，重点指标包括API° | 密度(20℃) | 水分 | 盐含量 | 硫含量 | 粘度(20℃) | 胶质 | 蜡含量 | 酸值。",
+      "major_category": "质量标准规则",
+      "sub_category": "原油质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "原油质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "吴子安混合原油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "吴子安混合原油应满足质量标准要求，重点指标包括API° | 密度(20℃) | 水分 | 盐含量 | 硫含量 | 粘度(20℃) | 胶质 | 蜡含量 | 酸值。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：API° | 密度(20℃) | 水分 | 盐含量 | 硫含量 | 粘度(20℃) | 胶质 | 蜡含量 | 酸值",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "8-9",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则188",
+      "description": "延安混合油应满足质量标准要求，重点指标包括API° | 密度(20℃) | 水分 | 盐含量 | 硫含量 | 粘度(20℃) | 胶质 | 蜡含量 | 酸值。",
+      "major_category": "质量标准规则",
+      "sub_category": "原油质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "原油质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "延安混合油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "延安混合油应满足质量标准要求，重点指标包括API° | 密度(20℃) | 水分 | 盐含量 | 硫含量 | 粘度(20℃) | 胶质 | 蜡含量 | 酸值。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：API° | 密度(20℃) | 水分 | 盐含量 | 硫含量 | 粘度(20℃) | 胶质 | 蜡含量 | 酸值",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "8-9",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则189",
+      "description": "脱后原油应满足质量标准要求，重点指标包括含水 | 含盐。",
+      "major_category": "质量标准规则",
+      "sub_category": "原油质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "原油质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "脱后原油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "脱后原油应满足质量标准要求，重点指标包括含水 | 含盐。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：含水 | 含盐",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "14",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则190",
+      "description": "俄罗斯进口原油应满足质量标准要求，重点指标包括凝点 | 密度(20℃) | 氮含量 | 氯含量 | 盐含量 | 硫含量 | 蜡含量 | 运动粘度(20℃) | 运动粘度(40℃) | 酸值。",
+      "major_category": "质量标准规则",
+      "sub_category": "原油质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "原油质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "俄罗斯进口原油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "俄罗斯进口原油应满足质量标准要求，重点指标包括凝点 | 密度(20℃) | 氮含量 | 氯含量 | 盐含量 | 硫含量 | 蜡含量 | 运动粘度(20℃) | 运动粘度(40℃) | 酸值。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：凝点 | 密度(20℃) | 氮含量 | 氯含量 | 盐含量 | 硫含量 | 蜡含量 | 运动粘度(20℃) | 运动粘度(40℃) | 酸值",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "21",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则191",
+      "description": "常一线油应满足质量标准要求，重点指标包括闪点。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常一线油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常一线油应满足质量标准要求，重点指标包括闪点。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：闪点",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "22",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则192",
+      "description": "常三线油应满足质量标准要求，重点指标包括95%点 | 凝点。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常三线油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常三线油应满足质量标准要求，重点指标包括95%点 | 凝点。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：95%点 | 凝点",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "22",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则193",
+      "description": "直馏汽油应满足质量标准要求，重点指标包括干点。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "直馏汽油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "直馏汽油应满足质量标准要求，重点指标包括干点。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：干点",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "22",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则194",
+      "description": "混合柴油应满足质量标准要求，重点指标包括95%点 | 铜片腐蚀 | 闭口闪点 | 凝点 | 闪点 | 馏程95%。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "混合柴油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "混合柴油应满足质量标准要求，重点指标包括95%点 | 铜片腐蚀 | 闭口闪点 | 凝点 | 闪点 | 馏程95%。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：95%点 | 铜片腐蚀 | 闭口闪点 | 凝点 | 闪点 | 馏程95%",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "14",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则195",
+      "description": "石脑油应满足质量标准要求，重点指标包括干点 | 溴价 | 初馏点(HK) | 干点(KK) | 10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "石脑油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "石脑油应满足质量标准要求，重点指标包括干点 | 溴价 | 初馏点(HK) | 干点(KK) | 10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：干点 | 溴价 | 初馏点(HK) | 干点(KK) | 10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "14",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则196",
+      "description": "C6馏分油应满足质量标准要求，重点指标包括噻吩 | 溴指数 | 甲苯 | 硫含量 | 苯含量。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "C6馏分油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "C6馏分油应满足质量标准要求，重点指标包括噻吩 | 溴指数 | 甲苯 | 硫含量 | 苯含量。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：噻吩 | 溴指数 | 甲苯 | 硫含量 | 苯含量",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "27",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则197",
+      "description": "助溶剂应满足质量标准要求，重点指标包括助溶剂含量 | 水 | 馏程。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "助溶剂"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "助溶剂应满足质量标准要求，重点指标包括助溶剂含量 | 水 | 馏程。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：助溶剂含量 | 水 | 馏程",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "27",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则198",
+      "description": "环丁砜应满足质量标准要求，重点指标包括水含量 | 纯度。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "环丁砜"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "环丁砜应满足质量标准要求，重点指标包括水含量 | 纯度。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：水含量 | 纯度",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "27",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则199",
+      "description": "贫溶剂应满足质量标准要求，重点指标包括pH | 苯含量 | 溶解氧含量 | 烃。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "贫溶剂"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "贫溶剂应满足质量标准要求，重点指标包括pH | 苯含量 | 溶解氧含量 | 烃。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：pH | 苯含量 | 溶解氧含量 | 烃",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "27",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则200",
+      "description": "减压渣油应满足质量标准要求，重点指标包括初馏点(HK)。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "减压渣油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "减压渣油应满足质量标准要求，重点指标包括初馏点(HK)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：初馏点(HK)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "34",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则201",
+      "description": "常压渣油应满足质量标准要求，重点指标包括初馏点(HK)。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压渣油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常压渣油应满足质量标准要求，重点指标包括初馏点(HK)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：初馏点(HK)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "34",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则202",
+      "description": "蜡油应满足质量标准要求，重点指标包括90%馏出温度。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "蜡油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "蜡油应满足质量标准要求，重点指标包括90%馏出温度。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：90%馏出温度",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "34",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则203",
+      "description": "常一线（3号航煤原料）应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常一线（3号航煤原料）"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常一线（3号航煤原料）应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "12-13",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则204",
+      "description": "常一线（溶剂油）应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常一线（溶剂油）"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常一线（溶剂油）应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "12-13",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则205",
+      "description": "常三线（重柴油）应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常三线（重柴油）"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常三线（重柴油）应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "12-13",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则206",
+      "description": "常二线（柴油）应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常二线（柴油）"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常二线（柴油）应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "12-13",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则207",
+      "description": "常压常重油应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压常重油"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常压常重油应满足质量标准要求，重点指标包括10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：10%馏出温度 | 50%馏出温度 | 95%馏出温度 | 密度(d20/4)",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "12-13",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则208",
+      "description": "柴油润滑性改进剂（PC32）应满足质量标准要求，重点指标包括凝点 | 外观 | 密度(20℃) | 运动粘度(40℃) | 闭口闪点。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "柴油润滑性改进剂（PC32）"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "柴油润滑性改进剂（PC32）应满足质量标准要求，重点指标包括凝点 | 外观 | 密度(20℃) | 运动粘度(40℃) | 闭口闪点。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：凝点 | 外观 | 密度(20℃) | 运动粘度(40℃) | 闭口闪点",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "172",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则209",
+      "description": "吸收剂液碱应满足质量标准要求，重点指标包括pH值。",
+      "major_category": "质量标准规则",
+      "sub_category": "组分质量标准",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "组分质量标准规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "吸收剂液碱"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "物料验收、生产切换或产品放行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "吸收剂液碱应满足质量标准要求，重点指标包括pH值。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "指标：pH值",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "239",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则210",
+      "description": "?????????????????????????????????",
+      "major_category": "质量标准规则",
+      "sub_category": "通用质量管控",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "质量管控通用规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "连续重整和苯抽提装置"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "装置正常运行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "?????????????????????????????????",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "污水pH7到9；CODcr≤200mg/L；氨氮≤30mg/L；油≤50mg/L；颗粒物≤20mg/m3；二氧化硫≤100mg/m3；氮氧化物≤150mg/m3",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "24",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则211",
+      "description": "??????????????????????????????????????????",
+      "major_category": "质量标准规则",
+      "sub_category": "通用质量管控",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "质量管控通用规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "连续重整预加氢单元"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "进行重整原料质量控制时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "??????????????????????????????????????????",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "硫含量≤0.5ppm且1次/日；氮含量≤0.5ppm且1次/月；氯含量≤0.5ppm且1次/月；水含量≤15ppm且1次/日",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "38",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则212",
+      "description": "??????????V-101?????????????????????",
+      "major_category": "质量标准规则",
+      "sub_category": "通用质量管控",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "质量管控通用规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "航煤加氢装置原料质量控制"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "进行原料分析时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "??????????V-101?????????????????????",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "密度3次/日；馏程6次/日；闪点6次/日",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "33",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则213",
+      "description": "??210????????????????????????1????????2?????????????????????????????",
+      "major_category": "质量标准规则",
+      "sub_category": "通用质量管控",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "质量管控通用规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "永炼210万吨常压装置航煤原料质量控制场景"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "进行航煤原料质量控制时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "??210????????????????????????1????????2?????????????????????????????",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "密度1次/班；冰点2次/班；油中水含量需要时",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "19",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则214",
+      "description": "?????????????????????????????????????????????????????????",
+      "major_category": "质量标准规则",
+      "sub_category": "通用质量管控",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "质量管控通用规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "永炼航煤原料质量加密分析场景"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "航煤原料分析出现不合格时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "?????????????????????????????????????????????????????????",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "密度1次/班；冰点1次/班；不合格时每2小时1次；油中水含量需要时",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "15",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则215",
+      "description": "3???????????????????????????????????????????????????????????????12???????",
+      "major_category": "质量标准规则",
+      "sub_category": "通用质量管控",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "质量标准类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "质量管控通用规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "3号喷气燃料质量控制"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "开展航煤质量控制时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "3???????????????????????????????????????????????????????????????12???????",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "每季度1个现场质控样；每罐成品1次全分析；标准曲线当天或每运行12小时核查1次",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "6",
+          "unit": "页"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1247 @@
+{
+  "meta": {
+    "library_name": "refinery_extracted_rule_library_by_major_category",
+    "version": "v3",
+    "status": "populated",
+    "encoding": "UTF-8",
+    "source_of_truth": "C:\\Users\\643\\Desktop\\石油项目\\提取结果--mc\\01_当前结果\\主总表.xlsx",
+    "preferred_mapping_sheet": "最终交付表",
+    "grouping_mode": "major_category",
+    "major_category": "流程特征规则",
+    "loaded_rule_count": 30,
+    "last_updated": "2026-05-06",
+    "notes": "当前文件为按所属大类拆分后的规则库文件。"
+  },
+  "rules": [
+    {
+      "rule_id": "规则133",
+      "description": "原油中断时，常压装置应联系调度通知罐区快速改正流程、倒原油罐或提高原油进入装置温度，并按需要调节原油进装量。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压装置 <-> 调度 <-> 罐区"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "原油中断场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "原油中断时，常压装置应联系调度通知罐区快速改正流程、倒原油罐或提高原油进入装置温度，并按需要调节原油进装量。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "调度；通知罐区改正流程；倒原油罐；提高进装温度；调节进装量；原油罐区",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "50",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则134",
+      "description": "反应器温升异常处理时，应联系上游单位控制好原料质量指标。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "加氢装置 <-> 上游供料单位"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "反应器温升异常场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "反应器温升异常处理时，应联系上游单位控制好原料质量指标。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "上游供料单位；原料质量指标控制；加氢装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "43",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则135",
+      "description": "反应器温升异常处理时，应加强对原料罐或缓冲罐的切水工作。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "加氢装置 <-> 原料罐/缓冲罐"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "反应器温升异常场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "反应器温升异常处理时，应加强对原料罐或缓冲罐的切水工作。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "原料罐或缓冲罐；切水工作；加氢装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "43",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则136",
+      "description": "T-1601液位LT-10401与航煤产品至罐区流量FIC10501实行串级控制，以稳定汽提塔液位和成品外送。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "加氢装置 -> 成品罐区"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "正常分馏及产品外送场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "T-1601液位LT-10401与航煤产品至罐区流量FIC10501实行串级控制，以稳定汽提塔液位和成品外送。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "T-1601汽提塔；液位LT-10401；产品至罐区流量FIC10501串级；成品罐区",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "49",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则137",
+      "description": "常压装置运行中应根据生产调度指令对产品质量进行控制。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压装置 <-> 生产调度"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "正常生产和产品质量控制场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常压装置运行中应根据生产调度指令对产品质量进行控制。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "生产调度；常压塔产品质量控制；常压装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "111",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则138",
+      "description": "原料油缓冲罐V101液位控制LICA10201与缓冲罐进料流量FIC10101实现串级调节，通过改变进料流量调节缓冲罐液位。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "原料缓冲罐V101 <-> 进料流量FIC10101"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "正常进料组织场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "原料油缓冲罐V101液位控制LICA10201与缓冲罐进料流量FIC10101实现串级调节，通过改变进料流量调节缓冲罐液位。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "进料流量FIC10101；V101液位控制LICA10201与FIC10101串级；原料缓冲罐V101",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "52",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则139",
+      "description": "装置运行中要求将V-101液位控制调节阀打手动，以避免抽出量不稳定造成航煤原料馏程变化，保持原料性质稳定。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "原料缓冲罐V101 <-> 航煤原料性质控制"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "正常运行场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "装置运行中要求将V-101液位控制调节阀打手动，以避免抽出量不稳定造成航煤原料馏程变化，保持原料性质稳定。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "原料缓冲罐V101；液位阀手动控制；航煤原料性质",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "52",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则140",
+      "description": "常压装置开工前，班长需联系有关单位将水、风、电、汽引入装置，并要求原油罐区做好付炼原油采样分析、切水和合格原油准备。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压装置 <-> 有关单位 <-> 原油罐区"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "装置开工前准备场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常压装置开工前，班长需联系有关单位将水、风、电、汽引入装置，并要求原油罐区做好付炼原油采样分析、切水和合格原油准备。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "有关单位；水、风、电、汽引入；罐区采样分析；切水；合格原油准备；常压装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "33",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则141",
+      "description": "常压装置出现异常时，应及时联系并汇报相关单位，统一指挥协调内外操作人员妥善处理；生产无法维持时要汇报车间及调度室。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压装置 <-> 相关单位 <-> 内外操"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "生产异常、停水停电停汽停风等场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常压装置出现异常时，应及时联系并汇报相关单位，统一指挥协调内外操作人员妥善处理；生产无法维持时要汇报车间及调度室。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "相关单位；异常汇报；统一指挥；内外操协调处理；常压装置内外操",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "33",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则142",
+      "description": "接到生产航煤原料油通知后，班长负责指挥和协调内、外操作做好调整前检查与准备，并配合车间职能人员处理调整期间的问题。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压装置 <-> 内外操 <-> 车间职能人员"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "切换生产航煤原料油场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "接到生产航煤原料油通知后，班长负责指挥和协调内、外操作做好调整前检查与准备，并配合车间职能人员处理调整期间的问题。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "车间职能人员；班长组织；内外操检查准备；调整期间问题处理；常压装置内外操",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "16",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则143",
+      "description": "内操接到生产航煤原料油通知后，应联动调整一中抽出量、一线和二线抽出调节阀、顶循抽出量、塔顶冷回流流量及塔顶温度，控制全塔气液平衡。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压装置内操 <-> 分馏系统"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "生产航煤原料油调整场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "内操接到生产航煤原料油通知后，应联动调整一中抽出量、一线和二线抽出调节阀、顶循抽出量、塔顶冷回流流量及塔顶温度，控制全塔气液平衡。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "生产航煤原料油通知；一中抽出；一线/二线抽出；顶循；冷回流；塔顶温度；分馏系统平衡",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "16",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则144",
+      "description": "精制航煤不合格时，应立即通知生产调度和化验中心确认，按调度指令改不合格线；如改至柴油原料罐，还需通知成品罐区改线。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "加氢装置 <-> 调度 <-> 化验中心 <-> 成品罐区"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "精制航煤不合格场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "精制航煤不合格时，应立即通知生产调度和化验中心确认，按调度指令改不合格线；如改至柴油原料罐，还需通知成品罐区改线。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "生产调度；化验中心；不合格确认；改不合格线；通知成品罐区改线；成品罐区或柴油原料罐",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "76",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则145",
+      "description": "航煤原料中断时，内操立即通知生产调度等人员，将加工量降至最低负荷13t/h，外操打开大循环线使精制航煤返回V1301，并防止倒串回原料罐区。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "加氢装置 <-> 调度 <-> 原料罐区/缓冲罐"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "航煤原料中断场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "航煤原料中断时，内操立即通知生产调度等人员，将加工量降至最低负荷13t/h，外操打开大循环线使精制航煤返回V1301，并防止倒串回原料罐区。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "生产调度；原料罐区；降至最低负荷13t/h；建立V1301内循环；防止倒串；原料缓冲罐V1301",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "83",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则146",
+      "description": "当原油库存低于3万吨时，需逐级汇报，并联系管输公司提高输油量；若不能提量，则调整供常策略。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "原油罐区 <-> 管输公司"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "原油库存低于3万吨场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "当原油库存低于3万吨时，需逐级汇报，并联系管输公司提高输油量；若不能提量，则调整供常策略。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "原油罐区；逐级汇报；联系提高输油量；调整供常策略；管输公司",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "18",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则147",
+      "description": "根据新原油供常压制度，供常前必须预备两罐原油，以保证连续供料。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "原油罐区 -> 常压装置"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "供常前准备场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "根据新原油供常压制度，供常前必须预备两罐原油，以保证连续供料。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "原油罐区；双罐预备缓冲；常压装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "19",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则148",
+      "description": "若距离供常时间不足16小时，应立即上报车间，并对剩余油品加温、静置、脱水、化验，直至合格后供常。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "原油罐区 -> 常压装置"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "静置时间不足16小时场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "若距离供常时间不足16小时，应立即上报车间，并对剩余油品加温、静置、脱水、化验，直至合格后供常。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "原油罐区；加温；静置；脱水；化验；常压装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "19",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则149",
+      "description": "倒罐前需通知生产调度和常压装置开始倒罐，并告知原油含水和密度。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "原油罐区 <-> 生产调度 <-> 常压装置"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "原油供常倒罐场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "倒罐前需通知生产调度和常压装置开始倒罐，并告知原油含水和密度。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "原油罐区；倒罐前信息确认；生产调度；常压装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "19",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则150",
+      "description": "预供常罐需先与原供罐同供30分钟，待与常压联系确认供应正常、液位变化平稳后再完成正式切换。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "原油罐区 <-> 常压装置"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "供常倒罐切换场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "预供常罐需先与原供罐同供30分钟，待与常压联系确认供应正常、液位变化平稳后再完成正式切换。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "原油罐区；双罐同供30分钟；联系确认供应正常；常压装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "19",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则151",
+      "description": "成品油调和完毕后应静置、脱水并分析合格，方可销售或出厂。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "调和罐区 -> 销售/出厂"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "成品油调和完毕场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "成品油调和完毕后应静置、脱水并分析合格，方可销售或出厂。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "调和罐区；静置；脱水；分析放行；销售/出厂",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "81",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则152",
+      "description": "倒罐前要辨识受影响的生产单元并联系相应装置，说明倒罐原因和可能影响，互通联系方式后再进行作业。",
+      "major_category": "流程特征规则",
+      "sub_category": "上下游协同逻辑",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "上下游协同逻辑规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "罐区 <-> 受影响生产单元 <-> 调度"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "储罐倒罐作业前场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "倒罐前要辨识受影响的生产单元并联系相应装置，说明倒罐原因和可能影响，互通联系方式后再进行作业。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "罐区；受影响单元辨识；联系相应装置；互通联系方式；受影响生产单元；调度",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "85",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则153",
+      "description": "柴油加氢装置生产航煤正常运行时，物料平衡应保持入方原料油和纯氢合计100.05到100.06，出方以精制煤油为主，石脑油及轻气、酸性气为副产。",
+      "major_category": "流程特征规则",
+      "sub_category": "单元间物料平衡",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "单元间物料平衡规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "柴油加氢装置单元物料平衡场景"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "柴油加氢装置生产航煤正常运行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "柴油加氢装置生产航煤正常运行时，物料平衡应保持入方原料油和纯氢合计100.05到100.06，出方以精制煤油为主，石脑油及轻气、酸性气为副产。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "入方合计100.05到100.06；精制煤油99.35到99.72；石脑油0.15到0.40",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "19",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则154",
+      "description": "常压蒸馏装置正常运行时，原油和脱后原油应通过常顶循油、常重油、常一中油、常二线油、常三线油等多股热源进行分段换热预热，循环油换热后返回塔盘形成热量回收回路，再由常压炉完成最终升温。",
+      "major_category": "流程特征规则",
+      "sub_category": "能量耦合",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "能量耦合规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "常压蒸馏装置能量耦合场景"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "常压蒸馏装置正常运行时",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "常压蒸馏装置正常运行时，原油和脱后原油应通过常顶循油、常重油、常一中油、常二线油、常三线油等多股热源进行分段换热预热，循环油换热后返回塔盘形成热量回收回路，再由常压炉完成最终升温。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "预热到130℃进入电脱盐；预热到220℃进入初馏塔；初底油换热到280℃后入炉；炉出口365℃",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "10",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则155",
+      "description": "来自上游重整装置的脱C6馏分进入抽提蒸馏塔进料缓冲罐501-D-101，部分产品返回D-101混合后作为抽提蒸馏塔原料。",
+      "major_category": "流程特征规则",
+      "sub_category": "装置间物料平衡",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "装置间物料平衡规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "重整装置 -> 501-D-101 -> 苯抽提蒸馏塔"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "苯抽提正常进料场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "来自上游重整装置的脱C6馏分进入抽提蒸馏塔进料缓冲罐501-D-101，部分产品返回D-101混合后作为抽提蒸馏塔原料。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "重整装置脱C6馏分；501-D-101进料缓冲罐；罐内混合；苯抽提蒸馏塔",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "371",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则156",
+      "description": "脱C6塔C203将脱戊烷油中的C6组分分离出来，塔顶C6馏分作为苯抽提部分的合格原料。",
+      "major_category": "流程特征规则",
+      "sub_category": "装置间物料平衡",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "装置间物料平衡规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "脱C6塔C203 -> 苯抽提部分"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "C203正常分馏场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "脱C6塔C203将脱戊烷油中的C6组分分离出来，塔顶C6馏分作为苯抽提部分的合格原料。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "脱戊烷油；脱C6塔C203分离；苯抽提部分",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "216",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则157",
+      "description": "脱C6塔C203塔底产物为富含芳烃的高辛烷值汽油调合组分，作为后续汽油调合去向。",
+      "major_category": "流程特征规则",
+      "sub_category": "装置间物料平衡",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "装置间物料平衡规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "脱C6塔C203 -> 汽油调合组分"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "C203正常分馏场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "脱C6塔C203塔底产物为富含芳烃的高辛烷值汽油调合组分，作为后续汽油调合去向。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "脱戊烷油；脱C6塔C203分离；汽油调合组分",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "216",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则158",
+      "description": "自罐区或常压装置来的原料油进入原料缓冲罐V1301，在液位和流量控制下经粗细过滤后，由进料泵增压并与循环氢混合进入反应系统。",
+      "major_category": "流程特征规则",
+      "sub_category": "装置间物料平衡",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "装置间物料平衡规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "罐区/常压装置 -> V1301 -> 加氢反应系统"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "加氢装置正常进料场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "自罐区或常压装置来的原料油进入原料缓冲罐V1301，在液位和流量控制下经粗细过滤后，由进料泵增压并与循环氢混合进入反应系统。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "罐区或常压装置来原料油；V1301原料缓冲罐；粗细过滤器；进料泵；与循环氢混合；加氢反应系统",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "12",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则159",
+      "description": "管输原油经化验合格后进入原油储罐，静置脱水并再次化验合格后，由原料泵供应常压装置。",
+      "major_category": "流程特征规则",
+      "sub_category": "装置间物料平衡",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "装置间物料平衡规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "原油管输 -> 原油储罐 -> 常压装置"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "正常收油及供常场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "管输原油经化验合格后进入原油储罐，静置脱水并再次化验合格后，由原料泵供应常压装置。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "管输原油；原油储罐；静置脱水；再次化验；常压装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "15",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则160",
+      "description": "进口原油经化验合格后进入原油储罐，静置脱水并完成油品交接后，方可供应常压装置。",
+      "major_category": "流程特征规则",
+      "sub_category": "装置间物料平衡",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "装置间物料平衡规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "进口原油 -> 原油储罐 -> 常压装置"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "进口原油接收及供常场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "进口原油经化验合格后进入原油储罐，静置脱水并完成油品交接后，方可供应常压装置。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "进口原油；原油储罐；静置脱水；油品交接；常压装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "15",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则161",
+      "description": "进口原油反输时，应在原油储罐内化验合格后，经反输泵返回油品集运中心原油库，并完成油品交接。",
+      "major_category": "流程特征规则",
+      "sub_category": "装置间物料平衡",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "装置间物料平衡规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "进口原油 -> 原油储罐 -> 反输泵 -> 原油库"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "进口原油反输场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "进口原油反输时，应在原油储罐内化验合格后，经反输泵返回油品集运中心原油库，并完成油品交接。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "进口原油；原油储罐；反输泵；油品交接；油品集运中心原油库",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "15",
+          "unit": "页"
+        }
+      }
+    },
+    {
+      "rule_id": "规则162",
+      "description": "石脑油供连续重整装置倒罐时，需联系生产调度及连续重整装置内操，确认影响装置和沟通部门后完成供料切换。",
+      "major_category": "流程特征规则",
+      "sub_category": "装置间物料平衡",
+      "sets": [
+        {
+          "set_name": "KnowledgeType",
+          "subset_name": "知识类型",
+          "element": "流程特征类"
+        },
+        {
+          "set_name": "SubType",
+          "subset_name": "子类型",
+          "element": "装置间物料平衡规则"
+        },
+        {
+          "set_name": "Scope",
+          "subset_name": "适用范围",
+          "element": "石脑油罐区 -> 连续重整装置"
+        }
+      ],
+      "parameters": {
+        "触发条件": {
+          "value": "石脑油供连续重整装置倒罐场景",
+          "unit": ""
+        },
+        "规则内容": {
+          "value": "石脑油供连续重整装置倒罐时，需联系生产调度及连续重整装置内操，确认影响装置和沟通部门后完成供料切换。",
+          "unit": ""
+        },
+        "参数范围": {
+          "value": "石脑油罐区；倒罐作业；联系生产调度；联系连续重整内操；连续重整装置",
+          "unit": ""
+        },
+        "来源页码": {
+          "value": "258",
+          "unit": "页"
+        }
+      }
+    }
+  ]
+}

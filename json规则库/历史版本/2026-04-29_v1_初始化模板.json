@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "library_name": "refinery_extracted_rule_library_current",
+    "version": "v1",
+    "status": "initialized_not_populated",
+    "encoding": "UTF-8",
+    "source_of_truth": "提取结果--mc/01_当前结果/主总表.xlsx",
+    "preferred_mapping_sheet": "最终交付表",
+    "expected_total_rules": 215,
+    "loaded_rule_count": 0,
+    "last_updated": "2026-04-29",
+    "notes": "当前文件是规则库工作版初始化文件，尚未批量装载 215 条规则。"
+  },
+  "rules": []
+}

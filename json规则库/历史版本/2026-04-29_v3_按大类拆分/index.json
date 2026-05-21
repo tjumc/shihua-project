@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "library_name": "refinery_extracted_rule_library_index",
+    "version": "v3",
+    "status": "populated",
+    "encoding": "UTF-8",
+    "source_of_truth": "C:\\Users\\643\\Desktop\\石油项目\\提取结果--mc\\01_当前结果\\主总表.xlsx",
+    "preferred_mapping_sheet": "最终交付表",
+    "grouping_mode": "major_category",
+    "last_updated": "2026-04-29"
+  },
+  "categories": [
+    {
+      "major_category": "操作规程规则",
+      "rule_count": 132,
+      "file_name": "操作规程规则.json"
+    },
+    {
+      "major_category": "流程特征规则",
+      "rule_count": 30,
+      "file_name": "流程特征规则.json"
+    },
+    {
+      "major_category": "质量标准规则",
+      "rule_count": 53,
+      "file_name": "质量标准规则.json"
+    }
+  ]
+}

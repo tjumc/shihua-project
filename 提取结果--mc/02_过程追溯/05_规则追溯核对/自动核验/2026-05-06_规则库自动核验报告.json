@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "generated_at": "2026-05-06T19:29:34",
+    "root": "C:\\Users\\643\\Desktop\\石油项目",
+    "source_of_truth": "C:\\Users\\643\\Desktop\\石油项目\\提取结果--mc\\01_当前结果\\主总表.xlsx"
+  },
+  "summary": {
+    "total_rules": 215,
+    "workbook_rule_count": 215,
+    "final_delivery_count": 215,
+    "final_audit_count": 215,
+    "original_audit_count": 215,
+    "json_rule_count": 215,
+    "error_count": 0,
+    "warning_count": 2,
+    "manual_review_count": 0
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "type": "approved_same_source_reuse",
+      "rule_ids": [
+        "规则092",
+        "规则161"
+      ],
+      "categories": [
+        "操作规程规则 / 物料收付、调合、输送安全操作",
+        "流程特征规则 / 装置间物料平衡"
+      ],
+      "sample_content": "进口原油反输时，应在原油储罐内化验合格后，经反输泵返回油品集运中心原油库，并完成油品交接。"
+    },
+    {
+      "type": "approved_same_source_reuse",
+      "rule_ids": [
+        "规则131",
+        "规则151"
+      ],
+      "categories": [
+        "操作规程规则 / 采样、分析、质量控制操作规范",
+        "流程特征规则 / 上下游协同逻辑"
+      ],
+      "sample_content": "成品油调和完毕后应静置、脱水并分析合格，方可销售或出厂。"
+    }
+  ],
+  "manual_review": []
+}
