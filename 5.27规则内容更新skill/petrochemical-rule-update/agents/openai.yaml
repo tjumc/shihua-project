@@ -1,0 +1,4 @@
+interface:
+  display_name: "石化规则增量更新"
+  short_description: "合并旧规则总表与新抽取结果，生成可继续核验的更新版规则表。"
+  default_prompt: "使用 petrochemical-rule-update skill，将旧规则总表和新抽取规则表进行增量合并，输出更新版规则表、变更记录和核验输入。"
