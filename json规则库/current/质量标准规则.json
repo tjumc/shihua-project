@@ -4,12 +4,12 @@
     "version": "v3",
     "status": "populated",
     "encoding": "UTF-8",
-    "source_of_truth": "C:\\Users\\643\\Desktop\\石油项目\\提取结果--mc\\01_当前结果\\主总表.xlsx",
+    "source_of_truth": "/Users/machong/shihua-project/提取结果/01_当前结果/主总表.xlsx",
     "preferred_mapping_sheet": "最终交付表",
     "grouping_mode": "major_category",
     "major_category": "质量标准规则",
     "loaded_rule_count": 53,
-    "last_updated": "2026-05-06",
+    "last_updated": "2026-06-02",
     "notes": "当前文件为按所属大类拆分后的规则库文件。"
   },
   "rules": [

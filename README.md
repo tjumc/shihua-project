@@ -12,18 +12,18 @@
 | `skill documents/` | 规则核验 skill 文档、脚本和示例 |
 | `json规则库/` | 当前 JSON 规则库、分类规则、历史版本、模板和变更记录 |
 | `延长数据/` | 项目源文件，包括操作规程、报表、截图、应急预案等 |
-| `提取结果--mc/` | 当前规则提取结果、过程追溯、人工确认、交付快照和周报 |
+| `提取结果/` | 当前规则提取结果、过程追溯、人工确认、交付快照和周报 |
 | `petrochemical-rule-extraction.zip` | 规则提取 skill 压缩包 |
 | `PROJECT_MANIFEST.csv` | 本次整理后的文件清单 |
 
 ## 当前核心产出
 
-- 规则提取结果：`提取结果--mc/01_当前结果/`
+- 规则提取结果：`提取结果/01_当前结果/`
 - JSON 规则库：`json规则库/规则库_当前版.json`
 - 分类 JSON：`json规则库/current/`
 - 规则核验 skill：`skill documents/petrochemical-rule-verification/`
-- 规则核验 Demo：`提取结果--mc/00_项目总览/汇报附件/rule_verification_skill_demo/`
-- 周报归档：`提取结果--mc/00_项目总览/周报归档/`
+- 规则核验 Demo：`提取结果/00_项目总览/汇报附件/rule_verification_skill_demo/`
+- 周报归档：`提取结果/00_项目总览/周报归档/`
 
 ## 常用脚本
 
@@ -52,7 +52,7 @@ skill documents/petrochemical-rule-verification/scripts/
 已排除：
 
 - 根目录 `90_项目级归档/`；
-- `提取结果--mc/90_历史归档/`；
+- `提取结果/90_历史归档/`；
 - `__pycache__/`、`.pyc`；
 - `live_output/`；
 - Office 临时锁文件 `~$*`。

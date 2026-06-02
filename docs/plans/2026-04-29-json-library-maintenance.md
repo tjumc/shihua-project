@@ -39,7 +39,7 @@
 
 **Files:**
 - Modify: `AGENT_CONTEXT.md`
-- Modify: `提取结果--mc/00_项目总览/当前状态一页纸.md`
+- Modify: `提取结果/00_项目总览/当前状态一页纸.md`
 
 **Step 1:** 在交接文档中补充规则库维护入口。
 

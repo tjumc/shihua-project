@@ -4,7 +4,7 @@
     "version": "v1",
     "status": "populated",
     "encoding": "UTF-8",
-    "source_of_truth": "C:\\Users\\643\\Desktop\\石油项目\\提取结果--mc\\01_当前结果\\主总表.xlsx",
+    "source_of_truth": "C:\\Users\\643\\Desktop\\石油项目\\提取结果\\01_当前结果\\主总表.xlsx",
     "preferred_mapping_sheet": "最终交付表",
     "expected_total_rules": 215,
     "loaded_rule_count": 215,

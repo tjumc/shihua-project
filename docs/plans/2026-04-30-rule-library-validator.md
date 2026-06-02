@@ -70,8 +70,8 @@ Support a default run command:
 - `python scripts/validate_rule_library.py`
 
 Expected output artifacts:
-- `提取结果--mc/02_过程追溯/05_规则追溯核对/自动核验/YYYY-MM-DD_规则库自动核验报告.json`
-- `提取结果--mc/02_过程追溯/05_规则追溯核对/自动核验/YYYY-MM-DD_规则库自动核验报告.md`
+- `提取结果/02_过程追溯/05_规则追溯核对/自动核验/YYYY-MM-DD_规则库自动核验报告.json`
+- `提取结果/02_过程追溯/05_规则追溯核对/自动核验/YYYY-MM-DD_规则库自动核验报告.md`
 
 Exit code rule:
 - `0` when no structural errors

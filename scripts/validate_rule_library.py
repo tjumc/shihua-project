@@ -23,7 +23,7 @@ def normalize_cell(value: Any) -> str:
 
 def build_default_paths(root: Path) -> dict[str, Path]:
     # Centralize layout assumptions for validation and report export.
-    mc_root = root / "提取结果--mc"
+    mc_root = root / "提取结果"
     current_dir = mc_root / "01_当前结果"
     trace_dir = mc_root / "02_过程追溯"
     trace_check_dir = trace_dir / "05_规则追溯核对"

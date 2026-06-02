@@ -5,8 +5,8 @@
 ## 1. 模板位置
 
 - 正式模板：[规则库_JSON模板_正式版.json](</C:/Users/643/Desktop/石油项目/json规则库/规则库_JSON模板_正式版.json>)
-- 参考样例表：[结构样例-含JSON.xlsx](</C:/Users/643/Desktop/石油项目/提取结果--mc/02_过程追溯/03_结构样例/结构样例-含JSON.xlsx>)
-- 参考说明：[结构样例-含JSON-说明.txt](</C:/Users/643/Desktop/石油项目/提取结果--mc/02_过程追溯/03_结构样例/结构样例-含JSON-说明.txt>)
+- 参考样例表：[结构样例-含JSON.xlsx](</C:/Users/643/Desktop/石油项目/提取结果/02_过程追溯/03_结构样例/结构样例-含JSON.xlsx>)
+- 参考说明：[结构样例-含JSON-说明.txt](</C:/Users/643/Desktop/石油项目/提取结果/02_过程追溯/03_结构样例/结构样例-含JSON-说明.txt>)
 - 历史草稿：[规则库.json](</C:/Users/643/Desktop/石油项目/json规则库/历史草稿与参考样例/规则库.json>)
 
 ## 2. 为什么选这个模板

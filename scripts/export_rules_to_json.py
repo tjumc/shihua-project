@@ -230,7 +230,7 @@ def export_grouped_libraries(
 
 def main() -> None:
     root = Path(__file__).resolve().parents[1]
-    workbook_path = root / "提取结果--mc" / "01_当前结果" / "主总表.xlsx"
+    workbook_path = root / "提取结果" / "01_当前结果" / "主总表.xlsx"
     output_root = root / "json规则库"
     export_grouped_libraries(workbook_path, output_root)
 

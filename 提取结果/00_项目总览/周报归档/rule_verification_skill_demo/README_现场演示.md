@@ -7,7 +7,7 @@
 默认演示命令：
 
 ```powershell
-cd "C:\Users\643\Desktop\石化项目\提取结果--mc\00_项目总览\汇报附件\rule_verification_skill_demo"
+cd "C:\Users\643\Desktop\石化项目\提取结果\00_项目总览\汇报附件\rule_verification_skill_demo"
 .\run_demo.ps1
 ```
 
