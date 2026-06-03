@@ -1,0 +1,52 @@
+[
+  {
+    "key": "openstd_samr",
+    "name": "国家标准全文公开系统",
+    "url": "https://openstd.samr.gov.cn/bzgk/gb/",
+    "file": "homepage_openstd_samr.png",
+    "ok": true,
+    "title": "国家标准全文公开",
+    "finalUrl": "https://openstd.samr.gov.cn/bzgk/std/",
+    "filePath": "/Users/machong/Documents/Codex/2026-05-31/codex/outputs/shihua_w23_site_screenshots/homepage_openstd_samr.png"
+  },
+  {
+    "key": "std_samr",
+    "name": "全国标准信息公共服务平台",
+    "url": "https://std.samr.gov.cn/",
+    "file": "homepage_std_samr.png",
+    "ok": true,
+    "title": "首页 - 全国标准信息公共服务平台",
+    "finalUrl": "https://std.samr.gov.cn/",
+    "filePath": "/Users/machong/Documents/Codex/2026-05-31/codex/outputs/shihua_w23_site_screenshots/homepage_std_samr.png"
+  },
+  {
+    "key": "hbba_sacinfo",
+    "name": "行业标准信息服务平台",
+    "url": "https://hbba.sacinfo.org.cn/",
+    "file": "homepage_hbba_sacinfo.png",
+    "ok": true,
+    "title": "全国标准信息公共服务平台",
+    "finalUrl": "https://hbba.sacinfo.org.cn/",
+    "filePath": "/Users/machong/Documents/Codex/2026-05-31/codex/outputs/shihua_w23_site_screenshots/homepage_hbba_sacinfo.png"
+  },
+  {
+    "key": "mem",
+    "name": "中华人民共和国应急管理部",
+    "url": "https://www.mem.gov.cn/",
+    "file": "homepage_mem.png",
+    "ok": true,
+    "title": "中华人民共和国应急管理部",
+    "finalUrl": "https://www.mem.gov.cn/",
+    "filePath": "/Users/machong/Documents/Codex/2026-05-31/codex/outputs/shihua_w23_site_screenshots/homepage_mem.png"
+  },
+  {
+    "key": "mee",
+    "name": "中华人民共和国生态环境部",
+    "url": "https://www.mee.gov.cn/",
+    "file": "homepage_mee.png",
+    "ok": true,
+    "title": "中华人民共和国生态环境部",
+    "finalUrl": "https://www.mee.gov.cn/",
+    "filePath": "/Users/machong/Documents/Codex/2026-05-31/codex/outputs/shihua_w23_site_screenshots/homepage_mee.png"
+  }
+]
