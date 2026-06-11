@@ -19,3 +19,6 @@ tmp/
 venv/
 
 *.log
+
+# Keep 6.10 source PDFs local; tracked outputs include parsed DOCX/JSON/XLS files.
+6.10新资料规则抽取与skill更新/**/*.pdf

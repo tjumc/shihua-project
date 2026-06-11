@@ -1,0 +1,22 @@
+{
+  "input": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/炼油技术常用数据手册.pdf",
+  "output": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/rule_output/parsed_docx/炼油技术常用数据手册.docx",
+  "file_count": 1,
+  "total_pages": 377,
+  "total_ocr_pages": 376,
+  "total_translated_pages": 0,
+  "files": [
+    {
+      "source_file": "炼油技术常用数据手册.pdf",
+      "output_docx": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/rule_output/parsed_docx/炼油技术常用数据手册.docx",
+      "page_count": 377,
+      "ocr_pages": 376,
+      "translated_pages": 0,
+      "translation_methods": {
+        "none": 104,
+        "source-is-chinese-or-mixed": 273
+      },
+      "warnings": []
+    }
+  ]
+}

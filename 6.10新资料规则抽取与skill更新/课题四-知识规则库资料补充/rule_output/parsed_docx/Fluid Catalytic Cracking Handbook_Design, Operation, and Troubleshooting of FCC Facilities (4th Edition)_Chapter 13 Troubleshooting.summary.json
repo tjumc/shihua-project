@@ -1,0 +1,22 @@
+{
+  "input": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/Fluid Catalytic Cracking Handbook_Design, Operation, and Troubleshooting of FCC Facilities (4th Edition)_Chapter 13 Troubleshooting.pdf",
+  "output": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/rule_output/parsed_docx/Fluid Catalytic Cracking Handbook_Design, Operation, and Troubleshooting of FCC Facilities (4th Edition)_Chapter 13 Troubleshooting.docx",
+  "file_count": 1,
+  "total_pages": 21,
+  "total_ocr_pages": 0,
+  "total_translated_pages": 20,
+  "files": [
+    {
+      "source_file": "Fluid Catalytic Cracking Handbook_Design, Operation, and Troubleshooting of FCC Facilities (4th Edition)_Chapter 13 Troubleshooting.pdf",
+      "output_docx": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/rule_output/parsed_docx/Fluid Catalytic Cracking Handbook_Design, Operation, and Troubleshooting of FCC Facilities (4th Edition)_Chapter 13 Troubleshooting.docx",
+      "page_count": 21,
+      "ocr_pages": 0,
+      "translated_pages": 20,
+      "translation_methods": {
+        "cache": 20,
+        "source-is-chinese-or-mixed": 1
+      },
+      "warnings": []
+    }
+  ]
+}

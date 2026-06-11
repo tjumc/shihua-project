@@ -1,0 +1,22 @@
+{
+  "input": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/非凸MINLP炼厂调度的大规模优化_240605.pdf",
+  "output": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/rule_output/parsed_docx/非凸MINLP炼厂调度的大规模优化_240605.docx",
+  "file_count": 1,
+  "total_pages": 17,
+  "total_ocr_pages": 0,
+  "total_translated_pages": 17,
+  "files": [
+    {
+      "source_file": "非凸MINLP炼厂调度的大规模优化_240605.pdf",
+      "output_docx": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/rule_output/parsed_docx/非凸MINLP炼厂调度的大规模优化_240605.docx",
+      "page_count": 17,
+      "ocr_pages": 0,
+      "translated_pages": 17,
+      "translation_methods": {
+        "argos,none": 1,
+        "argos": 16
+      },
+      "warnings": []
+    }
+  ]
+}

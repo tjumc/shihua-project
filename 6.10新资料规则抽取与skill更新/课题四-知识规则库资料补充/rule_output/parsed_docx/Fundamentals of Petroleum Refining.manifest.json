@@ -1,0 +1,13 @@
+{
+  "source_file": "Fundamentals of Petroleum Refining.pdf",
+  "output_docx": "/Applications/Desktop/项目/6.10/课题四-知识规则库资料补充/rule_output/parsed_docx/Fundamentals of Petroleum Refining.docx",
+  "page_count": 484,
+  "ocr_pages": 0,
+  "translated_pages": 483,
+  "translation_methods": {
+    "cache": 3,
+    "argos": 480,
+    "source-is-chinese-or-mixed": 1
+  },
+  "warnings": []
+}
