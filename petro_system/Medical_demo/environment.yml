@@ -1,0 +1,23 @@
+name: medical_demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - gradio>=5.0
+      - dashscope
+      - openai
+      - pydantic>=2
+      - python-dotenv
+      - pymupdf
+      - pillow
+      - pandas
+      - numpy
+      - httpx
+      - tenacity
+      - orjson
+      - beautifulsoup4
+      - lxml
+      - markdown
+      - requests
