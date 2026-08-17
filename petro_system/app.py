@@ -3,6 +3,7 @@ from __future__ import annotations
 import html
 import os
 import re
+import sys
 import time
 from datetime import datetime
 from pathlib import Path
@@ -13,9 +14,56 @@ import gradio as gr
 from Medical_demo.src.config import get_config as get_medical_demo_config
 from Medical_demo.src.deepseek_agent import _extract_responses_text, _messages_to_responses_input
 
+BACKEND_DIR = Path(__file__).resolve().parent / "backend"
+if str(BACKEND_DIR) not in sys.path:
+    sys.path.insert(0, str(BACKEND_DIR))
+
+from petro_rules.repository import (  # noqa: E402
+    STATUS_LABELS,
+    RuleValidationError,
+    dashboard_data,
+    get_rule,
+    list_import_batches,
+    list_rules,
+    next_rule_number,
+    save_rule,
+    set_rule_archived,
+)
 
 APP_TITLE = "石化领域多学科知识规则库系统"
 ASSISTANT_CONFIG = get_medical_demo_config()
+
+CATEGORY_CHOICES = [
+    ("全部分类", "ALL"),
+    ("操作规程", "SOP"),
+    ("质量标准", "QS"),
+    ("流程特征", "FLOW"),
+    ("工艺规范", "PROC"),
+    ("调度经验", "EXP"),
+]
+STATUS_CHOICES = [
+    ("全部状态", "all"),
+    ("已发布", "published"),
+    ("草稿", "draft"),
+    ("已归档", "archived"),
+]
+FORM_STATUS_CHOICES = [
+    ("已发布", "published"),
+    ("草稿", "draft"),
+    ("已归档", "archived"),
+]
+RULE_TABLE_HEADERS = ["规则编号", "规则名称", "类别", "子类型", "状态"]
+IMPORT_TABLE_HEADERS = [
+    "批次",
+    "文件",
+    "状态",
+    "总数",
+    "新增",
+    "更新",
+    "未变化",
+    "失败",
+    "导入时间",
+]
 
 COLORS = {
     "blue": "#1664e8",
@@ -238,7 +286,8 @@ body { overflow-x: hidden; }
   border-radius: 10px;
   background: #fff;
   box-shadow: var(--shadow);
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 #right-rail {
   position: relative;
@@ -553,6 +602,78 @@ body { overflow-x: hidden; }
 #node-select label { color: #71809c !important; font-size: 12px !important; }
 #node-select input, #node-select .wrap { border-radius: 7px !important; border-color: #dce6f2 !important; }
 
+#database-overview,
+#rules-view,
+#imports-view { width: 100%; min-width: 0; padding: 12px 4px 18px; }
+#rules-view, #imports-view { gap: 10px !important; }
+.db-overview { display: grid; gap: 12px; }
+.db-kpis { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid #e0e7f0; border-radius: 7px; background: #fff; }
+.db-kpis > div { min-width: 0; padding: 15px 16px; border-right: 1px solid #e8edf4; }
+.db-kpis > div:last-child { border-right: 0; }
+.db-kpis span { display: block; color: #667795; font-size: 12px; }
+.db-kpis strong { display: inline-block; margin-top: 5px; color: #152b5c; font-size: 25px; line-height: 1; }
+.db-kpis small { margin-left: 4px; color: #71809b; font-size: 11px; }
+.db-section { padding: 14px 16px; border: 1px solid #e0e7f0; border-radius: 7px; background: #fff; }
+.db-section h3 { margin: 0 0 13px; color: #1a3f79; font-size: 15px; }
+.db-category-list { display: grid; gap: 11px; }
+.db-category-row { display: grid; grid-template-columns: minmax(145px, 190px) minmax(120px, 1fr) 48px; align-items: center; gap: 11px; }
+.db-category-row > div:first-child { display: flex; justify-content: space-between; gap: 8px; min-width: 0; font-size: 12px; }
+.db-category-row strong { overflow: hidden; color: #25375a; font-weight: 600; text-overflow: ellipsis; white-space: nowrap; }
+.db-category-row span, .db-category-row b { color: #74819a; font-size: 11px; font-weight: 500; text-align: right; }
+.db-category-track { height: 8px; overflow: hidden; border-radius: 4px; background: #eef2f7; }
+.db-category-track i { display: block; height: 100%; border-radius: 4px; }
+.db-two-columns { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr); gap: 12px; }
+.db-section table { width: 100%; border-collapse: collapse; }
+.db-section th, .db-section td { padding: 7px 6px; border-bottom: 1px solid #edf1f6; color: #445371; font-size: 11px; text-align: left; }
+.db-section th { color: #6a7892; font-weight: 600; }
+.db-section th:last-child, .db-section td:last-child { text-align: right; }
+
+#rules-toolbar { align-items: end !important; gap: 8px !important; }
+#rules-toolbar > .block { min-width: 0 !important; }
+#rules-toolbar label, #rule-editor label { color: #586a88 !important; font-size: 11px !important; }
+#rules-toolbar input, #rules-toolbar .wrap,
+#rule-editor input, #rule-editor textarea, #rule-editor .wrap {
+  border-color: #dbe3ed !important;
+  border-radius: 5px !important;
+  box-shadow: none !important;
+}
+#new-rule-btn, #refresh-rules-btn, #previous-page-btn, #next-page-btn,
+#save-rule-btn, #archive-rule-btn {
+  min-height: 36px !important;
+  border-radius: 5px !important;
+  font-size: 12px !important;
+}
+#new-rule-btn, #save-rule-btn { border-color: var(--blue) !important; background: var(--blue) !important; color: #fff !important; }
+#archive-rule-btn { color: #9a3412 !important; background: #fff !important; }
+#rule-table { min-width: 0 !important; border: 1px solid #dfe6ef !important; border-radius: 6px !important; overflow: hidden !important; }
+#rule-table table { font-size: 11px !important; }
+#rule-table th { color: #405273 !important; background: #f5f8fc !important; }
+#rule-table td { max-width: 220px; color: #2f405f !important; }
+#rule-table tbody tr:hover td { background: #edf4ff !important; }
+.db-page-info { display: flex; align-items: center; justify-content: space-between; min-height: 24px; color: #687895; font-size: 11px; }
+.db-page-info b { color: #1f3d70; }
+#pagination-row { align-items: center !important; gap: 7px !important; }
+#pagination-row > .block { margin: 0 !important; }
+#rule-editor { margin-top: 2px; border: 1px solid #dfe6ef !important; border-radius: 7px !important; background: #fbfcfe !important; }
+#rule-editor > .label-wrap { color: #173a74 !important; font-size: 13px !important; font-weight: 700 !important; }
+#rule-editor .form { gap: 8px !important; padding: 11px !important; }
+#rule-editor .form > .block, #rule-editor .form > .row { margin: 0 !important; }
+.db-editor-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; padding: 2px 1px 5px; }
+.db-editor-heading strong { overflow-wrap: anywhere; color: #1c315d; font-size: 14px; }
+.db-editor-heading span { flex: 0 0 auto; color: #74829b; font-size: 11px; }
+.db-action-message { min-height: 18px; color: #8a5b16; font-size: 11px; }
+.db-action-message.success { color: #18794e; }
+#rule-editor-actions { align-items: center !important; gap: 8px !important; }
+#imports-view .table-wrap { border-radius: 6px !important; }
+#imports-view table { font-size: 11px !important; }
+
+@media (max-width: 1250px) {
+  .db-kpis { grid-template-columns: repeat(2, 1fr); }
+  .db-kpis > div:nth-child(2) { border-right: 0; }
+  .db-kpis > div:nth-child(-n+2) { border-bottom: 1px solid #e8edf4; }
+  .db-two-columns { grid-template-columns: 1fr; }
+}
+
 @media (max-width: 1250px) {
   .dashboard-header { padding-left: 235px; }
   #dashboard-grid { grid-template-columns: minmax(290px, 27%) minmax(500px, 1fr) minmax(330px, 28%); gap: 9px !important; }
@@ -583,9 +704,34 @@ body { overflow-x: hidden; }
   .header-nav { height: 99px; right: 10px; }
   .home-nav { display: none; }
   .account-nav span:not(.account-avatar):not(.account-chevron) { display: none; }
-  #dashboard-grid { display: flex !important; flex-direction: column; padding: 7px; }
+  #dashboard-grid { display: flex !important; flex-direction: column; height: auto; padding: 7px; }
   .side-stack, .center-stack { width: 100%; }
   #dashboard-grid > .block:nth-child(2), #dashboard-grid > .block:nth-child(1), #dashboard-grid > .block:nth-child(3) { width: 100%; }
+  #left-rail {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    min-height: 0 !important;
+  }
+  #extraction-html { position: relative !important; height: 365px !important; }
+  #visual-panel {
+    position: relative !important;
+    inset: auto !important;
+    width: calc(100% - 24px) !important;
+    max-width: calc(100% - 24px) !important;
+    margin: 12px !important;
+  }
+  #center-column { width: 100% !important; min-height: 760px; }
+  #right-rail {
+    position: relative;
+    left: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+    min-height: 520px;
+  }
   .visual-grid { grid-template-columns: repeat(2, 1fr); }
   .center-subgrid { grid-template-columns: 1fr; }
   .center-metrics { grid-template-columns: 1fr; }
@@ -595,6 +741,10 @@ body { overflow-x: hidden; }
   .graph-node.center span:last-child { top: 29px; font-size: 15px; }
   .donut-layout { grid-template-columns: 1fr; }
   .legend { padding: 0 22px; }
+  .db-kpis { grid-template-columns: 1fr 1fr; }
+  .db-category-row { grid-template-columns: minmax(120px, 1fr) 52px; }
+  .db-category-track { grid-column: 1 / -1; grid-row: 2; }
+  .db-editor-heading { align-items: flex-start; flex-direction: column; }
 }
 """
 
@@ -644,13 +794,15 @@ def extraction_html(imported_count: int = 0) -> str:
 
 
 def visual_html() -> str:
+    data = dashboard_data()
+    counts = {item["code"]: item["count"] for item in data["categories"]}
     cards = [
-        ("blue", "◆", "总量概览", "21,548 条"),
-        ("green", "✿", "工艺规范", "24,173 条"),
-        ("purple", "⌘", "流程特征", "18,965 条"),
-        ("orange", "▤", "操作规程", "27,846 条"),
-        ("cyan", "♟", "设备设施", "19,873 条"),
-        ("navy", "◇", "通用规则", "15,957 条"),
+        ("blue", "Σ", "规则总量", f'{data["active_count"]:,} 条'),
+        ("orange", "▤", "操作规程", f'{counts.get("SOP", 0):,} 条'),
+        ("green", "✓", "质量标准", f'{counts.get("QS", 0):,} 条'),
+        ("purple", "⌘", "流程特征", f'{counts.get("FLOW", 0):,} 条'),
+        ("cyan", "◇", "工艺规范", f'{counts.get("PROC", 0):,} 条'),
+        ("navy", "◎", "调度经验", f'{counts.get("EXP", 0):,} 条'),
     ]
     card_html = "".join(
         f'<div class="visual-card {tone}"><span class="visual-icon">{icon}</span><strong>{label}</strong><small>{count}</small></div>'
@@ -728,6 +880,271 @@ def metrics_html(imported_count: int = 0) -> str:
     """
 
 
+def dashboard_overview_html() -> str:
+    data = dashboard_data()
+    category_colors = {
+        "SOP": "#ef8a24",
+        "QS": "#36a269",
+        "FLOW": "#7652c7",
+        "PROC": "#148ba8",
+        "EXP": "#315eaa",
+    }
+    category_rows = "".join(
+        f"""
+        <div class="db-category-row">
+          <div><strong>{_esc(item['name'])}</strong><span>{item['count']} 条</span></div>
+          <div class="db-category-track"><i style="width:{item['percent']}%;background:{category_colors[item['code']]}"></i></div>
+          <b>{item['percent']:.1f}%</b>
+        </div>
+        """
+        for item in data["categories"]
+    )
+    subtype_rows = "".join(
+        f'<tr><td>{_esc(item["subtype"])}</td><td>{item["count"]}</td></tr>'
+        for item in data["subtypes"]
+    )
+    recent_rows = "".join(
+        f'<tr><td>{_esc(item["rule_no"])}</td><td>{_esc(item["rule_name"])}</td><td>{_esc(item["updated_at"])}</td></tr>'
+        for item in data["recent"]
+    )
+    return f"""
+    <div class="db-overview">
+      <div class="db-kpis">
+        <div><span>有效规则</span><strong>{data['active_count']:,}</strong><small>条</small></div>
+        <div><span>来源文档</span><strong>{data['source_count']:,}</strong><small>份</small></div>
+        <div><span>草稿</span><strong>{data['draft_count']:,}</strong><small>条</small></div>
+        <div><span>已归档</span><strong>{data['archived_count']:,}</strong><small>条</small></div>
+      </div>
+      <section class="db-section">
+        <h3>五类规则分布</h3>
+        <div class="db-category-list">{category_rows}</div>
+      </section>
+      <div class="db-two-columns">
+        <section class="db-section">
+          <h3>主要子类型</h3>
+          <table><thead><tr><th>子类型</th><th>数量</th></tr></thead><tbody>{subtype_rows}</tbody></table>
+        </section>
+        <section class="db-section">
+          <h3>最近更新</h3>
+          <table><thead><tr><th>编号</th><th>名称</th><th>时间</th></tr></thead><tbody>{recent_rows}</tbody></table>
+        </section>
+      </div>
+    </div>
+    """
+
+
+def import_table_data() -> list[list[Any]]:
+    status_labels = {
+        "success": "成功",
+        "running": "进行中",
+        "failed": "失败",
+        "conflict": "待确认",
+    }
+    return [
+        [
+            item["id"],
+            item["source_file_name"],
+            status_labels.get(item["status"], item["status"]),
+            item["expected_count"],
+            item["inserted_count"],
+            item["updated_count"],
+            item["unchanged_count"],
+            item["failed_count"],
+            item["created_at"],
+        ]
+        for item in list_import_batches()
+    ]
+
+
+def rule_table_payload(
+    keyword: str = "",
+    category: str = "ALL",
+    status: str = "all",
+    page: int = 1,
+) -> tuple[list[list[Any]], list[str], str, int]:
+    result = list_rules(keyword, category, status, page=page, page_size=20)
+    rows = [
+        [
+            item["rule_no"],
+            item["rule_name"],
+            item["category_name"].replace("规则", ""),
+            item["subtype"],
+            STATUS_LABELS.get(item["status"], item["status"]),
+        ]
+        for item in result.rows
+    ]
+    rule_numbers = [item["rule_no"] for item in result.rows]
+    info = (
+        f'<div class="db-page-info"><span>共 <b>{result.total}</b> 条</span>'
+        f'<span>第 <b>{result.page}</b> / {result.pages} 页</span></div>'
+    )
+    return rows, rule_numbers, info, result.page
+
+
+def filter_rule_table(
+    keyword: str, category: str, status: str
+) -> tuple[list[list[Any]], list[str], str, int]:
+    return rule_table_payload(keyword, category, status, 1)
+
+
+def previous_rule_page(
+    keyword: str, category: str, status: str, page: int
+) -> tuple[list[list[Any]], list[str], str, int]:
+    return rule_table_payload(keyword, category, status, max(1, int(page or 1) - 1))
+
+
+def next_rule_page(
+    keyword: str, category: str, status: str, page: int
+) -> tuple[list[list[Any]], list[str], str, int]:
+    return rule_table_payload(keyword, category, status, int(page or 1) + 1)
+
+
+def _editor_values(rule: dict[str, Any], message: str = "") -> tuple[Any, ...]:
+    archived = rule["deleted_at"] is not None
+    heading = (
+        f'<div class="db-editor-heading"><strong>{_esc(rule["rule_name"])}</strong>'
+        f'<span>{_esc(rule["rule_no"])} · 版本 {rule["version"]}</span></div>'
+    )
+    return (
+        rule["rule_no"],
+        "edit",
+        heading,
+        rule["rule_no"],
+        rule["rule_name"],
+        rule["category_code"],
+        rule["status"],
+        rule["subtype"],
+        rule["applicable_scope"],
+        rule["trigger_condition"] or "",
+        rule["rule_content"],
+        rule["parameter_text"] or "",
+        rule["source_file"],
+        rule["source_page"],
+        rule["source_basis"],
+        rule["notes"] or "",
+        gr.update(value="恢复规则" if archived else "归档规则", interactive=True),
+        f'<div class="db-action-message">{_esc(message)}</div>' if message else "",
+    )
+
+
+def select_rule_from_table(rule_numbers: list[str], evt: gr.SelectData) -> tuple[Any, ...]:
+    index = evt.index[0] if isinstance(evt.index, (tuple, list)) else evt.index
+    if not isinstance(index, int) or index < 0 or index >= len(rule_numbers or []):
+        raise gr.Error("请选择有效的规则行")
+    rule = get_rule(rule_numbers[index])
+    if not rule:
+        raise gr.Error("该规则不存在或已被移除")
+    return _editor_values(rule)
+
+
+def new_rule_form() -> tuple[Any, ...]:
+    category = "SOP"
+    rule_no = next_rule_number(category)
+    return (
+        "",
+        "new",
+        '<div class="db-editor-heading"><strong>新增规则</strong><span>保存后写入本地数据库</span></div>',
+        rule_no,
+        "",
+        category,
+        "draft",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        gr.update(value="归档规则", interactive=False),
+        "",
+    )
+
+
+def update_new_rule_number(mode: str, category: str, current_rule_no: str) -> str:
+    return next_rule_number(category) if mode == "new" else current_rule_no
+
+
+def save_rule_form(
+    original_rule_no: str,
+    mode: str,
+    rule_no: str,
+    rule_name: str,
+    category_code: str,
+    status: str,
+    subtype: str,
+    applicable_scope: str,
+    trigger_condition: str,
+    rule_content: str,
+    parameter_text: str,
+    source_file: str,
+    source_page: str,
+    source_basis: str,
+    notes: str,
+) -> tuple[str, str, str, Any, str, str]:
+    current = get_rule(original_rule_no) if original_rule_no else None
+    if current and current["deleted_at"] is not None:
+        raise gr.Error("已归档规则需先恢复后才能编辑")
+    try:
+        saved_rule_no = save_rule(
+            {
+                "rule_no": rule_no,
+                "rule_name": rule_name,
+                "category_code": category_code,
+                "status": status,
+                "subtype": subtype,
+                "applicable_scope": applicable_scope,
+                "trigger_condition": trigger_condition,
+                "rule_content": rule_content,
+                "parameter_text": parameter_text,
+                "source_file": source_file,
+                "source_page": source_page,
+                "source_basis": source_basis,
+                "notes": notes,
+            },
+            original_rule_no=original_rule_no if mode == "edit" else None,
+        )
+    except RuleValidationError as exc:
+        raise gr.Error(str(exc)) from exc
+    saved = get_rule(saved_rule_no)
+    heading = (
+        f'<div class="db-editor-heading"><strong>{_esc(saved["rule_name"])}</strong>'
+        f'<span>{_esc(saved_rule_no)} · 版本 {saved["version"]}</span></div>'
+    )
+    return (
+        saved_rule_no,
+        "edit",
+        heading,
+        gr.update(value="归档规则", interactive=True),
+        '<div class="db-action-message success">规则已保存到本地数据库。</div>',
+        saved["status"],
+    )
+
+
+def toggle_rule_archive(rule_no: str) -> tuple[Any, ...]:
+    rule = get_rule(rule_no)
+    if not rule:
+        raise gr.Error("请先选择一条规则")
+    archived = rule["deleted_at"] is not None
+    set_rule_archived(rule_no, not archived)
+    updated = get_rule(rule_no)
+    action = "恢复" if archived else "归档"
+    values = list(_editor_values(updated, f"规则已{action}。"))
+    return tuple(values)
+
+
+def switch_database_view(tab: str) -> tuple[Any, ...]:
+    tab = tab or "规则管理"
+    return (
+        gr.update(visible=tab == "分类统计"),
+        gr.update(visible=tab == "规则管理"),
+        gr.update(visible=tab == "导入记录"),
+        dashboard_overview_html() if tab == "分类统计" else gr.update(),
+        import_table_data() if tab == "导入记录" else gr.update(),
+    )
+
+
 def center_view(tab: str = "知识图谱", node: str = "乙烯装置", imported_count: int = 0) -> str:
     if tab == "规则树":
         body = """
@@ -753,20 +1170,28 @@ def center_view(tab: str = "知识图谱", node: str = "乙烯装置", imported_
 def chat_message(role: str, text: str, timestamp: str | None = None) -> dict[str, Any]:
     stamp = timestamp or datetime.now().strftime("%H:%M")
     rendered = f'{str(text).strip()}\n\n<small>{stamp}</small>'
-    return {"role": role, "content": [{"type": "text", "text": rendered}]}
+    return {"role": role, "content": rendered}
 
 
 def assistant_welcome() -> list[dict[str, Any]]:
     return [
-        chat_message("assistant", "您好！我是石化知识助手。\n您可以对我提出知识检索、流程核查、规范解读等问题，我将提供专业辅助。", "10:24"),
+        chat_message(
+            "assistant",
+            "您好！我是石化知识助手。\n您可以对我提出知识检索、流程核查、规范解读等问题，我将提供专业辅助。",
+            "10:24",
+        ),
         chat_message("user", "乙烯装置裂解炉出口温度的控制建议？", "10:25"),
-        chat_message("assistant", "根据相关工艺规范和操作规程，乙烯装置裂解炉出口温度一般控制在 830~850℃ 范围内，具体建议如下：\n\n• 正常运行：830~850℃\n• 高负荷运行：≤850℃\n• 紧急情况：≤870℃", "10:26"),
+        chat_message(
+            "assistant",
+            "根据相关工艺规范和操作规程，乙烯装置裂解炉出口温度一般控制在 830~850℃ 范围内，具体建议如下：\n\n• 正常运行：830~850℃\n• 高负荷运行：≤850℃\n• 紧急情况：≤870℃",
+            "10:26",
+        ),
     ]
 
 
-def upload_status(files: Any) -> tuple[str, str, str, int]:
+def upload_status(files: Any) -> tuple[str, str, int]:
     if not files:
-        return extraction_html(), center_view(), "", 0
+        return extraction_html(), "", 0
     if isinstance(files, (str, Path)):
         items = [files]
     else:
@@ -777,7 +1202,7 @@ def upload_status(files: Any) -> tuple[str, str, str, int]:
         names.append(Path(str(name)).name)
     count = len(names)
     note = f"已导入 {count} 份文档：" + "、".join(names[:3]) + ("等" if count > 3 else "")
-    return extraction_html(count), center_view(imported_count=count), note, count
+    return extraction_html(count), note, count
 
 
 def update_view(tab: str, node: str, imported_count: int = 0) -> str:
@@ -814,7 +1239,11 @@ def _assistant_api_history(history: list[dict[str, Any]]) -> list[dict[str, str]
     return messages
 
 
-def _assistant_messages(user_message: str, history: list[dict[str, Any]], node: str) -> list[dict[str, str]]:
+def _assistant_messages(
+    user_message: str,
+    history: list[dict[str, Any]],
+    node: str,
+) -> list[dict[str, str]]:
     return [
         {
             "role": "system",
@@ -838,7 +1267,11 @@ def _assistant_messages(user_message: str, history: list[dict[str, Any]], node: 
     ]
 
 
-def call_petro_assistant_api(user_message: str, history: list[dict[str, Any]], node: str) -> str:
+def call_petro_assistant_api(
+    user_message: str,
+    history: list[dict[str, Any]],
+    node: str,
+) -> str:
     config = ASSISTANT_CONFIG
     messages = _assistant_messages(user_message, history, node)
     provider = (config.assistant_provider or "qwen").strip().lower()
@@ -1024,16 +1457,28 @@ def assistant_stream(request: dict[str, Any] | None) -> Iterator[tuple[Any, str,
     )
 
 
-def open_dashboard(imported_count: int = 0, node: str = "乙烯装置") -> tuple[str, str, str]:
-    return "分类统计", center_view("分类统计", node, int(imported_count or 0)), "已切换至分类统计视图。"
+def open_dashboard() -> tuple[str, str]:
+    return "分类统计", "已切换至分类统计视图。"
 
 
 def build_app() -> gr.Blocks:
-    with gr.Blocks(title=APP_TITLE, fill_width=True, fill_height=True) as demo:
+    initial_rows, initial_rule_numbers, initial_page_info, initial_page = rule_table_payload()
+    initial_rule = get_rule(initial_rule_numbers[0]) if initial_rule_numbers else None
+
+    with gr.Blocks(
+        title=APP_TITLE,
+        fill_width=True,
+        fill_height=True,
+        css=CSS,
+    ) as demo:
         gr.HTML(header_html())
         imported_state = gr.State(0)
         selected_node = gr.State("乙烯装置")
         assistant_request = gr.State({})
+        rule_numbers_state = gr.State(initial_rule_numbers)
+        page_state = gr.State(initial_page)
+        selected_rule_state = gr.State(initial_rule["rule_no"] if initial_rule else "")
+        form_mode_state = gr.State("edit" if initial_rule else "new")
         with gr.Row(elem_id="dashboard-grid"):
             with gr.Column(elem_id="left-rail", scale=1):
                 extraction = gr.HTML(extraction_html(), elem_id="extraction-html")
@@ -1046,31 +1491,172 @@ def build_app() -> gr.Blocks:
                     show_label=False,
                 )
                 with gr.Column(elem_id="visual-panel", elem_classes=["panel"]):
-                    visual = gr.HTML(visual_html(), elem_id="visual-html")
+                    gr.HTML(visual_html(), elem_id="visual-html")
                     open_btn = gr.Button("进入可视化面板", elem_id="open-dashboard")
                 upload_note = gr.Textbox(value="", visible=False, elem_id="upload-note")
             with gr.Column(elem_id="center-column", scale=2):
                 with gr.Column(elem_id="center-stack"):
                     view_tabs = gr.Radio(
-                        ["知识图谱", "规则树", "分类统计", "规则查询"],
-                        value="知识图谱",
+                        ["分类统计", "规则管理", "导入记录"],
+                        value="规则管理",
                         show_label=False,
                         container=False,
                         elem_id="view-tabs",
                     )
-                    center = gr.HTML(center_view(), elem_id="center-content")
+                    with gr.Column(visible=False, elem_id="database-overview") as overview_view:
+                        overview_html = gr.HTML(dashboard_overview_html())
+                    with gr.Column(visible=True, elem_id="rules-view") as rules_view:
+                        with gr.Row(elem_id="rules-toolbar"):
+                            rule_search = gr.Textbox(
+                                label="搜索",
+                                placeholder="编号、名称、内容或来源",
+                                scale=3,
+                            )
+                            category_filter = gr.Dropdown(
+                                CATEGORY_CHOICES,
+                                value="ALL",
+                                label="类别",
+                                scale=2,
+                            )
+                            status_filter = gr.Dropdown(
+                                STATUS_CHOICES,
+                                value="all",
+                                label="状态",
+                                scale=2,
+                            )
+                            refresh_rules_btn = gr.Button(
+                                "刷新", elem_id="refresh-rules-btn", min_width=62
+                            )
+                            new_rule_btn = gr.Button(
+                                "＋ 新增", elem_id="new-rule-btn", min_width=72
+                            )
+                        rule_table = gr.Dataframe(
+                            headers=RULE_TABLE_HEADERS,
+                            value=initial_rows,
+                            datatype=["str"] * len(RULE_TABLE_HEADERS),
+                            interactive=False,
+                            wrap=True,
+                            show_label=False,
+                            elem_id="rule-table",
+                        )
+                        with gr.Row(elem_id="pagination-row"):
+                            previous_page_btn = gr.Button(
+                                "上一页", elem_id="previous-page-btn", min_width=70
+                            )
+                            page_info = gr.HTML(initial_page_info)
+                            next_page_btn = gr.Button(
+                                "下一页", elem_id="next-page-btn", min_width=70
+                            )
+
+                        with gr.Accordion(
+                            "规则详情与编辑", open=True, elem_id="rule-editor"
+                        ):
+                            editor_heading = gr.HTML(
+                                _editor_values(initial_rule)[2]
+                                if initial_rule
+                                else ""
+                            )
+                            with gr.Row():
+                                form_rule_no = gr.Textbox(
+                                    label="规则编号*",
+                                    value=initial_rule["rule_no"] if initial_rule else "",
+                                )
+                                form_rule_name = gr.Textbox(
+                                    label="规则名称*",
+                                    value=initial_rule["rule_name"] if initial_rule else "",
+                                )
+                            with gr.Row():
+                                form_category = gr.Dropdown(
+                                    CATEGORY_CHOICES[1:],
+                                    value=initial_rule["category_code"] if initial_rule else "SOP",
+                                    label="规则类别*",
+                                )
+                                form_status = gr.Dropdown(
+                                    FORM_STATUS_CHOICES,
+                                    value=initial_rule["status"] if initial_rule else "draft",
+                                    label="状态*",
+                                )
+                            with gr.Row():
+                                form_subtype = gr.Textbox(
+                                    label="子类型*",
+                                    value=initial_rule["subtype"] if initial_rule else "",
+                                )
+                                form_scope = gr.Textbox(
+                                    label="适用范围*",
+                                    value=initial_rule["applicable_scope"] if initial_rule else "",
+                                )
+                            with gr.Row():
+                                form_trigger = gr.Textbox(
+                                    label="触发条件",
+                                    value=(initial_rule["trigger_condition"] or "") if initial_rule else "",
+                                )
+                                form_parameter = gr.Textbox(
+                                    label="参数范围",
+                                    value=(initial_rule["parameter_text"] or "") if initial_rule else "",
+                                )
+                            form_content = gr.Textbox(
+                                label="规则内容*",
+                                value=initial_rule["rule_content"] if initial_rule else "",
+                                lines=3,
+                            )
+                            with gr.Row():
+                                form_source_file = gr.Textbox(
+                                    label="来源文件*",
+                                    value=initial_rule["source_file"] if initial_rule else "",
+                                    scale=3,
+                                )
+                                form_source_page = gr.Textbox(
+                                    label="来源页码*",
+                                    value=initial_rule["source_page"] if initial_rule else "",
+                                    scale=1,
+                                )
+                            form_source_basis = gr.Textbox(
+                                label="来源依据*",
+                                value=initial_rule["source_basis"] if initial_rule else "",
+                                lines=2,
+                            )
+                            form_notes = gr.Textbox(
+                                label="备注",
+                                value=(initial_rule["notes"] or "") if initial_rule else "",
+                                lines=2,
+                            )
+                            editor_message = gr.HTML("")
+                            with gr.Row(elem_id="rule-editor-actions"):
+                                save_rule_btn = gr.Button(
+                                    "保存规则", elem_id="save-rule-btn", variant="primary"
+                                )
+                                archive_rule_btn = gr.Button(
+                                    "归档规则",
+                                    elem_id="archive-rule-btn",
+                                    interactive=bool(initial_rule),
+                                )
+
+                    with gr.Column(visible=False, elem_id="imports-view") as imports_view:
+                        with gr.Row():
+                            gr.HTML(
+                                '<div class="db-editor-heading"><strong>Excel 导入记录</strong><span>本地数据库批次审计</span></div>'
+                            )
+                            refresh_imports_btn = gr.Button("刷新", min_width=70)
+                        imports_table = gr.Dataframe(
+                            headers=IMPORT_TABLE_HEADERS,
+                            value=import_table_data(),
+                            interactive=False,
+                            wrap=True,
+                            show_label=False,
+                        )
             with gr.Column(elem_id="right-rail", scale=1):
                 with gr.Column(elem_id="assistant-panel", elem_classes=["panel", "assistant-wrap"]):
                     gr.HTML('<div class="assistant-head"><span class="assistant-robot-icon"></span><span>C. AI助手</span><span class="assistant-state">● Qwen联网</span></div>')
                     assistant_chat = gr.Chatbot(
                         value=assistant_welcome(),
+                        type="messages",
                         show_label=False,
                         layout="bubble",
                         height="100%",
                         min_height=280,
                         autoscroll=True,
-                        buttons=[],
                         feedback_options=None,
+                        allow_tags=False,
                         elem_id="assistant-chatbot",
                     )
                     with gr.Row(elem_id="assistant-input-row"):
@@ -1079,9 +1665,156 @@ def build_app() -> gr.Blocks:
                     gr.HTML('<div class="assistant-note">内容由AI生成，仅供参考，请人工核实</div>')
                     assistant_status = gr.Textbox(value="", visible=False, elem_id="assistant-status")
 
-        source_file.change(upload_status, inputs=[source_file], outputs=[extraction, center, upload_note, imported_state], show_progress="hidden")
-        view_tabs.change(update_view, inputs=[view_tabs, selected_node, imported_state], outputs=[center], show_progress="hidden")
-        open_btn.click(open_dashboard, inputs=[imported_state, selected_node], outputs=[view_tabs, center, upload_note], show_progress="hidden")
+        source_file.change(
+            upload_status,
+            inputs=[source_file],
+            outputs=[extraction, upload_note, imported_state],
+            show_progress="hidden",
+        )
+        view_tabs.change(
+            switch_database_view,
+            inputs=[view_tabs],
+            outputs=[overview_view, rules_view, imports_view, overview_html, imports_table],
+            show_progress="hidden",
+        )
+        open_event = open_btn.click(
+            open_dashboard,
+            outputs=[view_tabs, upload_note],
+            show_progress="hidden",
+        )
+        open_event.then(
+            switch_database_view,
+            inputs=[view_tabs],
+            outputs=[overview_view, rules_view, imports_view, overview_html, imports_table],
+            show_progress="hidden",
+        )
+
+        rule_filter_inputs = [rule_search, category_filter, status_filter]
+        rule_table_outputs = [rule_table, rule_numbers_state, page_info, page_state]
+        for component in (rule_search, category_filter, status_filter):
+            component.change(
+                filter_rule_table,
+                inputs=rule_filter_inputs,
+                outputs=rule_table_outputs,
+                show_progress="hidden",
+            )
+        rule_search.submit(
+            filter_rule_table,
+            inputs=rule_filter_inputs,
+            outputs=rule_table_outputs,
+            show_progress="hidden",
+        )
+        refresh_rules_btn.click(
+            filter_rule_table,
+            inputs=rule_filter_inputs,
+            outputs=rule_table_outputs,
+            show_progress="hidden",
+        )
+        previous_page_btn.click(
+            previous_rule_page,
+            inputs=[*rule_filter_inputs, page_state],
+            outputs=rule_table_outputs,
+            show_progress="hidden",
+        )
+        next_page_btn.click(
+            next_rule_page,
+            inputs=[*rule_filter_inputs, page_state],
+            outputs=rule_table_outputs,
+            show_progress="hidden",
+        )
+
+        editor_outputs = [
+            selected_rule_state,
+            form_mode_state,
+            editor_heading,
+            form_rule_no,
+            form_rule_name,
+            form_category,
+            form_status,
+            form_subtype,
+            form_scope,
+            form_trigger,
+            form_content,
+            form_parameter,
+            form_source_file,
+            form_source_page,
+            form_source_basis,
+            form_notes,
+            archive_rule_btn,
+            editor_message,
+        ]
+        rule_table.select(
+            select_rule_from_table,
+            inputs=[rule_numbers_state],
+            outputs=editor_outputs,
+            show_progress="hidden",
+        )
+        new_rule_btn.click(
+            new_rule_form,
+            outputs=editor_outputs,
+            show_progress="hidden",
+        )
+        form_category.change(
+            update_new_rule_number,
+            inputs=[form_mode_state, form_category, form_rule_no],
+            outputs=[form_rule_no],
+            show_progress="hidden",
+        )
+
+        save_inputs = [
+            selected_rule_state,
+            form_mode_state,
+            form_rule_no,
+            form_rule_name,
+            form_category,
+            form_status,
+            form_subtype,
+            form_scope,
+            form_trigger,
+            form_content,
+            form_parameter,
+            form_source_file,
+            form_source_page,
+            form_source_basis,
+            form_notes,
+        ]
+        save_event = save_rule_btn.click(
+            save_rule_form,
+            inputs=save_inputs,
+            outputs=[
+                selected_rule_state,
+                form_mode_state,
+                editor_heading,
+                archive_rule_btn,
+                editor_message,
+                form_status,
+            ],
+            show_progress="minimal",
+        )
+        save_event.then(
+            rule_table_payload,
+            inputs=[*rule_filter_inputs, page_state],
+            outputs=rule_table_outputs,
+            show_progress="hidden",
+        )
+        archive_event = archive_rule_btn.click(
+            toggle_rule_archive,
+            inputs=[selected_rule_state],
+            outputs=editor_outputs,
+            show_progress="minimal",
+        )
+        archive_event.then(
+            rule_table_payload,
+            inputs=[*rule_filter_inputs, page_state],
+            outputs=rule_table_outputs,
+            show_progress="hidden",
+        )
+        refresh_imports_btn.click(
+            import_table_data,
+            outputs=[imports_table],
+            show_progress="hidden",
+        )
+
         assistant_inputs = [assistant_input, assistant_chat, selected_node]
         assistant_begin_outputs = [assistant_chat, assistant_input, send_btn, assistant_status, assistant_request]
         assistant_stream_outputs = [assistant_chat, assistant_status, send_btn, assistant_input]
@@ -1121,6 +1854,5 @@ if __name__ == "__main__":
         server_name=host,
         server_port=port,
         show_error=True,
-        css=CSS,
         allowed_paths=[str(Path(__file__).resolve().parent / "images")],
     )
