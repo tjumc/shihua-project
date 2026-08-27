@@ -15,10 +15,8 @@ from .workbook import WorkbookValidationError, read_official_workbook
 REPO_ROOT = Path(__file__).resolve().parents[3]
 DEFAULT_WORKBOOK = (
     REPO_ROOT
-    / "提取结果"
-    / "01_当前结果"
-    / "五类规则汇总"
-    / "01_规则表"
+    / "data"
+    / "tables"
     / "五类规则正式提交表_1050条.xlsx"
 )
 

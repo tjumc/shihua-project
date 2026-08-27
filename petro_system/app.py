@@ -11,8 +11,8 @@ from typing import Any, Iterator
 
 import gradio as gr
 
-from Medical_demo.src.config import get_config as get_medical_demo_config
-from Medical_demo.src.deepseek_agent import _extract_responses_text, _messages_to_responses_input
+from ai_assistant.config import get_config as get_medical_demo_config
+from ai_assistant.deepseek_agent import _extract_responses_text, _messages_to_responses_input
 
 BACKEND_DIR = Path(__file__).resolve().parent / "backend"
 if str(BACKEND_DIR) not in sys.path:

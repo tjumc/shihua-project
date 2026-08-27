@@ -20,9 +20,8 @@ venv/
 
 *.log
 
-# Keep 6.10 source PDFs local; tracked outputs include parsed DOCX/JSON/XLS files.
-6.10新资料规则抽取与skill更新/**/*.pdf
 
-# Keep oversized reference PDFs local; GitHub rejects or warns on these files.
-/知识规则库源资料补充/中国炼油技术.pdf
-/知识规则库源资料补充/炼油技术常用数据手册.pdf
+# Source materials and generated intermediate outputs stay outside the deliverable tree.
+/source-materials/
+
+*.inspect.ndjson
