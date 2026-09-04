@@ -1,0 +1,95 @@
+{
+  "category": "流程特征和协同规则",
+  "subcategory": "物料流向规则",
+  "sample_count": 2,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-FLOW-MATERIAL-001",
+      "type": "flow_characteristic",
+      "category": "流程特征和协同规则",
+      "subcategory": "物料流向规则",
+      "name": "常压侧线流向",
+      "description": "300万吨常压装置常石脑油侧线流向为石脑油（重整原料），产品编码NK1。",
+      "scope": {
+        "unit": [
+          "300万吨常压装置"
+        ],
+        "product": [
+          "NK1"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "300_常石脑油",
+      "predicate": "flows_to",
+      "object": {
+        "target": "NK1",
+        "material": "石脑油（重整原料）"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "常压装置Assay数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-FLOW-MATERIAL-002",
+      "type": "flow_characteristic",
+      "category": "流程特征和协同规则",
+      "subcategory": "物料流向规则",
+      "name": "常压渣油侧线流向",
+      "description": "300万吨常压装置常渣侧线流向为减压渣油，产品编码VR1。",
+      "scope": {
+        "unit": [
+          "300万吨常压装置"
+        ],
+        "product": [
+          "VR1"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "300_常渣",
+      "predicate": "flows_to",
+      "object": {
+        "target": "VR1",
+        "material": "减压渣油"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "常压装置Assay数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

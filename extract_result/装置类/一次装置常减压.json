@@ -1,0 +1,105 @@
+{
+  "category": "装置类",
+  "subcategory": "一次装置常减压",
+  "sample_count": 2,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-CDU-FEED-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "一次装置常减压",
+      "name": "300万吨常压装置原料处理量范围",
+      "description": "300万吨常压装置初始处理量为7300吨/天，额定处理量为8580吨/天，最大负荷系数为1.05，最小负荷系数为0.85。",
+      "scope": {
+        "unit": [
+          "300万吨常压装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          6208.5,
+          9009.0
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "300万吨常压装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          6208.5,
+          9009.0
+        ],
+        "unit": "t/d",
+        "calculation": "rated_load*min_max_factor"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          6208.5,
+          9009.0
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "常压装置Assay数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CDU-SIDE-YIELD-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "一次装置常减压",
+      "name": "常减压石脑油侧线映射",
+      "description": "300万吨常压装置的常石脑油侧线对应石脑油（重整原料），产品编码为NK1。",
+      "scope": {
+        "unit": [
+          "300万吨常压装置"
+        ],
+        "product": [
+          "石脑油（重整原料）"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "300_常石脑油",
+      "predicate": "produces",
+      "object": {
+        "product": "石脑油（重整原料）",
+        "product_code": "NK1"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "常压装置Assay数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

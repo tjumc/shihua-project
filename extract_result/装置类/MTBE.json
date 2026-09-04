@@ -1,0 +1,44 @@
+{
+  "category": "装置类",
+  "subcategory": "MTBE",
+  "sample_count": 1,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-UNIT-MTBE-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "MTBE装置设计规模",
+      "description": "12万吨/年MTBE装置设计年操作时间为8000小时。",
+      "scope": {
+        "unit": [
+          "12万吨/年MTBE装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "12万吨/年MTBE装置",
+      "predicate": "annual_operation_hours",
+      "object": {
+        "value": 8000,
+        "unit": "h/a"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/5、主生产装置操作规程/主装置操作规程/2.联合二车间/12万吨年MTBE装置操作规程/pdf/12万吨年MTBE操作规程-内文.pdf",
+        "page": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

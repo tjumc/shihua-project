@@ -1,0 +1,46 @@
+{
+  "category": "产品类",
+  "subcategory": "产品每日产量上下限",
+  "sample_count": 1,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-PRODUCT-OUTPUT-001",
+      "type": "scheduling_experience",
+      "category": "产品类",
+      "subcategory": "产品每日产量上下限",
+      "name": "重整装置月度产量记录",
+      "description": "2025年12月重整装置本月原料处理量为128791吨，累计原料处理量为1493268吨；该记录可作为产量约束接入时的历史基线。",
+      "scope": {
+        "unit": [
+          "120万吨年重整装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "120万吨年重整装置",
+      "predicate": "monthly_output",
+      "object": {
+        "value": 128791,
+        "unit": "t",
+        "period": "2025-12"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/3、装置生产完成情况表/延安石油化工厂装置生产完成情况（3-1）-202512.xlsx",
+        "sheet": "延安石化厂装置生产完成情况（3-1）",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": "源表是历史产量记录，不是显式上下限；上下限需要结合计划数据补充。"
+    }
+  ]
+}

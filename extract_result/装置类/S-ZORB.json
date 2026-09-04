@@ -1,0 +1,65 @@
+{
+  "category": "装置类",
+  "subcategory": "S-ZORB",
+  "sample_count": 1,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-UNIT-SZORB-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "S-ZORB",
+      "name": "汽油精制装置基础负荷范围",
+      "description": "180万吨汽油精制装置额定负荷为5130吨/天，最大加工负荷为5400吨/天，最大负荷系数为1.05，最小负荷系数为0.8。",
+      "scope": {
+        "unit": [
+          "180万吨汽油精制装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          4104,
+          5400
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "180万吨汽油精制装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          4104,
+          5400
+        ],
+        "unit": "t/d"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          4104,
+          5400
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 13
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

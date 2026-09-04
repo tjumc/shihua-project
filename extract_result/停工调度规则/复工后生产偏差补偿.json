@@ -1,0 +1,37 @@
+{
+  "category": "停工调度规则",
+  "subcategory": "复工后生产偏差补偿",
+  "sample_count": 1,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-SHUTDOWN-RESTART-001",
+      "type": "scheduling_experience",
+      "category": "停工调度规则",
+      "subcategory": "复工后生产偏差补偿",
+      "name": "复工后恢复正常负荷",
+      "description": "停工调度分类中包含复工后恢复正常工况和生产偏差补偿要求，当前源资料尚未抽取到可直接量化的统一阈值。",
+      "scope": {
+        "unit": [
+          "炼油装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "炼油装置",
+      "predicate": "restart_load_recovery",
+      "object": {
+        "status": "pending_parameter"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）"
+      },
+      "review_status": "待人工确认",
+      "notes": "需要从各装置复工方案中补充恢复时间、负荷阶梯和偏差补偿计算方式。"
+    }
+  ]
+}

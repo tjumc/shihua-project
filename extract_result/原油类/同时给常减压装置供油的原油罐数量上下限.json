@@ -1,0 +1,14 @@
+{
+  "category": "原油类",
+  "subcategory": "同时给常减压装置供油的原油罐数量上下限",
+  "sample_count": 0,
+  "status": "pending",
+  "notes": "已按分类文件建立小类文件，但当前第一版尚未找到可直接、可靠地映射为该类规则的结构化样例。",
+  "rules": [],
+  "source_candidates": [
+    {
+      "document": "docs/规则数26-V3.docx"
+    }
+  ],
+  "id_prefix": "R-PENDING-"
+}

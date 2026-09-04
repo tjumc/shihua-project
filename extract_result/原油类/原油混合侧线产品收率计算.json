@@ -1,0 +1,95 @@
+{
+  "category": "原油类",
+  "subcategory": "原油混合侧线产品收率计算",
+  "sample_count": 2,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-CRUDE-BLEND-YIELD-001",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油混合侧线产品收率计算",
+      "name": "延安原油石脑油收率",
+      "description": "延安原油进入常减压装置时，石脑油侧线收率记录为9.48%。",
+      "scope": {
+        "unit": [
+          "常减压装置"
+        ],
+        "material": [
+          "延安原油"
+        ],
+        "product": [
+          "石脑油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "YCO",
+      "predicate": "yield",
+      "object": {
+        "value": 9.48,
+        "unit": "%",
+        "product": "NK1"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "Assay表",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CRUDE-BLEND-YIELD-002",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油混合侧线产品收率计算",
+      "name": "俄罗斯原油石脑油收率",
+      "description": "俄罗斯原油进入常减压装置时，石脑油侧线收率记录为14.43%。",
+      "scope": {
+        "unit": [
+          "常减压装置"
+        ],
+        "material": [
+          "俄罗斯原油"
+        ],
+        "product": [
+          "石脑油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "RCO",
+      "predicate": "yield",
+      "object": {
+        "value": 14.43,
+        "unit": "%",
+        "product": "NK1"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "Assay表",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

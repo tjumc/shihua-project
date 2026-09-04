@@ -1,0 +1,81 @@
+{
+  "category": "原油类",
+  "subcategory": "原油混合性质计算",
+  "sample_count": 2,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-CRUDE-BLEND-PROPERTY-001",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油混合性质计算",
+      "name": "原油密度基础属性",
+      "description": "延安原油的密度记录为0.8398吨/立方米。",
+      "scope": {
+        "material": [
+          "延安原油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "YCO",
+      "predicate": "density",
+      "object": {
+        "value": 0.8398,
+        "unit": "t/m3"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "原油性质数据",
+        "row": 3
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CRUDE-BLEND-PROPERTY-002",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油混合性质计算",
+      "name": "俄罗斯原油硫含量基础属性",
+      "description": "俄罗斯原油的硫含量记录为0.56%。",
+      "scope": {
+        "material": [
+          "俄罗斯原油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "RCO",
+      "predicate": "sulfur_content",
+      "object": {
+        "value": 0.56,
+        "unit": "%"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "原油性质数据",
+        "row": 4
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

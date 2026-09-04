@@ -1,0 +1,1520 @@
+{
+  "schema_version": "0.1",
+  "rules": [
+    {
+      "rule_id": "R-CRUDE-TANK-BALANCE-001",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油罐物料平衡",
+      "name": "原油罐初始库存记录",
+      "description": "6101号原油罐在调度日的油量为1897.4吨。",
+      "scope": {
+        "tank": [
+          "6101"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "6101",
+      "predicate": "inventory",
+      "object": {
+        "value": 1897.4,
+        "unit": "t",
+        "as_of": "2026-01-07"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼/2、油罐数据动态/延炼油品动态-20260107.xlsx",
+        "sheet": "油品动态",
+        "row": 4
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CRUDE-TANK-LIMIT-001",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油罐上下限约束",
+      "name": "6101号原油罐安全液位范围",
+      "description": "6101号原油罐安全高度上限为14.3米、下限为2.5米。",
+      "scope": {
+        "tank": [
+          "6101"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          14.3
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "6101",
+      "predicate": "liquid_level",
+      "object": {
+        "operator": "between",
+        "value": [
+          2.5,
+          14.3
+        ],
+        "unit": "m"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          14.3
+        ],
+        "unit": "m"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CRUDE-TANK-LIMIT-002",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油罐上下限约束",
+      "name": "9501号原油罐安全液位范围",
+      "description": "9501号原油罐安全高度上限为13.6米、下限为2.5米。",
+      "scope": {
+        "tank": [
+          "9501"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          13.6
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "9501",
+      "predicate": "liquid_level",
+      "object": {
+        "operator": "between",
+        "value": [
+          2.5,
+          13.6
+        ],
+        "unit": "m"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          13.6
+        ],
+        "unit": "m"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 9
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CRUDE-BLEND-PROPERTY-001",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油混合性质计算",
+      "name": "原油密度基础属性",
+      "description": "延安原油的密度记录为0.8398吨/立方米。",
+      "scope": {
+        "material": [
+          "延安原油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "YCO",
+      "predicate": "density",
+      "object": {
+        "value": 0.8398,
+        "unit": "t/m3"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "原油性质数据",
+        "row": 3
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CRUDE-BLEND-PROPERTY-002",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油混合性质计算",
+      "name": "俄罗斯原油硫含量基础属性",
+      "description": "俄罗斯原油的硫含量记录为0.56%。",
+      "scope": {
+        "material": [
+          "俄罗斯原油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "RCO",
+      "predicate": "sulfur_content",
+      "object": {
+        "value": 0.56,
+        "unit": "%"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "原油性质数据",
+        "row": 4
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CRUDE-BLEND-YIELD-001",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油混合侧线产品收率计算",
+      "name": "延安原油石脑油收率",
+      "description": "延安原油进入常减压装置时，石脑油侧线收率记录为9.48%。",
+      "scope": {
+        "unit": [
+          "常减压装置"
+        ],
+        "material": [
+          "延安原油"
+        ],
+        "product": [
+          "石脑油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "YCO",
+      "predicate": "yield",
+      "object": {
+        "value": 9.48,
+        "unit": "%",
+        "product": "NK1"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "Assay表",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CRUDE-BLEND-YIELD-002",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油混合侧线产品收率计算",
+      "name": "俄罗斯原油石脑油收率",
+      "description": "俄罗斯原油进入常减压装置时，石脑油侧线收率记录为14.43%。",
+      "scope": {
+        "unit": [
+          "常减压装置"
+        ],
+        "material": [
+          "俄罗斯原油"
+        ],
+        "product": [
+          "石脑油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "RCO",
+      "predicate": "yield",
+      "object": {
+        "value": 14.43,
+        "unit": "%",
+        "product": "NK1"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "Assay表",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CDU-FEED-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "一次装置常减压",
+      "name": "300万吨常压装置原料处理量范围",
+      "description": "300万吨常压装置初始处理量为7300吨/天，额定处理量为8580吨/天，最大负荷系数为1.05，最小负荷系数为0.85。",
+      "scope": {
+        "unit": [
+          "300万吨常压装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          6208.5,
+          9009.0
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "300万吨常压装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          6208.5,
+          9009.0
+        ],
+        "unit": "t/d",
+        "calculation": "rated_load*min_max_factor"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          6208.5,
+          9009.0
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "常压装置Assay数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-CDU-SIDE-YIELD-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "一次装置常减压",
+      "name": "常减压石脑油侧线映射",
+      "description": "300万吨常压装置的常石脑油侧线对应石脑油（重整原料），产品编码为NK1。",
+      "scope": {
+        "unit": [
+          "300万吨常压装置"
+        ],
+        "product": [
+          "石脑油（重整原料）"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "300_常石脑油",
+      "predicate": "produces",
+      "object": {
+        "product": "石脑油（重整原料）",
+        "product_code": "NK1"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "常压装置Assay数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-UNIT-HYDRO-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "柴油加氢装置基础负荷范围",
+      "description": "140万吨柴油加氢装置额定负荷为4208吨/天，最大加工负荷为4632吨/天，最大负荷系数为1.1，最小负荷系数为0.6。",
+      "scope": {
+        "unit": [
+          "140万吨柴油加氢装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2524.8,
+          4632
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "140万吨柴油加氢装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          2524.8,
+          4632
+        ],
+        "unit": "t/d"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2524.8,
+          4632
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 6
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-UNIT-REFORM-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "重整",
+      "name": "120万吨重整装置基础负荷范围",
+      "description": "120万吨重整装置额定负荷为4052吨/天，最大加工负荷为4464吨/天，最大负荷系数为1.1，最小负荷系数为0.6。",
+      "scope": {
+        "unit": [
+          "120万吨重整装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2431.2,
+          4464
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "120万吨重整装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          2431.2,
+          4464
+        ],
+        "unit": "t/d"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2431.2,
+          4464
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-UNIT-FCC-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "催化",
+      "name": "200万吨催化装置负荷范围",
+      "description": "200万吨催化装置额定负荷为5100吨/天，最大加工负荷为5600吨/天，最大负荷系数为1.1，最小负荷系数为0.9。",
+      "scope": {
+        "unit": [
+          "200万吨催化装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          4590,
+          5600
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "200万吨催化装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          4590,
+          5600
+        ],
+        "unit": "t/d"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          4590,
+          5600
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 3
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-UNIT-AROMATICS-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "苯抽提装置基础负荷范围",
+      "description": "20万吨苯抽提装置额定负荷为548吨/天，最大加工负荷为575吨/天，最大负荷系数为1.05，最小负荷系数为0.7。",
+      "scope": {
+        "unit": [
+          "20万吨苯抽提装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          383.6,
+          575
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "20万吨苯抽提装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          383.6,
+          575
+        ],
+        "unit": "t/d"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          383.6,
+          575
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 7
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-UNIT-SZORB-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "S-ZORB",
+      "name": "汽油精制装置基础负荷范围",
+      "description": "180万吨汽油精制装置额定负荷为5130吨/天，最大加工负荷为5400吨/天，最大负荷系数为1.05，最小负荷系数为0.8。",
+      "scope": {
+        "unit": [
+          "180万吨汽油精制装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          4104,
+          5400
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "180万吨汽油精制装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          4104,
+          5400
+        ],
+        "unit": "t/d"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          4104,
+          5400
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 13
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-UNIT-GASFRACTION-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "气分",
+      "name": "气体分馏装置基础负荷范围",
+      "description": "60万吨气分装置额定负荷为1700吨/天，最大加工负荷为1872吨/天，最大负荷系数为1.1，最小负荷系数为0.7。",
+      "scope": {
+        "unit": [
+          "60万吨气分装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          1190,
+          1872
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "60万吨气分装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          1190,
+          1872
+        ],
+        "unit": "t/d"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          1190,
+          1872
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 8
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-UNIT-MTBE-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "MTBE装置设计规模",
+      "description": "12万吨/年MTBE装置设计年操作时间为8000小时。",
+      "scope": {
+        "unit": [
+          "12万吨/年MTBE装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "12万吨/年MTBE装置",
+      "predicate": "annual_operation_hours",
+      "object": {
+        "value": 8000,
+        "unit": "h/a"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/5、主生产装置操作规程/主装置操作规程/2.联合二车间/12万吨年MTBE装置操作规程/pdf/12万吨年MTBE操作规程-内文.pdf",
+        "page": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-UNIT-PP-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "聚烯烃",
+      "name": "20万吨聚丙烯装置基础负荷范围",
+      "description": "20万吨聚丙烯装置额定负荷为548吨/天，最大加工负荷为575吨/天，最大负荷系数为1.05，最小负荷系数为0.7。",
+      "scope": {
+        "unit": [
+          "20万吨聚丙烯装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          383.6,
+          575
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "20万吨聚丙烯装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          383.6,
+          575
+        ],
+        "unit": "t/d"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          383.6,
+          575
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 9
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-TANK-TANK-LIMIT-001",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油罐上下限约束",
+      "name": "6101号原油罐安全液位范围",
+      "description": "6101号原油罐安全高度上限为14.3米、下限为2.5米。",
+      "scope": {
+        "tank": [
+          "6101"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          14.3
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "6101",
+      "predicate": "liquid_level",
+      "object": {
+        "operator": "between",
+        "value": [
+          2.5,
+          14.3
+        ],
+        "unit": "m"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          14.3
+        ],
+        "unit": "m"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-TANK-TANK-LIMIT-002",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油罐上下限约束",
+      "name": "9501号原油罐安全液位范围",
+      "description": "9501号原油罐安全高度上限为13.6米、下限为2.5米。",
+      "scope": {
+        "tank": [
+          "9501"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          13.6
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "9501",
+      "predicate": "liquid_level",
+      "object": {
+        "operator": "between",
+        "value": [
+          2.5,
+          13.6
+        ],
+        "unit": "m"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          13.6
+        ],
+        "unit": "m"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 9
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-PRODUCT-OUTPUT-001",
+      "type": "scheduling_experience",
+      "category": "产品类",
+      "subcategory": "产品每日产量上下限",
+      "name": "重整装置月度产量记录",
+      "description": "2025年12月重整装置本月原料处理量为128791吨，累计原料处理量为1493268吨；该记录可作为产量约束接入时的历史基线。",
+      "scope": {
+        "unit": [
+          "120万吨年重整装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "120万吨年重整装置",
+      "predicate": "monthly_output",
+      "object": {
+        "value": 128791,
+        "unit": "t",
+        "period": "2025-12"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/3、装置生产完成情况表/延安石油化工厂装置生产完成情况（3-1）-202512.xlsx",
+        "sheet": "延安石化厂装置生产完成情况（3-1）",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": "源表是历史产量记录，不是显式上下限；上下限需要结合计划数据补充。"
+    },
+    {
+      "rule_id": "R-PRODUCT-OUTPUT-002",
+      "type": "scheduling_experience",
+      "category": "产品类",
+      "subcategory": "调度周期总产量上下限",
+      "name": "常压装置累计处理量记录",
+      "description": "2025年12月常压装置累计原料处理量为6409543吨，可作为调度周期产量基线。",
+      "scope": {
+        "unit": [
+          "常压装置合计"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "常压装置合计",
+      "predicate": "period_output",
+      "object": {
+        "value": 6409543,
+        "unit": "t",
+        "period": "2025-01~2025-12"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼/3、装置生产完成情况表/延安炼油厂装置生产完成情况表（一）-202512.xlsx",
+        "sheet": "延安炼油厂装置生产完成情况表（一）",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": "源表是历史累计值，不是显式上下限；正式接入时需补充计划上下限。"
+    },
+    {
+      "rule_id": "R-SHUTDOWN-LOAD-001",
+      "type": "operation_procedure",
+      "category": "停工调度规则",
+      "subcategory": "负荷变化幅度约束",
+      "name": "聚丙烯反应系统分阶段降负荷",
+      "description": "聚丙烯装置停工过程中，以反应器密度达到470、450、400千克/立方米等节点分阶段执行停工操作。",
+      "scope": {
+        "unit": [
+          "聚丙烯装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "聚丙烯反应系统",
+      "predicate": "shutdown_stage",
+      "object": {
+        "thresholds": [
+          470,
+          450,
+          400
+        ],
+        "unit": "kg/m3"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）/2026年联合二车间开停工方案/联合二车间聚丙烯装置开停工、吹扫方案.docx",
+        "paragraph": 0
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-SHUTDOWN-RAMPDOWN-001",
+      "type": "operation_procedure",
+      "category": "停工调度规则",
+      "subcategory": "停机前降负荷过渡期",
+      "name": "MTBE装置缓慢降低温度和压力",
+      "description": "MTBE停工时应均匀、缓慢降低反应温度和压力，避免操作过快。",
+      "scope": {
+        "unit": [
+          "MTBE装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "MTBE装置",
+      "predicate": "shutdown_transition",
+      "object": {
+        "action": "decrease_temperature_and_pressure",
+        "mode": "uniform_slow"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）/2026年联合二车间开停工方案/联合二车间MTBE装置开停工、吹扫方案.docx",
+        "paragraph": 0
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-SHUTDOWN-INVENTORY-001",
+      "type": "operation_procedure",
+      "category": "停工调度规则",
+      "subcategory": "停工前进料库存清空",
+      "name": "聚丙烯停工前清空反应器相关物料",
+      "description": "聚丙烯装置停工时，反应器密度达到470千克/立方米后切换相关控制回路至手动并清空D301/F301。",
+      "scope": {
+        "unit": [
+          "聚丙烯装置"
+        ],
+        "tank": [
+          "D301",
+          "F301"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "D301/F301",
+      "predicate": "inventory_before_shutdown",
+      "object": {
+        "operator": "empty_when",
+        "variable": "reactor_density",
+        "value": 470,
+        "unit": "kg/m3"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）/2026年联合二车间开停工方案/联合二车间聚丙烯装置开停工、吹扫方案.docx",
+        "paragraph": 0
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-SHUTDOWN-DOWNSTREAM-001",
+      "type": "operation_procedure",
+      "category": "停工调度规则",
+      "subcategory": "停工前下游装置进料及产品库存备罐",
+      "name": "停工前协调上下游物流和不合格品回收",
+      "description": "MTBE停工前联系调度，并通知上下游装置调整流程，回收甲醇及不合格产品。",
+      "scope": {
+        "unit": [
+          "MTBE装置"
+        ],
+        "material": [
+          "甲醇",
+          "不合格产品"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        }
+      ],
+      "subject": "MTBE装置",
+      "predicate": "upstream_downstream_coordination",
+      "object": {
+        "action": "adjust_flow_and_recover_material"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）/2026年联合二车间开停工方案/联合二车间MTBE装置开停工、吹扫方案.docx",
+        "paragraph": 0
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-SHUTDOWN-RESTART-001",
+      "type": "scheduling_experience",
+      "category": "停工调度规则",
+      "subcategory": "复工后生产偏差补偿",
+      "name": "复工后恢复正常负荷",
+      "description": "停工调度分类中包含复工后恢复正常工况和生产偏差补偿要求，当前源资料尚未抽取到可直接量化的统一阈值。",
+      "scope": {
+        "unit": [
+          "炼油装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "炼油装置",
+      "predicate": "restart_load_recovery",
+      "object": {
+        "status": "pending_parameter"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）"
+      },
+      "review_status": "待人工确认",
+      "notes": "需要从各装置复工方案中补充恢复时间、负荷阶梯和偏差补偿计算方式。"
+    },
+    {
+      "rule_id": "R-FLOW-MATERIAL-001",
+      "type": "flow_characteristic",
+      "category": "流程特征和协同规则",
+      "subcategory": "物料流向规则",
+      "name": "常压侧线流向",
+      "description": "300万吨常压装置常石脑油侧线流向为石脑油（重整原料），产品编码NK1。",
+      "scope": {
+        "unit": [
+          "300万吨常压装置"
+        ],
+        "product": [
+          "NK1"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "300_常石脑油",
+      "predicate": "flows_to",
+      "object": {
+        "target": "NK1",
+        "material": "石脑油（重整原料）"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "常压装置Assay数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-FLOW-MATERIAL-002",
+      "type": "flow_characteristic",
+      "category": "流程特征和协同规则",
+      "subcategory": "物料流向规则",
+      "name": "常压渣油侧线流向",
+      "description": "300万吨常压装置常渣侧线流向为减压渣油，产品编码VR1。",
+      "scope": {
+        "unit": [
+          "300万吨常压装置"
+        ],
+        "product": [
+          "VR1"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "300_常渣",
+      "predicate": "flows_to",
+      "object": {
+        "target": "VR1",
+        "material": "减压渣油"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "常压装置Assay数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-FLOW-CDU-001",
+      "type": "flow_characteristic",
+      "category": "流程特征和协同规则",
+      "subcategory": "常压装置协同规则",
+      "name": "常压装置侧线产品集合",
+      "description": "常压装置可形成常顶油、石脑油、常一线、常二线、常三线和常渣等侧线产品。",
+      "scope": {
+        "unit": [
+          "300万吨常压装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "300万吨常压装置",
+      "predicate": "side_products",
+      "object": {
+        "values": [
+          "WN1",
+          "NK1",
+          "KE1",
+          "LD1",
+          "HD1",
+          "VR1"
+        ]
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "Assay表",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-FLOW-FCC-001",
+      "type": "flow_characteristic",
+      "category": "流程特征和协同规则",
+      "subcategory": "催化装置协同规则",
+      "name": "催化装置侧线产品属性记录",
+      "description": "200万吨催化装置侧线数据包含催化汽油、催化柴油、液化气、干气及油浆等产品或侧线。",
+      "scope": {
+        "unit": [
+          "200万吨催化装置"
+        ],
+        "product": [
+          "催化汽油",
+          "催化柴油",
+          "液化气",
+          "干气",
+          "油浆"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "200万吨催化装置",
+      "predicate": "has_side_stream",
+      "object": {
+        "values": [
+          "催化汽油",
+          "催化柴油",
+          "液化气",
+          "干气",
+          "油浆"
+        ]
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置侧线性质数据",
+        "row": 3
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-FLOW-TANK-BUFFER-001",
+      "type": "flow_characteristic",
+      "category": "流程特征和协同规则",
+      "subcategory": "中间罐区缓冲与调合协同规则",
+      "name": "中间罐库存状态作为流程缓冲特征",
+      "description": "2026年1月7日延石化T-4101石脑油罐油量为3697.715吨，可作为中间罐区缓冲状态特征。",
+      "scope": {
+        "tank": [
+          "T-4101"
+        ],
+        "material": [
+          "石脑油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "state_feature"
+        },
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "T-4101",
+      "predicate": "inventory",
+      "object": {
+        "value": 3697.715,
+        "unit": "t",
+        "as_of": "2026-01-07"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/2、油罐数据动态/延安石油化工厂生产调度罐量日动态表-20260107.xlsx",
+        "sheet": "延安石油化工厂油品动态 ",
+        "row": 4
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-EXP-SAFETY-001",
+      "type": "scheduling_experience",
+      "category": "调度经验规则",
+      "subcategory": "安全边际规则",
+      "name": "储罐安全高度边际",
+      "description": "6101号原油罐安全高度上限为14.3米、下限为2.5米，调度变量应在安全区间内运行。",
+      "scope": {
+        "tank": [
+          "6101"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "soft_constraint"
+        },
+        {
+          "target": "RL",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "6101",
+      "predicate": "safety_margin",
+      "object": {
+        "upper": 14.3,
+        "lower": 2.5,
+        "unit": "m"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    },
+    {
+      "rule_id": "R-EXP-INVENTORY-001",
+      "type": "scheduling_experience",
+      "category": "调度经验规则",
+      "subcategory": "库位平衡规则",
+      "name": "原油罐库位状态",
+      "description": "2026年1月7日6101号原油罐油量为1897.4吨、空量为5628.6吨，可作为库存平衡与后续收油安排的状态输入。",
+      "scope": {
+        "tank": [
+          "6101"
+        ],
+        "material": [
+          "原油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "state_feature"
+        },
+        {
+          "target": "MILP",
+          "type": "soft_constraint"
+        }
+      ],
+      "subject": "6101",
+      "predicate": "inventory_balance",
+      "object": {
+        "oil_quantity": 1897.4,
+        "empty_quantity": 5628.6,
+        "unit": "t",
+        "as_of": "2026-01-07"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼/2、油罐数据动态/延炼油品动态-20260107.xlsx",
+        "sheet": "油品动态",
+        "row": 4
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

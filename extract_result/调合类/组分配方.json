@@ -1,0 +1,14 @@
+{
+  "category": "调合类",
+  "subcategory": "组分配方",
+  "sample_count": 0,
+  "status": "pending",
+  "notes": "当前源表中的‘成品油调合数据’工作表未发现可直接抽取的调合记录，本小类先保留待补充文件。",
+  "rules": [],
+  "source_candidates": [
+    {
+      "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx"
+    }
+  ],
+  "id_prefix": "R-BLEND-"
+}

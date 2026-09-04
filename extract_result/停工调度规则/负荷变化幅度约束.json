@@ -1,0 +1,52 @@
+{
+  "category": "停工调度规则",
+  "subcategory": "负荷变化幅度约束",
+  "sample_count": 1,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-SHUTDOWN-LOAD-001",
+      "type": "operation_procedure",
+      "category": "停工调度规则",
+      "subcategory": "负荷变化幅度约束",
+      "name": "聚丙烯反应系统分阶段降负荷",
+      "description": "聚丙烯装置停工过程中，以反应器密度达到470、450、400千克/立方米等节点分阶段执行停工操作。",
+      "scope": {
+        "unit": [
+          "聚丙烯装置"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "聚丙烯反应系统",
+      "predicate": "shutdown_stage",
+      "object": {
+        "thresholds": [
+          470,
+          450,
+          400
+        ],
+        "unit": "kg/m3"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）/2026年联合二车间开停工方案/联合二车间聚丙烯装置开停工、吹扫方案.docx",
+        "paragraph": 0
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

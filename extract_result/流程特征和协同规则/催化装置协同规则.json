@@ -1,0 +1,57 @@
+{
+  "category": "流程特征和协同规则",
+  "subcategory": "催化装置协同规则",
+  "sample_count": 1,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-FLOW-FCC-001",
+      "type": "flow_characteristic",
+      "category": "流程特征和协同规则",
+      "subcategory": "催化装置协同规则",
+      "name": "催化装置侧线产品属性记录",
+      "description": "200万吨催化装置侧线数据包含催化汽油、催化柴油、液化气、干气及油浆等产品或侧线。",
+      "scope": {
+        "unit": [
+          "200万吨催化装置"
+        ],
+        "product": [
+          "催化汽油",
+          "催化柴油",
+          "液化气",
+          "干气",
+          "油浆"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "200万吨催化装置",
+      "predicate": "has_side_stream",
+      "object": {
+        "values": [
+          "催化汽油",
+          "催化柴油",
+          "液化气",
+          "干气",
+          "油浆"
+        ]
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置侧线性质数据",
+        "row": 3
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

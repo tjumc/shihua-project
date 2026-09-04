@@ -1,0 +1,50 @@
+{
+  "category": "调度经验规则",
+  "subcategory": "安全边际规则",
+  "sample_count": 1,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-EXP-SAFETY-001",
+      "type": "scheduling_experience",
+      "category": "调度经验规则",
+      "subcategory": "安全边际规则",
+      "name": "储罐安全高度边际",
+      "description": "6101号原油罐安全高度上限为14.3米、下限为2.5米，调度变量应在安全区间内运行。",
+      "scope": {
+        "tank": [
+          "6101"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "soft_constraint"
+        },
+        {
+          "target": "RL",
+          "type": "state_feature"
+        }
+      ],
+      "subject": "6101",
+      "predicate": "safety_margin",
+      "object": {
+        "upper": 14.3,
+        "lower": 2.5,
+        "unit": "m"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 5
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

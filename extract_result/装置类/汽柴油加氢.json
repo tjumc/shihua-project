@@ -1,0 +1,65 @@
+{
+  "category": "装置类",
+  "subcategory": "汽柴油加氢",
+  "sample_count": 1,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-UNIT-HYDRO-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "柴油加氢装置基础负荷范围",
+      "description": "140万吨柴油加氢装置额定负荷为4208吨/天，最大加工负荷为4632吨/天，最大负荷系数为1.1，最小负荷系数为0.6。",
+      "scope": {
+        "unit": [
+          "140万吨柴油加氢装置"
+        ]
+      },
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2524.8,
+          4632
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "140万吨柴油加氢装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          2524.8,
+          4632
+        ],
+        "unit": "t/d"
+      },
+      "condition": null,
+      "effect": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2524.8,
+          4632
+        ],
+        "unit": "t/d"
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 6
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}

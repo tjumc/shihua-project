@@ -1,0 +1,53 @@
+{
+  "category": "流程特征和协同规则",
+  "subcategory": "中间罐区缓冲与调合协同规则",
+  "sample_count": 1,
+  "status": "ready",
+  "notes": "已抽取源资料样例；字段仍需业务人员确认后正式入库。",
+  "rules": [
+    {
+      "rule_id": "R-FLOW-TANK-BUFFER-001",
+      "type": "flow_characteristic",
+      "category": "流程特征和协同规则",
+      "subcategory": "中间罐区缓冲与调合协同规则",
+      "name": "中间罐库存状态作为流程缓冲特征",
+      "description": "2026年1月7日延石化T-4101石脑油罐油量为3697.715吨，可作为中间罐区缓冲状态特征。",
+      "scope": {
+        "tank": [
+          "T-4101"
+        ],
+        "material": [
+          "石脑油"
+        ]
+      },
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "state_feature"
+        },
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "T-4101",
+      "predicate": "inventory",
+      "object": {
+        "value": 3697.715,
+        "unit": "t",
+        "as_of": "2026-01-07"
+      },
+      "condition": null,
+      "effect": null,
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/2、油罐数据动态/延安石油化工厂生产调度罐量日动态表-20260107.xlsx",
+        "sheet": "延安石油化工厂油品动态 ",
+        "row": 4
+      },
+      "review_status": "已从资料抽取",
+      "notes": ""
+    }
+  ]
+}
