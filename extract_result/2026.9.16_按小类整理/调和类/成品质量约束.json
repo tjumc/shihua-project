@@ -1,0 +1,53 @@
+[
+  {
+    "rule_id": "PRODUCT_RON_MIN_92_GASOLINE",
+    "description": "92#汽油RON下限为92。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油.RON"
+      }
+    ],
+    "parameters": {
+      "product_ron_min": {
+        "value": 92,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_RON_MIN_95_GASOLINE",
+    "description": "95#汽油RON下限为95。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油.RON"
+      }
+    ],
+    "parameters": {
+      "product_ron_min": {
+        "value": 95,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_CN_MIN_0_DIESEL",
+    "description": "0#柴油CN下限为51。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油.CN"
+      }
+    ],
+    "parameters": {
+      "product_cn_min": {
+        "value": 51,
+        "unit": null
+      }
+    }
+  }
+]

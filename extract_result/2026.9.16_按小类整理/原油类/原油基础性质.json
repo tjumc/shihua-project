@@ -1,0 +1,138 @@
+[
+  {
+    "rule_id": "CRUDE_PROPERTY_YCO_API",
+    "description": "延安原油（YCO）API为36.2。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "api": {
+        "value": 36.2,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_YCO_SPG",
+    "description": "延安原油（YCO）比重为0.8398。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "specific_gravity": {
+        "value": 0.8398,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_YCO_SUL",
+    "description": "延安原油（YCO）硫含量为0.08。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 0.08,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_YCO_ACID_VALUE",
+    "description": "延安原油（YCO）酸值为0.04。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "acid_value": {
+        "value": 0.04,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_RCO_API",
+    "description": "俄罗斯原油（RCO）API为34.5。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "api": {
+        "value": 34.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_RCO_SPG",
+    "description": "俄罗斯原油（RCO）比重为0.8497。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "specific_gravity": {
+        "value": 0.8497,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_RCO_SUL",
+    "description": "俄罗斯原油（RCO）硫含量为0.56。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 0.56,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_RCO_ACID_VALUE",
+    "description": "俄罗斯原油（RCO）酸值为0.17。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "acid_value": {
+        "value": 0.17,
+        "unit": null
+      }
+    }
+  }
+]

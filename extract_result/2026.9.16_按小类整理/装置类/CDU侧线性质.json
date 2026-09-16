@@ -1,0 +1,1192 @@
+[
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线比重为0.7352。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7352,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线比重为0.7365。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7365,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线硫含量为0.00958。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00958,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线硫含量为0.00297。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00297,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_ARW_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线芳烃含量为6.92。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 6.92,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_ARW_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线芳烃含量为7.86。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 7.86,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线比重为0.7906。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7906,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线比重为0.7971。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7971,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线硫含量为0.0126。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0126,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线硫含量为0.00845。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00845,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_ARW_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线芳烃含量为11.1。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.1,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_ARW_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线芳烃含量为14.6。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 14.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线比重为0.8281。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8281,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线比重为0.8474。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8474,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线硫含量为0.0453。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0453,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线硫含量为0.38。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.38,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_DON_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线抗爆指数为60.9。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.YCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 60.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_DON_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线抗爆指数为58。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.RCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 58.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_ARW_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线芳烃含量为11.9。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_ARW_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线芳烃含量为26.5。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 26.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线比重为0.8721。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8721,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线比重为0.902。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.902,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线硫含量为0.08。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.08,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线硫含量为0.64。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.64,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_ARW_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线芳烃含量为18.3。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 18.3,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_ARW_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线芳烃含量为41.5。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 41.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线比重为0.9324。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9324,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线比重为0.9838。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9838,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线硫含量为0.16。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.16,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线硫含量为1.14。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 1.14,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_CON_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线康氏残炭为7.82。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.YCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 7.82,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_CON_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线康氏残炭为13.33。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.RCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 13.33,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线比重为0.7352。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7352,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线比重为0.7365。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7365,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线硫含量为0.00958。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00958,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线硫含量为0.00297。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00297,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_ARW_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线芳烃含量为6.92。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 6.92,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_ARW_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线芳烃含量为7.86。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 7.86,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线比重为0.7906。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7906,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线比重为0.7971。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7971,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线硫含量为0.0126。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0126,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线硫含量为0.00845。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00845,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_ARW_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线芳烃含量为11.1。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.1,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_ARW_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线芳烃含量为14.6。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 14.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线比重为0.8281。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8281,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线比重为0.8474。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8474,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线硫含量为0.0453。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0453,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线硫含量为0.38。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.38,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_DON_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线抗爆指数为60.9。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.YCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 60.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_DON_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线抗爆指数为58。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.RCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 58.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_ARW_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线芳烃含量为11.9。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_ARW_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线芳烃含量为26.5。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 26.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线比重为0.8721。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8721,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线比重为0.902。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.902,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线硫含量为0.08。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.08,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线硫含量为0.64。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.64,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_ARW_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线芳烃含量为18.3。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 18.3,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_ARW_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线芳烃含量为41.5。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 41.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线比重为0.9324。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9324,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线比重为0.9838。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9838,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线硫含量为0.16。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.16,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线硫含量为1.14。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 1.14,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_CON_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线康氏残炭为7.82。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.YCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 7.82,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_CON_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线康氏残炭为13.33。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.RCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 13.33,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_CON_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线康氏残炭为0.17。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.RCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 0.17,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_RON_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线辛烷值为43.2。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.RCO.RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 43.2,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_DON_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线抗爆指数为44.6。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.YCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 44.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_CON_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线康氏残炭为0.17。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.RCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 0.17,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_RON_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线辛烷值为43.2。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.RCO.RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 43.2,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_DON_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线抗爆指数为44.6。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.YCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 44.6,
+        "unit": null
+      }
+    }
+  }
+]

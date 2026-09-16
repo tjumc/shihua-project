@@ -1,0 +1,2348 @@
+[
+  {
+    "rule_id": "UNIT_RATED_LOAD_CDU_300",
+    "description": "300万吨年常压装置额定负荷为8580吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 8580,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_CDU_300",
+    "description": "300万吨年常压装置最小负荷系数为0.85。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.85,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_CDU_300",
+    "description": "300万吨年常压装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_CDU_260",
+    "description": "260万吨年常压装置额定负荷为7630吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 7630,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_CDU_260",
+    "description": "260万吨年常压装置最小负荷系数为0.85。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.85,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_CDU_260",
+    "description": "260万吨年常压装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_FCC_200",
+    "description": "200万催化装置额定负荷为5100吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 5100,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_FCC_200",
+    "description": "200万催化装置最小负荷系数为0.9。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.9,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_FCC_200",
+    "description": "200万催化装置最大加工负荷为5600吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 5600,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_FCC_100",
+    "description": "100万催化装置额定负荷为2550吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 2550,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_FCC_100",
+    "description": "100万催化装置最小负荷系数为0.9。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.9,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_FCC_100",
+    "description": "100万催化装置最大加工负荷为2800吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 2800,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置额定负荷为4208吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 4208,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置最大加工负荷为4632吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 4632,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置额定负荷为6857吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 6857,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置最小负荷系数为0.63。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.63,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置最大加工负荷为7200吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 7200,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_REFORMING_120",
+    "description": "120万重整装置额定负荷为4052吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 4052,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_REFORMING_120",
+    "description": "120万重整装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_REFORMING_120",
+    "description": "120万重整装置最大加工负荷为4464吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 4464,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_JET_HYDRO_50",
+    "description": "50万航煤加氢装置额定负荷为1360吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 1360,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_JET_HYDRO_50",
+    "description": "50万航煤加氢装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_JET_HYDRO_50",
+    "description": "50万航煤加氢装置最大加工负荷为1488吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1488,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置额定负荷为822吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 822,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置最大加工负荷为863吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 863,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置额定负荷为1700吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 1700,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置最大加工负荷为1872吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1872,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_MTBE_YL",
+    "description": "MTBE装置额定负荷为164吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 164,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_MTBE_YL",
+    "description": "MTBE装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_MTBE_YL",
+    "description": "MTBE装置最大加工负荷为173吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 173,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_MTBE_12",
+    "description": "12万MTBE装置额定负荷为1031吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 1031,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_MTBE_12",
+    "description": "12万MTBE装置最小负荷系数为0.65。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.65,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_MTBE_12",
+    "description": "12万MTBE装置最大加工负荷为1080吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1080,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_MTBE_25",
+    "description": "25万MTBE装置额定负荷为917吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 917,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_MTBE_25",
+    "description": "25万MTBE装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_MTBE_25",
+    "description": "25万MTBE装置最大加工负荷为1008吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1008,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_PP_YL",
+    "description": "聚丙烯装置额定负荷为274吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 274,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_PP_YL",
+    "description": "聚丙烯装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_PP_YL",
+    "description": "聚丙烯装置最大加工负荷为288吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 288,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_PP_20",
+    "description": "20万聚丙烯装置额定负荷为548吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 548,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_PP_20",
+    "description": "20万聚丙烯装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_PP_20",
+    "description": "20万聚丙烯装置最大加工负荷为575吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 575,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_FCC_100",
+    "description": "100万催化装置初始负荷为2300吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 2300,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_FCC_100",
+    "description": "100万催化装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_REFORMING_120",
+    "description": "120万重整装置初始负荷为2424吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 2424,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_REFORMING_120",
+    "description": "120万重整装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_MTBE_12",
+    "description": "12万MTBE装置初始负荷为672吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 672,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_MTBE_12",
+    "description": "12万MTBE装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置初始负荷为2520吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 2520,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_FCC_200",
+    "description": "200万催化装置初始负荷为4600吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 4600,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_FCC_200",
+    "description": "200万催化装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_PP_20",
+    "description": "20万聚丙烯装置初始负荷为384吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 384,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_PP_20",
+    "description": "20万聚丙烯装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置初始负荷为4320吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 4320,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_MTBE_25",
+    "description": "25万MTBE装置初始负荷为552吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 552,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_MTBE_25",
+    "description": "25万MTBE装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_JET_HYDRO_50",
+    "description": "50万航煤加氢装置初始负荷为960吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 960,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_JET_HYDRO_50",
+    "description": "50万航煤加氢装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置初始负荷为1200吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 1200,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_MTBE_YL",
+    "description": "MTBE装置初始负荷为115吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 115,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_MTBE_YL",
+    "description": "MTBE装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置初始负荷为575吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 575,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_PP_YL",
+    "description": "聚丙烯装置初始负荷为192吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 192,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_PP_YL",
+    "description": "聚丙烯装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_LPG_PURIFICATION",
+    "description": "液化气精制装置初始负荷为575吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 575,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_LPG_PURIFICATION",
+    "description": "液化气精制装置额定负荷为822吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 822,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_LPG_PURIFICATION",
+    "description": "液化气精制装置最大加工负荷为863吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 863,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_LPG_PURIFICATION",
+    "description": "液化气精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_LPG_PURIFICATION",
+    "description": "液化气精制装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置初始负荷为134吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 134,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置额定负荷为192吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 192,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置最大加工负荷为201吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 201,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置初始负荷为345吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 345,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置额定负荷为493吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 493,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置最大加工负荷为518吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 518,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元初始负荷为120吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 120,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元额定负荷为240吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 240,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元最大加工负荷为288吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 288,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元最大负荷系数为1.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.2,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元最小负荷系数为0.5。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.5,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_STYRENE_300",
+    "description": "苯乙烯装置300单元初始负荷为120吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 120,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_STYRENE_300",
+    "description": "苯乙烯装置300单元额定负荷为320吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 320,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_STYRENE_300",
+    "description": "苯乙烯装置300单元最大加工负荷为384吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 384,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_STYRENE_300",
+    "description": "苯乙烯装置300单元最大负荷系数为1.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.2,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_STYRENE_300",
+    "description": "苯乙烯装置300单元最小负荷系数为0.4。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.4,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_STYRENE_400",
+    "description": "苯乙烯装置400单元初始负荷为120吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 120,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_STYRENE_400",
+    "description": "苯乙烯装置400单元额定负荷为320吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 320,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_STYRENE_400",
+    "description": "苯乙烯装置400单元最大加工负荷为384吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 384,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_STYRENE_400",
+    "description": "苯乙烯装置400单元最大负荷系数为1.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.2,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_STYRENE_400",
+    "description": "苯乙烯装置400单元最小负荷系数为0.4。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.4,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置初始负荷为384吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 384,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置额定负荷为548吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 548,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置最大加工负荷为575吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 575,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置初始负荷为4080吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 4080,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置额定负荷为5130吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 5130,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置最大加工负荷为5400吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 5400,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置最小负荷系数为0.8。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.8,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_REFINING_60",
+    "description": "60万精制装置初始负荷为1150吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 1150,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_REFINING_60",
+    "description": "60万精制装置额定负荷为1644吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 1644,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_REFINING_60",
+    "description": "60万精制装置最大加工负荷为1726吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1726,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_REFINING_60",
+    "description": "60万精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_REFINING_60",
+    "description": "60万精制装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_SULFUR_RECOVERY",
+    "description": "硫磺回收装置初始负荷为8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_SULFUR_RECOVERY",
+    "description": "硫磺回收装置额定负荷为11吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 11,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_SULFUR_RECOVERY",
+    "description": "硫磺回收装置最大加工负荷为11.5吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 11.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_SULFUR_RECOVERY",
+    "description": "硫磺回收装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_SULFUR_RECOVERY",
+    "description": "硫磺回收装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置初始负荷为38吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 38,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置额定负荷为55吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 55,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置最大加工负荷为58吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 58,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_ALKYLATION_20",
+    "description": "20万烷基化装置初始负荷为1440吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 1440,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_ALKYLATION_20",
+    "description": "20万烷基化装置额定负荷为2400吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 2400,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_ALKYLATION_20",
+    "description": "20万烷基化装置最大加工负荷为2640吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 2640,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_ALKYLATION_20",
+    "description": "20万烷基化装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_ALKYLATION_20",
+    "description": "20万烷基化装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置初始负荷为1560吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 1560,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置额定负荷为2620吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 2620,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置最大加工负荷为2760吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 2760,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_CDU_300",
+    "description": "300万吨年常压装置初始负荷为7300吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 7300,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_CDU_260",
+    "description": "260万吨年常压装置初始负荷为6500吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 6500,
+        "unit": "t/d"
+      }
+    }
+  }
+]

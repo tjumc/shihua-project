@@ -1,0 +1,206 @@
+[
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_RECYCLE_OIL",
+    "description": "200万催化装置的200_回炼油_去延能化侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为69.309吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 69.309,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_RECYCLE_OIL",
+    "description": "200万催化装置的200_回炼油_去延能化侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为84.56吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 84.56,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_DRY_GAS",
+    "description": "200万催化装置的200_干气侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为147.339吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 147.339,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_DRY_GAS",
+    "description": "200万催化装置的200_干气侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为179.76吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 179.76,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_LPG",
+    "description": "200万催化装置的200_液化气侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为796.365吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 796.365,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_LPG",
+    "description": "200万催化装置的200_液化气侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为971.6吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 971.6,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_GASOLINE",
+    "description": "200万催化装置的200_催化汽油侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为2037.96吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 2037.96,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_GASOLINE",
+    "description": "200万催化装置的200_催化汽油侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为2486.4吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 2486.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_DIESEL",
+    "description": "200万催化装置的200_催化柴油侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为1141.074吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 1141.074,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_DIESEL",
+    "description": "200万催化装置的200_催化柴油侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为1392.16吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 1392.16,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_SLURRY",
+    "description": "200万催化装置的200_油浆_直售侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为31.671吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 31.671,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_SLURRY",
+    "description": "200万催化装置的200_油浆_直售侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为38.64吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 38.64,
+        "unit": "t/d"
+      }
+    }
+  }
+]

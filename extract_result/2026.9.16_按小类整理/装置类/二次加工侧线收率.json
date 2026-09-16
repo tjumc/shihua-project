@@ -1,0 +1,104 @@
+[
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_RECYCLE_OIL",
+    "description": "200万催化装置的200_回炼油_去延能化侧线质量收率为1.51%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0151,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_DRY_GAS",
+    "description": "200万催化装置的200_干气侧线质量收率为3.21%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0321,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_LPG",
+    "description": "200万催化装置的200_液化气侧线质量收率为17.35%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.1735,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_GASOLINE",
+    "description": "200万催化装置的200_催化汽油侧线质量收率为44.4%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.444,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_DIESEL",
+    "description": "200万催化装置的200_催化柴油侧线质量收率为24.86%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.2486,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_SLURRY",
+    "description": "200万催化装置的200_油浆_直售侧线质量收率为0.69%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0069,
+        "unit": "1"
+      }
+    }
+  }
+]
