@@ -1,0 +1,4320 @@
+[
+  {
+    "rule_id": "UNIT_RATED_LOAD_CDU_300",
+    "description": "300万吨年常压装置额定负荷为8580吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 8580,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_CDU_300",
+    "description": "300万吨年常压装置最小负荷系数为0.85。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.85,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_CDU_300",
+    "description": "300万吨年常压装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_CDU_300",
+    "description": "300万吨年常压装置最小加工能力由额定负荷与最小负荷系数计算得到，为7293吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 7293,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MAX_CDU_300",
+    "description": "300万吨年常压装置最大加工能力由额定负荷与最大负荷系数计算得到，为9009吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_max": {
+        "value": 9009,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_CDU_260",
+    "description": "260万吨年常压装置额定负荷为7630吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 7630,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_CDU_260",
+    "description": "260万吨年常压装置最小负荷系数为0.85。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.85,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_CDU_260",
+    "description": "260万吨年常压装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_CDU_260",
+    "description": "260万吨年常压装置最小加工能力由额定负荷与最小负荷系数计算得到，为6485.5吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 6485.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MAX_CDU_260",
+    "description": "260万吨年常压装置最大加工能力由额定负荷与最大负荷系数计算得到，为8011.5吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_max": {
+        "value": 8011.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_FCC_200",
+    "description": "200万催化装置额定负荷为5100吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 5100,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_FCC_200",
+    "description": "200万催化装置最小负荷系数为0.9。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.9,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_FCC_200",
+    "description": "200万催化装置最大加工负荷为5600吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 5600,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_FCC_200",
+    "description": "200万催化装置最小加工能力由额定负荷与最小负荷系数计算得到，为4590吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 4590,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_FCC_100",
+    "description": "100万催化装置额定负荷为2550吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 2550,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_FCC_100",
+    "description": "100万催化装置最小负荷系数为0.9。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.9,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_FCC_100",
+    "description": "100万催化装置最大加工负荷为2800吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 2800,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_FCC_100",
+    "description": "100万催化装置最小加工能力由额定负荷与最小负荷系数计算得到，为2295吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 2295,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置额定负荷为4208吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 4208,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置最大加工负荷为4632吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 4632,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置最小加工能力由额定负荷与最小负荷系数计算得到，为2524.8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 2524.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置额定负荷为6857吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 6857,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置最小负荷系数为0.63。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.63,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置最大加工负荷为7200吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 7200,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置最小加工能力由额定负荷与最小负荷系数计算得到，为4319.91吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 4319.91,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_REFORMING_120",
+    "description": "120万重整装置额定负荷为4052吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 4052,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_REFORMING_120",
+    "description": "120万重整装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_REFORMING_120",
+    "description": "120万重整装置最大加工负荷为4464吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 4464,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_REFORMING_120",
+    "description": "120万重整装置最小加工能力由额定负荷与最小负荷系数计算得到，为2431.2吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 2431.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_JET_HYDRO_50",
+    "description": "50万航煤加氢装置额定负荷为1360吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 1360,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_JET_HYDRO_50",
+    "description": "50万航煤加氢装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_JET_HYDRO_50",
+    "description": "50万航煤加氢装置最大加工负荷为1488吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1488,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_JET_HYDRO_50",
+    "description": "50万航煤加氢装置最小加工能力由额定负荷与最小负荷系数计算得到，为952吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 952,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置额定负荷为822吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 822,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置最大加工负荷为863吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 863,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置最小加工能力由额定负荷与最小负荷系数计算得到，为575.4吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 575.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置额定负荷为1700吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 1700,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置最大加工负荷为1872吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1872,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置最小加工能力由额定负荷与最小负荷系数计算得到，为1190吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 1190,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_MTBE_YL",
+    "description": "MTBE装置额定负荷为164吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 164,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_MTBE_YL",
+    "description": "MTBE装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_MTBE_YL",
+    "description": "MTBE装置最大加工负荷为173吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 173,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_MTBE_YL",
+    "description": "MTBE装置最小加工能力由额定负荷与最小负荷系数计算得到，为114.8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 114.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_MTBE_12",
+    "description": "12万MTBE装置额定负荷为1031吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 1031,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_MTBE_12",
+    "description": "12万MTBE装置最小负荷系数为0.65。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.65,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_MTBE_12",
+    "description": "12万MTBE装置最大加工负荷为1080吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1080,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_MTBE_12",
+    "description": "12万MTBE装置最小加工能力由额定负荷与最小负荷系数计算得到，为670.15吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 670.15,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_MTBE_25",
+    "description": "25万MTBE装置额定负荷为917吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 917,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_MTBE_25",
+    "description": "25万MTBE装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_MTBE_25",
+    "description": "25万MTBE装置最大加工负荷为1008吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1008,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_MTBE_25",
+    "description": "25万MTBE装置最小加工能力由额定负荷与最小负荷系数计算得到，为550.2吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 550.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_PP_YL",
+    "description": "聚丙烯装置额定负荷为274吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 274,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_PP_YL",
+    "description": "聚丙烯装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_PP_YL",
+    "description": "聚丙烯装置最大加工负荷为288吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 288,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_PP_YL",
+    "description": "聚丙烯装置最小加工能力由额定负荷与最小负荷系数计算得到，为191.8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 191.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_PP_20",
+    "description": "20万聚丙烯装置额定负荷为548吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 548,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_PP_20",
+    "description": "20万聚丙烯装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_PP_20",
+    "description": "20万聚丙烯装置最大加工负荷为575吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 575,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_PP_20",
+    "description": "20万聚丙烯装置最小加工能力由额定负荷与最小负荷系数计算得到，为383.6吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 383.6,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线比重为0.7352。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7352,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线比重为0.7365。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7365,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线硫含量为0.00958。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00958,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线硫含量为0.00297。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00297,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_ARW_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线芳烃含量为6.92。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 6.92,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_ARW_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线芳烃含量为7.86。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 7.86,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线比重为0.7906。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7906,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线比重为0.7971。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7971,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线硫含量为0.0126。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0126,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线硫含量为0.00845。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00845,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_ARW_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线芳烃含量为11.1。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.1,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_ARW_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线芳烃含量为14.6。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 14.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线比重为0.8281。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8281,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线比重为0.8474。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8474,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线硫含量为0.0453。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0453,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线硫含量为0.38。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.38,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_DON_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线抗爆指数为60.9。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.YCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 60.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_DON_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线抗爆指数为58。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.RCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 58.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_ARW_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线芳烃含量为11.9。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_ARW_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线芳烃含量为26.5。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 26.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线比重为0.8721。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8721,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线比重为0.902。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.902,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线硫含量为0.08。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.08,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线硫含量为0.64。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.64,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_ARW_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线芳烃含量为18.3。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 18.3,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_ARW_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线芳烃含量为41.5。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 41.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SPG_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线比重为0.9324。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9324,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SPG_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线比重为0.9838。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9838,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SUL_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线硫含量为0.16。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.16,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SUL_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线硫含量为1.14。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 1.14,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_CON_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线康氏残炭为7.82。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.YCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 7.82,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_CON_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线康氏残炭为13.33。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.RCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 13.33,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线比重为0.7352。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7352,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线比重为0.7365。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7365,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线硫含量为0.00958。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00958,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线硫含量为0.00297。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00297,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_ARW_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线芳烃含量为6.92。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 6.92,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_ARW_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线芳烃含量为7.86。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 7.86,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线比重为0.7906。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7906,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线比重为0.7971。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7971,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线硫含量为0.0126。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0126,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线硫含量为0.00845。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00845,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_ARW_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线芳烃含量为11.1。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.1,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_ARW_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线芳烃含量为14.6。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 14.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线比重为0.8281。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8281,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线比重为0.8474。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8474,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线硫含量为0.0453。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0453,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线硫含量为0.38。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.38,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_DON_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线抗爆指数为60.9。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.YCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 60.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_DON_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线抗爆指数为58。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.RCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 58.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_ARW_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线芳烃含量为11.9。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_ARW_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线芳烃含量为26.5。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 26.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线比重为0.8721。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8721,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线比重为0.902。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.902,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线硫含量为0.08。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.08,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线硫含量为0.64。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.64,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_ARW_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线芳烃含量为18.3。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.YCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 18.3,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_ARW_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线芳烃含量为41.5。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.RCO.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 41.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SPG_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线比重为0.9324。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.YCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9324,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SPG_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线比重为0.9838。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.RCO.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9838,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SUL_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线硫含量为0.16。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.YCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.16,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SUL_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线硫含量为1.14。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.RCO.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 1.14,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_CON_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线康氏残炭为7.82。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.YCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 7.82,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_CON_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线康氏残炭为13.33。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.RCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 13.33,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_RECYCLE_OIL",
+    "description": "200万催化装置的200_回炼油_去延能化侧线质量收率为1.51%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0151,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_DRY_GAS",
+    "description": "200万催化装置的200_干气侧线质量收率为3.21%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0321,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_LPG",
+    "description": "200万催化装置的200_液化气侧线质量收率为17.35%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.1735,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_GASOLINE",
+    "description": "200万催化装置的200_催化汽油侧线质量收率为44.4%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.444,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_DIESEL",
+    "description": "200万催化装置的200_催化柴油侧线质量收率为24.86%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.2486,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_SLURRY",
+    "description": "200万催化装置的200_油浆_直售侧线质量收率为0.69%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0069,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_RECYCLE_OIL",
+    "description": "200万催化装置的200_回炼油_去延能化侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为69.309吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 69.309,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_RECYCLE_OIL",
+    "description": "200万催化装置的200_回炼油_去延能化侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为84.56吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 84.56,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_DRY_GAS",
+    "description": "200万催化装置的200_干气侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为147.339吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 147.339,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_DRY_GAS",
+    "description": "200万催化装置的200_干气侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为179.76吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 179.76,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_LPG",
+    "description": "200万催化装置的200_液化气侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为796.365吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 796.365,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_LPG",
+    "description": "200万催化装置的200_液化气侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为971.6吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 971.6,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_GASOLINE",
+    "description": "200万催化装置的200_催化汽油侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为2037.96吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 2037.96,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_GASOLINE",
+    "description": "200万催化装置的200_催化汽油侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为2486.4吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 2486.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_DIESEL",
+    "description": "200万催化装置的200_催化柴油侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为1141.074吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 1141.074,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_DIESEL",
+    "description": "200万催化装置的200_催化柴油侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为1392.16吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 1392.16,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MIN_FCC200_SLURRY",
+    "description": "200万催化装置的200_油浆_直售侧线产出下限由装置最小加工能力与固定侧线收率计算得到，为31.671吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_min": {
+        "value": 31.671,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_FLOW_MAX_FCC200_SLURRY",
+    "description": "200万催化装置的200_油浆_直售侧线产出上限由源表最大加工负荷与固定侧线收率计算得到，为38.64吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售"
+      }
+    ],
+    "parameters": {
+      "sidecut_flow_max": {
+        "value": 38.64,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_RECYCLE_SPG",
+    "description": "200万催化装置的200_回炼油_去延能化侧线比重为0.95。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.95,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_GASOLINE_SPG",
+    "description": "200万催化装置的200_催化汽油侧线比重为0.7148。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7148,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_GASOLINE_RON",
+    "description": "200万催化装置的200_催化汽油侧线辛烷值为89.3。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油.RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 89.3,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_GASOLINE_OLV",
+    "description": "200万催化装置的200_催化汽油侧线烯烃为33.4。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油.OLV"
+      }
+    ],
+    "parameters": {
+      "sidecut_olv": {
+        "value": 33.4,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_DIESEL_SPG",
+    "description": "200万催化装置的200_催化柴油侧线比重为0.845。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.845,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_SLURRY_SPG",
+    "description": "200万催化装置的200_油浆_直售侧线比重为1.058。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 1.058,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_RECYCLE_SPG",
+    "description": "100万催化装置的100_回炼油_去延能化侧线比重为0.984。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_回炼油_去延能化.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.984,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_GASOLINE_SPG",
+    "description": "100万催化装置的100_催化汽油侧线比重为0.725。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_催化汽油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.725,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_GASOLINE_RON",
+    "description": "100万催化装置的100_催化汽油侧线辛烷值为80.9。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_催化汽油.RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 80.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_DIESEL_SPG",
+    "description": "100万催化装置的100_催化柴油侧线比重为0.856。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_催化柴油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.856,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_SLURRY_SPG",
+    "description": "100万催化装置的100_油浆_直售侧线比重为0.945。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_油浆_直售.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.945,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_FCC_100",
+    "description": "100万催化装置初始负荷为2300吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 2300,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_FCC_100",
+    "description": "100万催化装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_REFORMING_120",
+    "description": "120万重整装置初始负荷为2424吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 2424,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_REFORMING_120",
+    "description": "120万重整装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_MTBE_12",
+    "description": "12万MTBE装置初始负荷为672吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 672,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_MTBE_12",
+    "description": "12万MTBE装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置初始负荷为2520吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 2520,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_FCC_200",
+    "description": "200万催化装置初始负荷为4600吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 4600,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_FCC_200",
+    "description": "200万催化装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_PP_20",
+    "description": "20万聚丙烯装置初始负荷为384吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 384,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_PP_20",
+    "description": "20万聚丙烯装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置初始负荷为4320吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 4320,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_MTBE_25",
+    "description": "25万MTBE装置初始负荷为552吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 552,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_MTBE_25",
+    "description": "25万MTBE装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_JET_HYDRO_50",
+    "description": "50万航煤加氢装置初始负荷为960吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 960,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_JET_HYDRO_50",
+    "description": "50万航煤加氢装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置初始负荷为1200吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 1200,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_MTBE_YL",
+    "description": "MTBE装置初始负荷为115吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 115,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_MTBE_YL",
+    "description": "MTBE装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置初始负荷为575吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 575,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_PP_YL",
+    "description": "聚丙烯装置初始负荷为192吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 192,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_PP_YL",
+    "description": "聚丙烯装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_LPG_PURIFICATION",
+    "description": "液化气精制装置初始负荷为575吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 575,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_LPG_PURIFICATION",
+    "description": "液化气精制装置额定负荷为822吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 822,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_LPG_PURIFICATION",
+    "description": "液化气精制装置最大加工负荷为863吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 863,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_LPG_PURIFICATION",
+    "description": "液化气精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_LPG_PURIFICATION",
+    "description": "液化气精制装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置初始负荷为134吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 134,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置额定负荷为192吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 192,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置最大加工负荷为201吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 201,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_SEC_BUTYL_ACETATE",
+    "description": "醋酸仲丁酯装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置初始负荷为345吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 345,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置额定负荷为493吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 493,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置最大加工负荷为518吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 518,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_DRY_GAS_PURIFICATION",
+    "description": "干气精制装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元初始负荷为120吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 120,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元额定负荷为240吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 240,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元最大加工负荷为288吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 288,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元最大负荷系数为1.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.2,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_ETHYLBENZENE_200",
+    "description": "乙苯装置200单元最小负荷系数为0.5。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.5,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_STYRENE_300",
+    "description": "苯乙烯装置300单元初始负荷为120吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 120,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_STYRENE_300",
+    "description": "苯乙烯装置300单元额定负荷为320吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 320,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_STYRENE_300",
+    "description": "苯乙烯装置300单元最大加工负荷为384吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 384,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_STYRENE_300",
+    "description": "苯乙烯装置300单元最大负荷系数为1.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.2,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_STYRENE_300",
+    "description": "苯乙烯装置300单元最小负荷系数为0.4。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.4,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_STYRENE_400",
+    "description": "苯乙烯装置400单元初始负荷为120吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 120,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_STYRENE_400",
+    "description": "苯乙烯装置400单元额定负荷为320吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 320,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_STYRENE_400",
+    "description": "苯乙烯装置400单元最大加工负荷为384吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 384,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_STYRENE_400",
+    "description": "苯乙烯装置400单元最大负荷系数为1.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.2,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_STYRENE_400",
+    "description": "苯乙烯装置400单元最小负荷系数为0.4。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.4,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置初始负荷为384吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 384,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置额定负荷为548吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 548,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置最大加工负荷为575吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 575,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_BENZENE_EXTRACTION_20",
+    "description": "20万苯抽提装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置初始负荷为4080吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 4080,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置额定负荷为5130吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 5130,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置最大加工负荷为5400吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 5400,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_GASOLINE_PURIFICATION_180",
+    "description": "180万汽油精制装置最小负荷系数为0.8。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.8,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_REFINING_60",
+    "description": "60万精制装置初始负荷为1150吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 1150,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_REFINING_60",
+    "description": "60万精制装置额定负荷为1644吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 1644,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_REFINING_60",
+    "description": "60万精制装置最大加工负荷为1726吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 1726,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_REFINING_60",
+    "description": "60万精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_REFINING_60",
+    "description": "60万精制装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_SULFUR_RECOVERY",
+    "description": "硫磺回收装置初始负荷为8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_SULFUR_RECOVERY",
+    "description": "硫磺回收装置额定负荷为11吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 11,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_SULFUR_RECOVERY",
+    "description": "硫磺回收装置最大加工负荷为11.5吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 11.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_SULFUR_RECOVERY",
+    "description": "硫磺回收装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_SULFUR_RECOVERY",
+    "description": "硫磺回收装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置初始负荷为38吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 38,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置额定负荷为55吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 55,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置最大加工负荷为58吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 58,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_SULFUR_PURIFICATION",
+    "description": "硫磺精制装置最小负荷系数为0.7。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_ALKYLATION_20",
+    "description": "20万烷基化装置初始负荷为1440吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 1440,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_ALKYLATION_20",
+    "description": "20万烷基化装置额定负荷为2400吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 2400,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_ALKYLATION_20",
+    "description": "20万烷基化装置最大加工负荷为2640吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 2640,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_ALKYLATION_20",
+    "description": "20万烷基化装置最大负荷系数为1.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_ALKYLATION_20",
+    "description": "20万烷基化装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置初始负荷为1560吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 1560,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_RATED_LOAD_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置额定负荷为2620吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "rated_load": {
+        "value": 2620,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_PROCESSING_LOAD_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置最大加工负荷为2760吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "max_processing_load": {
+        "value": 2760,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MAX_LOAD_FACTOR_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置最大负荷系数为1.05。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MIN_LOAD_FACTOR_MIXED_DEHYDROGENATION_30",
+    "description": "30万混合脱氢装置最小负荷系数为0.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_CDU_300",
+    "description": "300万吨年常压装置初始负荷为7300吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 7300,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_INITIAL_LOAD_CDU_260",
+    "description": "260万吨年常压装置初始负荷为6500吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "initial_load": {
+        "value": 6500,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_CON_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线康氏残炭为0.17。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.RCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 0.17,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_RON_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线辛烷值为43.2。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.RCO.RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 43.2,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_DON_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线抗爆指数为44.6。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.YCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 44.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_CON_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线康氏残炭为0.17。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.RCO.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 0.17,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_RON_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线辛烷值为43.2。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.RCO.RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 43.2,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_DON_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线抗爆指数为44.6。",
+    "sets": [
+      {
+        "set_name": "CDUkoq",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.YCO.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 44.6,
+        "unit": null
+      }
+    }
+  }
+]
