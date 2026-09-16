@@ -1,0 +1,845 @@
+{
+  "data": [
+    {
+      "result": "46.31",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.69",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.77",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.23",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "45.09",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "54.91",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.68",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.32",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "48.04",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "51.96",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.93",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.07",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.63",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.37",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.66",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.34",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.73",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.27",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "49.65",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "50.35",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.12",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.88",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.86",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.14",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "45.22",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "54.78",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "55.66",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "44.34",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "43.81",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "56.19",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "40.95",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "59.05",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "42.51",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "57.49",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "42.44",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "57.56",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "44.61",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "55.39",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "40.12",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "59.88",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "41.27",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "58.73",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "42.85",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "57.15",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "43.66",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "56.34",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "44.58",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "55.42",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "41.55",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "58.45",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "42.41",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "57.59",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "49.28",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "50.72",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "49.45",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "50.55",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "48.61",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "51.39",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "51.46",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "48.54",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "48.41",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "51.59",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "45.98",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "54.02",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.33",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.67",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "44.88",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "55.12",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "42.19",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "57.81",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.35",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.65",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "45.34",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "54.66",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "44.61",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "55.39",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "43.55",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "56.45",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "43.02",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "56.98",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.73",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.27",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "48.65",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "51.35",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.47",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.53",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.69",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.31",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.23",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.77",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.54",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.46",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.82",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.18",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.33",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.67",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "47.95",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "52.05",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.23",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.77",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "48.34",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "51.66",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "53.54",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "甲醇",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "46.46",
+      "sampleDotCode": "ST010016",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "水",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010016",
+    "sample_name": "C-102底（甲醇水溶液）",
+    "device_name": "延炼6万吨/年MTBE装置",
+    "export_time": "2026-07-15T12:15:51.766235",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 104
+  }
+}

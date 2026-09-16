@@ -1,0 +1,5837 @@
+{
+  "data": [
+    {
+      "result": "337",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "362",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "311",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "217",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "303",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "416",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "385",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "365",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "341",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "353",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "378",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "343",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "422",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "389",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "386",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "372",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "362",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "358",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "331",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "339",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "342",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "353",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "369",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "378",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "358",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "355",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "323",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "312",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "320",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "223",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-31 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-31 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "278",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "370",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "352",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "355",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "328",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "332",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "346",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "360",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "335",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "353",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "342",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "351",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "323",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "458",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "341",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "362",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "371",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "342",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "238",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "343",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "351",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "321",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "312",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "263",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "271",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "349",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "305",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "10",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "319",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "293",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "278",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "265",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "339",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "313",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "349",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "322",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "265",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "260",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "289",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "314",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "261",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "286",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "290",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "284",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "304",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "372",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "307",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "370",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "296",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "307",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "351",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "311",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "341",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "352",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "240",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "292",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "405",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "420",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "358",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "361",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "325",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "299",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "408",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "477",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "11",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "387",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "365",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "407",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "503",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "10",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "378",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "307",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "363",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "341",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "10",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "322",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "361",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "394",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "359",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "414",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "453",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "402",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "410",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "408",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "405",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "397",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "363",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "332",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "320",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "358",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "10",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "328",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "375",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "363",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "475",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "395",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-31 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "395",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-31 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "361",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "11",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "402",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "393",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "380",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "429",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "348",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "319",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "10",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "392",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "357",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "430",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "385",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "437",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "374",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "389",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "351",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "586",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "320",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "385",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "371",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "393",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "402",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "440",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "360",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "381",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "11",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "294",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "221",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "332",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "385",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "320",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "394",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "388",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "331",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "391",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "429",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "421",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "433",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "461",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "336",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "358",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "367",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "392",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "442",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "464",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "301",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "377",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "322",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "330",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "362",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "346",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "335",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "285",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "319",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "391",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "402",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "384",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "312",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "238",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "333",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "314",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "371",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "315",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-31 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-31 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "310",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "303",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "250",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "148",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "239",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "266",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "245",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "292",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "271",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "318",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "296",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "285",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "360",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "322",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "315",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "366",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "332",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "345",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "444",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "466",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "432",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "421",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "470",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "434",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "374",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "406",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "471",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "401",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "450",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "412",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "449",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "524",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "410",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "409",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "394",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "351",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "394",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "499",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "463",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "265",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "347",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "428",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "437",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "360",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "338",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "346",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "418",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "384",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "366",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "423",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "419",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "421",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "330",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "381",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "488",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "473",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "326",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "420",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "318",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "328",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "10",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "302",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "433",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "346",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "353",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "412",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "375",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "406",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "412",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "389",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "489",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "452",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "522",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "461",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "506",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "482",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "484",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "472",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "411",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "455",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "415",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "455",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "450",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "582",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "532",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "505",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "532",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "313",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "368",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "354",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "366",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "410",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "471",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-31 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-31 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "369",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "369",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "382",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "482",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "497",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "465",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "485",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "463",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "340",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "410",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "465",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "481",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "426",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "411",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "320",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "395",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "418",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "382",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "388",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "322",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "385",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "425",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "415",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "463",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "411",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "377",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "345",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "441",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "404",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "474",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "450",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "446",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "481",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "410",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "414",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "436",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "474",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "435",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "504",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "488",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "495",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "468",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "486",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "483",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "471",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "481",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "475",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "441",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "471",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "462",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "482",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "425",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "454",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "353",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "341",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "345",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "411",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "466",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "423",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "385",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "375",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-03 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "453",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-03 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "466",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-04 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-04 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "455",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-05 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-05 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "308",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "320",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "415",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "315",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "366",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-10 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-10 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "388",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-11 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-11 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "303",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-12 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-12 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "359",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "350",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "342",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "366",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "345",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-17 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-17 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "301",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-18 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-18 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "351",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-19 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-19 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "381",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "278",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-21 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-21 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "312",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "306",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "374",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-24 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-24 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "315",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-25 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-25 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "486",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-26 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-26 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "392",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "403",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "391",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "388",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "二甲醚",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST010012",
+      "unitName": "<p>mL/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "MTBE",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010012",
+    "sample_name": "C-102顶（未反C4）",
+    "device_name": "延炼6万吨/年MTBE装置",
+    "export_time": "2026-07-15T12:15:50.834270",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 728
+  }
+}

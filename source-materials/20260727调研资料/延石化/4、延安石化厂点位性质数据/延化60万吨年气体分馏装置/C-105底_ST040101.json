@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "result": "1732.00",
+      "sampleDotCode": "ST040101",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-09-19 13:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040101",
+    "sample_name": "C-105底",
+    "device_name": "延化60万吨/年气体分馏装置",
+    "export_time": "2026-07-15T14:43:14.319438",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 1
+  }
+}

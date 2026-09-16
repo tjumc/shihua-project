@@ -1,0 +1,1209 @@
+{
+  "data": [
+    {
+      "result": "<3",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.47",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.64",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.63",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.42",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.86",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.28",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "17",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.96",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.22",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.42",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.30",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "<3",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "19",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.07",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.97",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.52",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "21",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.95",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.64",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.66",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.58",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.13",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "23",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.85",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.42",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "22",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.89",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.57",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "30",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.52",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.14",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.95",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.34",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "<3",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.75",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.02",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.66",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "10",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.63",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.09",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.85",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.75",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "11",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.13",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "25",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.84",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.12",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.46",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "21",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.90",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.48",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.70",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "<3",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.65",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.67",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.78",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.26",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "19",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.95",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.56",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "13",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.55",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.23",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.31",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.61",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "<3",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.98",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.37",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "20",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.15",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.28",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.08",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "11",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.99",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.81",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.56",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.62",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.94",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "94",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.90",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.26",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.69",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.63",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "51",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.50",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.65",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.62",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.05",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "99",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.46",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.76",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.62",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.58",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "64",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.06",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.95",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "86",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.33",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.90",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.81",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.14",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.88",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.33",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "11",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "26",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "9.61",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.04",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.02",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.63",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.18",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.79",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "18",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.32",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.29",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "17",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "24",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.34",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.98",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "15",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.02",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.71",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.26",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.86",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.02",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.19",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.32",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.76",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.88",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "<3",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.55",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.70",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.91",
+      "sampleDotCode": "ST040106",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.29",
+      "sampleDotCode": "ST040106",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040106",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040106",
+    "sample_name": "气分装置污水",
+    "device_name": "延化60万吨/年气体分馏装置",
+    "export_time": "2026-07-15T14:43:21.891405",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 156
+  }
+}

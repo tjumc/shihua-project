@@ -20,8 +20,6 @@ venv/
 
 *.log
 
-
 # Source materials and generated intermediate outputs stay outside the deliverable tree.
-/source-materials/
 
 *.inspect.ndjson

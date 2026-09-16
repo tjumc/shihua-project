@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "result": "痕迹水",
+      "sampleDotCode": "ST040033",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "水含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "721.1",
+      "sampleDotCode": "ST040033",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "密度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.20",
+      "sampleDotCode": "ST040033",
+      "unitName": "<p>gBr/100g</p>",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "溴价 gBr/100g",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "34.9",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "初馏点蒸发温度 TIBP",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST040033",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "平均残留百分数(B)",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "109.0",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "50%平均蒸发温度T50%",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "147.1",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "90%平均蒸发温度T90%",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "166.0",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "终馏点蒸发温度TFBP",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "98.0",
+      "sampleDotCode": "ST040033",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "全馏",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "65.5",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-08-29 20:00:00",
+      "resultName": "10%平均蒸发温度T10%",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.8",
+      "sampleDotCode": "ST040033",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-10 09:00:00",
+      "resultName": "氮含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "34.7",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "初馏点蒸发温度 TIBP",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "62.1",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "10%平均蒸发温度T10%",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "105.0",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "50%平均蒸发温度T50%",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "146.3",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "90%平均蒸发温度T90%",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "痕迹水",
+      "sampleDotCode": "ST040033",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "水含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "98.0",
+      "sampleDotCode": "ST040033",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "全馏",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST040033",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "平均残留百分数(B)",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040033",
+      "unitName": "<p>gBr/100g</p>",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "溴价 gBr/100g",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "715.2",
+      "sampleDotCode": "ST040033",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "密度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "164.9",
+      "sampleDotCode": "ST040033",
+      "unitName": "℃",
+      "sampleTime": "2025-12-15 21:00:00",
+      "resultName": "终馏点蒸发温度TFBP",
+      "deviceName": "延化120万吨/年催化重整装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040033",
+    "sample_name": "T-4808",
+    "device_name": "延化120万吨/年催化重整装置",
+    "export_time": "2026-07-15T14:41:12.627867",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 21
+  }
+}

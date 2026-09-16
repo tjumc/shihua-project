@@ -1,0 +1,512 @@
+{
+  "data": [
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-05-01 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-05-15 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-05-29 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-06-05 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-06-12 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-06-19 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-06-26 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-07-10 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-07-17 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-07-24 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-07-31 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "162",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-05 18:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "23.70",
+      "sampleDotCode": "ST040059",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-05 18:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-08-07 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-08-14 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-08-21 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "4.32",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-11 08:30:00",
+      "resultName": "CL-",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.10",
+      "sampleDotCode": "ST040059",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-11 08:30:00",
+      "resultName": "硫化物",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-11 08:30:00",
+      "resultName": "氨含量",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.44",
+      "sampleDotCode": "ST040059",
+      "sampleTime": "2025-09-11 08:30:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-09-25 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "120",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-10 09:45:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "130",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-10 09:45:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-10-30 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-11-06 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-11-13 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-11-20 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-11-27 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-12-04 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-12-11 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-12-18 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2025-12-25 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-01-08 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-01-15 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-01-22 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-02-05 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-02-12 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-02-19 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-02-26 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-03-05 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-03-19 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-03-26 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-04-02 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-04-09 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "20.99",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-15 17:00:00",
+      "resultName": "碱度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.26",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 17:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040059",
+      "sampleTime": "2026-04-15 17:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "20.64",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-15 17:03:00",
+      "resultName": "碱度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.83",
+      "sampleDotCode": "ST040059",
+      "sampleTime": "2026-04-15 17:03:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.39",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 17:03:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-04-16 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "16510.00",
+      "sampleDotCode": "ST040059",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-17 08:30:00",
+      "resultName": "硫化物",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "13630.00",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-17 08:30:00",
+      "resultName": "氨含量",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "15990.00",
+      "sampleDotCode": "ST040059",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-18 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "16354.00",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-18 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6472.00",
+      "sampleDotCode": "ST040059",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-19 09:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "17850.00",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-19 09:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "12.14",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-21 10:00:00",
+      "resultName": "碱度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "12.14",
+      "sampleDotCode": "ST040059",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-21 10:00:00",
+      "resultName": "碱度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.64",
+      "sampleDotCode": "ST040059",
+      "sampleTime": "2026-04-21 10:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "9.26",
+      "sampleDotCode": "ST040059",
+      "sampleTime": "2026-04-21 10:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-04-23 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040059",
+      "unitName": "级",
+      "sampleTime": "2026-04-30 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040059",
+    "sample_name": "加氢烟道",
+    "device_name": "延化140万吨/年柴油精制装置",
+    "export_time": "2026-07-15T14:41:57.428439",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 63
+  }
+}

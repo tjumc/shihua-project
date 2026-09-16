@@ -1,0 +1,845 @@
+{
+  "data": [
+    {
+      "result": "3.39",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.22",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.28",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.55",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.14",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.52",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.52",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.72",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.89",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.83",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.90",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.13",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.29",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.26",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.50",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.04",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.87",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.01",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.34",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.73",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "8.02",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.19",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.43",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.20",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.35",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.55",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.73",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.91",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.51",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.35",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.00",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.16",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.13",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.16",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.59",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.30",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.16",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.18",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.52",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.93",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.78",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.86",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.25",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "10.25",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.59",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.86",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.62",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.24",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.37",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.75",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7.92",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.60",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7.80",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7.15",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.94",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.72",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.75",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7.65",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.12",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.96",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.84",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "8.11",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.96",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.97",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7.28",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.04",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "10.12",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "8.78",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.87",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.72",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7.82",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.03",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.45",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.92",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.96",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.73",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.11",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.65",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.16",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6.26",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.74",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.59",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.95",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.42",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.59",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.01",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.24",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "1.93",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.90",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "1.61",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.68",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "1.68",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.67",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.41",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.37",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.82",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5.24",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.33",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.41",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "1.55",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "3.68",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "2.85",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "4.15",
+      "sampleDotCode": "ST040123",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040123",
+    "sample_name": "D-110再生吸附剂",
+    "device_name": "延化180万吨/年汽油精制装置",
+    "export_time": "2026-07-15T14:39:04.674306",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 104
+  }
+}

@@ -1,0 +1,3933 @@
+{
+  "data": [
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.11",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.34",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "80.18",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.77",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "17.38",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.14",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.14",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.38",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "80.85",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.85",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "16.70",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.10",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.34",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "77.17",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.68",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "19.84",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.80",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.12",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.19",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "81.77",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.96",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "15.47",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.17",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "82.12",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.85",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "15.41",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.18",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "82.29",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.82",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "15.21",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.34",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "16.64",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.17",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "80.51",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.86",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.15",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.39",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "82.18",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.88",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "15.33",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.16",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "80.70",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.86",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "16.48",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.32",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.14",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.37",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "80.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.80",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "16.87",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.33",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.50",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "18.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.18",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.39",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "78.91",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.89",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.90",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.17",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.38",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "78.71",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.92",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "17.84",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.08",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "18.22",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.84",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "78.24",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.38",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.16",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.17",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "81.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.96",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "15.66",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.31",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.21",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "81.16",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.06",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "15.13",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.95",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.28",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "14.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.23",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.43",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "82.81",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.15",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.20",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.24",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.42",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "83.28",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.14",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "13.63",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.32",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "13.50",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.20",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "83.16",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.45",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.27",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.46",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "82.47",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.36",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "14.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.33",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.28",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.44",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "83.60",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.17",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "13.11",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.30",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.26",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "12.29",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.20",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "84.69",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.45",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.30",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.27",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.44",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.15",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "14.44",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "82.60",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.43",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "79.71",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.12",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "17.16",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.23",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.27",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "15.20",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.17",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "82.15",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.13",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.22",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.09",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "15.34",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.26",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.41",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "81.58",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.23",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.29",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.44",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "82.44",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.27",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "14.46",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.89",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "18.30",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.96",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "78.25",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.36",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.18",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.21",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.36",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "77.36",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "18.86",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.96",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.16",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.36",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "17.61",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.06",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "79.31",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.19",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.38",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "17.15",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.16",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.35",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "79.97",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.26",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.06",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.18",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "18.40",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.99",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "78.89",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.14",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.34",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.11",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.31",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "74.27",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.79",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "21.29",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.17",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.34",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.15",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "77.80",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.95",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "18.72",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.97",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "20.23",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.87",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "75.59",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.31",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.12",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.85",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.04",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "20.84",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "氮气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.87",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "74.75",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "氢气",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.32",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "甲烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "碳五(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.01",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.12",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "乙烯",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "碳四(合计)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "异戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "正戊烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "乙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST010378",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延炼50万吨/年航煤装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010378",
+    "sample_name": "3号喷气燃料进料气",
+    "device_name": "延炼50万吨/年航煤装置",
+    "export_time": "2026-07-15T12:15:59.008798",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 490
+  }
+}

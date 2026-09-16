@@ -1,0 +1,541 @@
+{
+  "data": [
+    {
+      "result": "156",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-06 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-13 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "174",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "154",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-20 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "159",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-27 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "162",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-01 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "162",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-03 13:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-10 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "175",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "156",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-17 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "152",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-24 13:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "155",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "153",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-08 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "172",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "151",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-15 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "152",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-22 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "150",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-29 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "160",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-05 15:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-12 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "176",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "155",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-19 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "160",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-26 13:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "157",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-02 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "156",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-09 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "175",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "153",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-16 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "156",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-23 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-30 11:30:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "154",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-07 10:30:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "156",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-14 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "173",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "159",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-21 13:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "157",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-28 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "162",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-04 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-11 13:30:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "170",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "157",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-18 12:30:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "164",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-25 13:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-02 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "154",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-09 11:30:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "175",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "157",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-16 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "152",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-23 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "164",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-30 09:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "157",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-06 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "162",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-13 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "174",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-20 13:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "154",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-27 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "157",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-03 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "154",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-10 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "157",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "165",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-18 13:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "162",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-24 14:31:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-03 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "161",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-10 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "174",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "157",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-17 12:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "165",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-19 09:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "163",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-24 09:30:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-31 13:40:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "155",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-07 13:28:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "158",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-14 10:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "171",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "163",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-21 11:55:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "189",
+      "sampleDotCode": "ST010219",
+      "unitName": "<p>mg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-30 15:16:00",
+      "resultName": "烟尘",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010219",
+    "sample_name": "烟尘（联合一）",
+    "device_name": "延炼100万吨/年催化裂化装置",
+    "export_time": "2026-07-15T12:14:46.704068",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 66
+  }
+}

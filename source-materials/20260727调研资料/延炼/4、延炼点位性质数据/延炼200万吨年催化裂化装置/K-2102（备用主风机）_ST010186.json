@@ -1,0 +1,397 @@
+{
+  "data": [
+    {
+      "result": "0.0160",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "219.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "43.39",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0172",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "42.12",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "42.86",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0176",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0180",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "42.70",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "42.50",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0183",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2025-10-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "43.72",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-10-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0177",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-03 09:12:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-03 09:12:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2025-11-03 09:12:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "44.12",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-11-03 09:12:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0187",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "44.12",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0178",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "42.24",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0176",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "44.96",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2026-03-06 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-06 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "44.78",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-03-06 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0198",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-06 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010186",
+      "unitName": "℃",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.0178",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010186",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "44.92",
+      "sampleDotCode": "ST010186",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010186",
+    "sample_name": "K-2102（备用主风机）",
+    "device_name": "延炼200万吨/年催化裂化装置",
+    "export_time": "2026-07-15T12:14:31.304829",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 48
+  }
+}

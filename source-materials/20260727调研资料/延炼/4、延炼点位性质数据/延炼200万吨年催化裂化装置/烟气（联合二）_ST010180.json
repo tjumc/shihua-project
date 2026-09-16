@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "result": "8.27",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.09",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.16",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.81",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-06-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.40",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-06-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.57",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-06-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.81",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.40",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.57",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "10.56",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-08-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.26",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-08-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5.43",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-08-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.63",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5.82",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.69",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.83",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.88",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.46",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.58",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-11-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.79",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-11-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.07",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-11-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "13.68",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.52",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5.17",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.43",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "11.79",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5.51",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "13.35",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-02-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.43",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-02-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.21",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-02-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.82",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-03-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5.81",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-03-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.69",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-03-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "11.82",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.53",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "氧气",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.26",
+      "sampleDotCode": "ST010180",
+      "unitName": "%（v/v) ",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010180",
+    "sample_name": "烟气（联合二）",
+    "device_name": "延炼200万吨/年催化裂化装置",
+    "export_time": "2026-07-15T12:14:30.018619",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 36
+  }
+}

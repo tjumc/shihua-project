@@ -1,0 +1,307 @@
+{
+  "data": [
+    {
+      "result": "87.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.8",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "89.0",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.2",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.4",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.2",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.4",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.1",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.8",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.8",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.5",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.8",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.5",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.7",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.0",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.1",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "89.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "89.2",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.9",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.4",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.2",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "87.9",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.2",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "89.5",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.8",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.8",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.6",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.2",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.4",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.5",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.0",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.8",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.8",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "88.5",
+      "sampleDotCode": "ST040129",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "研究法辛烷值(RON)",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040129",
+    "sample_name": "惠家河管线油",
+    "device_name": "延化180万吨/年汽油精制装置",
+    "export_time": "2026-07-15T14:39:15.423913",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 42
+  }
+}

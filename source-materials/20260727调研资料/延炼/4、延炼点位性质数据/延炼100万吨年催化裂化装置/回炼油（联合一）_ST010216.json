@@ -1,0 +1,1453 @@
+{
+  "data": [
+    {
+      "result": "7.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "985.4",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "247",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "976.1",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "241",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "978.8",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "244",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "970.4",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "246",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "976.4",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "242",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "979.6",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "245",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "980.6",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "246",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "980.2",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "245",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "244",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "983.9",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.5",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "998.4",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "225",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "9.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "32.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "252",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 20:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "249",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "27.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-02-23 22:30:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "245",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "24.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "989.6",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "20%回收校正值(T20%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "30%回收校正值(T30%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "40%回收校正值(T40%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "987.4",
+      "sampleDotCode": "ST010216",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "t350温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.0",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "t300温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "t200温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "t180温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "mL",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "t100温度下观察到的回收体积",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "50%回收校正值(T50%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "10%回收校正值(T10%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "241",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010216",
+      "unitName": "℃",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "5%回收校正值(5%)",
+      "deviceName": "延炼100万吨/年催化裂化装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010216",
+    "sample_name": "回炼油（联合一）",
+    "device_name": "延炼100万吨/年催化裂化装置",
+    "export_time": "2026-07-15T12:14:44.935369",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 180
+  }
+}

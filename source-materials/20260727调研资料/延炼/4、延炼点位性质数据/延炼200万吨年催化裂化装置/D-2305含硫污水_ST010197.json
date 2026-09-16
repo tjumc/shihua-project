@@ -1,0 +1,853 @@
+{
+  "data": [
+    {
+      "result": "5472.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4766.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4553.0",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3861.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7644.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3602.0",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7009.7",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3459.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3768.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5772.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-02 08:10:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4152.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6255.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5066.7",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4762.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2080.7",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4366.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5680.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2531.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5698.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4422.7",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4522.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7773.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5276.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6721.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7292.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6438.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4919.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4640.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5490.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8398.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6970.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6743.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5826.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7279.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5286.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6265.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4238.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4677.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5182.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5324.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6706.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5646.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5066.7",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6521.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5396.5",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7279.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5629.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6530.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4567.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5704.7",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6398.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5958.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6790.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3248.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4183.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5641.7",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5362.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4727.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5234.5",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5743.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5633.0",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5595.7",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5637.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6014.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6214.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6371.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5698.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6934.0",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6546.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6137.0",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5734.6",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6834.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6070.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7276.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6796.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4770.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5698.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6942.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6788.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4510.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4770.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5163.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4152.5",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4817.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7130.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "9813.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5661.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6312.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3387.4",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6108.5",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4353.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5257.5",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "9951.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3403.0",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6050.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4279.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4152.0",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5407.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6327.1",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "5898.0",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3132.2",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4510.9",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3578.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4770.3",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3928.8",
+      "sampleDotCode": "ST010197",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010197",
+    "sample_name": "D-2305含硫污水",
+    "device_name": "延炼200万吨/年催化裂化装置",
+    "export_time": "2026-07-15T12:14:43.933588",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 105
+  }
+}

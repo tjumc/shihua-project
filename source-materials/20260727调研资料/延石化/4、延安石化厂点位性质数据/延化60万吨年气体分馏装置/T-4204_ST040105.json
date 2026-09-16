@@ -1,0 +1,2861 @@
+{
+  "data": [
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "空气+甲烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "15.68",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "30.13",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "10.14",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "17.76",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "正丁烯+异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "9.89",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.96",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.13",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "99.79",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "C3+C4",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "24.91",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "C3合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "74.88",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "C4合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "55",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "9.23",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-17 09:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "13.52",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "28.30",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "23.84",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.52",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "13.81",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "正丁烯+异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.48",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.37",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.13",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "99.84",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "C3+C4",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "41.82",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "C3合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "58.02",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "C4合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "50",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 06:00:00",
+      "resultName": "空气+甲烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "54",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "空气+甲烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.66",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "14.55",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "28.77",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "23.65",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.03",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "13.35",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "正丁烯+异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.02",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.87",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.10",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "99.24",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "C3+C4",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "43.32",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "C3合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "55.92",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-25 21:40:00",
+      "resultName": "C4合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "空气+甲烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "11.79",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "24.96",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "24.57",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.36",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "15.60",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "正丁烯+异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.88",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.08",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.11",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "99.24",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "C3+C4",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "36.75",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "C3合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "62.49",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "C4合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "49",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.65",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-27 06:00:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "99.43",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "C3+C4",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.09",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.08",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.11",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "12.70",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "正丁烯+异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.40",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "23.28",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "31.86",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "15.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.48",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "空气+甲烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "50",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "52.57",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "C4合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "46.86",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-29 08:40:00",
+      "resultName": "C3合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "59.29",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "C3合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "空气+甲烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "46",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "39.55",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "C4合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "98.84",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "C3+C4",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.84",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.34",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "9.42",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "正丁烯+异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.48",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "18.47",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "41.79",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "17.50",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-07-30 23:30:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "29.04",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "13.01",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "正丁烯+异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.81",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.52",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.20",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "98.95",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "C3+C4",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "54.92",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "C4合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "95",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "44.03",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "C3合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "空气+甲烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.85",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "14.99",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "23.31",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.27",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-15 12:00:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "空气+甲烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.28",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "11.94",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "20.41",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "27.64",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "9.02",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "110",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.81",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.14",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "99.58",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "C3+C4",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.55",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "67.23",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "C4合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "32.35",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "C3合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "16.21",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-08-18 12:00:00",
+      "resultName": "正丁烯+异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.81",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "空气+甲烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "88",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "51.54",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "C4合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "47.64",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "C3合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "99.18",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "C3+C4",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.16",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.87",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "11.88",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "正丁烯+异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.17",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "22.81",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "33.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "14.64",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.66",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-09-15 09:30:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "12.27",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "65.54",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.34",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.83",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "72.88",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.210",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.85",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.85",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.85",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.18",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "26.83",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-12 21:55:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.82",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.37",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "88.51",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.56",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.050",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.01",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "90.07",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.14",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "9.74",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "105",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.07",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.02",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.45",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-15 09:28:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.860",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "51.72",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "46.70",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.57",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "16.75",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "29.95",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "110",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.72",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.16",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.96",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.83",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.60",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "23.60",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-10-28 11:14:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "29.11",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "52.50",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "46.32",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.38",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.920",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "17.21",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "24.46",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.18",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.69",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.71",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.08",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.26",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "106",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-11-03 18:29:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "110",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.90",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.90",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.01",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.12",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "41.69",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "21.75",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.40",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "63.44",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "33.86",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.620",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "17.53",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-05 19:50:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "24.59",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "27.87",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "16.09",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.840",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.87",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "43.96",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "54.97",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.41",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.23",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.43",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.23",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.44",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "90",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-14 21:30:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.870",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "22.36",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "86",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.64",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.26",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.07",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.42",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "11.64",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "52.99",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "20.73",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.33",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "73.72",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-11-17 18:53:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "18.55",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "44.10",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "15.66",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.860",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "59.76",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "39.21",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.13",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "90",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.17",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.53",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.79",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.29",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.92",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-12-13 11:00:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.46",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.48",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.96",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.46",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "88",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.210",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "52.75",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "46.58",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.46",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "12.14",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "34.44",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "23.01",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.38",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-17 00:21:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "45.73",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "18.27",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.62",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.96",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.35",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.61",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "12.32",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "92",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.630",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "41.06",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "58.05",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.25",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.26",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2025-12-29 11:00:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.36",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "42.33",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "85",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.82",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "45.22",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "53.72",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.52",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.700",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "11.39",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "19.39",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.22",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.45",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.82",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-08 12:51:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "3.42",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.23",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.43",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.69",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "19.88",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "85",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "12.96",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.83",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "52.88",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "46.48",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.640",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "39.92",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-15 13:13:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "80",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "24.85",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "27.37",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "16.05",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.860",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.62",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "43.42",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "55.22",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "7.64",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.36",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.42",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.50",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.33",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-17 22:30:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "17.95",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "48.07",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "17.02",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.63",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.99",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1.23",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.20",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "90",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "66.02",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "31.46",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.470",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "2.39",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-01-22 03:30:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.850",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "16.01",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "26.85",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "25.16",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "83",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.19",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.14",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.30",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.36",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.37",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "56.10",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "42.86",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.77",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-02-23 09:40:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "57.78",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "碳四合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "41.27",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "碳三合计",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "5.96",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.720",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "乙烷+乙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "25.42",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "8.63",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "15.23",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "丙烷",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "4.50",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.51",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.23",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "碳五",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "80",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "水含量",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "1",
+      "sampleDotCode": "ST040105",
+      "unitName": "级",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "腐蚀等级(40℃，1h)",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "26.04",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "丙烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    },
+    {
+      "result": "6.76",
+      "sampleDotCode": "ST040105",
+      "unitName": "<p>%(v/v)</p>",
+      "sampleTime": "2026-03-03 10:40:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化60万吨/年气体分馏装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040105",
+    "sample_name": "T-4204",
+    "device_name": "延化60万吨/年气体分馏装置",
+    "export_time": "2026-07-15T14:43:21.490201",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 356
+  }
+}

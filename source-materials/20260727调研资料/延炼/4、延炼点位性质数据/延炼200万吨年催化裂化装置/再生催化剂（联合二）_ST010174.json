@@ -1,0 +1,4948 @@
+{
+  "data": [
+    {
+      "result": "19.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "114.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "111.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "118.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "27.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "11.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "114.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "21.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "112.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "24.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "24.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "114.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "21.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "115.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "115.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "118.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "116.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "114.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "102.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "100.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "109.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "26.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "98.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "111.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "101.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "106.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "21.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "107.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "111.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "110.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "107.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "108.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "109.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "59.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "25.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "90.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "107.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "109.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "104.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "13.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "24.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "104.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "104.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "99.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "108.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "21.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "106.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "103.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "99.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "101.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "104.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "69.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "106.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "107.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "11.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "104.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "21.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "103.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "107.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "103.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "21.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "100.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "98.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "107.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "96.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "24.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "99.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "24.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "24.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "58.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "100.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "94.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "96.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "103.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "101.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "21.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "99.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "67.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "102.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-11-28 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-11-28 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-28 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-28 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-28 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-28 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "67.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "80.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "99.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "98.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "96.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "97.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "97.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "68.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "98.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "90.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "21.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "94.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "102.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "13.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "95.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "94.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "103.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "101.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "95.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "23.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "59.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "99.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "67.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "25.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "98.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "68.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "118.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "95.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "102.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "68.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "86.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "88.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "29.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "58.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "11.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "101.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "68.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "102.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "99.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "13.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "68.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "104.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "106.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "68.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "62.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "21.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "95.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "97.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "98.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "69.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "19.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "69.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "11.6",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "59",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "100.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "16.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "108.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "17.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "13.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "60",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "66.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "86.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "67.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "14.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "18.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "110.2",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "11.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "57.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "31.3",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "94.1",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "98.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "20.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "15.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "65",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "105.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "12.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "64.8",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.5",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "101.0",
+      "sampleDotCode": "ST010174",
+      "unitName": "<p>m<sup>2</sup>/g</p>",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "催化剂表面积(SBET)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "13.9",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "∅（≤45.8μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "63.4",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "∅（45.8～110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "22.7",
+      "sampleDotCode": "ST010174",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "∅（＞110μm）",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010174",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "含碳量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST010174",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "裂化活性指数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010174",
+    "sample_name": "再生催化剂（联合二）",
+    "device_name": "延炼200万吨/年催化裂化装置",
+    "export_time": "2026-07-15T12:14:20.929472",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 630
+  }
+}

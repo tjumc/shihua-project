@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "反丁烯",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "丙炔",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "碳五+其他",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "9.72",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "乙烷",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.22",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "正戊烷",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "3.84",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "异戊烷",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.16",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "顺丁烯",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "异丁烯",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "正丁烯",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "乙烯",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.30",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "正丁烷",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "9.81",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "异丁烷",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "丙烯",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "13.85",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "丙烷",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "9.72",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "碳二",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "5.94",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "甲烷",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "48.33",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "氢气",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "一氧化碳",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.75",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "氮气",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "氧气",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "乙炔",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    },
+    {
+      "result": "5.06",
+      "sampleDotCode": "ST040276",
+      "unitName": "<p>%(v/v)</p>\n",
+      "sampleTime": "2025-10-09 13:12:00",
+      "resultName": "碳五",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040276",
+    "sample_name": "D-201顶",
+    "device_name": "延化240万吨/年柴油精制装置",
+    "export_time": "2026-07-15T14:39:38.433182",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 23
+  }
+}

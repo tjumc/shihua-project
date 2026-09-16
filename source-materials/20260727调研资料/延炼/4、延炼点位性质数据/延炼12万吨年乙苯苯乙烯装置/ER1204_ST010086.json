@@ -1,0 +1,1261 @@
+{
+  "data": [
+    {
+      "result": "362.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "6.60",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.72",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "540.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "12.50",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.92",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "10.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1400.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.31",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "6.60",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1700.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.21",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "760.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "9.70",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.51",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.37",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "7.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "310.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1250.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.02",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "431.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.59",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "10.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "320.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.61",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "9.90",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "650.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.02",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "16.30",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "389.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.02",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "8.90",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "630.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.06",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "12.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "315.10",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.82",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "244.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.90",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "386.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "15.10",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.06",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.90",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-08-19 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "363.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-19 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.05",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-19 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "8.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "503.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.02",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.91",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "148.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "6.70",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "144.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.81",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.60",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "135.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.99",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "6.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "234.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.34",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "204.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.68",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.90",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-10-07 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.52",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-07 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "184.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-07 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "165.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.30",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.52",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "205.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-21 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-21 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "19.60",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-10-21 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "8.10",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "88.70",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.57",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "7.70",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-11-04 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "170.10",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-04 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.36",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-04 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "157.60",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.60",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.47",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "9.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-11-18 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "171.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-18 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.52",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-18 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.70",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "249.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.42",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "8.60",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-12-02 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.47",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-02 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "278.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-02 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "426.70",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.90",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.62",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "62.50",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-16 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "6.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-12-16 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.36",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-16 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "9.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "189.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.73",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.50",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-12-30 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "58.70",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-30 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-30 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "333.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.06",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "199.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.55",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.50",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.71",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "331.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "140.10",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "6.60",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-02-03 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.30",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-03 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "58.30",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-03 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "6.56",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "532.10",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "12.60",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.30",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "539.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.01",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.10",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "401.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "392.50",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "62.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.70",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.45",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "6.50",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "60.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "7.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "170.20",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.15",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "189.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "1.87",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "11.50",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "143.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.90",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "84.40",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "10.00",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.55",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "12.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-21 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "150.50",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-21 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.07",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-21 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.80",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "448.70",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.54",
+      "sampleDotCode": "ST010086",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "硬度",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010086",
+    "sample_name": "ER1204",
+    "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+    "export_time": "2026-07-15T12:10:59.508387",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 156
+  }
+}

@@ -1,0 +1,3438 @@
+{
+  "data": [
+    {
+      "result": "20.00",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-02 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.00",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-04 11:35:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.95",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-04 11:35:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.66",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "16.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "14.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-10 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-10 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.54",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "35.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-14 08:53:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-14 08:53:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-16 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-18 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.00",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.07",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-24 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-24 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.19",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-05-30 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.90",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-05-30 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-01 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.86",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.85",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "14.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-07 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-15 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.95",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-21 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.23",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.84",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "7.22",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-27 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-06-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-06-29 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.56",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.09",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-05 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.11",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.85",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.55",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "42.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.85",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-11 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.86",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-13 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.52",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "15.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "18.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-19 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.13",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-25 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.00",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-27 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.48",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.09",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "17.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-08-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-02 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.15",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-08-08 08:54:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-08 08:54:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "19.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-10 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-08-10 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.04",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-08-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "16.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-16 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-08-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-29 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-08-31 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-08-31 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.96",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.28",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.89",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.88",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-06 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.03",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-12 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-14 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-14 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-20 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.09",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.93",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.15",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-26 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-28 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-28 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.93",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-04 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-04 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.01",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.09",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "14.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.84",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-10 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "14.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-10 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-12 07:56:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-12 07:56:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.88",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "14.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.85",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-18 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.09",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.87",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-24 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-24 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-26 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-01 10:19:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-01 10:19:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.09",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.00",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-05 09:13:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-05 09:13:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.94",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-07 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.00",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-09 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.16",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.12",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-15 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.01",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-21 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.89",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-23 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.83",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-11-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-11-29 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.03",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.85",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.84",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.06",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.00",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-05 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-07 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.30",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "25.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST040034",
+      "unitName": "℃",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "水的温度T",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.04",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.14",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-13 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "15.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.25",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.06",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "35.00",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-19 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-21 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "83.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.91",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-27 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.98",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "75.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.09",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-02 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.03",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-04 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.22",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-04 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "38.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.07",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-10 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-10 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.25",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "46.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.08",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.30",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.07",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-16 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-18 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.12",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "48.07",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.09",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.11",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-22 09:55:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.85",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-22 09:55:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-24 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.30",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-24 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "40.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.08",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-01-30 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.86",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-01-30 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-01 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.02",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.16",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-03 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-07 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "36.94",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.84",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.96",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-13 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-15 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.05",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "33.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.28",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.00",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-21 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.05",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "31.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-02-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-02-27 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.91",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-01 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "30.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.85",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-07 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "33.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.86",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "19.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-13 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.18",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "13.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-15 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "32.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.04",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.90",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.86",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.10",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-21 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "33.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "14.00",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.88",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.84",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-27 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-29 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.82",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "32.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.14",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.30",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-04 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-04 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.15",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "30.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.86",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.26",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-10 09:40:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.50",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-10 09:40:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.95",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-12 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "31.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.91",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "34.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.93",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "18.20",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-18 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.03",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "26.80",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.90",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.81",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-24 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-24 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "11.40",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-26 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.02",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "氨含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "28.60",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "溶解氧",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "12.00",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.14",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.85",
+      "sampleDotCode": "ST040034",
+      "sampleTime": "2026-04-30 09:39:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "10.70",
+      "sampleDotCode": "ST040034",
+      "unitName": "<p>&mu;g/L</p>",
+      "sampleTime": "2026-04-30 09:39:00",
+      "resultName": "二氧化硅",
+      "deviceName": "延化120万吨/年催化重整装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040034",
+    "sample_name": "给水",
+    "device_name": "延化120万吨/年催化重整装置",
+    "export_time": "2026-07-15T14:41:13.516384",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 450
+  }
+}

@@ -1,0 +1,1285 @@
+{
+  "data": [
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.39",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.75",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.1",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.51",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.42",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.0",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.7",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.75",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "16.82",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.41",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.12",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.7",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.92",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.6",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.10",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.8",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.23",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.26",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.5",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.92",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.38",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.02",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.3",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.41",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.62",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.07",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.5",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "16.17",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.0",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.12",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "16.31",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.5",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.36",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.0",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.02",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "2.8",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.80",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.11",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "15.22",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.0",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.02",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.5",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "16.31",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.8",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.75",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.75",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.3",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "16.67",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.87",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.0",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.42",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.5",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.71",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.2",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.3",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.21",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.7",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.49",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.8",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.50",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.6",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-20 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-20 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.02",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-20 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.42",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-27 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-27 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.9",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-27 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.78",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-04 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.8",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-04 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "17.34",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-04 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-11 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-11 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.52",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-11 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "3.8",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-18 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-18 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.30",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-18 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.3",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-25 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-25 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "19.44",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-25 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.9",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-01 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "18.83",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-01 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-01 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-08 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "19.66",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-08 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.8",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-08 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-15 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "19.32",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-15 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.7",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-15 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-22 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-22 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "19.61",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-22 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.6",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-29 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "19.52",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-29 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-29 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-05 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "19.76",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-05 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-05 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.7",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-12 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.77",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-12 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "20.16",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-12 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.5",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-19 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-19 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "20.29",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-19 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.09",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-26 16:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.7",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-26 16:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "20.53",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-26 16:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.26",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "20.40",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.06",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.6",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "20.68",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.9",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "19.48",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.70",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.5",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.57",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "20.03",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.7",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "20.34",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "22.26",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.5",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "5.11",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.53",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.6",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "20.40",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.7",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.60",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "20.30",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.9",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "二氧化碳",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "4.92",
+      "sampleDotCode": "ST010123",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "硫化氢含量",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "21.12",
+      "sampleDotCode": "ST010123",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "N-甲基二乙醇胺浓度(MDEA)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010123",
+    "sample_name": "MDEA贫液",
+    "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+    "export_time": "2026-07-15T12:11:36.156559",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 159
+  }
+}

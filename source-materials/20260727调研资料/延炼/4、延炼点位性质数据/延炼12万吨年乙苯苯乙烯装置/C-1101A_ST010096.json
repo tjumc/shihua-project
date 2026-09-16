@@ -1,0 +1,2317 @@
+{
+  "data": [
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0180",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "32.16",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0176",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "30.65",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0192",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.1",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0164",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "215.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "217.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0196",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "219.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0168",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.1",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-05-14 15:30:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0184",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0168",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.2",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.9",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "220.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0172",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "31.88",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "31.44",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0184",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "143.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "220.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.6",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.3",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0176",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "219.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.7",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0192",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.9",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "32.58",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0184",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "31.58",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0196",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "30.52",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0176",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.9",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0172",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.2",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "220.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0196",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.2",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0176",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "32.26",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0180",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "30.97",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0184",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0192",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0184",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.8",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.9",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0180",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "32.09",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0191",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0187",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.9",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "228.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0196",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.8",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.8",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0185",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "32.98",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0189",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "32.20",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0187",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.6",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "32.48",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0187",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "140.6",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0185",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "32.07",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0182",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0186",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0183",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-07 08:52:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0177",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "32.48",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0176",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0178",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "30.95",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0176",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0196",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.7",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0187",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-12-12 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "140.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "146.5",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0186",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0177",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "35.36",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0178",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "31.71",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0182",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.4",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0177",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "143.2",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "144.2",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0180",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "140.1",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0185",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "146.8",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0175",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "35.52",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "29.58",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0182",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0184",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.7",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0180",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "143.3",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0178",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.3",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0161",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "146.6",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "220.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "34.02",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0186",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "30.04",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0176",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "140.8",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0169",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "142.9",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.6",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0184",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "144.5",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0167",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "33.99",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0179",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "29.94",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "141.1",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "0.0189",
+      "sampleDotCode": "ST010096",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010096",
+      "unitName": "℃",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010096",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼12万吨/年乙苯/苯乙烯装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010096",
+    "sample_name": "C-1101/A",
+    "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+    "export_time": "2026-07-15T12:11:06.778486",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 288
+  }
+}

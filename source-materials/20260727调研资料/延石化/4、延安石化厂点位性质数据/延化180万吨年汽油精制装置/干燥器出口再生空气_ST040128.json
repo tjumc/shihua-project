@@ -1,0 +1,373 @@
+{
+  "data": [
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "5",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "6",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    },
+    {
+      "result": "7",
+      "sampleDotCode": "ST040128",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "微水",
+      "deviceName": "延化180万吨/年汽油精制装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040128",
+    "sample_name": "干燥器出口再生空气",
+    "device_name": "延化180万吨/年汽油精制装置",
+    "export_time": "2026-07-15T14:39:15.219764",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 45
+  }
+}

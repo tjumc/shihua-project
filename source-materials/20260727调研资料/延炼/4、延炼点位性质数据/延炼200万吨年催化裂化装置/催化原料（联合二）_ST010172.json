@@ -1,0 +1,2413 @@
+{
+  "data": [
+    {
+      "result": "3.46",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-06 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "894.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.43",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-13 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.39",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-20 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "281",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.24",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.4",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.5",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-27 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.21",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "283",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "894.7",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-29 10:30:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "894.4",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.24",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-03 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.28",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-10 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "895.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.27",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-17 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.5",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "898.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "285",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.20",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.8",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-06-24 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.19",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-01 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "894.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.41",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-08 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "895.7",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.41",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-15 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "287",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.16",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.2",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "899.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.5",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.5",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-07-22 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.20",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-29 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "898.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.32",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.35",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-12 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-19 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.43",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-19 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.5",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "894.7",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "283",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.44",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-08-26 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.42",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-02 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.45",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.58",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-16 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "284",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.21",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.1",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-23 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.27",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-30 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.30",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-07 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "899.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-07 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.52",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-14 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.49",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-21 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "898.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-21 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.32",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "286",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.5",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.8",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2025-10-28 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "899.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-04 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.40",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-04 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.09",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-11 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-18 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.43",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-18 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "285",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.17",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-11-25 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.32",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-02 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.8",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-02 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "898.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.05",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-09 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.23",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-16 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.9",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-16 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "283",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.18",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.8",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.5",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "895.2",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-23 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.35",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-30 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-30 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.8",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.04",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-06 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "898.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.93",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-13 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.16",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-20 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "281",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.34",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.1",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "892.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-27 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.36",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-03 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "893.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-03 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.31",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "895.7",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-10 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.53",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.2",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-17 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "280",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.94",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.7",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "7.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-02-24 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.47",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-03 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "893.7",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.37",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-10 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.32",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "895.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-17 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "9.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "895.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "6.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.73",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "282",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-03-24 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "893.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.97",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-31 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.11",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-07 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "893.1",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.63",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-14 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "896.6",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-21 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.66",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-21 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.7",
+      "sampleDotCode": "ST010172",
+      "unitName": "mg(NaCl)/L",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "盐含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.56",
+      "sampleDotCode": "ST010172",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "残炭",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "283",
+      "sampleDotCode": "ST010172",
+      "unitName": "℃",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "初馏点校正值(TIBP)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "100℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "120℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "150℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "160℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "897.3",
+      "sampleDotCode": "ST010172",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "8.0",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "350℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.5",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "300℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "180℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "260℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "240℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "220℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "200℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010172",
+      "unitName": "%",
+      "sampleTime": "2026-04-28 08:00:00",
+      "resultName": "280℃的回收百分数",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010172",
+    "sample_name": "催化原料（联合二）",
+    "device_name": "延炼200万吨/年催化裂化装置",
+    "export_time": "2026-07-15T12:14:19.479436",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 300
+  }
+}

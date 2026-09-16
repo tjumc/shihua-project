@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "result": "58",
+      "sampleDotCode": "ST040057",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "十六烷指数",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "815.3",
+      "sampleDotCode": "ST040057",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "密度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "痕迹水",
+      "sampleDotCode": "ST040057",
+      "unitName": "mg/kg",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "水含量",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "58.0",
+      "sampleDotCode": "ST040057",
+      "unitName": "℃",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "闪点(闭口)",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "-3",
+      "sampleDotCode": "ST040057",
+      "unitName": "℃",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "凝点",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "366.3",
+      "sampleDotCode": "ST040057",
+      "unitName": "℃",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "95%回收温度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "164.9",
+      "sampleDotCode": "ST040057",
+      "unitName": "℃",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "初馏点",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "202.1",
+      "sampleDotCode": "ST040057",
+      "unitName": "℃",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "268.0",
+      "sampleDotCode": "ST040057",
+      "unitName": "℃",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "346.0",
+      "sampleDotCode": "ST040057",
+      "unitName": "℃",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0",
+      "sampleDotCode": "ST040057",
+      "unitName": "℃",
+      "sampleTime": "2025-05-27 21:31:00",
+      "resultName": "冷滤点",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040057",
+    "sample_name": "T-4906",
+    "device_name": "延化140万吨/年柴油精制装置",
+    "export_time": "2026-07-15T14:41:56.721490",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 11
+  }
+}

@@ -1,0 +1,1693 @@
+{
+  "data": [
+    {
+      "result": "1056.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1061.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1063.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1062.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1064.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1062.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1059.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1057.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1061.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-02 08:10:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1058.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-02 08:10:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1059.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1060.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1059.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1069.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1055.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1058.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1070.3",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1064.3",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1065.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1055.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1059.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1070.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1068.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1058.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1058.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1062.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1056.5",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1058.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1060.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1057.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1060.5",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1058.3",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1061.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1063.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1063.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1066.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1063.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1065.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1064.3",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1063.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1064.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1063.5",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1065.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1062.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1064.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1063.3",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1065.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1064.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1066.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1065.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1064.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1066.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1062.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1065.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1064.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1066.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1063.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1066.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1068.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1069.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1070.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1070.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1071.3",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1070.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1068.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1070.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1068.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1069.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1069.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1068.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1069.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1069.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1068.5",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1068.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1066.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1066.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1068.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1067.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1068.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1045.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "3.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1066.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1053.2",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1059.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1062.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1045.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1054.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.6",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1056.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1053.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1058.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1056.3",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1055.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.5",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1052.1",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1054.5",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1047.9",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "2.0",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1050.3",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1.5",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "1053.7",
+      "sampleDotCode": "ST010196",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    },
+    {
+      "result": "4.4",
+      "sampleDotCode": "ST010196",
+      "unitName": "g/L",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "固含量",
+      "deviceName": "延炼200万吨/年催化裂化装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010196",
+    "sample_name": "油浆（联合二）",
+    "device_name": "延炼200万吨/年催化裂化装置",
+    "export_time": "2026-07-15T12:14:43.643805",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 210
+  }
+}

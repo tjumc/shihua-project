@@ -1,0 +1,997 @@
+{
+  "data": [
+    {
+      "result": "0.30",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-09 15:30:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-09 17:29:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-09 17:29:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-09 17:29:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-09 17:29:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-09 17:29:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-09 17:29:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "23.98",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-09 17:29:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "76.02",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-09 17:29:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-09 17:29:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 00:28:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 00:28:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 00:28:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 00:28:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "78.71",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 00:28:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "21.29",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 00:28:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 00:28:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 00:28:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 00:28:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "70.13",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 04:27:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 04:27:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 04:27:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "29.87",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 04:27:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 04:27:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 04:27:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 04:27:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 04:27:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 04:27:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 07:31:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 07:31:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 07:31:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 07:31:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "63.76",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 07:31:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "36.24",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 07:31:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 07:31:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 07:31:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 07:31:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 14:00:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 14:00:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 14:00:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 14:00:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 14:00:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "65.71",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 14:00:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 14:00:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 14:00:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "34.29",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-10 14:00:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.20",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "68.85",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "31.15",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 15:05:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "30.51",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "69.49",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.42",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-14 17:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "34.49",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.29",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "65.51",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-19 21:00:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "79.36",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-17 14:30:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-17 14:30:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-17 14:30:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-17 14:30:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-17 14:30:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-17 14:30:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "20.64",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-17 14:30:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-17 14:30:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-17 14:30:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "67.74",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "32.26",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.50",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-15 01:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "68.04",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "31.96",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.41",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-15 02:30:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.31",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.26",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "67.68",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "非芳",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "乙苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "32.32",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "苯纯度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "对二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "邻二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "其他芳烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "1,4-二氧己烷",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.00",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-27 00:00:00",
+      "resultName": "间二甲苯",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.88",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "烯烃含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "16.83",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "正构烷烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "37.66",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "异构烷烃",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "58.97",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "烷烃含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.48",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "环烷烃含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "35.16",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "芳烃含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.28",
+      "sampleDotCode": "ST040009",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-11 15:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040009",
+    "sample_name": "D-208",
+    "device_name": "延化120万吨/年催化重整装置",
+    "export_time": "2026-07-15T14:40:27.726953",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 123
+  }
+}

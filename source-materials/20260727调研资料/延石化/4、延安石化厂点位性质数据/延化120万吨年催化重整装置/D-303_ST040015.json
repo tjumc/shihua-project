@@ -1,0 +1,1317 @@
+{
+  "data": [
+    {
+      "result": "1.02",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "2.70",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "199",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.15",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.83",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "211",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.75",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "213",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "2.74",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.16",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "201",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.21",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "214",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "210",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.14",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.07",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.52",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "204",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.09",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.58",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "219",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.29",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.03",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "193",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "2.67",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "294",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.23",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.79",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "222",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "243",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.95",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.39",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "217",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.14",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.12",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "220",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.11",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.80",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.14",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "255",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "201",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.97",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.14",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "159",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.54",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.17",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.00",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "210",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.11",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "6.65",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "153",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.98",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.95",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "143",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "6.76",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.64",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-19 11:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "6.54",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.99",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "135",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.80",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.99",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "344",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.45",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.17",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "335",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.95",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "225",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.44",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "229",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.85",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.18",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "254",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "222",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "6.03",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.92",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-10 16:25:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.56",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "247",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.01",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "206",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.31",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.05",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.89",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.97",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "215",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "243",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.07",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.95",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "287",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.17",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.55",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.09",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.25",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "231",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.14",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "281",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "6.93",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.09",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "208",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.36",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.19",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-04 14:20:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "218",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.52",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.02",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.09",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "228",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.43",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "290",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.89",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.52",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "254",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "6.98",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "270",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.05",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "560",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-06 12:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.17",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-02-06 12:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.83",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-06 12:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "259",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "6.33",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "7.37",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.07",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "284",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.02",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.66",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "294",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.05",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.12",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "276",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.67",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-05 09:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "271",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.11",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.81",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "249",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.03",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.41",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "315",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.09",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.17",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "3.93",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "171",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.00",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "220",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "4.66",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.42",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.89",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "235",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "212",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.99",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "5.84",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "7.22",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "碳含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.95",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>%</p>",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "氯含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "200",
+      "sampleDotCode": "ST040015",
+      "unitName": "<p>ppm</p>",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "硫含量",
+      "deviceName": "延化120万吨/年催化重整装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040015",
+    "sample_name": "D-303",
+    "device_name": "延化120万吨/年催化重整装置",
+    "export_time": "2026-07-15T14:40:37.481864",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 163
+  }
+}

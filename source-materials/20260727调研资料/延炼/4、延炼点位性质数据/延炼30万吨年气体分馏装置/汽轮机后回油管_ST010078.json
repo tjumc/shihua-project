@@ -1,0 +1,397 @@
+{
+  "data": [
+    {
+      "result": "0.0172",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "44.67",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "230.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2025-06-06 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-06-06 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0184",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-06-06 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "44.57",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-06-06 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "44.17",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0200",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0188",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "43.72",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-08-05 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0196",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "44.26",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-09-09 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0206",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-10-05 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-10-05 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2025-10-05 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "45.20",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-10-05 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-11-13 08:47:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "220.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2025-11-13 08:47:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0248",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-11-13 08:47:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "43.15",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-11-13 08:47:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "223.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2025-12-15 09:15:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2025-12-15 09:15:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "43.56",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2025-12-15 09:15:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0209",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2025-12-15 09:15:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0020",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-01-02 08:00:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-01-02 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2026-01-02 08:00:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "41.68",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-01-02 08:00:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2026-02-09 08:25:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-02-09 08:25:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0207",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-02-09 08:25:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "42.89",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-02-09 08:25:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "42.47",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-03-11 10:43:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "220.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2026-03-11 10:43:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0179",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-03-11 10:43:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-03-11 10:43:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010078",
+      "unitName": "℃",
+      "sampleTime": "2026-04-23 08:59:00",
+      "resultName": "闪点(TC)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "0.0159",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>%(m/m)</p>",
+      "sampleTime": "2026-04-23 08:59:00",
+      "resultName": "机械杂质",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "痕迹",
+      "sampleDotCode": "ST010078",
+      "unitName": "质量分数 %",
+      "sampleTime": "2026-04-23 08:59:00",
+      "resultName": "水分",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    },
+    {
+      "result": "41.91",
+      "sampleDotCode": "ST010078",
+      "unitName": "<p>mm<sup>2</sup>/s</p>",
+      "sampleTime": "2026-04-23 08:59:00",
+      "resultName": "运动黏度(40℃)",
+      "deviceName": "延炼30万吨/年气体分馏装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010078",
+    "sample_name": "汽轮机后回油管",
+    "device_name": "延炼30万吨/年气体分馏装置",
+    "export_time": "2026-07-15T12:10:56.896575",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 48
+  }
+}

@@ -1,0 +1,803 @@
+{
+  "data": [
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-05-01 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "16.70",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2025-05-11 10:00:00",
+      "resultName": "电导率",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-05-15 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-05-29 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-06-05 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-06-12 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-06-19 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "138",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-26 10:00:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "104",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-26 10:00:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "105",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-26 10:00:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "109",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-26 10:10:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-06-26 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-07-10 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-07-17 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-07-24 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-07-31 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-08-07 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-08-14 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-08-21 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-09-25 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "111",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-11 09:30:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "103",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-11 09:30:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "21",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-11 15:30:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-10-30 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-11-06 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-11-13 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-11-20 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-11-27 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-12-04 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-12-11 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-12-18 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2025-12-25 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-01-08 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-01-15 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-01-22 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-02-05 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-02-12 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-02-19 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-02-26 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-03-05 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-03-19 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-03-26 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-04-02 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.96",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-04 06:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040039",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-04 06:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.10",
+      "sampleDotCode": "ST040039",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-04 06:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "50",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-04 06:00:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.33",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-04 06:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-04-09 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.25",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-13 10:02:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.15",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-13 10:02:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "17.03",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-13 10:02:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.10",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 11:46:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.15",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 11:46:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "20.83",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-15 11:46:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "18.88",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-15 14:25:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.14",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 14:25:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "20.16",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-15 14:26:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.16",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 14:26:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.14",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 14:36:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "18.95",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-15 14:36:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.64",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 14:36:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.21",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 14:42:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.11",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 14:42:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "20.97",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-15 14:42:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.22",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 14:43:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.16",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 14:43:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "21.33",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-15 14:43:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.94",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 16:07:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "232",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 16:07:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "1.70",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 16:07:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "51",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 16:08:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.15",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 16:08:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.06",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 16:08:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "51",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 16:09:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.04",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 16:09:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.17",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 16:09:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "0.14",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 16:10:00",
+      "resultName": "氨氮",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "58",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 16:10:00",
+      "resultName": "COD",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "9.04",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-15 16:10:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "2801.00",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.86",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "17.21",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "2787.00",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "电导率",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.67",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "17.72",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-04-16 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "17.79",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "2875.60",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "电导率",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "2872.90",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "电导率",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.90",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "17.06",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.89",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "2865.60",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "电导率",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "17.47",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.80",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "2833.40",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>&mu;S/cm</p>",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "电导率",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "17.31",
+      "sampleDotCode": "ST040039",
+      "unitName": "<p>mmol/L</p>",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "碱度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "8.88",
+      "sampleDotCode": "ST040039",
+      "sampleTime": "2026-04-20 16:30:00",
+      "resultName": "pH",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-04-23 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    },
+    {
+      "result": "<1",
+      "sampleDotCode": "ST040039",
+      "unitName": "级",
+      "sampleTime": "2026-04-30 16:00:00",
+      "resultName": "林格曼黑度",
+      "deviceName": "延化120万吨/年催化重整装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040039",
+    "sample_name": "重整烟道",
+    "device_name": "延化120万吨/年催化重整装置",
+    "export_time": "2026-07-15T14:41:17.426292",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 101
+  }
+}

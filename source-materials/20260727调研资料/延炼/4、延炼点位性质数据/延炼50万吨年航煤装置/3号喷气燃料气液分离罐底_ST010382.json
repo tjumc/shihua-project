@@ -1,0 +1,3061 @@
+{
+  "data": [
+    {
+      "result": "155.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "174.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "184.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "205.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "783.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "81.3",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "220.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "173.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "183.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "205.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "83.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "786.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "153.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "207.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "786.3",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "91.4",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "158.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "173.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "183.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "107",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "158.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "784.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "173.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "183.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "219.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "205.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "207.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.3",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "151",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "156.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "173.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "184.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "154.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "173.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.4",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "144",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "183.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "206.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "84.4",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "158.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "174.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "184.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "205.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "205.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "221.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "111",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "157.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "174.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "184.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "81.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-06-27 08:30:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "148",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-06-27 08:30:00",
+      "resultName": "水分",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "186.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "222.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "786.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "81.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "155.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "174.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "207.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "74.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "151.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "784.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "185.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "219.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "207.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "174.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "185.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "219.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "206.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "173.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "112",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "152.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "203.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "784.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "52.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "ug/g",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "159.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "173.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "183.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "216.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "786.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "153.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "97.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "223.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "209.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "175.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "187.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "93.3",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "152.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "787.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "189.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "227.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "214.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "176.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "71.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "154.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "172.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "190.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "227.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "214.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "787.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "190.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "787.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "63.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "213.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "155.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "172.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "788.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "157.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "97.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "190.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "228.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "213.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "172.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "213.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "226.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "191.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "106",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "151.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "788.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "787.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "131",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "215.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "227.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "190.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "153.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "214.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "181",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "787.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "152.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "191.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "230.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "205",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "154.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "788.2",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "192.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "230.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "215.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "231.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "215.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "97.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "192.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "152.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "789.3",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "192.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "92.4",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "789.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "153.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "231.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "216.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "178.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "218.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "233.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "194.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "789.4",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "143",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "151.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "195.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "130",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "790.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "172.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "180.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "233.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "219.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "152.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "228.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "215.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "789.4",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "124",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "153.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "192.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "188.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "225.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "211.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "786.2",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "153.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "193",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "175.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "188.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "224.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "210.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "175.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "150",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "155.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "212.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "225.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "190.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "786.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "156.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "172.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "177.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "212.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "225.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "189.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "176.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "154.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "242",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "154.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "-57.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "冰点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "氮含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "255",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "154",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "水分",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "烯烃",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "9.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "芳烃",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "41.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "℃",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "闪点（闭口）",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "212.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "225.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "189.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "175.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "175.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "196",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "52",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "水分",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "-56.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "冰点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "42.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "℃",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "闪点（闭口）",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "189.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "226.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "212.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "154.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.1",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-02 10:54:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "175.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "188.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "225.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "784.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.3",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "253",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "154.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "211.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "187.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "784.4",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "173",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "174.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "224.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "210.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "155.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "153",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "785.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.7",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "154.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "169.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "174.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "186.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "224.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "210.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.9",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "188.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "175.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "170.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "195",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "783.6",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "226.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "212.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "153.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "72.4",
+      "sampleDotCode": "ST010382",
+      "unitName": "&mu;g/g",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "总硫含量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "残留量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "210.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "90%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "224.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "终馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "784.4",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>kg/m<sup>3</sup></p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "密度(20℃)",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "175.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "20%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "171.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "10%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "155.5",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "初馏点",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "0.8",
+      "sampleDotCode": "ST010382",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "损失量",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "187.0",
+      "sampleDotCode": "ST010382",
+      "unitName": "<p>℃</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "50%回收温度",
+      "deviceName": "延炼50万吨/年航煤装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010382",
+    "sample_name": "3号喷气燃料气液分离罐底",
+    "device_name": "延炼50万吨/年航煤装置",
+    "export_time": "2026-07-15T12:16:01.634437",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 381
+  }
+}

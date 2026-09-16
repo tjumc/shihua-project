@@ -1,0 +1,3729 @@
+{
+  "data": [
+    {
+      "result": "1.39",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.78",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-01 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.64",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.94",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-07 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-08 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-14 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-05-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.45",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.32",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-28 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-06-04 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.05",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6.07",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-11 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.21",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.73",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-18 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.84",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.97",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-25 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.36",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.71",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-02 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-09 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9.36",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.50",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "579.70",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.76",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-16 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.39",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "83.80",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9.80",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.21",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-07-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.84",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "24.00",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.55",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8.50",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-30 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.84",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "15.40",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9.21",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.31",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-06 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.02",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "27.60",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.87",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "10.10",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-13 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "9.74",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.53",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-08-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.81",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "19.30",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.60",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.73",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-27 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.42",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "20.40",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "12.40",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.26",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-03 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.06",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "8.91",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "12.60",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.18",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-10 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6.27",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.84",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.06",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "4.60",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-17 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.55",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.94",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.61",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.37",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-24 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.65",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.27",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.76",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.32",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-01 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.87",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.47",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.37",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.76",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-08 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.29",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.51",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.05",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.73",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-15 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "4.69",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5.45",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.26",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-22 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5.84",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.22",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.37",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "4.67",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-29 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.35",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "5.43",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.35",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-05 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.48",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.29",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.86",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-12 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.47",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.35",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.67",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.21",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-19 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.17",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.21",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.49",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.37",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-26 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-03 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.97",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.03",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.10",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.09",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-10 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "4.54",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.01",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-17 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.19",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.99",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-12-24 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.61",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.03",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.08",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-31 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.74",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.90",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.43",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.69",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-07 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.42",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.81",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-08 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.48",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-14 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.21",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.84",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-15 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.98",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.81",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-21 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "6.54",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.95",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-22 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.93",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.86",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-28 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-29 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.60",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.62",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-04 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.92",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.81",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-05 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.11",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.60",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-11 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.87",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.65",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-12 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.02",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.18",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-18 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.08",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.81",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-19 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.76",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.01",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-25 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.13",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.69",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-26 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.66",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.18",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-04 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.92",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.94",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-05 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.93",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.98",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-11 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.71",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.26",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-12 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.71",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.99",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-18 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.79",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.82",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-19 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.42",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.87",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-25 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.67",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.12",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-26 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "4.24",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.89",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-04-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.51",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "4.72",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-02 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "2.59",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.25",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-08 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-09 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-15 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-16 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.82",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.02",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-22 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "14.90",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "0.85",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-23 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "/",
+      "sampleDotCode": "ST010019",
+      "sampleTime": "2026-04-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "3.48",
+      "sampleDotCode": "ST010019",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    },
+    {
+      "result": "1.15",
+      "sampleDotCode": "ST010019",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-30 08:00:00",
+      "resultName": "硫化物",
+      "deviceName": "延炼6万吨/年MTBE装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010019",
+    "sample_name": "化工混合废水",
+    "device_name": "延炼6万吨/年MTBE装置",
+    "export_time": "2026-07-15T12:15:53.949110",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 471
+  }
+}

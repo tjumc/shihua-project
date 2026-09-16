@@ -1,0 +1,1625 @@
+{
+  "data": [
+    {
+      "result": "6.74",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "55",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "21.76",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "5.47",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-05 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "76",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "36.16",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.31",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.02",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-12 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.01",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.68",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "11",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.12",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-19 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "57",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.04",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "34.33",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.62",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-05-26 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.85",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.19",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "35.58",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "182",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-02 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.80",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "36.00",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "219",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.62",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-09 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.76",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.04",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "77",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "21.25",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-16 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.58",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.14",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "28.00",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "24",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-23 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.78",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "34.60",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.98",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "169",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-06-30 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "101",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "9.13",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.58",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.09",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-07 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "27.40",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.33",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.31",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "93",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-14 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.22",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.09",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "27.67",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "82",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-21 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.84",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "76",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.50",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.85",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-07-28 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.99",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "34.30",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "148",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.48",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-04 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "110",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.75",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "13.70",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.62",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-08-11 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.27",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "25.50",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "62",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.73",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-18 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "4.20",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "57",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.86",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.88",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-08-25 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.14",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "4.89",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "15",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.51",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-01 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.17",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.28",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.88",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "15",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-08 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.66",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.98",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "30",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "5.58",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-15 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.29",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.33",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "32.80",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "136",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-22 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.54",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.40",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.71",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "80",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-09-29 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "37.00",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.50",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.51",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "286",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-06 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "297",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "39.60",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "2.14",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.38",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-10-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.77",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.81",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "33.60",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "218",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-20 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.48",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.15",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "28.70",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "117",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-10-27 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.63",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "24.80",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "298",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "3.79",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-03 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "20.10",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.07",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.72",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "264",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-10 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.65",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.28",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "61",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "19.70",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-17 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.38",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "212",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "20.90",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.03",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-11-24 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.23",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "238",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "22.40",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.60",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-12-01 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.44",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.75",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "115",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.28",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-08 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "210",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.08",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "20.15",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.96",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-15 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.04",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "271",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "21.05",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.28",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-12-22 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "704",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "15.50",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.55",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.98",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2025-12-29 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.98",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "480",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "2.05",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "18.90",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-05 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.08",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.00",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "10.35",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "178",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-12 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "75",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.00",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.20",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "5.16",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-19 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.32",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "3.48",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.89",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "229",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-01-26 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.95",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.84",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.00",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "71",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-02 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.22",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "45",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.29",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.07",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-02-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "29.05",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "124",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.31",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.37",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-02-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.70",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "15.72",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.02",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "82",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-02-23 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "4.10",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "39",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.50",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "5.39",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-03-02 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "7.36",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.57",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "52",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "3.47",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-09 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.57",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.65",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "4.95",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "122",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-16 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.46",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "11.30",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "34",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.28",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-03-23 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.72",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.01",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "10.20",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "121",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-03-30 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.59",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.58",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.21",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "103",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-06 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "33",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.20",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.21",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "18.80",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-13 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "20.50",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "8.93",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "150",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "1.67",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-20 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "6.74",
+      "sampleDotCode": "ST040058",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "pH",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "0.45",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "氨氮",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "31",
+      "sampleDotCode": "ST040058",
+      "unitName": "<p>mg/L</p>",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "COD",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    },
+    {
+      "result": "12.20",
+      "sampleDotCode": "ST040058",
+      "unitName": "mg/L",
+      "sampleTime": "2026-04-27 08:00:00",
+      "resultName": "石油类",
+      "deviceName": "延化140万吨/年柴油精制装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040058",
+    "sample_name": "柴油加氢装置污水",
+    "device_name": "延化140万吨/年柴油精制装置",
+    "export_time": "2026-07-15T14:41:57.194512",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 208
+  }
+}

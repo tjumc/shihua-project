@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "result": "1.82000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-11 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.70000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-15 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.05000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-22 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.25000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-05-29 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.00000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-05 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.60000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-12 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.50000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-19 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.20000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-26 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.10000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-06-27 08:30:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.60000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-03 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.50000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-10 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.00000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-17 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.10000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-24 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.00000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-07-31 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.00000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-07 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.00000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-14 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "1.80000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-21 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.80000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-08-28 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.30000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-04 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.60000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-11 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.50000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-18 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": ">4%",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-09-25 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.10000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-02 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.70000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-09 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.90000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-16 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "2.10000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-23 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.15000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-10-30 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.25000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-06 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.10000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-13 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.25000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-20 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.45000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-11-27 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "4.20000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-04 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.77000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-11 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.97000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-18 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.85000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2025-12-25 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    },
+    {
+      "result": "3.70000",
+      "sampleDotCode": "ST010385",
+      "unitName": "体积分数 %",
+      "sampleTime": "2026-01-01 08:00:00",
+      "resultName": "硫化氢",
+      "deviceName": "延炼50万吨/年航煤装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST010385",
+    "sample_name": "3号喷气燃料汽提塔顶酸性气",
+    "device_name": "延炼50万吨/年航煤装置",
+    "export_time": "2026-07-15T12:16:08.584878",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 36
+  }
+}

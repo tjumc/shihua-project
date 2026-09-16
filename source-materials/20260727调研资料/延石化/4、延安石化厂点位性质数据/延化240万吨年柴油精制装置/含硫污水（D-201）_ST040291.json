@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "result": "1.10",
+      "sampleDotCode": "ST040291",
+      "unitName": "mg/L",
+      "sampleTime": "2025-08-27 09:00:00",
+      "resultName": "总铁",
+      "deviceName": "延化240万吨/年柴油精制装置"
+    }
+  ],
+  "_metadata": {
+    "sample_code": "ST040291",
+    "sample_name": "含硫污水（D-201）",
+    "device_name": "延化240万吨/年柴油精制装置",
+    "export_time": "2026-07-15T14:43:22.023976",
+    "query_start": "2025-05-01 00:00:00",
+    "query_end": "2026-05-01 00:00:00",
+    "total_count": 1
+  }
+}
