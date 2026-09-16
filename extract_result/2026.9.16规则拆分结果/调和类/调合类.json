@@ -1,0 +1,816 @@
+[
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_CAT_GASOLINE",
+    "description": "催化汽油是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.催化汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_CDU_NAPHTHA",
+    "description": "常压石脑油是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.常压石脑油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_MTBE",
+    "description": "MTBE是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.MTBE"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_ALKYLATE",
+    "description": "烃化液是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.烃化液"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_CAT_GASOLINE",
+    "description": "催化汽油是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.催化汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_CDU_NAPHTHA",
+    "description": "常压石脑油是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.常压石脑油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_MTBE",
+    "description": "MTBE是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.MTBE"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_ALKYLATE",
+    "description": "烃化液是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.烃化液"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_0_DIESEL_CAT_DIESEL",
+    "description": "催化柴油是0#柴油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.催化柴油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_0_DIESEL_CDU_DIESEL",
+    "description": "常压直馏柴油是0#柴油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.常压直馏柴油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_92_GASOLINE_CAT_GASOLINE",
+    "description": "92#汽油中催化汽油配方比例下限为0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_92_GASOLINE_CAT_GASOLINE",
+    "description": "92#汽油中催化汽油配方比例上限为0.6。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_92_GASOLINE_CDU_NAPHTHA",
+    "description": "92#汽油中常压石脑油配方比例下限为0.0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_92_GASOLINE_CDU_NAPHTHA",
+    "description": "92#汽油中常压石脑油配方比例上限为0.1。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 0.1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_92_GASOLINE_MTBE",
+    "description": "92#汽油中MTBE配方比例下限为0.0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_92_GASOLINE_MTBE",
+    "description": "92#汽油中MTBE配方比例上限为0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_92_GASOLINE_ALKYLATE",
+    "description": "92#汽油中烃化液配方比例下限为0.0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_92_GASOLINE_ALKYLATE",
+    "description": "92#汽油中烃化液配方比例上限为0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_95_GASOLINE_CAT_GASOLINE",
+    "description": "95#汽油中催化汽油配方比例下限为0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_95_GASOLINE_CAT_GASOLINE",
+    "description": "95#汽油中催化汽油配方比例上限为0.55。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 0.55,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_95_GASOLINE_CDU_NAPHTHA",
+    "description": "95#汽油中常压石脑油配方比例下限为0.0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_95_GASOLINE_CDU_NAPHTHA",
+    "description": "95#汽油中常压石脑油配方比例上限为0.05。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 0.05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_95_GASOLINE_MTBE",
+    "description": "95#汽油中MTBE配方比例下限为0.0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_95_GASOLINE_MTBE",
+    "description": "95#汽油中MTBE配方比例上限为0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_95_GASOLINE_ALKYLATE",
+    "description": "95#汽油中烃化液配方比例下限为0.0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_95_GASOLINE_ALKYLATE",
+    "description": "95#汽油中烃化液配方比例上限为0.35。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 0.35,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_0_DIESEL_CAT_DIESEL",
+    "description": "0#柴油中催化柴油配方比例下限为0.0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.催化柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_0_DIESEL_CAT_DIESEL",
+    "description": "0#柴油中催化柴油配方比例上限为0.23。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.催化柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 0.23,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MIN_0_DIESEL_CDU_DIESEL",
+    "description": "0#柴油中常压直馏柴油配方比例下限为0.77。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.常压直馏柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.77,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_MAX_0_DIESEL_CDU_DIESEL",
+    "description": "0#柴油中常压直馏柴油配方比例上限为1.0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.常压直馏柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_max": {
+        "value": 1.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RON_CALC_92_GASOLINE",
+    "description": "92#汽油RON由催化汽油、常压石脑油、MTBE、烃化液的RON按质量比例线性加权计算。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.MTBE"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_CAT_GASOLINE",
+    "description": "催化汽油RON为90。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化汽油.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 90,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_CDU_NAPHTHA",
+    "description": "常压石脑油RON为55。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压石脑油.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 55,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_MTBE",
+    "description": "MTBE的RON为115。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "MTBE.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 115,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_ALKYLATE",
+    "description": "烃化液RON为94。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "烃化液.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 94,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_RON_MIN_92_GASOLINE",
+    "description": "92#汽油RON下限为92。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油.RON"
+      }
+    ],
+    "parameters": {
+      "product_ron_min": {
+        "value": 92,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RON_CALC_95_GASOLINE",
+    "description": "95#汽油RON由催化汽油、常压石脑油、MTBE、烃化液的RON按质量比例线性加权计算。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.MTBE"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "PRODUCT_RON_MIN_95_GASOLINE",
+    "description": "95#汽油RON下限为95。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油.RON"
+      }
+    ],
+    "parameters": {
+      "product_ron_min": {
+        "value": 95,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_CN_CALC_0_DIESEL",
+    "description": "0#柴油十六烷值由催化柴油、常压直馏柴油的CN按质量比例线性加权计算。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "CN"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.催化柴油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.常压直馏柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_CN_CAT_DIESEL",
+    "description": "催化柴油CN为25。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化柴油.CN"
+      }
+    ],
+    "parameters": {
+      "cn": {
+        "value": 25,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_CN_CDU_DIESEL",
+    "description": "常压直馏柴油CN为59。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压直馏柴油.CN"
+      }
+    ],
+    "parameters": {
+      "cn": {
+        "value": 59,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_CN_MIN_0_DIESEL",
+    "description": "0#柴油CN下限为51。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油.CN"
+      }
+    ],
+    "parameters": {
+      "product_cn_min": {
+        "value": 51,
+        "unit": null
+      }
+    }
+  }
+]
