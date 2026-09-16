@@ -1,0 +1,262 @@
+[
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_300_NK1",
+    "description": "300万吨年常压装置的300_常石脑油侧线中，YCO质量收率为0.0948，RCO质量收率为0.1443。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常石脑油.NK1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.0948,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.1443,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_300_KE1",
+    "description": "300万吨年常压装置的300_常一线侧线中，YCO质量收率为0.0948，RCO质量收率为0.1083。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常一线.KE1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.0948,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.1083,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_300_LD1",
+    "description": "300万吨年常压装置的300_常二线侧线中，YCO质量收率为0.2213，RCO质量收率为0.2179。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常二线.LD1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.2213,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.2179,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_300_HD1",
+    "description": "300万吨年常压装置的300_常三线侧线中，YCO质量收率为0.2985，RCO质量收率为0.2855。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常三线.HD1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.2985,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.2855,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_300_VR1",
+    "description": "300万吨年常压装置的300_常渣侧线中，YCO质量收率为0.2369，RCO质量收率为0.1987。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常渣.VR1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.2369,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.1987,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_260_NK1",
+    "description": "260万吨年常压装置的260_常石脑油侧线中，YCO质量收率为0.0948，RCO质量收率为0.1443。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常石脑油.NK1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.0948,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.1443,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_260_KE1",
+    "description": "260万吨年常压装置的260_常一线侧线中，YCO质量收率为0.0948，RCO质量收率为0.1083。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常一线.KE1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.0948,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.1083,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_260_LD1",
+    "description": "260万吨年常压装置的260_常二线侧线中，YCO质量收率为0.2213，RCO质量收率为0.2179。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常二线.LD1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.2213,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.2179,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_260_HD1",
+    "description": "260万吨年常压装置的260_常三线侧线中，YCO质量收率为0.2985，RCO质量收率为0.2855。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常三线.HD1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.2985,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.2855,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_SIDECUT_YIELD_260_VR1",
+    "description": "260万吨年常压装置的260_常渣侧线中，YCO质量收率为0.2369，RCO质量收率为0.1987。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO,RCO"
+      },
+      {
+        "set_name": "CDUsk",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常渣.VR1"
+      }
+    ],
+    "parameters": {
+      "mass_yield_YCO": {
+        "value": 0.2369,
+        "unit": "1"
+      },
+      "mass_yield_RCO": {
+        "value": 0.1987,
+        "unit": "1"
+      }
+    }
+  }
+]

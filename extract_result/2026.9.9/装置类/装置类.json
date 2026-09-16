@@ -1,0 +1,1682 @@
+[
+  {
+    "rule_id": "UNIT_FEED_BOUND_CDU_300",
+    "description": "300万吨年常压装置进料下限为7293吨/天，上限为9009吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 7293,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 9009,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_CDU_260",
+    "description": "260万吨年常压装置进料下限为6485.5吨/天，上限为8011.5吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 6485.5,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 8011.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_FCC_200",
+    "description": "200万催化装置进料下限为4590吨/天，上限为5600吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 4590,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 5600,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_FCC_100",
+    "description": "100万催化装置进料下限为2295吨/天，上限为2800吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 2295,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 2800,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置进料下限为2524.8吨/天，上限为4632吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 2524.8,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 4632,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置进料下限为4319.91吨/天，上限为7200吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 4319.91,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 7200,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_REFORMING_120",
+    "description": "120万重整装置进料下限为2431.2吨/天，上限为4464吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 2431.2,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 4464,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_JET_HYDRO_50",
+    "description": "50万航煤加氢装置进料下限为952吨/天，上限为1488吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 952,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1488,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置进料下限为575.4吨/天，上限为863吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 575.4,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 863,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置进料下限为1190吨/天，上限为1872吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1190,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1872,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_MTBE_YL",
+    "description": "MTBE装置进料下限为114.8吨/天，上限为173吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 114.8,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 173,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_MTBE_12",
+    "description": "12万MTBE装置进料下限为670.15吨/天，上限为1080吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 670.15,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1080,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_MTBE_25",
+    "description": "25万MTBE装置进料下限为550.2吨/天，上限为1008吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 550.2,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1008,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_PP_YL",
+    "description": "聚丙烯装置进料下限为191.8吨/天，上限为288吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 191.8,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 288,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_PP_20",
+    "description": "20万聚丙烯装置进料下限为383.6吨/天，上限为575吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 383.6,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 575,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_300_NK1",
+    "description": "300万吨年常压装置的300_常石脑油侧线质量收率下限为0.0948，上限为0.1443。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.0948,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.1443,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_300_KE1",
+    "description": "300万吨年常压装置的300_常一线侧线质量收率下限为0.0948，上限为0.1083。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常一线"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.0948,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.1083,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_300_LD1",
+    "description": "300万吨年常压装置的300_常二线侧线质量收率下限为0.2179，上限为0.2213。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常二线"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.2179,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.2213,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_300_HD1",
+    "description": "300万吨年常压装置的300_常三线侧线质量收率下限为0.2855，上限为0.2985。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常三线"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.2855,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.2985,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_300_VR1",
+    "description": "300万吨年常压装置的300_常渣侧线质量收率下限为0.1987，上限为0.2369。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常渣"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.1987,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.2369,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_260_NK1",
+    "description": "260万吨年常压装置的260_常石脑油侧线质量收率下限为0.0948，上限为0.1443。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.0948,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.1443,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_260_KE1",
+    "description": "260万吨年常压装置的260_常一线侧线质量收率下限为0.0948，上限为0.1083。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常一线"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.0948,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.1083,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_260_LD1",
+    "description": "260万吨年常压装置的260_常二线侧线质量收率下限为0.2179，上限为0.2213。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常二线"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.2179,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.2213,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_260_HD1",
+    "description": "260万吨年常压装置的260_常三线侧线质量收率下限为0.2855，上限为0.2985。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常三线"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.2855,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.2985,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_260_VR1",
+    "description": "260万吨年常压装置的260_常渣侧线质量收率下限为0.1987，上限为0.2369。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常渣"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.1987,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.2369,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_NK1_SPG",
+    "description": "300万吨年常压装置的300_常石脑油侧线比重下限为0.7352，上限为0.7365。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常石脑油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.7352,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.7365,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_NK1_SUL",
+    "description": "300万吨年常压装置的300_常石脑油侧线硫含量下限为0.00297，上限为0.00958。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常石脑油.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.00297,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 0.00958,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_NK1_ARW",
+    "description": "300万吨年常压装置的300_常石脑油侧线芳烃含量下限为6.92，上限为7.86。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常石脑油.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw_min": {
+        "value": 6.92,
+        "unit": null
+      },
+      "sidecut_arw_max": {
+        "value": 7.86,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_KE1_SPG",
+    "description": "300万吨年常压装置的300_常一线侧线比重下限为0.7906，上限为0.7971。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常一线.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.7906,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.7971,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_KE1_SUL",
+    "description": "300万吨年常压装置的300_常一线侧线硫含量下限为0.00845，上限为0.0126。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常一线.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.00845,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 0.0126,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_KE1_ARW",
+    "description": "300万吨年常压装置的300_常一线侧线芳烃含量下限为11.1，上限为14.6。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常一线.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw_min": {
+        "value": 11.1,
+        "unit": null
+      },
+      "sidecut_arw_max": {
+        "value": 14.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_LD1_SPG",
+    "description": "300万吨年常压装置的300_常二线侧线比重下限为0.8281，上限为0.8474。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常二线.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.8281,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.8474,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_LD1_SUL",
+    "description": "300万吨年常压装置的300_常二线侧线硫含量下限为0.0453，上限为0.38。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常二线.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.0453,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 0.38,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_LD1_DON",
+    "description": "300万吨年常压装置的300_常二线侧线抗爆指数下限为58.0，上限为60.9。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常二线.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don_min": {
+        "value": 58.0,
+        "unit": "1"
+      },
+      "sidecut_don_max": {
+        "value": 60.9,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_LD1_ARW",
+    "description": "300万吨年常压装置的300_常二线侧线芳烃含量下限为11.9，上限为26.5。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常二线.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw_min": {
+        "value": 11.9,
+        "unit": null
+      },
+      "sidecut_arw_max": {
+        "value": 26.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_HD1_SPG",
+    "description": "300万吨年常压装置的300_常三线侧线比重下限为0.8721，上限为0.902。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常三线.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.8721,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.902,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_HD1_SUL",
+    "description": "300万吨年常压装置的300_常三线侧线硫含量下限为0.08，上限为0.64。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常三线.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.08,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 0.64,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_HD1_ARW",
+    "description": "300万吨年常压装置的300_常三线侧线芳烃含量下限为18.3，上限为41.5。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常三线.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw_min": {
+        "value": 18.3,
+        "unit": null
+      },
+      "sidecut_arw_max": {
+        "value": 41.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_VR1_SPG",
+    "description": "300万吨年常压装置的300_常渣侧线比重下限为0.9324，上限为0.9838。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常渣.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.9324,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.9838,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_VR1_SUL",
+    "description": "300万吨年常压装置的300_常渣侧线硫含量下限为0.16，上限为1.14。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常渣.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.16,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 1.14,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_300_VR1_CON",
+    "description": "300万吨年常压装置的300_常渣侧线康氏残炭下限为7.82，上限为13.33。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.300_常渣.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con_min": {
+        "value": 7.82,
+        "unit": null
+      },
+      "sidecut_con_max": {
+        "value": 13.33,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_NK1_SPG",
+    "description": "260万吨年常压装置的260_常石脑油侧线比重下限为0.7352，上限为0.7365。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常石脑油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.7352,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.7365,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_NK1_SUL",
+    "description": "260万吨年常压装置的260_常石脑油侧线硫含量下限为0.00297，上限为0.00958。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常石脑油.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.00297,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 0.00958,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_NK1_ARW",
+    "description": "260万吨年常压装置的260_常石脑油侧线芳烃含量下限为6.92，上限为7.86。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常石脑油.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw_min": {
+        "value": 6.92,
+        "unit": null
+      },
+      "sidecut_arw_max": {
+        "value": 7.86,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_KE1_SPG",
+    "description": "260万吨年常压装置的260_常一线侧线比重下限为0.7906，上限为0.7971。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常一线.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.7906,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.7971,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_KE1_SUL",
+    "description": "260万吨年常压装置的260_常一线侧线硫含量下限为0.00845，上限为0.0126。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常一线.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.00845,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 0.0126,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_KE1_ARW",
+    "description": "260万吨年常压装置的260_常一线侧线芳烃含量下限为11.1，上限为14.6。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常一线.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw_min": {
+        "value": 11.1,
+        "unit": null
+      },
+      "sidecut_arw_max": {
+        "value": 14.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_LD1_SPG",
+    "description": "260万吨年常压装置的260_常二线侧线比重下限为0.8281，上限为0.8474。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常二线.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.8281,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.8474,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_LD1_SUL",
+    "description": "260万吨年常压装置的260_常二线侧线硫含量下限为0.0453，上限为0.38。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常二线.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.0453,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 0.38,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_LD1_DON",
+    "description": "260万吨年常压装置的260_常二线侧线抗爆指数下限为58.0，上限为60.9。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常二线.DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don_min": {
+        "value": 58.0,
+        "unit": "1"
+      },
+      "sidecut_don_max": {
+        "value": 60.9,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_LD1_ARW",
+    "description": "260万吨年常压装置的260_常二线侧线芳烃含量下限为11.9，上限为26.5。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常二线.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw_min": {
+        "value": 11.9,
+        "unit": null
+      },
+      "sidecut_arw_max": {
+        "value": 26.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_HD1_SPG",
+    "description": "260万吨年常压装置的260_常三线侧线比重下限为0.8721，上限为0.902。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常三线.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.8721,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.902,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_HD1_SUL",
+    "description": "260万吨年常压装置的260_常三线侧线硫含量下限为0.08，上限为0.64。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常三线.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.08,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 0.64,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_HD1_ARW",
+    "description": "260万吨年常压装置的260_常三线侧线芳烃含量下限为18.3，上限为41.5。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常三线.ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw_min": {
+        "value": 18.3,
+        "unit": null
+      },
+      "sidecut_arw_max": {
+        "value": 41.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_VR1_SPG",
+    "description": "260万吨年常压装置的260_常渣侧线比重下限为0.9324，上限为0.9838。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常渣.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg_min": {
+        "value": 0.9324,
+        "unit": "1"
+      },
+      "sidecut_spg_max": {
+        "value": 0.9838,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_VR1_SUL",
+    "description": "260万吨年常压装置的260_常渣侧线硫含量下限为0.16，上限为1.14。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常渣.SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul_min": {
+        "value": 0.16,
+        "unit": null
+      },
+      "sidecut_sul_max": {
+        "value": 1.14,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_260_VR1_CON",
+    "description": "260万吨年常压装置的260_常渣侧线康氏残炭下限为7.82，上限为13.33。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.260_常渣.CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con_min": {
+        "value": 7.82,
+        "unit": null
+      },
+      "sidecut_con_max": {
+        "value": 13.33,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_FCC200_RECYCLE_OIL",
+    "description": "200万催化装置的200_回炼油_去延能化侧线质量收率为0.0151。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.0151,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.0151,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_FCC200_DRY_GAS",
+    "description": "200万催化装置的200_干气侧线质量收率为0.0321。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.0321,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.0321,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_FCC200_LPG",
+    "description": "200万催化装置的200_液化气侧线质量收率为0.1735。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.1735,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.1735,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_FCC200_GASOLINE",
+    "description": "200万催化装置的200_催化汽油侧线质量收率为0.444。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.444,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.444,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_FCC200_DIESEL",
+    "description": "200万催化装置的200_催化柴油侧线质量收率为0.2486。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.2486,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.2486,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BOUND_FCC200_SLURRY",
+    "description": "200万催化装置的200_油浆_直售侧线质量收率为0.0069。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_min": {
+        "value": 0.0069,
+        "unit": "1"
+      },
+      "sidecut_mass_yield_max": {
+        "value": 0.0069,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_FCC200_RECYCLE_OIL",
+    "description": "200万催化装置的200_回炼油_去延能化产出下限为69.309吨/天，上限为84.56吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 69.309,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 84.56,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_FCC200_DRY_GAS",
+    "description": "200万催化装置的200_干气产出下限为147.339吨/天，上限为179.76吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_干气"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 147.339,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 179.76,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_FCC200_LPG",
+    "description": "200万催化装置的200_液化气产出下限为796.365吨/天，上限为971.6吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_液化气"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 796.365,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 971.6,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_FCC200_GASOLINE",
+    "description": "200万催化装置的200_催化汽油产出下限为2037.96吨/天，上限为2486.4吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 2037.96,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 2486.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_FCC200_DIESEL",
+    "description": "200万催化装置的200_催化柴油产出下限为1141.074吨/天，上限为1392.16吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 1141.074,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 1392.16,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_FCC200_SLURRY",
+    "description": "200万催化装置的200_油浆_直售产出下限为31.671吨/天，上限为38.64吨/天。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 31.671,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 38.64,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC200_RECYCLE_SPG",
+    "description": "200万催化装置的200_回炼油_去延能化比重为0.95。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化.SPG"
+      }
+    ],
+    "parameters": {
+      "product_spg_min": {
+        "value": 0.95,
+        "unit": "1"
+      },
+      "product_spg_max": {
+        "value": 0.95,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC200_GASOLINE_SPG",
+    "description": "200万催化装置的200_催化汽油比重为0.7148。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油.SPG"
+      }
+    ],
+    "parameters": {
+      "product_spg_min": {
+        "value": 0.7148,
+        "unit": "1"
+      },
+      "product_spg_max": {
+        "value": 0.7148,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC200_GASOLINE_RON",
+    "description": "200万催化装置的200_催化汽油辛烷值为89.3。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油.RON"
+      }
+    ],
+    "parameters": {
+      "product_ron_min": {
+        "value": 89.3,
+        "unit": "1"
+      },
+      "product_ron_max": {
+        "value": 89.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC200_GASOLINE_OLV",
+    "description": "200万催化装置的200_催化汽油烯烃为33.4。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油.OLV"
+      }
+    ],
+    "parameters": {
+      "product_olv_min": {
+        "value": 33.4,
+        "unit": null
+      },
+      "product_olv_max": {
+        "value": 33.4,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC200_DIESEL_SPG",
+    "description": "200万催化装置的200_催化柴油比重为0.845。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油.SPG"
+      }
+    ],
+    "parameters": {
+      "product_spg_min": {
+        "value": 0.845,
+        "unit": "1"
+      },
+      "product_spg_max": {
+        "value": 0.845,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC200_SLURRY_SPG",
+    "description": "200万催化装置的200_油浆_直售比重为1.058。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售.SPG"
+      }
+    ],
+    "parameters": {
+      "product_spg_min": {
+        "value": 1.058,
+        "unit": "1"
+      },
+      "product_spg_max": {
+        "value": 1.058,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC100_RECYCLE_SPG",
+    "description": "100万催化装置的100_回炼油_去延能化比重为0.984。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_回炼油_去延能化.SPG"
+      }
+    ],
+    "parameters": {
+      "product_spg_min": {
+        "value": 0.984,
+        "unit": "1"
+      },
+      "product_spg_max": {
+        "value": 0.984,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC100_GASOLINE_SPG",
+    "description": "100万催化装置的100_催化汽油比重为0.725。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_催化汽油.SPG"
+      }
+    ],
+    "parameters": {
+      "product_spg_min": {
+        "value": 0.725,
+        "unit": "1"
+      },
+      "product_spg_max": {
+        "value": 0.725,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC100_GASOLINE_RON",
+    "description": "100万催化装置的100_催化汽油辛烷值为80.9。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_催化汽油.RON"
+      }
+    ],
+    "parameters": {
+      "product_ron_min": {
+        "value": 80.9,
+        "unit": "1"
+      },
+      "product_ron_max": {
+        "value": 80.9,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC100_DIESEL_SPG",
+    "description": "100万催化装置的100_催化柴油比重为0.856。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_催化柴油.SPG"
+      }
+    ],
+    "parameters": {
+      "product_spg_min": {
+        "value": 0.856,
+        "unit": "1"
+      },
+      "product_spg_max": {
+        "value": 0.856,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_FCC100_SLURRY_SPG",
+    "description": "100万催化装置的100_油浆_直售比重为0.945。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_油浆_直售.SPG"
+      }
+    ],
+    "parameters": {
+      "product_spg_min": {
+        "value": 0.945,
+        "unit": "1"
+      },
+      "product_spg_max": {
+        "value": 0.945,
+        "unit": "1"
+      }
+    }
+  }
+]
