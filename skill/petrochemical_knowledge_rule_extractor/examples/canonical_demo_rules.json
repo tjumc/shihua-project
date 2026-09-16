@@ -1,0 +1,70 @@
+[
+  {
+    "rule_id": "CRUDE_INVENTORY_BOUND_DEMO",
+    "description": "【格式示例，非现场已核实规则】T_DEMO_01 在所有库存时点的质量库存不得低于500吨、不得超过8000吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T_DEMO_01"
+      }
+    ],
+    "parameters": {
+      "inventory_min": {
+        "value": 500,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 8000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DEMO",
+    "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 正常运行时进料流率为100至300吨/小时。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "CDU_DEMO_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 100,
+        "unit": "t/h"
+      },
+      "feed_rate_max": {
+        "value": 300,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_DEMO",
+    "description": "【格式示例，非现场已核实规则】S_PRODUCT_P_DEMO_01 调合时，S_M_DEMO_01 的质量比例为0.20至0.60。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DEMO_01.S_M_DEMO_01"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_DEMO_01.S_PRODUCT_P_DEMO_01"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.2,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  }
+]

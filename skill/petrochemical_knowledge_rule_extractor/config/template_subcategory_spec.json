@@ -1,0 +1,2813 @@
+{
+  "source": "references/知识规则模版.md",
+  "strict_top_level_fields": [
+    "rule_id",
+    "description",
+    "sets",
+    "parameters"
+  ],
+  "subcategories": [
+    {
+      "big_category": "原油类",
+      "subcategory": "原油罐物料平衡",
+      "intro": "守恒规则定位储罐；进出料由模型IT/OT查询，不在每条守恒规则重复建拓扑。",
+      "template_json": {
+        "rule_id": "CRUDE_BALANCE_DEMO",
+        "description": "【格式示例，非现场已核实规则】T_DEMO_01 每时段末库存=时段初库存+收油质量流率×时段长度−付油质量流率×时段长度；本示例忽略损耗。初始库存为2000吨，时段长度为1小时。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "initial_inventory": {
+            "value": 2000,
+            "unit": "t"
+          },
+          "time_step": {
+            "value": 1,
+            "unit": "h"
+          },
+          "loss_fraction": {
+            "value": 0,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "initial_inventory",
+        "time_step",
+        "loss_fraction"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "原油罐收付互斥",
+      "intro": "互斥限制的是储罐收付状态，不是某股流的物性或流向。",
+      "template_json": {
+        "rule_id": "CRUDE_RECEIVE_DISPATCH_MUTEX_DEMO",
+        "description": "【格式示例，非现场已核实规则】T_DEMO_01 同一时段不得同时收油和付油；收付状态必须与对应流量联动。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "max_simultaneous_receive_dispatch_states": {
+            "value": 1,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "max_simultaneous_receive_dispatch_states"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "原油罐库存上下限",
+      "intro": "限值参数按罐索引；流股与拓扑不决定本条限值归属。",
+      "template_json": {
+        "rule_id": "CRUDE_INVENTORY_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】T_DEMO_01 在所有库存时点（含调度期末）的质量库存不得低于500吨、不得超过8000吨。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "inventory_min": {
+            "value": 500,
+            "unit": "t"
+          },
+          "inventory_max": {
+            "value": 8000,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "inventory_min",
+        "inventory_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "单罐同时供料装置数量",
+      "intro": "T是受限罐，U限定被计数的候选装置范围，两者均保留。",
+      "template_json": {
+        "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_DEMO",
+        "description": "【格式示例，非现场已核实规则】T_DEMO_01 同时实际供料的常减压装置最多2套；连接流量达到1吨/小时才计作实际供料连接。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          },
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01,CDU_DEMO_02"
+          }
+        ],
+        "parameters": {
+          "max_supplied_units": {
+            "value": 2,
+            "unit": "1"
+          },
+          "minimum_active_feed_rate": {
+            "value": 1,
+            "unit": "t/h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        },
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "max_supplied_units",
+        "minimum_active_feed_rate"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "原油罐静置",
+      "intro": "静置阈值按罐给定；收油事件历史是模型状态依赖。",
+      "template_json": {
+        "rule_id": "CRUDE_SETTLING_DEMO",
+        "description": "【格式示例，非现场已核实规则】T_DEMO_01 每次收油结束后至少静置6小时方可付油；再次收油后重新从最近一次收油结束计时。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "settling_time_min": {
+            "value": 6,
+            "unit": "h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "settling_time_min"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "付油罐切换",
+      "intro": "U是切换约束对象，T限定本例候选供油罐，不能删掉该范围。",
+      "template_json": {
+        "rule_id": "CRUDE_FEED_TANK_SWITCH_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 在示例24小时调度期内最多切换付油罐组合3次；每次组合变化计1次，首时段与期前组合比较。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          },
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01,T_DEMO_02"
+          }
+        ],
+        "parameters": {
+          "horizon_duration": {
+            "value": 24,
+            "unit": "h"
+          },
+          "feed_tank_switch_count_max": {
+            "value": 3,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        },
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "horizon_duration",
+        "feed_tank_switch_count_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "原油混合总量",
+      "intro": "混流器对象已定位；全部进出料从主数据IU/OU取得。",
+      "template_json": {
+        "rule_id": "CRUDE_MIX_TOTAL_DEMO",
+        "description": "【格式示例，非现场已核实规则】MIX_CRUDE_DEMO为Umix混流装置，在N01周期内，S_CRUDE_MIX_OUT质量流率等于S_CRUDE_IN_01与S_CRUDE_IN_02质量流率之和；均按t/h计，忽略损耗。N01为[0,1)小时。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Umix",
+            "element": "MIX_CRUDE_DEMO"
+          },
+          {
+            "set_name": "N",
+            "subset_name": null,
+            "element": "N01"
+          }
+        ],
+        "parameters": {}
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Umix"
+        },
+        {
+          "set_name": "N",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "原油混合性质计算",
+      "intro": "保留混流器与本条特定性质；实际进出料及SQ是计算依赖。",
+      "template_json": {
+        "rule_id": "CRUDE_MIX_SULFUR_DEMO",
+        "description": "【格式示例，非现场已核实规则】N01周期内，混流装置MIX_CRUDE_DEMO的S_CRUDE_MIX_OUT硫质量分数按两股进料质量流率加权计算；S_CRUDE_IN_01和S_CRUDE_IN_02的硫质量分数分别为0.002和0.01。仅在总进料大于0时定义混合性质，N01为[0,1)小时。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Umix",
+            "element": "MIX_CRUDE_DEMO"
+          },
+          {
+            "set_name": "N",
+            "subset_name": null,
+            "element": "N01"
+          },
+          {
+            "set_name": "Q",
+            "subset_name": "Qw",
+            "element": "SULFUR_DEMO"
+          }
+        ],
+        "parameters": {
+          "sulfur_mass_fraction_S_CRUDE_IN_01": {
+            "value": 0.002,
+            "unit": "1"
+          },
+          "sulfur_mass_fraction_S_CRUDE_IN_02": {
+            "value": 0.01,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Umix"
+        },
+        {
+          "set_name": "N",
+          "subset_name": null
+        },
+        {
+          "set_name": "Q",
+          "subset_name": "Qw"
+        }
+      ],
+      "parameter_names_in_template": [
+        "sulfur_mass_fraction_S_CRUDE_IN_01",
+        "sulfur_mass_fraction_S_CRUDE_IN_02"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "原油混合侧线收率计算",
+      "intro": "CDUsk明确装置、产出流股和切割编号；O限定参与本例的原油，避免重复U/S/K。",
+      "template_json": {
+        "rule_id": "CRUDE_MIX_SIDECUT_YIELD_DEMO",
+        "description": "【格式示例，非现场已核实规则】在本示例固定操作模式下，CDU_DEMO_01 的 S_DEMO_01 侧线质量流率=0.20×O_DEMO_01进料流率+0.25×O_DEMO_02进料流率；收率均采用质量基准。",
+        "sets": [
+          {
+            "set_name": "O",
+            "subset_name": null,
+            "element": "O_DEMO_01,O_DEMO_02"
+          },
+          {
+            "set_name": "CDUsk",
+            "subset_name": null,
+            "element": "CDU_DEMO_01.S_DEMO_01.K_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "mass_yield_O_DEMO_01": {
+            "value": 0.2,
+            "unit": "1"
+          },
+          "mass_yield_O_DEMO_02": {
+            "value": 0.25,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "O",
+          "subset_name": null
+        },
+        {
+          "set_name": "CDUsk",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "mass_yield_O_DEMO_01",
+        "mass_yield_O_DEMO_02"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "单装置同时供油罐数量上下限",
+      "intro": "U为受限装置，T是本例参与计数的候选罐范围。",
+      "template_json": {
+        "rule_id": "CRUDE_FEED_TANK_COUNT_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 运行时由1至2个原油罐实际供料，停机时供料罐数为0；有效连接最小供料流率为1吨/小时。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          },
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01,T_DEMO_02,T_DEMO_03"
+          }
+        ],
+        "parameters": {
+          "feed_tank_count_min": {
+            "value": 1,
+            "unit": "1"
+          },
+          "feed_tank_count_max": {
+            "value": 2,
+            "unit": "1"
+          },
+          "minimum_active_feed_rate": {
+            "value": 1,
+            "unit": "t/h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        },
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "feed_tank_count_min",
+        "feed_tank_count_max",
+        "minimum_active_feed_rate"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "原油罐收油速率上下限",
+      "intro": "本例约束储罐总收油速率，并非单条进罐流股能力。",
+      "template_json": {
+        "rule_id": "CRUDE_RECEIVE_RATE_DEMO",
+        "description": "【格式示例，非现场已核实规则】T_DEMO_01 处于收油状态时，收油质量流率为50至300吨/小时；未收油时流率为0。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "receive_rate_min": {
+            "value": 50,
+            "unit": "t/h"
+          },
+          "receive_rate_max": {
+            "value": 300,
+            "unit": "t/h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "receive_rate_min",
+        "receive_rate_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "进厂原油在期限内全部收完",
+      "intro": "保留接收罐范围；到货批次未在V2定义，缺口继续保留，不能靠冗余IT弥补。",
+      "template_json": {
+        "rule_id": "CRUDE_RECEIVE_DEADLINE_DEMO",
+        "description": "【格式示例，非现场已核实规则】到货批次 ARR_DEMO_01 在调度起点后第2小时到达，须在第20小时结束前收完剩余1000吨；窗口外不得接收该批次。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01,T_DEMO_02"
+          }
+        ],
+        "parameters": {
+          "arrival_time_offset": {
+            "value": 2,
+            "unit": "h"
+          },
+          "receipt_deadline_offset": {
+            "value": 20,
+            "unit": "h"
+          },
+          "remaining_receipt_mass": {
+            "value": 1000,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "arrival_time_offset",
+        "receipt_deadline_offset",
+        "remaining_receipt_mass"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "原油类",
+      "subcategory": "原油收油罐选择",
+      "intro": "保留被许可选择的罐；批次相容性仍需外部绑定。",
+      "template_json": {
+        "rule_id": "CRUDE_RECEIPT_TANK_SELECTION_DEMO",
+        "description": "【格式示例，非现场已核实规则】ARR_DEMO_01 允许选择 T_DEMO_01 接收；只有管路可达、物料相容、储罐可用且库存上限不被突破时才能实际收油。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "receipt_compatible": {
+            "value": 1,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "receipt_compatible"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "装置类",
+      "subcategory": "分原油加工量上下限",
+      "intro": "加工量按装置和原油组合给定，两个索引都是直接对象。",
+      "template_json": {
+        "rule_id": "UNIT_CRUDE_FEED_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 选用 O_DEMO_01 时，该原油进料流率为20至100吨/小时；未选用时为0，停机时不得选用。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          },
+          {
+            "set_name": "O",
+            "subset_name": null,
+            "element": "O_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "crude_feed_min": {
+            "value": 20,
+            "unit": "t/d"
+          },
+          "crude_feed_max": {
+            "value": 100,
+            "unit": "t/d"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        },
+        {
+          "set_name": "O",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "crude_feed_min",
+        "crude_feed_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "装置类",
+      "subcategory": "原油配方比例上下限",
+      "intro": "比例是特定装置中特定原油的比例，不能只留一个对象。",
+      "template_json": {
+        "rule_id": "UNIT_CRUDE_RECIPE_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 正常运行时，O_DEMO_01 进料质量占总进料质量的比例为0.10至0.40；本例为必选原油。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          },
+          {
+            "set_name": "O",
+            "subset_name": null,
+            "element": "O_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "crude_mass_fraction_min": {
+            "value": 0.1,
+            "unit": "1"
+          },
+          "crude_mass_fraction_max": {
+            "value": 0.4,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        },
+        {
+          "set_name": "O",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "crude_mass_fraction_min",
+        "crude_mass_fraction_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "装置类",
+      "subcategory": "装置进料上下限",
+      "intro": "总进料负荷边界按装置给定；求和所用IU来自模型。",
+      "template_json": {
+        "rule_id": "UNIT_FEED_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 正常运行时进料流率为100至300吨/小时；停机时为0；开停工过渡阶段另用阶段负荷规则。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "feed_rate_min": {
+            "value": 100,
+            "unit": "t/h"
+          },
+          "feed_rate_max": {
+            "value": 300,
+            "unit": "t/h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "feed_rate_min",
+        "feed_rate_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "装置类",
+      "subcategory": "装置进料性质上下限",
+      "intro": "UQ明确装置及受限性质，不重复U和Q。",
+      "template_json": {
+        "rule_id": "UNIT_FEED_PROPERTY_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 有进料时，混合进料硫质量分数须在0.001至0.015之间。",
+        "sets": [
+          {
+            "set_name": "UQ",
+            "subset_name": null,
+            "element": "CDU_DEMO_01.SULFUR_DEMO"
+          }
+        ],
+        "parameters": {
+          "feed_sulfur_min": {
+            "value": 0.001,
+            "unit": "1"
+          },
+          "feed_sulfur_max": {
+            "value": 0.015,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "UQ",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "feed_sulfur_min",
+        "feed_sulfur_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "装置类",
+      "subcategory": "侧线收率上下限",
+      "intro": "收率针对指定装置的指定产出流股，OU已包含两个索引。",
+      "template_json": {
+        "rule_id": "UNIT_SIDECUT_YIELD_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 的 S_DEMO_01 侧线质量流率应为总进料质量流率的0.15至0.30。",
+        "sets": [
+          {
+            "set_name": "OU",
+            "subset_name": null,
+            "element": "CDU_DEMO_01.S_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "sidecut_mass_yield_min": {
+            "value": 0.15,
+            "unit": "1"
+          },
+          "sidecut_mass_yield_max": {
+            "value": 0.3,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "OU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "sidecut_mass_yield_min",
+        "sidecut_mass_yield_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "装置类",
+      "subcategory": "侧线性质上下限",
+      "intro": "OUSQ已完整表达装置、产出流股、性质；U/S/Q/OU/SQ重复。",
+      "template_json": {
+        "rule_id": "UNIT_SIDECUT_PROPERTY_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 的 S_DEMO_01 侧线有产出时，其硫质量分数不得超过0.005，下限为0。",
+        "sets": [
+          {
+            "set_name": "OUSQ",
+            "subset_name": null,
+            "element": "CDU_DEMO_01.S_DEMO_01.SULFUR_DEMO"
+          }
+        ],
+        "parameters": {
+          "sidecut_sulfur_min": {
+            "value": 0,
+            "unit": "1"
+          },
+          "sidecut_sulfur_max": {
+            "value": 0.005,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "OUSQ",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "sidecut_sulfur_min",
+        "sidecut_sulfur_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "装置类",
+      "subcategory": "上下游装置产品产出上下限",
+      "intro": "指定装置—产出流股就是流率约束的直接对象。",
+      "template_json": {
+        "rule_id": "UNIT_PRODUCT_RATE_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】U_DEMO_02 正常运行且生产 S_PRODUCT_P_DEMO_01 时，产品产出流率为30至80吨/小时；未生产该产品时为0。",
+        "sets": [
+          {
+            "set_name": "OU",
+            "subset_name": null,
+            "element": "U_DEMO_02.S_PRODUCT_P_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "product_rate_min": {
+            "value": 30,
+            "unit": "t/h"
+          },
+          "product_rate_max": {
+            "value": 80,
+            "unit": "t/h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "OU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "product_rate_min",
+        "product_rate_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "装置类",
+      "subcategory": "上下游装置产品性质上下限",
+      "intro": "质量限值按装置、产出流股、性质定位，保留一个完整关系。",
+      "template_json": {
+        "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】U_DEMO_02 生产的 S_PRODUCT_P_DEMO_01 在有产出时硫质量分数须在0至0.001之间。",
+        "sets": [
+          {
+            "set_name": "OUSQ",
+            "subset_name": null,
+            "element": "U_DEMO_02.S_PRODUCT_P_DEMO_01.SULFUR_DEMO"
+          }
+        ],
+        "parameters": {
+          "product_sulfur_min": {
+            "value": 0,
+            "unit": "1"
+          },
+          "product_sulfur_max": {
+            "value": 0.001,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "OUSQ",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "product_sulfur_min",
+        "product_sulfur_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "罐区类",
+      "subcategory": "只能收油",
+      "intro": "只收模式作用于罐，IT/OT只是流量联动依赖。",
+      "template_json": {
+        "rule_id": "TANK_RECEIVE_ONLY_DEMO",
+        "description": "【格式示例，非现场已核实规则】TK_DEMO_01 在指定时段只允许收油，不允许付油；允许收油不代表必须收油。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "TK_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "receive_allowed": {
+            "value": 1,
+            "unit": "1"
+          },
+          "dispatch_allowed": {
+            "value": 0,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "receive_allowed",
+        "dispatch_allowed"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "罐区类",
+      "subcategory": "只能付油",
+      "intro": "只付模式作用于罐。",
+      "template_json": {
+        "rule_id": "TANK_DISPATCH_ONLY_DEMO",
+        "description": "【格式示例，非现场已核实规则】TK_DEMO_01 在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "TK_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "receive_allowed": {
+            "value": 0,
+            "unit": "1"
+          },
+          "dispatch_allowed": {
+            "value": 1,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "receive_allowed",
+        "dispatch_allowed"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "罐区类",
+      "subcategory": "可以同时收付",
+      "intro": "同时收付许可作用于罐，不等于新增进出料关系。",
+      "template_json": {
+        "rule_id": "TANK_SIMULTANEOUS_ALLOWED_DEMO",
+        "description": "【格式示例，非现场已核实规则】TK_DEMO_01 在指定时段允许同时收油与付油，但仍须满足物料相容、库存和收付能力要求。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "TK_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "receive_allowed": {
+            "value": 1,
+            "unit": "1"
+          },
+          "dispatch_allowed": {
+            "value": 1,
+            "unit": "1"
+          },
+          "simultaneous_receive_dispatch_allowed": {
+            "value": 1,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "receive_allowed",
+        "dispatch_allowed",
+        "simultaneous_receive_dispatch_allowed"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "罐区类",
+      "subcategory": "调整库存上下限",
+      "intro": "临时界按罐指定，已有起止时间参数，N全期枚举不重复放入规则。",
+      "template_json": {
+        "rule_id": "TANK_INVENTORY_TEMP_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】TK_DEMO_01 在调度起点后第8至16小时的所有库存检查时点采用临时库存范围800至6000吨，两个端点均包含。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "TK_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "effective_start_offset": {
+            "value": 8,
+            "unit": "h"
+          },
+          "effective_end_offset": {
+            "value": 16,
+            "unit": "h"
+          },
+          "inventory_min": {
+            "value": 800,
+            "unit": "t"
+          },
+          "inventory_max": {
+            "value": 6000,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "effective_start_offset",
+        "effective_end_offset",
+        "inventory_min",
+        "inventory_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "罐区类",
+      "subcategory": "检修不可用",
+      "intro": "检修对象是罐，起止时间已有参数；无需携带所有连接。",
+      "template_json": {
+        "rule_id": "TANK_MAINTENANCE_DEMO",
+        "description": "【格式示例，非现场已核实规则】TK_DEMO_01 在调度起点后[8小时,16小时)检修，期间不得收付油；本条不代表库存必须清零。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "TK_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "maintenance_start_offset": {
+            "value": 8,
+            "unit": "h"
+          },
+          "maintenance_end_offset": {
+            "value": 16,
+            "unit": "h"
+          },
+          "receive_allowed": {
+            "value": 0,
+            "unit": "1"
+          },
+          "dispatch_allowed": {
+            "value": 0,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "maintenance_start_offset",
+        "maintenance_end_offset",
+        "receive_allowed",
+        "dispatch_allowed"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "罐区类",
+      "subcategory": "调整收油种类",
+      "intro": "保留本条实际指定的进罐流股关系；删掉此前自动附加的泛化进出料。",
+      "template_json": {
+        "rule_id": "TANK_MATERIAL_PERMISSION_DEMO",
+        "description": "【格式示例，非现场已核实规则】TK_DEMO_01 在调度起点后[12小时,24小时)只允许接收 S_M_DEMO_02；切换前须由已批准的清罐及相容性条件确认可用。",
+        "sets": [
+          {
+            "set_name": "IT",
+            "subset_name": null,
+            "element": "TK_DEMO_01.S_M_DEMO_02"
+          }
+        ],
+        "parameters": {
+          "effective_start_offset": {
+            "value": 12,
+            "unit": "h"
+          },
+          "effective_end_offset": {
+            "value": 24,
+            "unit": "h"
+          },
+          "receipt_allowed": {
+            "value": 1,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "IT",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "effective_start_offset",
+        "effective_end_offset",
+        "receipt_allowed"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "罐区类",
+      "subcategory": "安全液位上下限",
+      "intro": "液位界按罐定位；密度及罐容换算是独立模型依赖。",
+      "template_json": {
+        "rule_id": "TANK_LEVEL_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】TK_DEMO_01 在所有库存检查时点液位为2.5至14.3米；质量库存与液位须通过已核实的罐容和密度模型联系。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "TK_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "liquid_level_min": {
+            "value": 2.5,
+            "unit": "m"
+          },
+          "liquid_level_max": {
+            "value": 14.3,
+            "unit": "m"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "liquid_level_min",
+        "liquid_level_max"
+      ],
+      "enabled": false,
+      "reason": "模板中有示例，但V3罐区分类未明确列入；默认不输出。"
+    },
+    {
+      "big_category": "调合类",
+      "subcategory": "参调组分",
+      "intro": "允许的参调输入关系本身就是本条知识；产品输出由该混流器主数据定位。",
+      "template_json": {
+        "rule_id": "BLEND_COMPONENT_ALLOWED_DEMO",
+        "description": "【格式示例，非现场已核实规则】S_PRODUCT_P_DEMO_01 本示例仅允许由 S_M_DEMO_01 与 S_M_DEMO_02 参调；实际使用量还受各组分可用库存限制。",
+        "sets": [
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "BLEND_DEMO_01.S_M_DEMO_01,BLEND_DEMO_01.S_M_DEMO_02"
+          }
+        ],
+        "parameters": {}
+      },
+      "set_signature": [
+        {
+          "set_name": "IU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调合类",
+      "subcategory": "组分流量上下限",
+      "intro": "流率界针对进入指定混流器的组分流股，IU可完整定位。",
+      "template_json": {
+        "rule_id": "BLEND_COMPONENT_FLOW_DEMO",
+        "description": "【格式示例，非现场已核实规则】S_PRODUCT_P_DEMO_01 选用 S_M_DEMO_01 时，其调合质量流率为5至50吨/小时；未选用时为0。",
+        "sets": [
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "BLEND_DEMO_01.S_M_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "component_rate_min": {
+            "value": 5,
+            "unit": "t/h"
+          },
+          "component_rate_max": {
+            "value": 50,
+            "unit": "t/h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "IU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "component_rate_min",
+        "component_rate_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调合类",
+      "subcategory": "组分配方比例",
+      "intro": "分子是指定组分输入，分母是指定产品输出；两种角色都保留。",
+      "template_json": {
+        "rule_id": "BLEND_RECIPE_DEMO",
+        "description": "【格式示例，非现场已核实规则】S_PRODUCT_P_DEMO_01 调合时，S_M_DEMO_01 的质量比例为0.20至0.60；该组分在本例中为必选组分。",
+        "sets": [
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "BLEND_DEMO_01.S_M_DEMO_01"
+          },
+          {
+            "set_name": "OU",
+            "subset_name": null,
+            "element": "BLEND_DEMO_01.S_PRODUCT_P_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "component_mass_fraction_min": {
+            "value": 0.2,
+            "unit": "1"
+          },
+          "component_mass_fraction_max": {
+            "value": 0.6,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "IU",
+          "subset_name": null
+        },
+        {
+          "set_name": "OU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "component_mass_fraction_min",
+        "component_mass_fraction_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调合类",
+      "subcategory": "调合性质计算及质量限值",
+      "intro": "保留各输入、目标输出和硫指标三个角色，不重复基础S/U及派生SQ。",
+      "template_json": {
+        "rule_id": "BLEND_SULFUR_DEMO",
+        "description": "【格式示例，非现场已核实规则】S_PRODUCT_P_DEMO_01 的硫质量分数按组分质量流率加权计算；S_M_DEMO_01 与 S_M_DEMO_02 的硫质量分数分别为0.0002和0.002，产品有产出时不得超过0.001。",
+        "sets": [
+          {
+            "set_name": "Q",
+            "subset_name": "Qw",
+            "element": "SULFUR_DEMO"
+          },
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "BLEND_DEMO_01.S_M_DEMO_01,BLEND_DEMO_01.S_M_DEMO_02"
+          },
+          {
+            "set_name": "OU",
+            "subset_name": null,
+            "element": "BLEND_DEMO_01.S_PRODUCT_P_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "sulfur_fraction_S_M_DEMO_01": {
+            "value": 0.0002,
+            "unit": "1"
+          },
+          "sulfur_fraction_S_M_DEMO_02": {
+            "value": 0.002,
+            "unit": "1"
+          },
+          "product_sulfur_max": {
+            "value": 0.001,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "Q",
+          "subset_name": "Qw"
+        },
+        {
+          "set_name": "IU",
+          "subset_name": null
+        },
+        {
+          "set_name": "OU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "sulfur_fraction_S_M_DEMO_01",
+        "sulfur_fraction_S_M_DEMO_02",
+        "product_sulfur_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调合类",
+      "subcategory": "调合物料平衡（配套）",
+      "intro": "混流器总守恒由模型查询其全部IU/OU，避免重复拓扑。",
+      "template_json": {
+        "rule_id": "BLEND_MASS_BALANCE_DEMO",
+        "description": "【格式示例，非现场已核实规则】忽略调合损耗时，S_PRODUCT_P_DEMO_01 调合产出质量流率等于 S_M_DEMO_01 与 S_M_DEMO_02 调合进料质量流率之和。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Umix",
+            "element": "BLEND_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "blend_loss_fraction": {
+            "value": 0,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Umix"
+        }
+      ],
+      "parameter_names_in_template": [
+        "blend_loss_fraction"
+      ],
+      "enabled": false,
+      "reason": "模板中有配套示例，但V3调合分类未列入；默认不输出。"
+    },
+    {
+      "big_category": "产品类",
+      "subcategory": "每日产量上下限",
+      "intro": "产量界绑定指定成品流股；日窗口由已有参数表达。",
+      "template_json": {
+        "rule_id": "PRODUCT_DAILY_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】S_PRODUCT_P_DEMO_01 在示例日窗口[0小时,24小时)内的合格产品总产量为100至500吨；不使用原料处理量代替产品产量。",
+        "sets": [
+          {
+            "set_name": "S",
+            "subset_name": null,
+            "element": "S_PRODUCT_P_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "window_start_offset": {
+            "value": 0,
+            "unit": "h"
+          },
+          "window_end_offset": {
+            "value": 24,
+            "unit": "h"
+          },
+          "daily_output_min": {
+            "value": 100,
+            "unit": "t"
+          },
+          "daily_output_max": {
+            "value": 500,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "S",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "window_start_offset",
+        "window_end_offset",
+        "daily_output_min",
+        "daily_output_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "产品类",
+      "subcategory": "调度周期总产量上下限",
+      "intro": "产量界绑定成品流股，全期窗口由场景配置及已有参数给定。",
+      "template_json": {
+        "rule_id": "PRODUCT_HORIZON_BOUND_DEMO",
+        "description": "【格式示例，非现场已核实规则】S_PRODUCT_P_DEMO_01 在示例72小时调度期内的合格产品总产量为300至1500吨。",
+        "sets": [
+          {
+            "set_name": "S",
+            "subset_name": null,
+            "element": "S_PRODUCT_P_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "horizon_duration": {
+            "value": 72,
+            "unit": "h"
+          },
+          "horizon_output_min": {
+            "value": 300,
+            "unit": "t"
+          },
+          "horizon_output_max": {
+            "value": 1500,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "S",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "horizon_duration",
+        "horizon_output_min",
+        "horizon_output_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "负荷变化幅度",
+      "intro": "爬坡界按装置给定；相邻时间是模型索引依赖。",
+      "template_json": {
+        "rule_id": "SHUTDOWN_RAMP_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 在指定过渡工况下，进料流率每小时最多增加20吨/小时、最多减少30吨/小时；首时段与期前负荷比较。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "ramp_up_rate_max": {
+            "value": 20,
+            "unit": "t/h²"
+          },
+          "ramp_down_rate_max": {
+            "value": 30,
+            "unit": "t/h²"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "ramp_up_rate_max",
+        "ramp_down_rate_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "负荷切换次数",
+      "intro": "本例限制所有允许负荷档位的切换次数，不限定某个模式；M和UM由模式主数据提供。",
+      "template_json": {
+        "rule_id": "SHUTDOWN_LOAD_SWITCH_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 在24小时内最多切换负荷档位3次；相邻时段档位编号改变计1次，首时段与期前档位比较。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "horizon_duration": {
+            "value": 24,
+            "unit": "h"
+          },
+          "load_mode_switch_count_max": {
+            "value": 3,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "horizon_duration",
+        "load_mode_switch_count_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "停工持续时间",
+      "intro": "持续时间按装置停工事件定义，不必在每条规则复制所有N。",
+      "template_json": {
+        "rule_id": "SHUTDOWN_DURATION_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 每次从停机状态开始到重新启动之间的持续时间为24至72小时；跨调度期事件仍需保留完整时间义务。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "shutdown_duration_min": {
+            "value": 24,
+            "unit": "h"
+          },
+          "shutdown_duration_max": {
+            "value": 72,
+            "unit": "h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "shutdown_duration_min",
+        "shutdown_duration_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "停机连续性",
+      "intro": "最短开停机时间绑定装置，时序由模型生成。",
+      "template_json": {
+        "rule_id": "SHUTDOWN_MIN_UP_DOWN_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 每次启动后至少连续运行12小时，每次停机后至少连续停机8小时，避免频繁启停。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "minimum_up_time": {
+            "value": 12,
+            "unit": "h"
+          },
+          "minimum_down_time": {
+            "value": 8,
+            "unit": "h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "minimum_up_time",
+        "minimum_down_time"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "停机前降负荷过渡期",
+      "intro": "过渡阶段约束对象为装置，事件时间另由状态模型定义。",
+      "template_json": {
+        "rule_id": "SHUTDOWN_RAMP_DOWN_STAGE_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 从降负荷阶段开始到进入停机状态至少经过4小时；阶段内进料不得增加，并须同时满足负荷下降速率限制。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "ramp_down_duration_min": {
+            "value": 4,
+            "unit": "h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "ramp_down_duration_min"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "复工加负荷过渡期",
+      "intro": "过渡阶段约束对象为装置，事件时间另由状态模型定义。",
+      "template_json": {
+        "rule_id": "SHUTDOWN_RAMP_UP_STAGE_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 从复工开始到进入正常运行状态至少经过6小时；加负荷阶段内进料不得减少，并须满足负荷上升速率限制。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "ramp_up_duration_min": {
+            "value": 6,
+            "unit": "h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "ramp_up_duration_min"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "停工前进料库存清空",
+      "intro": "U确定停工触发事件，T确定检查库存的罐，两者都必要。",
+      "template_json": {
+        "rule_id": "SHUTDOWN_FEED_EMPTY_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 进入停机状态时，指定进料缓冲罐 TK_DEMO_FEED 的库存不得超过5吨；仅针对该指定罐。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          },
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "TK_DEMO_FEED"
+          }
+        ],
+        "parameters": {
+          "residual_feed_inventory_max": {
+            "value": 5,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        },
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "residual_feed_inventory_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "停工前下游备料及产品备罐",
+      "intro": "保留停工装置及指定备料/备罐对象，不复制无关流股。",
+      "template_json": {
+        "rule_id": "SHUTDOWN_RESERVE_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 停机前检查时点，下游指定进料罐 TK_DEMO_FEED 可用库存至少300吨，指定产品罐 TK_DEMO_PRODUCT 可用质量容量至少200吨。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          },
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "TK_DEMO_FEED,TK_DEMO_PRODUCT"
+          }
+        ],
+        "parameters": {
+          "downstream_feed_reserve_min": {
+            "value": 300,
+            "unit": "t"
+          },
+          "product_free_capacity_min": {
+            "value": 200,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        },
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "downstream_feed_reserve_min",
+        "product_free_capacity_min"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "停工期间外购料",
+      "intro": "本例采购窗口已固定为8至20小时；采购流股是直接对象，装置为背景。",
+      "template_json": {
+        "rule_id": "SHUTDOWN_PURCHASE_DEMO",
+        "description": "【格式示例，非现场已核实规则】在预先指定的停工窗口[8小时,20小时)内，外购 S_M_DEMO_01 的到厂总量为100至500吨，接卸流率不超过50吨/小时。",
+        "sets": [
+          {
+            "set_name": "S",
+            "subset_name": null,
+            "element": "S_M_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "shutdown_window_start_offset": {
+            "value": 8,
+            "unit": "h"
+          },
+          "shutdown_window_end_offset": {
+            "value": 20,
+            "unit": "h"
+          },
+          "purchase_mass_min": {
+            "value": 100,
+            "unit": "t"
+          },
+          "purchase_mass_max": {
+            "value": 500,
+            "unit": "t"
+          },
+          "unloading_rate_max": {
+            "value": 50,
+            "unit": "t/h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "S",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "shutdown_window_start_offset",
+        "shutdown_window_end_offset",
+        "purchase_mass_min",
+        "purchase_mass_max",
+        "unloading_rate_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "复工后恢复正常工况",
+      "intro": "恢复期限绑定装置，产品质量检测从运行状态模型取得。",
+      "template_json": {
+        "rule_id": "RESTART_NORMAL_RECOVERY_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 复工后12小时内须开始连续至少2小时达到100至300吨/小时负荷且产品质量合格的正常运行状态。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "normal_state_start_deadline": {
+            "value": 12,
+            "unit": "h"
+          },
+          "normal_state_hold_time_min": {
+            "value": 2,
+            "unit": "h"
+          },
+          "normal_feed_min": {
+            "value": 100,
+            "unit": "t/h"
+          },
+          "normal_feed_max": {
+            "value": 300,
+            "unit": "t/h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "normal_state_start_deadline",
+        "normal_state_hold_time_min",
+        "normal_feed_min",
+        "normal_feed_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "停工调度规则",
+      "subcategory": "复工后生产偏差补偿",
+      "intro": "U确定复工事件，S确定补产统计对象。",
+      "template_json": {
+        "rule_id": "RESTART_PRODUCTION_MAKEUP_DEMO",
+        "description": "【格式示例，非现场已核实规则】S_PRODUCT_P_DEMO_01 在复工后48小时内，建议在基础生产目标800吨之外补产200吨；本例为软目标，不能突破安全和质量硬约束。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01"
+          },
+          {
+            "set_name": "S",
+            "subset_name": null,
+            "element": "S_PRODUCT_P_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "makeup_window_duration": {
+            "value": 48,
+            "unit": "h"
+          },
+          "base_production_target": {
+            "value": 800,
+            "unit": "t"
+          },
+          "makeup_mass_target": {
+            "value": 200,
+            "unit": "t"
+          },
+          "shortfall_penalty": {
+            "value": 100,
+            "unit": "objective_unit/t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        },
+        {
+          "set_name": "S",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "makeup_window_duration",
+        "base_production_target",
+        "makeup_mass_target",
+        "shortfall_penalty"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "流程特征和协同规则",
+      "subcategory": "物料流向",
+      "intro": "本条知识就是一条允许进料关系，IU已包含装置与流股，U/S无需重复。",
+      "template_json": {
+        "rule_id": "MATERIAL_FLOW_V11_TO_FCC1_DEMO",
+        "description": "【格式示例，非现场已核实规则】沿用项目组截图的形式示例：1#减一线（V11）允许进入FCC1；是否实际投用及供料量由可用性、能力和物料平衡共同确定。",
+        "sets": [
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "FCC1.V11"
+          }
+        ],
+        "parameters": {}
+      },
+      "set_signature": [
+        {
+          "set_name": "IU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "流程特征和协同规则",
+      "subcategory": "常压装置协同",
+      "intro": "联合能力约束必须保留两套装置范围。",
+      "template_json": {
+        "rule_id": "CDU_SHARED_RECEIPT_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 与 CDU_DEMO_02 共用示例原油供料总管时，两套装置的总进料流率之和不得超过500吨/小时。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Ucdu",
+            "element": "CDU_DEMO_01,CDU_DEMO_02"
+          }
+        ],
+        "parameters": {
+          "shared_header_capacity": {
+            "value": 500,
+            "unit": "t/h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Ucdu"
+        }
+      ],
+      "parameter_names_in_template": [
+        "shared_header_capacity"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "流程特征和协同规则",
+      "subcategory": "催化装置协同",
+      "intro": "两条输入关系限定装置及参与本例的两股进料，U/S重复。",
+      "template_json": {
+        "rule_id": "FCC_FEED_COORDINATION_DEMO",
+        "description": "【格式示例，非现场已核实规则】FCO_DEMO_01 的进料总流率等于 VGO_DEMO 与 RES_DEMO 两股进料流率之和，其中 RES_DEMO 占总进料的质量比例不得超过0.20。",
+        "sets": [
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "FCC_DEMO_01.VGO_DEMO,FCC_DEMO_01.RES_DEMO"
+          }
+        ],
+        "parameters": {
+          "residue_mass_fraction_max": {
+            "value": 0.2,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "IU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "residue_mass_fraction_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "流程特征和协同规则",
+      "subcategory": "加氢装置协同",
+      "intro": "耗氢系数按装置给定；氢气需求变量不是一个额外set。",
+      "template_json": {
+        "rule_id": "HYDROGEN_COORDINATION_DEMO",
+        "description": "【格式示例，非现场已核实规则】HYD_DEMO_01 每处理1吨进料按示例消耗0.02吨氢气；其氢气供给流率必须覆盖该需求，并由氢气网络守恒约束供给来源。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Up",
+            "element": "HYD_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "hydrogen_consumption_factor": {
+            "value": 0.02,
+            "unit": "t/t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Up"
+        }
+      ],
+      "parameter_names_in_template": [
+        "hydrogen_consumption_factor"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "流程特征和协同规则",
+      "subcategory": "芳烃链协同（重整—PX—PTA）",
+      "intro": "保留PX入罐、出罐和PTA产出三个角色；上游重整背景对象及泛化流股移除。",
+      "template_json": {
+        "rule_id": "AROMATICS_CHAIN_DEMO",
+        "description": "【格式示例，非现场已核实规则】示例PTA装置每生产1吨PTA消耗0.67吨PX；PX库存期末=期初+来自上游芳烃链的PX到货量−PTA生产耗用量。",
+        "sets": [
+          {
+            "set_name": "IT",
+            "subset_name": null,
+            "element": "TK_PX_DEMO.S_PX_DEMO"
+          },
+          {
+            "set_name": "OT",
+            "subset_name": null,
+            "element": "TK_PX_DEMO.S_PX_TO_PTA_DEMO"
+          },
+          {
+            "set_name": "OU",
+            "subset_name": null,
+            "element": "PTA_DEMO_01.S_PTA_DEMO"
+          }
+        ],
+        "parameters": {
+          "px_consumption_per_pta": {
+            "value": 0.67,
+            "unit": "t/t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "IT",
+          "subset_name": null
+        },
+        {
+          "set_name": "OT",
+          "subset_name": null
+        },
+        {
+          "set_name": "OU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "px_consumption_per_pta"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "流程特征和协同规则",
+      "subcategory": "烯烃链协同（乙烯—塑料）",
+      "intro": "保留PE装置乙烯输入和PE输出，用于绑定耗料系数；上游产源从流程主数据读取。",
+      "template_json": {
+        "rule_id": "OLEFIN_CHAIN_DEMO",
+        "description": "【格式示例，非现场已核实规则】示例聚乙烯装置每生产1吨聚乙烯消耗1.02吨乙烯，乙烯消耗不得超过来自上游及允许缓冲库存的可供应量。",
+        "sets": [
+          {
+            "set_name": "OU",
+            "subset_name": null,
+            "element": "PE_DEMO_01.S_PE_DEMO"
+          },
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "PE_DEMO_01.S_ETHYLENE_DEMO"
+          }
+        ],
+        "parameters": {
+          "ethylene_consumption_per_pe": {
+            "value": 1.02,
+            "unit": "t/t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "OU",
+          "subset_name": null
+        },
+        {
+          "set_name": "IU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "ethylene_consumption_per_pe"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "流程特征和协同规则",
+      "subcategory": "聚酯链协同（PTA—MEG—PET）",
+      "intro": "两种原料输入及PET输出是耗料计算的直接角色。",
+      "template_json": {
+        "rule_id": "POLYESTER_CHAIN_DEMO",
+        "description": "【格式示例，非现场已核实规则】示例PET装置每生产1吨PET分别消耗0.86吨PTA和0.34吨MEG，生产量受两种原料可供应量共同约束。",
+        "sets": [
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "PET_DEMO_01.S_PTA_DEMO,PET_DEMO_01.S_MEG_DEMO"
+          },
+          {
+            "set_name": "OU",
+            "subset_name": null,
+            "element": "PET_DEMO_01.S_PET_DEMO"
+          }
+        ],
+        "parameters": {
+          "pta_consumption_per_pet": {
+            "value": 0.86,
+            "unit": "t/t"
+          },
+          "meg_consumption_per_pet": {
+            "value": 0.34,
+            "unit": "t/t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "IU",
+          "subset_name": null
+        },
+        {
+          "set_name": "OU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "pta_consumption_per_pet",
+        "meg_consumption_per_pet"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "流程特征和协同规则",
+      "subcategory": "纺丝前纺后纺协同",
+      "intro": "保留前纺产出与后纺输入的有向关系；分龄模型仍需补充。",
+      "template_json": {
+        "rule_id": "SPINNING_PRE_POST_DEMO",
+        "description": "【格式示例，非现场已核实规则】前纺 PRE_DEMO_01 产出的中间品需熟化至少2小时才可进入后纺 POST_DEMO_01；已熟化未投入后纺的中间品库存不得超过50吨。",
+        "sets": [
+          {
+            "set_name": "OU",
+            "subset_name": null,
+            "element": "PRE_DEMO_01.S_FIBER_INTERMEDIATE_DEMO"
+          },
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "POST_DEMO_01.S_FIBER_INTERMEDIATE_DEMO"
+          }
+        ],
+        "parameters": {
+          "maturation_time_min": {
+            "value": 2,
+            "unit": "h"
+          },
+          "matured_buffer_inventory_max": {
+            "value": 50,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "OU",
+          "subset_name": null
+        },
+        {
+          "set_name": "IU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "maturation_time_min",
+        "matured_buffer_inventory_max"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "流程特征和协同规则",
+      "subcategory": "中间罐区缓冲与调合协同",
+      "intro": "T是受限缓冲库存，IU是特定调合取料连接；其他收付由主数据取得。",
+      "template_json": {
+        "rule_id": "BUFFER_BLEND_COORDINATION_DEMO",
+        "description": "【格式示例，非现场已核实规则】TK_BLEND_DEMO 向调合系统供料时，按时段收付计算的下一库存时点质量库存不得低于100吨，并满足该罐收付模式。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "TK_BLEND_DEMO"
+          },
+          {
+            "set_name": "IU",
+            "subset_name": null,
+            "element": "BLEND_DEMO_01.S_OUT_TK_BLEND_DEMO"
+          }
+        ],
+        "parameters": {
+          "buffer_inventory_min": {
+            "value": 100,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        },
+        {
+          "set_name": "IU",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "buffer_inventory_min"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "装置运行模式切换",
+      "intro": "阈值只针对特定装置的特定模式，UM比单独U或M更准确。",
+      "template_json": {
+        "rule_id": "MODE_SWITCH_DWELL_DEMO",
+        "description": "【格式示例，非现场已核实规则】U_DEMO_01 每次进入 MODE_DEMO_A 后至少保持4小时方可切换；允许的其他转移由独立模式转移表规定。",
+        "sets": [
+          {
+            "set_name": "UM",
+            "subset_name": null,
+            "element": "U_DEMO_01.MODE_DEMO_A"
+          }
+        ],
+        "parameters": {
+          "mode_dwell_time_min": {
+            "value": 4,
+            "unit": "h"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "UM",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "mode_dwell_time_min"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "物性平滑",
+      "intro": "平滑规则定位装置及性质组合，U/Q是重复声明。",
+      "template_json": {
+        "rule_id": "PROPERTY_SMOOTHNESS_DEMO",
+        "description": "【格式示例，非现场已核实规则】CDU_DEMO_01 连续有进料的相邻1小时时段，建议进料硫质量分数变化绝对值不超过0.001；超出部分计软惩罚。",
+        "sets": [
+          {
+            "set_name": "UQ",
+            "subset_name": null,
+            "element": "CDU_DEMO_01.SULFUR_DEMO"
+          }
+        ],
+        "parameters": {
+          "time_step": {
+            "value": 1,
+            "unit": "h"
+          },
+          "sulfur_fraction_change_target_max": {
+            "value": 0.001,
+            "unit": "1"
+          },
+          "excess_change_penalty": {
+            "value": 100,
+            "unit": "objective_unit/1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "UQ",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "time_step",
+        "sulfur_fraction_change_target_max",
+        "excess_change_penalty"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "负荷联动",
+      "intro": "联合约束保留上游、下游两套装置，不能缩减为单个装置。",
+      "template_json": {
+        "rule_id": "LOAD_LINKAGE_DEMO",
+        "description": "【格式示例，非现场已核实规则】示例无中间缓冲的上游 U_UP_DEMO 每吨进料最多产出0.30吨可供下游 U_DOWN_DEMO 使用的物料，下游进料不得超过这部分可用产出。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Up",
+            "element": "U_UP_DEMO,U_DOWN_DEMO"
+          }
+        ],
+        "parameters": {
+          "available_output_yield": {
+            "value": 0.3,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Up"
+        }
+      ],
+      "parameter_names_in_template": [
+        "available_output_yield"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "操作频次",
+      "intro": "统计某罐的收油开始事件，拓扑不是本条知识。",
+      "template_json": {
+        "rule_id": "OPERATION_FREQUENCY_DEMO",
+        "description": "【格式示例，非现场已核实规则】建议 T_DEMO_01 在24小时内最多发生4次收油开始事件；每次收油状态从0变1计一次，超出部分计软惩罚。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "window_duration": {
+            "value": 24,
+            "unit": "h"
+          },
+          "receipt_start_count_target_max": {
+            "value": 4,
+            "unit": "1"
+          },
+          "excess_event_penalty": {
+            "value": 10,
+            "unit": "objective_unit/event"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "window_duration",
+        "receipt_start_count_target_max",
+        "excess_event_penalty"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "安全边际",
+      "intro": "额外空间偏好按罐给定；上限由原有安全边界取得。",
+      "template_json": {
+        "rule_id": "SAFETY_MARGIN_DEMO",
+        "description": "【格式示例，非现场已核实规则】T_DEMO_01 已有硬库存上限之外，建议保留至少200吨额外质量容量裕量；该偏好不能替代硬上限。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "preferred_free_capacity_min": {
+            "value": 200,
+            "unit": "t"
+          },
+          "margin_shortfall_penalty": {
+            "value": 2,
+            "unit": "objective_unit/t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "preferred_free_capacity_min",
+        "margin_shortfall_penalty"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "库位平衡",
+      "intro": "比较两罐的占用比例，必须保留两个罐。",
+      "template_json": {
+        "rule_id": "INVENTORY_BALANCE_PREFERENCE_DEMO",
+        "description": "【格式示例，非现场已核实规则】建议 T_DEMO_01 与 T_DEMO_02 的可用容量占用比例之差绝对值不超过0.20；比例按(库存−硬下限)/(硬上限−硬下限)计算。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01,T_DEMO_02"
+          }
+        ],
+        "parameters": {
+          "occupancy_fraction_difference_target_max": {
+            "value": 0.2,
+            "unit": "1"
+          },
+          "excess_difference_penalty": {
+            "value": 10,
+            "unit": "objective_unit/1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "occupancy_fraction_difference_target_max",
+        "excess_difference_penalty"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "预防性腾挪",
+      "intro": "预留空间按罐给定；预计到货时间和质量已有参数，批次系统仍需外部支持。",
+      "template_json": {
+        "rule_id": "PREEMPTIVE_TANK_SPACE_DEMO",
+        "description": "【格式示例，非现场已核实规则】预计 ARR_DEMO_02 将在第12小时向 T_DEMO_01 卸收500吨原油，建议到货前除该批次所需空间外再预留100吨；额外裕量为软目标。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "forecast_arrival_offset": {
+            "value": 12,
+            "unit": "h"
+          },
+          "forecast_arrival_mass": {
+            "value": 500,
+            "unit": "t"
+          },
+          "additional_space_target": {
+            "value": 100,
+            "unit": "t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "forecast_arrival_offset",
+        "forecast_arrival_mass",
+        "additional_space_target"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "效益优先",
+      "intro": "保留实际销售与采购的两条具体流股，收入/成本角色由参数与适配器识别。",
+      "template_json": {
+        "rule_id": "ECONOMIC_PRIORITY_DEMO",
+        "description": "【格式示例，非现场已核实规则】在所有硬约束满足时，优先最大化示例产品S_PRODUCT_P_DEMO_01的销售收入减原料S_M_DEMO_01采购成本及已计价运行成本；仅对实际销售量计收入。",
+        "sets": [
+          {
+            "set_name": "S",
+            "subset_name": null,
+            "element": "S_PRODUCT_P_DEMO_01,S_M_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "product_sale_price": {
+            "value": 1000,
+            "unit": "CNY/t"
+          },
+          "material_purchase_price": {
+            "value": 600,
+            "unit": "CNY/t"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "S",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "product_sale_price",
+        "material_purchase_price"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "能耗成本",
+      "intro": "能耗系数和电费按装置给定。",
+      "template_json": {
+        "rule_id": "ENERGY_COST_DEMO",
+        "description": "【格式示例，非现场已核实规则】示例U_DEMO_01每处理1吨进料消耗20千瓦时电力，电价为0.6元/千瓦时；计算的电费计入统一经济目标一次。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Up",
+            "element": "U_DEMO_01"
+          }
+        ],
+        "parameters": {
+          "specific_electricity_consumption": {
+            "value": 20,
+            "unit": "kWh/t"
+          },
+          "electricity_price": {
+            "value": 0.6,
+            "unit": "CNY/kWh"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Up"
+        }
+      ],
+      "parameter_names_in_template": [
+        "specific_electricity_consumption",
+        "electricity_price"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "质量卡边",
+      "intro": "质量偏好针对指定流股的指定性质，SQ已完整。",
+      "template_json": {
+        "rule_id": "QUALITY_GIVEAWAY_DEMO",
+        "description": "【格式示例，非现场已核实规则】对于只有硫质量分数上限要求的示例产品S_PRODUCT_P_DEMO_01，在满足硬质量上限0.001的前提下，软偏好接近保留0.0001裕量的目标值0.0009；仅在有产品产出时评价。",
+        "sets": [
+          {
+            "set_name": "SQ",
+            "subset_name": null,
+            "element": "S_PRODUCT_P_DEMO_01.SULFUR_DEMO"
+          }
+        ],
+        "parameters": {
+          "hard_sulfur_fraction_max": {
+            "value": 0.001,
+            "unit": "1"
+          },
+          "preferred_quality_margin": {
+            "value": 0.0001,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "SQ",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "hard_sulfur_fraction_max",
+        "preferred_quality_margin"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "故障导向",
+      "intro": "保留受影响流股；设备和故障事件的缺口继续标明，不新增伪集合。",
+      "template_json": {
+        "rule_id": "FAULT_RESPONSE_DEMO",
+        "description": "【格式示例，非现场已核实规则】示例供料泵PUMP_DEMO_01确认故障后，建议禁用其供料连接并触发重调度；备用泵是否可切换须经可用性和能力检查，本条不授权自动现场操作。",
+        "sets": [
+          {
+            "set_name": "S",
+            "subset_name": null,
+            "element": "S_AFFECTED_FEED_DEMO"
+          }
+        ],
+        "parameters": {}
+      },
+      "set_signature": [
+        {
+          "set_name": "S",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "指标超差处理",
+      "intro": "保留检查流股与指标组合；批次放行仍需外部系统。",
+      "template_json": {
+        "rule_id": "QUALITY_EXCURSION_DEMO",
+        "description": "【格式示例，非现场已核实规则】示例产品批次B_PRODUCT_DEMO_01检测硫质量分数超过0.001时，建议隔离该批次并复检；未经放行不得计为合格交付量。",
+        "sets": [
+          {
+            "set_name": "SQ",
+            "subset_name": null,
+            "element": "S_PRODUCT_INSPECTION_DEMO.SULFUR_DEMO"
+          }
+        ],
+        "parameters": {
+          "sulfur_fraction_trigger": {
+            "value": 0.001,
+            "unit": "1"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "SQ",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "sulfur_fraction_trigger"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "调度经验规则",
+      "subcategory": "极端天气或外部中断",
+      "intro": "保留受影响装置；外部供电事件及资源仍需扩展。",
+      "template_json": {
+        "rule_id": "EXTERNAL_DISRUPTION_DEMO",
+        "description": "【格式示例，非现场已核实规则】示例外部供电中断事件确认且持续期间，L_POWER_DEMO外部可用供电能力设为0并触发重调度；不据此假定所有装置立即停机。",
+        "sets": [
+          {
+            "set_name": "U",
+            "subset_name": "Up",
+            "element": "U_AFFECTED_DEMO"
+          }
+        ],
+        "parameters": {
+          "external_power_capacity_during_event": {
+            "value": 0,
+            "unit": "kW"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "U",
+          "subset_name": "Up"
+        }
+      ],
+      "parameter_names_in_template": [
+        "external_power_capacity_during_event"
+      ],
+      "enabled": true,
+      "reason": ""
+    },
+    {
+      "big_category": "罐区类",
+      "subcategory": "储罐容积上下限（V2补充）",
+      "intro": "容积上下限参数只按罐索引；SPG和TQ用于模型换算，不是本条限值的额外适用对象。",
+      "template_json": {
+        "rule_id": "TANK_VOLUME_BOUND_V2_DEMO",
+        "description": "【格式示例，非现场已核实规则】T_VOLUME_DEMO在N01周期的库存质量l须满足最小容积1000立方米×本周期密度≤l≤最大容积10000立方米×本周期密度。SPG在本例按t/m3密度口径解释；若项目SPG实际为无量纲比重，必须先按约定参考密度换算。N01为[0,1)小时。",
+        "sets": [
+          {
+            "set_name": "T",
+            "subset_name": null,
+            "element": "T_VOLUME_DEMO"
+          },
+          {
+            "set_name": "N",
+            "subset_name": null,
+            "element": "N01"
+          }
+        ],
+        "parameters": {
+          "L_min": {
+            "value": 1000,
+            "unit": "m3"
+          },
+          "L_max": {
+            "value": 10000,
+            "unit": "m3"
+          }
+        }
+      },
+      "set_signature": [
+        {
+          "set_name": "T",
+          "subset_name": null
+        },
+        {
+          "set_name": "N",
+          "subset_name": null
+        }
+      ],
+      "parameter_names_in_template": [
+        "L_min",
+        "L_max"
+      ],
+      "enabled": false,
+      "reason": "用户已明确V3不包含此类别；严格禁用。"
+    }
+  ]
+}

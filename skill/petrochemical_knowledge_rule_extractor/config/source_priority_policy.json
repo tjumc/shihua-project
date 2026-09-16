@@ -1,0 +1,56 @@
+{
+  "version": "3.0",
+  "principle": "多文件提取必须先梳理、后提取；原生结构化数据表优先建立规则底座，文本文件仅对剩余缺口补充。",
+  "tiers": [
+    {
+      "priority": "P1",
+      "name": "原生结构化数据表",
+      "formats": ["xlsx", "xls", "csv", "tsv"],
+      "generation_role": "first_pass",
+      "notes": "优先读取现场主数据、参数表、收率表、物性表、配方表、需求表、拓扑表。数值型和关系型规则优先从这里生成。"
+    },
+    {
+      "priority": "P2",
+      "name": "文档中的结构化表格",
+      "formats": ["docx", "pdf", "md"],
+      "generation_role": "supplement_after_table_gap",
+      "notes": "只有在P1首轮后的缺口计划允许时才新增规则；否则仅用于复核。"
+    },
+    {
+      "priority": "P3",
+      "name": "正式规程/规则/操作说明",
+      "formats": ["docx", "pdf", "md", "txt"],
+      "generation_role": "supplement_after_table_gap",
+      "notes": "适合停工、切换、频次、时窗、检修、经验规则等表格通常缺失的语义约束。"
+    },
+    {
+      "priority": "P4",
+      "name": "流程/拓扑/工艺链说明",
+      "formats": ["docx", "pdf", "md", "json"],
+      "generation_role": "supplement_after_table_gap",
+      "notes": "主要用于IU/OU/IT/OT和流程协同；必须有明确连接关系，不能仅凭名称猜。"
+    },
+    {
+      "priority": "P5",
+      "name": "叙述性材料/会议纪要/说明性材料",
+      "formats": ["docx", "pdf", "md", "txt"],
+      "generation_role": "last_resort",
+      "notes": "只有明确事实、阈值、时窗、操作偏好时才可生成；模糊描述只进入报告。"
+    },
+    {
+      "priority": "R0",
+      "name": "Skill控制/参考文件",
+      "formats": ["md", "docx", "xlsx", "json"],
+      "generation_role": "never_as_site_source",
+      "notes": "知识规则模版、符号说明、V3分类、规则数量整理等只控制范围/格式/数量，不作为现场规则事实来源。"
+    }
+  ],
+  "conflict_authority": [
+    "明确标注生效日期/修订版本的正式现场规程或批准文件",
+    "当前版本现场主数据/参数数据表",
+    "其他结构化数据表",
+    "正式技术说明",
+    "叙述性材料"
+  ],
+  "important_note": "提取优先级不等于冲突权威性。P1先抽取；若后续存在明确更新版本，按生效/版本和正式性处理冲突。"
+}

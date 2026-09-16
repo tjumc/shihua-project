@@ -1,0 +1,61 @@
+{
+  "run": {
+    "input_root": "",
+    "generated_at": "",
+    "preflight_completed": false,
+    "table_first_completed": false,
+    "gap_plan_generated": false,
+    "document_supplement_completed": false,
+    "notes": ""
+  },
+  "source_files": [],
+  "phase_summary": {
+    "preflight": {
+      "file_count": 0,
+      "p1_table_count": 0,
+      "planned_files": 0
+    },
+    "table_first": {
+      "candidates": 0,
+      "unique_rules": 0,
+      "duplicate_evidence": 0,
+      "conflicts": 0
+    },
+    "document_supplement": {
+      "files_read": 0,
+      "new_unique_rules": 0,
+      "validation_only_evidence": 0,
+      "conflicts": 0
+    }
+  },
+  "categories": {
+    "原油类": {"rules_emitted":0,"status_summary":{"direct":0,"calculated":0,"summarized":0,"missing":0,"conflict":0,"missing_template":0},"entity_mapping_notes":[],"coverage_slots":[],"calculation_notes":[],"missing_subcategories":[],"conflicts":[]},
+    "装置类": {"rules_emitted":0,"status_summary":{"direct":0,"calculated":0,"summarized":0,"missing":0,"conflict":0,"missing_template":0},"entity_mapping_notes":[],"coverage_slots":[],"calculation_notes":[],"missing_subcategories":[],"conflicts":[]},
+    "罐区类": {"rules_emitted":0,"status_summary":{"direct":0,"calculated":0,"summarized":0,"missing":0,"conflict":0,"missing_template":0},"entity_mapping_notes":[],"coverage_slots":[],"calculation_notes":[],"missing_subcategories":[],"conflicts":[]},
+    "调合类": {"rules_emitted":0,"status_summary":{"direct":0,"calculated":0,"summarized":0,"missing":0,"conflict":0,"missing_template":0},"entity_mapping_notes":[],"coverage_slots":[],"calculation_notes":[],"missing_subcategories":[],"conflicts":[]},
+    "产品类": {"rules_emitted":0,"status_summary":{"direct":0,"calculated":0,"summarized":0,"missing":0,"conflict":0,"missing_template":0},"entity_mapping_notes":[],"coverage_slots":[],"calculation_notes":[],"missing_subcategories":[],"conflicts":[]},
+    "停工调度规则": {"rules_emitted":0,"status_summary":{"direct":0,"calculated":0,"summarized":0,"missing":0,"conflict":0,"missing_template":0},"entity_mapping_notes":[],"coverage_slots":[],"calculation_notes":[],"missing_subcategories":[],"conflicts":[]},
+    "流程特征和协同规则": {"rules_emitted":0,"status_summary":{"direct":0,"calculated":0,"summarized":0,"missing":0,"conflict":0,"missing_template":0},"entity_mapping_notes":[],"coverage_slots":[],"calculation_notes":[],"missing_subcategories":[],"conflicts":[]},
+    "调度经验规则": {"rules_emitted":0,"status_summary":{"direct":0,"calculated":0,"summarized":0,"missing":0,"conflict":0,"missing_template":0},"entity_mapping_notes":[],"coverage_slots":[],"calculation_notes":[],"missing_subcategories":[],"conflicts":[]}
+  },
+  "audit_record_schema_example": {
+    "rule_id": "UNIT_FEED_BOUND_XXX",
+    "big_category": "装置类",
+    "subcategory": "装置进料上下限",
+    "target_group_id": "UNIT_G05",
+    "extraction_phase": "table_first",
+    "extraction_mode": "calculated",
+    "source_id": "SRC003",
+    "source_file": "装置/基础数据.xlsx",
+    "source_priority": "P1",
+    "source_sheet_or_section": "二次加工装置基础数据",
+    "source_location": "A12:H12",
+    "template_heading": "### 装置进料上下限",
+    "formula": "rated_load * minimum_load_factor",
+    "dedup_key": "装置类|装置进料上下限|U:Up:U001|feed_rate_max,feed_rate_min",
+    "secondary_sources": [],
+    "validation_status": "PASS",
+    "audit_note": ""
+  },
+  "audit_records": []
+}

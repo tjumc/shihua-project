@@ -1,0 +1,21 @@
+{
+  "input_root": "",
+  "generated_at": "",
+  "files": [
+    {
+      "source_id": "SRC001",
+      "relative_path": "示例/装置基础数据.xlsx",
+      "file_type": "xlsx",
+      "priority": "P1",
+      "evidence_role": "parameter_data",
+      "contains_structured_table": true,
+      "is_control_reference": false,
+      "likely_big_categories": ["装置类"],
+      "likely_subcategories": ["装置进料上下限"],
+      "expected_contribution": "可直接/计算提取负荷上下限",
+      "read_order": 1,
+      "status": "planned",
+      "notes": ""
+    }
+  ]
+}

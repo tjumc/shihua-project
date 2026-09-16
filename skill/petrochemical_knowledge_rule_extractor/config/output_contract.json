@@ -1,0 +1,17 @@
+{
+  "json_top_level": "array",
+  "strict_rule_fields": ["rule_id","description","sets","parameters"],
+  "forbidden_rule_fields": ["type","category","subject","predicate","source","provenance","confidence","extraction_status","notes","subcategory","dedup_key","target_group_id"],
+  "set_item_fields": ["set_name","subset_name","element"],
+  "parameter_item_fields": ["value","unit"],
+  "files": ["原油类.json","装置类.json","罐区类.json","调合类.json","产品类.json","停工调度规则.json","流程特征和协同规则.json","调度经验规则.json"],
+  "workbook": {
+    "filename": "知识规则汇总.xlsx",
+    "sheets": ["原油类","装置类","罐区类","调合类","产品类","停工调度","流程协同","调度经验"],
+    "canonical_columns": ["rule_id","description","sets_json","parameters_json"],
+    "audit_columns": ["subcategory","target_group_id","extraction_phase","extraction_mode","source_file","source_priority","source_sheet_or_section","source_location","validation_status","audit_note"]
+  },
+  "required_audit_outputs": ["source_inventory.json","文件梳理与提取计划.md","rule_gap_after_tables.json","剩余规则补缺计划.md","extraction_manifest.json","validation_report.json"],
+  "report": "知识规则提取报告.md",
+  "rule_id_notes": "命名风格沿用知识规则模版对应子类前缀；必须全局唯一、稳定可复现。"
+}

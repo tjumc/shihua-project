@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Strict four-field petrochemical knowledge rule array",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "rule_id",
+      "description",
+      "sets",
+      "parameters"
+    ],
+    "properties": {
+      "rule_id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": {
+        "type": "string",
+        "minLength": 1
+      },
+      "sets": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "set_name",
+            "subset_name",
+            "element"
+          ],
+          "properties": {
+            "set_name": {
+              "type": "string",
+              "minLength": 1
+            },
+            "subset_name": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "element": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      },
+      "parameters": {
+        "type": "object",
+        "additionalProperties": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "value",
+            "unit"
+          ],
+          "properties": {
+            "value": {},
+            "unit": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

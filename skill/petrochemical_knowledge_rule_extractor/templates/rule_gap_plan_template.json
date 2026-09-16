@@ -1,0 +1,19 @@
+{
+  "generated_after_phase": "table_first",
+  "category_summary": [],
+  "target_groups": [
+    {
+      "target_group_id": "UNIT_G01",
+      "big_category": "装置类",
+      "target_kind": "exact",
+      "target_count": 60,
+      "table_extracted_unique": 0,
+      "remaining_count": 60,
+      "closed_for_generation": false,
+      "normalized_subcategories": ["分原油加工量上下限", "原油配方比例上下限"],
+      "missing_coverage_slots": [],
+      "allowed_supplement_sources": [],
+      "notes": ""
+    }
+  ]
+}

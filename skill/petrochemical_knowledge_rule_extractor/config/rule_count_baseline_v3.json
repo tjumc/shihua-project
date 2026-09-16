@@ -1,0 +1,1311 @@
+{
+  "version": "3.0",
+  "source_reference": "references/规则数26-V3_规则数量整理.xlsx",
+  "total_target": 1200,
+  "global_policy": {
+    "purpose": "覆盖控制、剩余量核对和补缺规划；不是凑数配额。",
+    "category_target_is_control_line": true,
+    "exact_group_target_can_close_generation": true,
+    "approximate_or_ambiguous_targets_are_advisory": true,
+    "over_target_action": "先检查重复、实体粒度、子类映射；不得简单截断有效规则。",
+    "missing_target_action": "仅在有证据时补缺；证据不足保持missing。",
+    "text_supplement_rule": "表格首轮后，只对未覆盖/未达标target_group或子类生成新规则；已达标者文本只复核和发现冲突。"
+  },
+  "category_targets": {
+    "原油类": {
+      "target_count": 50,
+      "note": "部分子类数量明确；混合计算规则处原文断句存在歧义"
+    },
+    "装置类": {
+      "target_count": 550,
+      "note": "150（一次常减压）+300（上游）+100（下游）=550"
+    },
+    "罐区类": {
+      "target_count": 50,
+      "note": "10类实体罐×每类5条"
+    },
+    "调合类": {
+      "target_count": 150,
+      "note": "正文写约150–160条"
+    },
+    "产品类": {
+      "target_count": 100,
+      "note": "50种产品×2类产量约束=100"
+    },
+    "停工调度规则": {
+      "target_count": 100,
+      "note": "正文列11类规则×10类装置=110，与标题100不一致"
+    },
+    "流程特征和协同规则": {
+      "target_count": 100,
+      "note": "子项直接相加约120，与标题100不一致"
+    },
+    "调度经验规则": {
+      "target_count": 100,
+      "note": "各子项为约数/区间，直接相加明显超过100"
+    }
+  },
+  "target_groups": [
+    {
+      "target_group_id": "CRUDE_G01",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "原油罐物料平衡",
+      "normalized_subcategories": [
+        "原油罐物料平衡"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": true
+      },
+      "source_count_text": "10",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10 个原油罐，对应（10）",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G02",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "原油罐不同收同付约束",
+      "normalized_subcategories": [
+        "原油罐收付互斥"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "hard": true
+      },
+      "source_count_text": "1",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文（1）",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G03",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "原油罐上下限约束",
+      "normalized_subcategories": [
+        "原油罐库存上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": true
+      },
+      "source_count_text": "10",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "1×10=10",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G04",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "原油罐最多同时供料给常减压装置的数量约束",
+      "normalized_subcategories": [
+        "单罐同时供料装置数量"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": true
+      },
+      "source_count_text": "10",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "1×10=10",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G05",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "原油罐静置",
+      "normalized_subcategories": [
+        "原油罐静置"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "hard": true
+      },
+      "source_count_text": "1",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文（1）",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G06",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "付油罐切换约束",
+      "normalized_subcategories": [
+        "付油罐切换"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "hard": true
+      },
+      "source_count_text": "1",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文（1）",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G07",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "原油混合计算规则",
+      "normalized_subcategories": [
+        "原油混合总量",
+        "原油混合性质计算",
+        "原油混合侧线收率计算"
+      ],
+      "target": {
+        "kind": "unspecified",
+        "value": null,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "未明确",
+      "count_type": "未明确",
+      "allocation": "group_unspecified",
+      "allocation_detail": null,
+      "calculation_basis": "包含：混合原油总量计算、性质计算、侧线产品收率计算",
+      "source_note": "原文未在该子类后明确给出括号数量",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G08",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "同时给常减压装置供油的原油罐数量上下限 / 混油比例",
+      "normalized_subcategories": [
+        "单装置同时供油罐数量上下限"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "hard": false
+      },
+      "source_count_text": "1",
+      "count_type": "原文较模糊",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文附近出现“混有比例（1）”",
+      "source_note": "原文断句存在歧义，未强行拆分",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G09",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "原油罐收油速率上下限约束",
+      "normalized_subcategories": [
+        "原油罐收油速率上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": true
+      },
+      "source_count_text": "10",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "1×10=10",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G10",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "进厂原油在调度期内需要全部收完",
+      "normalized_subcategories": [
+        "进厂原油在期限内全部收完"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "hard": true
+      },
+      "source_count_text": "1",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文（1）",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "CRUDE_G11",
+      "big_category": "原油类",
+      "big_category_target": 50,
+      "source_subcategory": "原油收油罐选择规则",
+      "normalized_subcategories": [
+        "原油收油罐选择"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "hard": true
+      },
+      "source_count_text": "1",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文（1）",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "UNIT_G01",
+      "big_category": "装置类",
+      "big_category_target": 550,
+      "source_subcategory": "一次装置常减压—每种原油加工量和配方上下限",
+      "normalized_subcategories": [
+        "分原油加工量上下限",
+        "原油配方比例上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 60,
+        "min": 60,
+        "max": 60,
+        "hard": true
+      },
+      "source_count_text": "60",
+      "count_type": "明确",
+      "allocation": "group_explicit_split",
+      "allocation_detail": {
+        "分原油加工量上下限": 30,
+        "原油配方比例上下限": 30
+      },
+      "calculation_basis": "30×2=60",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "UNIT_G02",
+      "big_category": "装置类",
+      "big_category_target": 550,
+      "source_subcategory": "一次装置常减压—进料上下限和性质上下限",
+      "normalized_subcategories": [
+        "装置进料上下限",
+        "装置进料性质上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 20,
+        "min": 20,
+        "max": 20,
+        "hard": true
+      },
+      "source_count_text": "20",
+      "count_type": "明确",
+      "allocation": "group_unspecified",
+      "allocation_detail": null,
+      "calculation_basis": "原文（20）",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "UNIT_G03",
+      "big_category": "装置类",
+      "big_category_target": 550,
+      "source_subcategory": "一次装置常减压—侧线收率上下限",
+      "normalized_subcategories": [
+        "侧线收率上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": true
+      },
+      "source_count_text": "10",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文（10）",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "UNIT_G04",
+      "big_category": "装置类",
+      "big_category_target": 550,
+      "source_subcategory": "一次装置常减压—10个侧线性质上下限",
+      "normalized_subcategories": [
+        "侧线性质上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 60,
+        "min": 60,
+        "max": 60,
+        "hard": true
+      },
+      "source_count_text": "60",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10×6=60",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "UNIT_G05",
+      "big_category": "装置类",
+      "big_category_target": 550,
+      "source_subcategory": "上游装置（10类）",
+      "normalized_subcategories": [
+        "装置进料上下限",
+        "上下游装置产品产出上下限",
+        "上下游装置产品性质上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 300,
+        "min": 300,
+        "max": 300,
+        "hard": true
+      },
+      "source_count_text": "300",
+      "count_type": "明确",
+      "allocation": "group_unspecified",
+      "allocation_detail": null,
+      "calculation_basis": "每类30条，30×10=300",
+      "source_note": "中压加裂、高压加裂、催拆改制、渣加、延迟焦化、汽柴油加氢、重整、催化、芳烃、乙烯",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "UNIT_G06",
+      "big_category": "装置类",
+      "big_category_target": 550,
+      "source_subcategory": "下游装置（10类）",
+      "normalized_subcategories": [
+        "装置进料上下限",
+        "上下游装置产品产出上下限",
+        "上下游装置产品性质上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "hard": true
+      },
+      "source_count_text": "100",
+      "count_type": "明确",
+      "allocation": "group_unspecified",
+      "allocation_detail": null,
+      "calculation_basis": "每类10条，10×10=100",
+      "source_note": "S-Zorb、航煤加氢、PTA、轻烃回收、气分、MTBE、溶脱、油浆拔头、聚酯、聚烯烃",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "TANK_G01",
+      "big_category": "罐区类",
+      "big_category_target": 50,
+      "source_subcategory": "实体罐（10类）",
+      "normalized_subcategories": [
+        "只能收油",
+        "只能付油",
+        "可以同时收付",
+        "调整库存上下限",
+        "检修不可用",
+        "调整收油种类"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 50,
+        "min": 50,
+        "max": 50,
+        "hard": true
+      },
+      "source_count_text": "50",
+      "count_type": "明确",
+      "allocation": "group_unspecified",
+      "allocation_detail": null,
+      "calculation_basis": "10类罐子×每类5条=50",
+      "source_note": "示例包括汽油、柴油、煤油、芳烃、加氢料、轻烃、渣油、蜡油等；每类规则含收付油、库存上下限、检修、收油种类等",
+      "planning_rule": "50条为10类逻辑实体罐总体目标；原文'每类5条'与列举约6种规则存在歧义，按证据抽取并受大类50条约束。"
+    },
+    {
+      "target_group_id": "BLEND_G01",
+      "big_category": "调合类",
+      "big_category_target": 150,
+      "source_subcategory": "产品调合（6–8种产品）",
+      "normalized_subcategories": [
+        "参调组分",
+        "组分流量上下限",
+        "组分配方比例",
+        "调合性质计算及质量限值"
+      ],
+      "target": {
+        "kind": "approx_interval",
+        "value": null,
+        "min": 150,
+        "max": 160,
+        "hard": false
+      },
+      "source_count_text": "约150–160",
+      "count_type": "约数",
+      "allocation": "group_unspecified",
+      "allocation_detail": null,
+      "calculation_basis": "8×（5×2+10）≈150–160",
+      "source_note": "产品示例：92汽油、95汽油、98汽油、0#柴油、-20#柴油、航煤、船燃等；约5个参调组分及10种性质",
+      "planning_rule": "约150–160为正文估算，大类目标150为覆盖基线；不得拆碎同一事实来凑数量。"
+    },
+    {
+      "target_group_id": "PRODUCT_G01",
+      "big_category": "产品类",
+      "big_category_target": 100,
+      "source_subcategory": "每种产品每日产量上下限",
+      "normalized_subcategories": [
+        "每日产量上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 50,
+        "min": 50,
+        "max": 50,
+        "hard": true
+      },
+      "source_count_text": "50",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "50种产品×1=50",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "PRODUCT_G02",
+      "big_category": "产品类",
+      "big_category_target": 100,
+      "source_subcategory": "每种产品调度周期总产量上下限",
+      "normalized_subcategories": [
+        "调度周期总产量上下限"
+      ],
+      "target": {
+        "kind": "exact",
+        "value": 50,
+        "min": 50,
+        "max": 50,
+        "hard": true
+      },
+      "source_count_text": "50",
+      "count_type": "明确",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "50种产品×1=50",
+      "source_note": "",
+      "planning_rule": "高优先级表格首轮提取后按本target_group_id统计唯一规则；达到硬目标后，低优先级文本仅复核，不再新增。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G01",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "负荷变化幅度约束",
+      "normalized_subcategories": [
+        "负荷变化幅度"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G02",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "负荷切换次数约束",
+      "normalized_subcategories": [
+        "负荷切换次数"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G03",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "停工持续时间约束",
+      "normalized_subcategories": [
+        "停工持续时间"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G04",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "停机连续性",
+      "normalized_subcategories": [
+        "停机连续性"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G05",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "停机前降负荷过渡期",
+      "normalized_subcategories": [
+        "停机前降负荷过渡期"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G06",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "停工后加负荷过渡期",
+      "normalized_subcategories": [
+        "复工加负荷过渡期"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G07",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "停工前进料库存清空",
+      "normalized_subcategories": [
+        "停工前进料库存清空"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G08",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "停工前下游装置进料及产品库存备罐",
+      "normalized_subcategories": [
+        "停工前下游备料及产品备罐"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G09",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "停工期间外购料约束",
+      "normalized_subcategories": [
+        "停工期间外购料"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G10",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "复工后各装置负荷恢复至正常工况",
+      "normalized_subcategories": [
+        "复工后恢复正常工况"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "SHUTDOWN_G11",
+      "big_category": "停工调度规则",
+      "big_category_target": 100,
+      "source_subcategory": "复工后生产偏差补偿",
+      "normalized_subcategories": [
+        "复工后生产偏差补偿"
+      ],
+      "target": {
+        "kind": "advisory_exact",
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "10",
+      "count_type": "按装置类推",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "10类炼油装置×1条",
+      "source_note": "原文同时写明10×11=110，与大类标题“100种”不一致",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "FLOW_G01",
+      "big_category": "流程特征和协同规则",
+      "big_category_target": 100,
+      "source_subcategory": "物料流向规则",
+      "normalized_subcategories": [
+        "物料流向"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 30,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约30",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约30条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "FLOW_G02",
+      "big_category": "流程特征和协同规则",
+      "big_category_target": 100,
+      "source_subcategory": "常压装置协同规则",
+      "normalized_subcategories": [
+        "常压装置协同"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 20,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约20",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约20条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "FLOW_G03",
+      "big_category": "流程特征和协同规则",
+      "big_category_target": 100,
+      "source_subcategory": "催化装置协同规则",
+      "normalized_subcategories": [
+        "催化装置协同"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "FLOW_G04",
+      "big_category": "流程特征和协同规则",
+      "big_category_target": 100,
+      "source_subcategory": "加氢装置协同规则",
+      "normalized_subcategories": [
+        "加氢装置协同"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "FLOW_G05",
+      "big_category": "流程特征和协同规则",
+      "big_category_target": 100,
+      "source_subcategory": "芳烃链（重整-PX-PTA）协同规则",
+      "normalized_subcategories": [
+        "芳烃链协同（重整—PX—PTA）"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "FLOW_G06",
+      "big_category": "流程特征和协同规则",
+      "big_category_target": 100,
+      "source_subcategory": "烯烃链（乙烯-塑料）协同规则",
+      "normalized_subcategories": [
+        "烯烃链协同（乙烯—塑料）"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "FLOW_G07",
+      "big_category": "流程特征和协同规则",
+      "big_category_target": 100,
+      "source_subcategory": "聚酯链（PTA-MEG-PET）协同规则",
+      "normalized_subcategories": [
+        "聚酯链协同（PTA—MEG—PET）"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "FLOW_G08",
+      "big_category": "流程特征和协同规则",
+      "big_category_target": 100,
+      "source_subcategory": "纺丝前纺与后纺协同规则",
+      "normalized_subcategories": [
+        "纺丝前纺后纺协同"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "FLOW_G09",
+      "big_category": "流程特征和协同规则",
+      "big_category_target": 100,
+      "source_subcategory": "中间罐区缓冲与调合协同规则",
+      "normalized_subcategories": [
+        "中间罐区缓冲与调合协同"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "按子项直接相加约120条，与大类标题100条不一致",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G01",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "装置运行模型切换",
+      "normalized_subcategories": [
+        "装置运行模式切换"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "约10条左右",
+      "source_note": "取决于具备多种工作模式的装置数量",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G02",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "物性平滑规则",
+      "normalized_subcategories": [
+        "物性平滑"
+      ],
+      "target": {
+        "kind": "approx_interval",
+        "value": null,
+        "min": 15,
+        "max": 20,
+        "hard": false
+      },
+      "source_count_text": "约15–20",
+      "count_type": "区间",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约15–20条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G03",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "负荷联动规则",
+      "normalized_subcategories": [
+        "负荷联动"
+      ],
+      "target": {
+        "kind": "approx_interval",
+        "value": null,
+        "min": 10,
+        "max": 15,
+        "hard": false
+      },
+      "source_count_text": "约10–15",
+      "count_type": "区间",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10–15条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G04",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "操作频次规则",
+      "normalized_subcategories": [
+        "操作频次"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 15,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约15",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约15条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G05",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "安全边际规则",
+      "normalized_subcategories": [
+        "安全边际"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G06",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "库位平衡规则",
+      "normalized_subcategories": [
+        "库位平衡"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G07",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "预防性腾挪规则",
+      "normalized_subcategories": [
+        "预防性腾挪"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G08",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "效益优先规则",
+      "normalized_subcategories": [
+        "效益优先"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G09",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "能耗成本规则",
+      "normalized_subcategories": [
+        "能耗成本"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G10",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "质量“卡边”规则",
+      "normalized_subcategories": [
+        "质量卡边"
+      ],
+      "target": {
+        "kind": "approx_interval",
+        "value": null,
+        "min": 5,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "约5–10",
+      "count_type": "区间",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约5–10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G11",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "故障导向规则",
+      "normalized_subcategories": [
+        "故障导向"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G12",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "指标超差处理",
+      "normalized_subcategories": [
+        "指标超差处理"
+      ],
+      "target": {
+        "kind": "approx",
+        "value": 10,
+        "min": null,
+        "max": null,
+        "hard": false
+      },
+      "source_count_text": "约10",
+      "count_type": "约数",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约10条",
+      "source_note": "",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    },
+    {
+      "target_group_id": "EXP_G13",
+      "big_category": "调度经验规则",
+      "big_category_target": 100,
+      "source_subcategory": "极端天气/外部中断",
+      "normalized_subcategories": [
+        "极端天气或外部中断"
+      ],
+      "target": {
+        "kind": "approx_interval",
+        "value": null,
+        "min": 5,
+        "max": 10,
+        "hard": false
+      },
+      "source_count_text": "约5–10",
+      "count_type": "区间",
+      "allocation": "single",
+      "allocation_detail": null,
+      "calculation_basis": "原文约5–10条",
+      "source_note": "按子项直接相加明显超过大类标题100条",
+      "planning_rule": "子类数量是分布指导；大类目标100为总量控制线。内部数量存在约数/不一致，不得为凑数强制生成。"
+    }
+  ]
+}
