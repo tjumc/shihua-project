@@ -1,0 +1,362 @@
+[
+  {
+    "rule_id": "TANK_6201.0",
+    "description": "延炼1#渣油罐6201.0参数：volume=10000.0m3；level_max=15.5m；level_min=2.0m；diameter=27.5m；initial_level=8.75m；meter_factor=522.0t/m；density=0.8788509649784756t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "6201.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.0,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 27.5,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 8.75,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 522.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8788509649784756,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_6202.0",
+    "description": "延炼1#渣油罐6202.0参数：volume=5000.0m3；level_max=10.9m；level_min=2.0m；diameter=23.76m；initial_level=6.45m；meter_factor=388.0t/m；density=0.8750824449828282t/m3；tank_height=12.68m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "6202.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 10.9,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.0,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 23.76,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 6.45,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 388.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8750824449828282,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 12.68,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_6204.0",
+    "description": "延炼1#渣油罐6204.0参数：volume=20000.0m3；level_max=15.5m；level_min=2.0m；diameter=38.0m；initial_level=8.75m；meter_factor=997.0t/m；density=0.8790996024482032t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "6204.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.0,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 38.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 8.75,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 997.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8790996024482032,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_6205.0",
+    "description": "延炼1#渣油罐6205.0参数：volume=20000.0m3；level_max=15.5m；level_min=2.0m；diameter=38.0m；initial_level=8.75m；meter_factor=996.0t/m；density=0.878217857611244t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "6205.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.0,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 38.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 8.75,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 996.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.878217857611244,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9505.0",
+    "description": "延炼1#渣油罐9505.0参数：volume=5000.0m3；level_max=8.3m；level_min=2.0m；diameter=20.0m；initial_level=5.15m；meter_factor=282.0t/m；density=0.8976338789210832t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9505.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 8.3,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.0,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 20.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 5.15,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 282.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8976338789210832,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9506.0",
+    "description": "延炼1#渣油罐9506.0参数：volume=5000.0m3；level_max=13.47m；level_min=2.0m；diameter=20.0m；initial_level=7.735m；meter_factor=282.0t/m；density=0.8976338789210832t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9506.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 13.47,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.0,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 20.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.735,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 282.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8976338789210832,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9507.0",
+    "description": "延炼1#渣油罐9507.0参数：volume=5000.0m3；level_max=13.47m；level_min=2.0m；diameter=20.0m；initial_level=7.735m；meter_factor=280.0t/m；density=0.8912676811982385t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9507.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 13.47,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.0,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 20.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.735,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 280.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8912676811982385,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9508.0",
+    "description": "延炼1#渣油罐9508.0参数：volume=5000.0m3；level_max=13.47m；level_min=2.0m；diameter=20.0m；initial_level=7.735m；meter_factor=280.0t/m；density=0.8912676811982385t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9508.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 13.47,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.0,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 20.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.735,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 280.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8912676811982385,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  }
+]

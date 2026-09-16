@@ -1,0 +1,47 @@
+[
+  {
+    "rule_id": "TANK_9511.0",
+    "description": "延炼过剩精制汽油罐9511.0参数：volume=5000.0m3；level_max=12.8m；level_min=2.5m；diameter=20.0m；initial_level=7.65m；meter_factor=225.0t/m；density=0.7161972438200132t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9511.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 12.8,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 20.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.65,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 225.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.7161972438200132,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  }
+]

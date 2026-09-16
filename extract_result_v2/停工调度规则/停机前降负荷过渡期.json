@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "category": "停工调度规则",
+  "subcategory": "停机前降负荷过渡期",
+  "status": "ready",
+  "sample_count": 1,
+  "rules": [
+    {
+      "rule_id": "R-SHUTDOWN-RAMPDOWN-001",
+      "type": "operation_procedure",
+      "category": "停工调度规则",
+      "subcategory": "停机前降负荷过渡期",
+      "name": "MTBE装置缓慢降低温度和压力",
+      "scope": {
+        "unit": [
+          "MTBE装置"
+        ]
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）/2026年联合二车间开停工方案/联合二车间MTBE装置开停工、吹扫方案.docx",
+        "paragraph": 0
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "MTBE装置",
+      "predicate": "shutdown_transition",
+      "object": {
+        "action": "decrease_temperature_and_pressure",
+        "mode": "uniform_slow"
+      },
+      "description": "MTBE停工时应均匀、缓慢降低反应温度和压力，避免操作过快。",
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "MTBE装置"
+        }
+      ],
+      "parameters": {},
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [],
+  "notes": ""
+}

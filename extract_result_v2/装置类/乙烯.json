@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0",
+  "category": "装置类",
+  "subcategory": "乙烯",
+  "status": "ready",
+  "sample_count": 2,
+  "rules": [
+    {
+      "rule_id": "R-UNIT-CAP-012",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "乙烯",
+      "name": "苯乙烯装置300单元负荷边界",
+      "description": "苯乙烯装置300单元初始负荷120吨/天、额定负荷320吨/天、最大加工负荷384吨/天。",
+      "scope": {
+        "unit": [
+          "苯乙烯装置300单元"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          128.0,
+          384
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "苯乙烯装置300单元",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 120,
+        "rated_load": 320,
+        "max_load": 384,
+        "max_load_factor": 1.2,
+        "min_load_factor": 0.4,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "苯乙烯装置300单元"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 120,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 320,
+          "unit": null
+        },
+        "max_load": {
+          "value": 384,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.2,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.4,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 12
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-CAP-013",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "乙烯",
+      "name": "苯乙烯装置400单元负荷边界",
+      "description": "苯乙烯装置400单元初始负荷120吨/天、额定负荷320吨/天、最大加工负荷384吨/天。",
+      "scope": {
+        "unit": [
+          "苯乙烯装置400单元"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          128.0,
+          384
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "苯乙烯装置400单元",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 120,
+        "rated_load": 320,
+        "max_load": 384,
+        "max_load_factor": 1.2,
+        "min_load_factor": 0.4,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "苯乙烯装置400单元"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 120,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 320,
+          "unit": null
+        },
+        "max_load": {
+          "value": 384,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.2,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.4,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 13
+      },
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [
+    "source-materials/20260727调研资料",
+    "docs/规则数26-V3.docx"
+  ],
+  "notes": ""
+}

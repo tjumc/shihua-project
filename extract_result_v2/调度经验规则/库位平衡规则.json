@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "category": "调度经验规则",
+  "subcategory": "库位平衡规则",
+  "status": "ready",
+  "sample_count": 1,
+  "rules": [
+    {
+      "rule_id": "R-EXP-INVENTORY-001",
+      "type": "scheduling_experience",
+      "category": "调度经验规则",
+      "subcategory": "库位平衡规则",
+      "name": "原油罐库位状态",
+      "scope": {
+        "tank": [
+          "6101"
+        ],
+        "material": [
+          "原油"
+        ]
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼/2、油罐数据动态/延炼油品动态-20260107.xlsx",
+        "sheet": "油品动态",
+        "row": 4
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "6101",
+      "predicate": "inventory_balance",
+      "object": {
+        "oil_quantity": 1897.4,
+        "empty_quantity": 5628.6,
+        "unit": "t",
+        "as_of": "2026-01-07"
+      },
+      "description": "2026年1月7日6101号原油罐油量为1897.4吨、空量为5628.6吨，可作为库存平衡与后续收油安排的状态输入。",
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "6101"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "原油"
+        }
+      ],
+      "parameters": {},
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [],
+  "notes": ""
+}

@@ -1,0 +1,964 @@
+[
+  {
+    "rule_id": "UNIT_200万催化装置",
+    "description": "200万催化装置负荷及系数：hydrogen_factor=0.01；initial_load=4600.0t/day；rated_load=5100.0t/day；max_load=5600.0t/day；max_load_factor=1.11；min_load_factor=0.91。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 4600.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 5100.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 5600.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.9,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_100万催化装置",
+    "description": "100万催化装置负荷及系数：hydrogen_factor=0.01；initial_load=2300.0t/day；rated_load=2550.0t/day；max_load=2800.0t/day；max_load_factor=1.11；min_load_factor=0.91。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 2300.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 2550.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 2800.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.9,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_液化气精制装置",
+    "description": "液化气精制装置负荷及系数：hydrogen_factor=0.01；initial_load=575.0t/day；rated_load=822.0t/day；max_load=863.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "液化气精制装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 575.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 822.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 863.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_气体分馏装置",
+    "description": "气体分馏装置负荷及系数：hydrogen_factor=0.01；initial_load=575.0t/day；rated_load=822.0t/day；max_load=863.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 575.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 822.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 863.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_聚丙烯装置",
+    "description": "聚丙烯装置负荷及系数：hydrogen_factor=0.01；initial_load=192.0t/day；rated_load=274.0t/day；max_load=288.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 192.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 274.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 288.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_MTBE装置",
+    "description": "MTBE装置负荷及系数：hydrogen_factor=0.01；initial_load=115.0t/day；rated_load=164.0t/day；max_load=173.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 115.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 164.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 173.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_醋酸仲丁酯装置",
+    "description": "醋酸仲丁酯装置负荷及系数：hydrogen_factor=0.01；initial_load=134.0t/day；rated_load=192.0t/day；max_load=201.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "醋酸仲丁酯装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 134.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 192.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 201.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_干气精制装置",
+    "description": "干气精制装置负荷及系数：hydrogen_factor=0.01；initial_load=345.0t/day；rated_load=493.0t/day；max_load=518.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "干气精制装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 345.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 493.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 518.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_乙苯装置200单元",
+    "description": "乙苯装置200单元负荷及系数：hydrogen_factor=0.01；initial_load=120.0t/day；rated_load=240.0t/day；max_load=288.0t/day；max_load_factor=1.21；min_load_factor=0.51。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "乙苯装置200单元"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 120.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 240.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 288.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.2,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.5,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_苯乙烯装置300单元",
+    "description": "苯乙烯装置300单元负荷及系数：hydrogen_factor=0.01；initial_load=120.0t/day；rated_load=320.0t/day；max_load=384.0t/day；max_load_factor=1.21；min_load_factor=0.41。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "苯乙烯装置300单元"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 120.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 320.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 384.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.2,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.4,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_苯乙烯装置400单元",
+    "description": "苯乙烯装置400单元负荷及系数：hydrogen_factor=0.01；initial_load=120.0t/day；rated_load=320.0t/day；max_load=384.0t/day；max_load_factor=1.21；min_load_factor=0.41。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "苯乙烯装置400单元"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 120.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 320.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 384.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.2,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.4,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_50万航煤加氢装置",
+    "description": "50万航煤加氢装置负荷及系数：hydrogen_factor=0.01；initial_load=960.0t/day；rated_load=1360.0t/day；max_load=1488.0t/day；max_load_factor=1.11；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 960.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 1360.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 1488.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_120万重整装置",
+    "description": "120万重整装置负荷及系数：hydrogen_factor=0.01；initial_load=2424.0t/day；rated_load=4052.0t/day；max_load=4464.0t/day；max_load_factor=1.11；min_load_factor=0.61。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 2424.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 4052.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 4464.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_140万柴油加氢装置",
+    "description": "140万柴油加氢装置负荷及系数：hydrogen_factor=0.01；initial_load=2520.0t/day；rated_load=4208.0t/day；max_load=4632.0t/day；max_load_factor=1.11；min_load_factor=0.61。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 2520.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 4208.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 4632.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_20万苯抽提装置",
+    "description": "20万苯抽提装置负荷及系数：hydrogen_factor=0.01；initial_load=384.0t/day；rated_load=548.0t/day；max_load=575.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "20万苯抽提装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 384.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 548.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 575.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_60万气体分馏装置",
+    "description": "60万气体分馏装置负荷及系数：hydrogen_factor=0.01；initial_load=1200.0t/day；rated_load=1700.0t/day；max_load=1872.0t/day；max_load_factor=1.11；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 1200.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 1700.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 1872.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_20万聚丙烯装置",
+    "description": "20万聚丙烯装置负荷及系数：hydrogen_factor=0.01；initial_load=384.0t/day；rated_load=548.0t/day；max_load=575.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 384.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 548.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 575.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_12万MTBE装置",
+    "description": "12万MTBE装置负荷及系数：hydrogen_factor=0.01；initial_load=672.0t/day；rated_load=1031.0t/day；max_load=1080.0t/day；max_load_factor=1.051；min_load_factor=0.651。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 672.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 1031.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 1080.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.65,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_180万汽油精制装置",
+    "description": "180万汽油精制装置负荷及系数：hydrogen_factor=0.01；initial_load=4080.0t/day；rated_load=5130.0t/day；max_load=5400.0t/day；max_load_factor=1.051；min_load_factor=0.81。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "180万汽油精制装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 4080.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 5130.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 5400.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.8,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_240万柴油加氢装置",
+    "description": "240万柴油加氢装置负荷及系数：hydrogen_factor=0.01；initial_load=4320.0t/day；rated_load=6857.0t/day；max_load=7200.0t/day；max_load_factor=1.051；min_load_factor=0.631。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 4320.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 6857.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 7200.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.63,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_60万精制装置",
+    "description": "60万精制装置负荷及系数：hydrogen_factor=0.01；initial_load=1150.0t/day；rated_load=1644.0t/day；max_load=1726.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "60万精制装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 1150.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 1644.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 1726.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_硫磺回收装置",
+    "description": "硫磺回收装置负荷及系数：hydrogen_factor=0.01；initial_load=8.0t/day；rated_load=11.0t/day；max_load=11.5t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "硫磺回收装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 8.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 11.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 11.5,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_硫磺精制装置",
+    "description": "硫磺精制装置负荷及系数：hydrogen_factor=0.01；initial_load=38.0t/day；rated_load=55.0t/day；max_load=58.0t/day；max_load_factor=1.051；min_load_factor=0.71。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "硫磺精制装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 38.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 55.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 58.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.7,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_20万烷基化装置",
+    "description": "20万烷基化装置负荷及系数：hydrogen_factor=0.01；initial_load=1440.0t/day；rated_load=2400.0t/day；max_load=2640.0t/day；max_load_factor=1.11；min_load_factor=0.61。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "20万烷基化装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 1440.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 2400.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 2640.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_30万混合脱氢装置",
+    "description": "30万混合脱氢装置负荷及系数：hydrogen_factor=0.01；initial_load=1560.0t/day；rated_load=2620.0t/day；max_load=2760.0t/day；max_load_factor=1.051；min_load_factor=0.61。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "30万混合脱氢装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 1560.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 2620.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 2760.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.05,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_25万MTBE装置",
+    "description": "25万MTBE装置负荷及系数：hydrogen_factor=0.01；initial_load=552.0t/day；rated_load=917.0t/day；max_load=1008.0t/day；max_load_factor=1.11；min_load_factor=0.61。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Usecondary",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "hydrogen_factor": {
+        "value": 0.0,
+        "unit": "1"
+      },
+      "initial_load": {
+        "value": 552.0,
+        "unit": "t/day"
+      },
+      "rated_load": {
+        "value": 917.0,
+        "unit": "t/day"
+      },
+      "max_load": {
+        "value": 1008.0,
+        "unit": "t/day"
+      },
+      "max_load_factor": {
+        "value": 1.1,
+        "unit": "1"
+      },
+      "min_load_factor": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  }
+]

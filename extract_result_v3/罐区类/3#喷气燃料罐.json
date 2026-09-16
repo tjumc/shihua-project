@@ -1,0 +1,137 @@
+[
+  {
+    "rule_id": "TANK_26105.0",
+    "description": "延炼3#喷气燃料罐26105.0参数：volume=20000.0m3；level_max=15.5m；level_min=2.5m；diameter=38.0m；initial_level=9.0m；meter_factor=892.0t/m；density=0.7865163945674997t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "26105.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 38.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 9.0,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 892.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.7865163945674997,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_26106.0",
+    "description": "延炼3#喷气燃料罐26106.0参数：volume=20000.0m3；level_max=15.5m；level_min=2.5m；diameter=38.0m；initial_level=9.0m；meter_factor=892.0t/m；density=0.7865163945674997t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "26106.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 38.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 9.0,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 892.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.7865163945674997,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_26107.0",
+    "description": "延炼3#喷气燃料罐26107.0参数：volume=20000.0m3；level_max=15.5m；level_min=2.5m；diameter=38.0m；initial_level=9.0m；meter_factor=892.0t/m；density=0.7865163945674997t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "26107.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 38.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 9.0,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 892.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.7865163945674997,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  }
+]

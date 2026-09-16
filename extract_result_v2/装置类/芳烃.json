@@ -1,0 +1,3945 @@
+{
+  "schema_version": "1.0",
+  "category": "装置类",
+  "subcategory": "芳烃",
+  "status": "ready",
+  "sample_count": 44,
+  "rules": [
+    {
+      "rule_id": "R-UNIT-AROMATICS-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "苯抽提装置基础负荷范围",
+      "scope": {
+        "unit": [
+          "20万吨苯抽提装置"
+        ]
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 7
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          383.6,
+          575
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "20万吨苯抽提装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          383.6,
+          575
+        ],
+        "unit": "t/d"
+      },
+      "description": "20万吨苯抽提装置额定负荷为548吨/天，最大加工负荷为575吨/天，最大负荷系数为1.05，最小负荷系数为0.7。",
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "20万吨苯抽提装置"
+        }
+      ],
+      "parameters": {
+        "feed_rate": {
+          "value": [
+            383.6,
+            575
+          ],
+          "unit": "t/d"
+        }
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-CAP-011",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "乙苯装置200单元负荷边界",
+      "description": "乙苯装置200单元初始负荷120吨/天、额定负荷240吨/天、最大加工负荷288吨/天。",
+      "scope": {
+        "unit": [
+          "乙苯装置200单元"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          120.0,
+          288
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "乙苯装置200单元",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 120,
+        "rated_load": 240,
+        "max_load": 288,
+        "max_load_factor": 1.2,
+        "min_load_factor": 0.5,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "乙苯装置200单元"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 120,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 240,
+          "unit": null
+        },
+        "max_load": {
+          "value": 288,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.2,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.5,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 11
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-CAP-017",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "20万苯抽提装置负荷边界",
+      "description": "20万苯抽提装置初始负荷384吨/天、额定负荷548吨/天、最大加工负荷575吨/天。",
+      "scope": {
+        "unit": [
+          "20万苯抽提装置"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          383.6,
+          575
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "20万苯抽提装置",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 384,
+        "rated_load": 548,
+        "max_load": 575,
+        "max_load_factor": 1.05,
+        "min_load_factor": 0.7,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "20万苯抽提装置"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 384,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 548,
+          "unit": null
+        },
+        "max_load": {
+          "value": 575,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.05,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.7,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 17
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00391",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-ER1101点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的ER1101点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "ER1101"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "ER1101",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010080",
+        "sample_name": "ER1101",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "二氧化硅": 430.442307692307,
+          "电导率": 9.5826923076923,
+          "硬度": 4.57211538461538
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "ER1101"
+        }
+      ],
+      "parameters": {
+        "二氧化硅": {
+          "value": 430.442307692307,
+          "unit": null
+        },
+        "电导率": {
+          "value": 9.5826923076923,
+          "unit": null
+        },
+        "硬度": {
+          "value": 4.57211538461538,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 2
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00392",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-ER1201点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的ER1201点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "ER1201"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "ER1201",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010081",
+        "sample_name": "ER1201",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "二氧化硅": 527.725,
+          "电导率": 9.66346153846153,
+          "硬度": 2.12576923076923
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "ER1201"
+        }
+      ],
+      "parameters": {
+        "二氧化硅": {
+          "value": 527.725,
+          "unit": null
+        },
+        "电导率": {
+          "value": 9.66346153846153,
+          "unit": null
+        },
+        "硬度": {
+          "value": 2.12576923076923,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 3
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00393",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-ER1202点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的ER1202点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "ER1202"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "ER1202",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010082",
+        "sample_name": "ER1202",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "二氧化硅": 1104.25576923076,
+          "电导率": 15.0403846153846,
+          "硬度": 4.40403846153846
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "ER1202"
+        }
+      ],
+      "parameters": {
+        "二氧化硅": {
+          "value": 1104.25576923076,
+          "unit": null
+        },
+        "电导率": {
+          "value": 15.0403846153846,
+          "unit": null
+        },
+        "硬度": {
+          "value": 4.40403846153846,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 4
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00394",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-ER1203A点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的ER1203A点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "ER1203A"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "ER1203A",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010083",
+        "sample_name": "ER1203A",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "二氧化硅": 822.559615384615,
+          "电导率": 11.5788461538461,
+          "硬度": 2.18211538461538
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "ER1203A"
+        }
+      ],
+      "parameters": {
+        "二氧化硅": {
+          "value": 822.559615384615,
+          "unit": null
+        },
+        "电导率": {
+          "value": 11.5788461538461,
+          "unit": null
+        },
+        "硬度": {
+          "value": 2.18211538461538,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 5
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00395",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-ER1203B点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的ER1203B点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "ER1203B"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "ER1203B",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010084",
+        "sample_name": "ER1203B",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "二氧化硅": 681.273076923076,
+          "电导率": 11.5942307692307,
+          "硬度": 2.20788461538461
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "ER1203B"
+        }
+      ],
+      "parameters": {
+        "二氧化硅": {
+          "value": 681.273076923076,
+          "unit": null
+        },
+        "电导率": {
+          "value": 11.5942307692307,
+          "unit": null
+        },
+        "硬度": {
+          "value": 2.20788461538461,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 6
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00396",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-E-1303点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的E-1303点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "E-1303"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "E-1303",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010085",
+        "sample_name": "E-1303",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "二氧化硅": 379.901923076923,
+          "电导率": 9.58846153846153,
+          "硬度": 2.85230769230769
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "E-1303"
+        }
+      ],
+      "parameters": {
+        "二氧化硅": {
+          "value": 379.901923076923,
+          "unit": null
+        },
+        "电导率": {
+          "value": 9.58846153846153,
+          "unit": null
+        },
+        "硬度": {
+          "value": 2.85230769230769,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 7
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00397",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-ER1204点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的ER1204点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "ER1204"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "ER1204",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010086",
+        "sample_name": "ER1204",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "二氧化硅": 347.338461538461,
+          "电导率": 7.84230769230769,
+          "硬度": 1.33288461538461
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "ER1204"
+        }
+      ],
+      "parameters": {
+        "二氧化硅": {
+          "value": 347.338461538461,
+          "unit": null
+        },
+        "电导率": {
+          "value": 7.84230769230769,
+          "unit": null
+        },
+        "硬度": {
+          "value": 1.33288461538461,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 8
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00398",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-V-1303点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的V-1303点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "V-1303"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "V-1303",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010087",
+        "sample_name": "V-1303",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "二氧化硅": 377.032692307692,
+          "电导率": 9.07115384615384,
+          "硬度": 2.78615384615384
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "V-1303"
+        }
+      ],
+      "parameters": {
+        "二氧化硅": {
+          "value": 377.032692307692,
+          "unit": null
+        },
+        "电导率": {
+          "value": 9.07115384615384,
+          "unit": null
+        },
+        "硬度": {
+          "value": 2.78615384615384,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 9
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00399",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-工艺凝液点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的工艺凝液点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "工艺凝液"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "工艺凝液",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010088",
+        "sample_name": "工艺凝液",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "pH": 8.20876712328767,
+          "电导率": 15.9896164383561,
+          "石油类": 0.630520547945205
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "工艺凝液"
+        }
+      ],
+      "parameters": {
+        "pH": {
+          "value": 8.20876712328767,
+          "unit": null
+        },
+        "电导率": {
+          "value": 15.9896164383561,
+          "unit": null
+        },
+        "石油类": {
+          "value": 0.630520547945205,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 10
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00400",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-T-1103底点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的T-1103底点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "T-1103底"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "T-1103底",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010089",
+        "sample_name": "T-1103底",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "COD": 181.75,
+          "pH": 6.31666666666666,
+          "氨氮": 7.96125
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "T-1103底"
+        }
+      ],
+      "parameters": {
+        "COD": {
+          "value": 181.75,
+          "unit": null
+        },
+        "pH": {
+          "value": 6.31666666666666,
+          "unit": null
+        },
+        "氨氮": {
+          "value": 7.96125,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 11
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00401",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-装置总排口点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的装置总排口点位包含2项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "装置总排口"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "装置总排口",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010090",
+        "sample_name": "装置总排口",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "氨氮": 1.52679245283018,
+          "硫化物": 0.862307692307692
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "装置总排口"
+        }
+      ],
+      "parameters": {
+        "氨氮": {
+          "value": 1.52679245283018,
+          "unit": null
+        },
+        "硫化物": {
+          "value": 0.862307692307692,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 12
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00402",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-气柜点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的气柜点位包含19项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "气柜"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "气柜",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010095",
+        "sample_name": "气柜",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "C4合计": 16.6924545454545,
+          "一氧化碳": 0.297727272727272,
+          "丙烯": 20.2357272727272,
+          "丙烷": 6.82081818181818,
+          "乙烯": 1.90254545454545,
+          "乙烷": 3.45972727272727,
+          "二氧化碳": 0.637090909090909,
+          "反丁烯": 2.03527272727272,
+          "异丁烯": 1.5240909090909,
+          "异丁烷": 7.23972727272727,
+          "正丁烯": 1.64627272727272,
+          "正丁烷": 2.8490909090909,
+          "氢气": 3.63236363636363,
+          "氧气": 0.519363636363636,
+          "氮气": 32.0734545454545,
+          "甲烷": 10.6810909090909,
+          "硫化氢": 0.248090909090909,
+          "碳五": 3.05054545454545,
+          "顺丁烯": 1.39836363636363
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "气柜"
+        }
+      ],
+      "parameters": {
+        "C4合计": {
+          "value": 16.6924545454545,
+          "unit": null
+        },
+        "一氧化碳": {
+          "value": 0.297727272727272,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 20.2357272727272,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 6.82081818181818,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 1.90254545454545,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 3.45972727272727,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 0.637090909090909,
+          "unit": null
+        },
+        "反丁烯": {
+          "value": 2.03527272727272,
+          "unit": null
+        },
+        "异丁烯": {
+          "value": 1.5240909090909,
+          "unit": null
+        },
+        "异丁烷": {
+          "value": 7.23972727272727,
+          "unit": null
+        },
+        "正丁烯": {
+          "value": 1.64627272727272,
+          "unit": null
+        },
+        "正丁烷": {
+          "value": 2.8490909090909,
+          "unit": null
+        },
+        "氢气": {
+          "value": 3.63236363636363,
+          "unit": null
+        },
+        "氧气": {
+          "value": 0.519363636363636,
+          "unit": null
+        },
+        "氮气": {
+          "value": 32.0734545454545,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 10.6810909090909,
+          "unit": null
+        },
+        "硫化氢": {
+          "value": 0.248090909090909,
+          "unit": null
+        },
+        "碳五": {
+          "value": 3.05054545454545,
+          "unit": null
+        },
+        "顺丁烯": {
+          "value": 1.39836363636363,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 17
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00403",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-C-1101A点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的C-1101A点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "C-1101A"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-1101A",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010096",
+        "sample_name": "C-1101A",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "机械杂质": 0.0183416666666666,
+          "运动黏度(40℃)": 105.3775,
+          "闪点(TC)": 223.583333333333
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-1101A"
+        }
+      ],
+      "parameters": {
+        "机械杂质": {
+          "value": 0.0183416666666666,
+          "unit": null
+        },
+        "运动黏度(40℃)": {
+          "value": 105.3775,
+          "unit": null
+        },
+        "闪点(TC)": {
+          "value": 223.583333333333,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 18
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00404",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-C-1201（润滑油）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的C-1201（润滑油）点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "C-1201（润滑油）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-1201（润滑油）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010100",
+        "sample_name": "C-1201（润滑油）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "机械杂质": 0.018275,
+          "运动黏度(40℃)": 61.2475,
+          "闪点(TC)": 222.75
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-1201（润滑油）"
+        }
+      ],
+      "parameters": {
+        "机械杂质": {
+          "value": 0.018275,
+          "unit": null
+        },
+        "运动黏度(40℃)": {
+          "value": 61.2475,
+          "unit": null
+        },
+        "闪点(TC)": {
+          "value": 222.75,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 19
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00405",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-C-1301A点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的C-1301A点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "C-1301A"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-1301A",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010101",
+        "sample_name": "C-1301A",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "机械杂质": 0.0182666666666666,
+          "运动黏度(40℃)": 43.6283333333333,
+          "闪点(TC)": 223.333333333333
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-1301A"
+        }
+      ],
+      "parameters": {
+        "机械杂质": {
+          "value": 0.0182666666666666,
+          "unit": null
+        },
+        "运动黏度(40℃)": {
+          "value": 43.6283333333333,
+          "unit": null
+        },
+        "闪点(TC)": {
+          "value": 223.333333333333,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 20
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00406",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-C-1301B点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的C-1301B点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "C-1301B"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-1301B",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010102",
+        "sample_name": "C-1301B",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "机械杂质": 0.0178833333333333,
+          "运动黏度(40℃)": 43.6633333333333,
+          "闪点(TC)": 223.5
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-1301B"
+        }
+      ],
+      "parameters": {
+        "机械杂质": {
+          "value": 0.0178833333333333,
+          "unit": null
+        },
+        "运动黏度(40℃)": {
+          "value": 43.6633333333333,
+          "unit": null
+        },
+        "闪点(TC)": {
+          "value": 223.5,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 21
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00407",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-K-6601点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的K-6601点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "K-6601"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "K-6601",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010104",
+        "sample_name": "K-6601",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "机械杂质": 0.0180374999999999,
+          "运动黏度(40℃)": 43.295,
+          "闪点(TC)": 223.5
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "K-6601"
+        }
+      ],
+      "parameters": {
+        "机械杂质": {
+          "value": 0.0180374999999999,
+          "unit": null
+        },
+        "运动黏度(40℃)": {
+          "value": 43.295,
+          "unit": null
+        },
+        "闪点(TC)": {
+          "value": 223.5,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 22
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00408",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-K-6602点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的K-6602点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "K-6602"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "K-6602",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010105",
+        "sample_name": "K-6602",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "机械杂质": 0.0182916666666666,
+          "运动黏度(40℃)": 43.8758333333333,
+          "闪点(TC)": 223.916666666666
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "K-6602"
+        }
+      ],
+      "parameters": {
+        "机械杂质": {
+          "value": 0.0182916666666666,
+          "unit": null
+        },
+        "运动黏度(40℃)": {
+          "value": 43.8758333333333,
+          "unit": null
+        },
+        "闪点(TC)": {
+          "value": 223.916666666666,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 23
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00409",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-K-6603点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的K-6603点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "K-6603"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "K-6603",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010106",
+        "sample_name": "K-6603",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "机械杂质": 0.018225,
+          "运动黏度(40℃)": 43.58,
+          "闪点(TC)": 223.583333333333
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "K-6603"
+        }
+      ],
+      "parameters": {
+        "机械杂质": {
+          "value": 0.018225,
+          "unit": null
+        },
+        "运动黏度(40℃)": {
+          "value": 43.58,
+          "unit": null
+        },
+        "闪点(TC)": {
+          "value": 223.583333333333,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 24
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00410",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-K-6603(密)点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的K-6603(密)点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "K-6603(密)"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "K-6603(密)",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010107",
+        "sample_name": "K-6603(密)",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "机械杂质": 0.0178166666666666,
+          "运动黏度(40℃)": 43.695,
+          "闪点(TC)": 222.916666666666
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "K-6603(密)"
+        }
+      ],
+      "parameters": {
+        "机械杂质": {
+          "value": 0.0178166666666666,
+          "unit": null
+        },
+        "运动黏度(40℃)": {
+          "value": 43.695,
+          "unit": null
+        },
+        "闪点(TC)": {
+          "value": 222.916666666666,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 25
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00411",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1101（催化干气）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1101（催化干气）点位包含15项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1101（催化干气）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1101（催化干气）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010117",
+        "sample_name": "SC-1101（催化干气）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "一氧化碳": 1.72591780821917,
+          "丙烯": 2.25232876712328,
+          "丙烷": 0.685753424657534,
+          "乙烯": 13.0709315068493,
+          "乙烷": 12.9664109589041,
+          "二氧化碳": 3.07284931506849,
+          "异戊烷": 0.0603561643835616,
+          "正戊烷": 0.00482191780821917,
+          "氢气": 18.1007123287671,
+          "氧气": 1.07194520547945,
+          "氮气": 19.6866849315068,
+          "甲烷": 26.0783561643835,
+          "硫化氢": 6079.17808219178,
+          "碳五(合计)": 0.0676712328767123,
+          "碳四(合计)": 1.22117808219178
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1101（催化干气）"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 1.72591780821917,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 2.25232876712328,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 0.685753424657534,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 13.0709315068493,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 12.9664109589041,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 3.07284931506849,
+          "unit": null
+        },
+        "异戊烷": {
+          "value": 0.0603561643835616,
+          "unit": null
+        },
+        "正戊烷": {
+          "value": 0.00482191780821917,
+          "unit": null
+        },
+        "氢气": {
+          "value": 18.1007123287671,
+          "unit": null
+        },
+        "氧气": {
+          "value": 1.07194520547945,
+          "unit": null
+        },
+        "氮气": {
+          "value": 19.6866849315068,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 26.0783561643835,
+          "unit": null
+        },
+        "硫化氢": {
+          "value": 6079.17808219178,
+          "unit": null
+        },
+        "碳五(合计)": {
+          "value": 0.0676712328767123,
+          "unit": null
+        },
+        "碳四(合计)": {
+          "value": 1.22117808219178,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 26
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00412",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1201（净化干气）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1201（净化干气）点位包含15项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1201（净化干气）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1201（净化干气）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010118",
+        "sample_name": "SC-1201（净化干气）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "一氧化碳": 1.8385205479452,
+          "丙烯": 0.132027397260273,
+          "丙烷": 0.0611780821917808,
+          "乙烯": 13.8736712328767,
+          "乙烷": 13.4157260273972,
+          "二氧化碳": 1.896,
+          "异戊烷": 0,
+          "正戊烷": 0,
+          "氢气": 19.1821369863013,
+          "氧气": 1.16868493150684,
+          "氮气": 20.815506849315,
+          "甲烷": 27.6164657534246,
+          "硫化氢": 1.0524861878453,
+          "碳五(合计)": 0,
+          "碳四(合计)": 2.73972602739726e-05
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1201（净化干气）"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 1.8385205479452,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 0.132027397260273,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 0.0611780821917808,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 13.8736712328767,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 13.4157260273972,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 1.896,
+          "unit": null
+        },
+        "异戊烷": {
+          "value": 0,
+          "unit": null
+        },
+        "正戊烷": {
+          "value": 0,
+          "unit": null
+        },
+        "氢气": {
+          "value": 19.1821369863013,
+          "unit": null
+        },
+        "氧气": {
+          "value": 1.16868493150684,
+          "unit": null
+        },
+        "氮气": {
+          "value": 20.815506849315,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 27.6164657534246,
+          "unit": null
+        },
+        "硫化氢": {
+          "value": 1.0524861878453,
+          "unit": null
+        },
+        "碳五(合计)": {
+          "value": 0,
+          "unit": null
+        },
+        "碳四(合计)": {
+          "value": 2.73972602739726e-05,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 27
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00413",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1109（液化气）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1109（液化气）点位包含14项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1109（液化气）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1109（液化气）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010119",
+        "sample_name": "SC-1109（液化气）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "一氧化碳": 0,
+          "丙烯": 39.8569811320754,
+          "丙烷": 13.3498113207547,
+          "乙烯": 0.406037735849056,
+          "乙烷": 6.17754716981132,
+          "二氧化碳": 0,
+          "异戊烷": 1.61943396226415,
+          "正戊烷": 0.202830188679245,
+          "氢气": 0.00811320754716981,
+          "氧气": 0.723962264150943,
+          "氮气": 3.34320754716981,
+          "甲烷": 0.52811320754717,
+          "碳五(合计)": 1.82226415094339,
+          "碳四(合计)": 33.7858490566037
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1109（液化气）"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 0,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 39.8569811320754,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 13.3498113207547,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 0.406037735849056,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 6.17754716981132,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 0,
+          "unit": null
+        },
+        "异戊烷": {
+          "value": 1.61943396226415,
+          "unit": null
+        },
+        "正戊烷": {
+          "value": 0.202830188679245,
+          "unit": null
+        },
+        "氢气": {
+          "value": 0.00811320754716981,
+          "unit": null
+        },
+        "氧气": {
+          "value": 0.723962264150943,
+          "unit": null
+        },
+        "氮气": {
+          "value": 3.34320754716981,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 0.52811320754717,
+          "unit": null
+        },
+        "碳五(合计)": {
+          "value": 1.82226415094339,
+          "unit": null
+        },
+        "碳四(合计)": {
+          "value": 33.7858490566037,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 28
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00414",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1209（烃化尾气）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1209（烃化尾气）点位包含12项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1209（烃化尾气）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1209（烃化尾气）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010120",
+        "sample_name": "SC-1209（烃化尾气）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "一氧化碳": 2.16947945205479,
+          "丙烯": 0.00780821917808219,
+          "丙烷": 0.0775342465753424,
+          "乙烯": 0.534328767123287,
+          "乙烷": 15.4886849315068,
+          "二氧化碳": 2.17372602739726,
+          "氢气": 22.9816438356164,
+          "氧气": 0.968575342465753,
+          "氮气": 22.9670410958904,
+          "甲烷": 32.6001917808219,
+          "碳五(合计)": 0.00616438356164383,
+          "碳四(合计)": 0.0235068493150684
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1209（烃化尾气）"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 2.16947945205479,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 0.00780821917808219,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 0.0775342465753424,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 0.534328767123287,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 15.4886849315068,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 2.17372602739726,
+          "unit": null
+        },
+        "氢气": {
+          "value": 22.9816438356164,
+          "unit": null
+        },
+        "氧气": {
+          "value": 0.968575342465753,
+          "unit": null
+        },
+        "氮气": {
+          "value": 22.9670410958904,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 32.6001917808219,
+          "unit": null
+        },
+        "碳五(合计)": {
+          "value": 0.00616438356164383,
+          "unit": null
+        },
+        "碳四(合计)": {
+          "value": 0.0235068493150684,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 29
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00415",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1104（贫吸收剂）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1104（贫吸收剂）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1104（贫吸收剂）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1104（贫吸收剂）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010121",
+        "sample_name": "SC-1104（贫吸收剂）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 1.07396226415094,
+          "乙  苯": 0.342830188679245,
+          "二乙苯": 1.1288679245283,
+          "二甲苯": 2.27396226415094,
+          "异丙苯": 0.166792452830188,
+          "正丙苯": 0.623396226415094,
+          "甲  苯": 0.562830188679245,
+          "甲乙苯": 2.9943396226415,
+          "苯": 75.0913207547169,
+          "重芳": 13.0069811320754,
+          "非  芳": 2.73471698113207
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1104（贫吸收剂）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 1.07396226415094,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 0.342830188679245,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 1.1288679245283,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 2.27396226415094,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 0.166792452830188,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0.623396226415094,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.562830188679245,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 2.9943396226415,
+          "unit": null
+        },
+        "苯": {
+          "value": 75.0913207547169,
+          "unit": null
+        },
+        "重芳": {
+          "value": 13.0069811320754,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 2.73471698113207,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 30
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00416",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1107（富吸收剂）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1107（富吸收剂）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1107（富吸收剂）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1107（富吸收剂）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010122",
+        "sample_name": "SC-1107（富吸收剂）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 1.10018867924528,
+          "乙  苯": 0.350754716981132,
+          "二乙苯": 1.11566037735849,
+          "二甲苯": 2.40415094339622,
+          "异丙苯": 0.175849056603773,
+          "正丙苯": 0.723396226415094,
+          "甲  苯": 0.579622641509434,
+          "甲乙苯": 3.2288679245283,
+          "苯": 73.2609433962264,
+          "重芳": 13.8618867924528,
+          "非  芳": 3.19867924528301
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1107（富吸收剂）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 1.10018867924528,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 0.350754716981132,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 1.11566037735849,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 2.40415094339622,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 0.175849056603773,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0.723396226415094,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.579622641509434,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 3.2288679245283,
+          "unit": null
+        },
+        "苯": {
+          "value": 73.2609433962264,
+          "unit": null
+        },
+        "重芳": {
+          "value": 13.8618867924528,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 3.19867924528301,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 31
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00417",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-MDEA贫液点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的MDEA贫液点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "MDEA贫液"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "MDEA贫液",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010123",
+        "sample_name": "MDEA贫液",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "N-甲基二乙醇胺浓度(MDEA)": 18.54,
+          "二氧化碳": 3.91698113207547,
+          "硫化氢含量": 4.39679245283018
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "MDEA贫液"
+        }
+      ],
+      "parameters": {
+        "N-甲基二乙醇胺浓度(MDEA)": {
+          "value": 18.54,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 3.91698113207547,
+          "unit": null
+        },
+        "硫化氢含量": {
+          "value": 4.39679245283018,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 32
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00418",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-MDEA富液点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的MDEA富液点位包含3项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "MDEA富液"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "MDEA富液",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010124",
+        "sample_name": "MDEA富液",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "N-甲基二乙醇胺浓度(MDEA)": 19.9475471698113,
+          "二氧化碳": 15.1698113207547,
+          "硫化氢含量": 8.70924528301886
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "MDEA富液"
+        }
+      ],
+      "parameters": {
+        "N-甲基二乙醇胺浓度(MDEA)": {
+          "value": 19.9475471698113,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 15.1698113207547,
+          "unit": null
+        },
+        "硫化氢含量": {
+          "value": 8.70924528301886,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 33
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00419",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-脱乙烯塔顶气点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的脱乙烯塔顶气点位包含14项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "脱乙烯塔顶气"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "脱乙烯塔顶气",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010125",
+        "sample_name": "脱乙烯塔顶气",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "一氧化碳": 0.212075471698113,
+          "丙烯": 8.42962264150943,
+          "丙烷": 2.5566037735849,
+          "乙烯": 31.7220754716981,
+          "乙烷": 37.1698113207547,
+          "二氧化碳": 3.00320754716981,
+          "异戊烷": 0.0175471698113207,
+          "正戊烷": 0.0030188679245283,
+          "氢气": 0.971698113207547,
+          "氧气": 0.683584905660377,
+          "氮气": 4.14849056603773,
+          "甲烷": 10.04,
+          "碳五(合计)": 0.0198113207547169,
+          "碳四(合计)": 1.04339622641509
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "脱乙烯塔顶气"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 0.212075471698113,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 8.42962264150943,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 2.5566037735849,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 31.7220754716981,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 37.1698113207547,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 3.00320754716981,
+          "unit": null
+        },
+        "异戊烷": {
+          "value": 0.0175471698113207,
+          "unit": null
+        },
+        "正戊烷": {
+          "value": 0.0030188679245283,
+          "unit": null
+        },
+        "氢气": {
+          "value": 0.971698113207547,
+          "unit": null
+        },
+        "氧气": {
+          "value": 0.683584905660377,
+          "unit": null
+        },
+        "氮气": {
+          "value": 4.14849056603773,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 10.04,
+          "unit": null
+        },
+        "碳五(合计)": {
+          "value": 0.0198113207547169,
+          "unit": null
+        },
+        "碳四(合计)": {
+          "value": 1.04339622641509,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 34
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00420",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1202（反烃进料）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1202（反烃进料）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1202（反烃进料）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1202（反烃进料）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010126",
+        "sample_name": "SC-1202（反烃进料）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 0.0070958904109589,
+          "乙  苯": 0.00142465753424657,
+          "二乙苯": 6.13224657534246,
+          "二甲苯": 0,
+          "异丙苯": 0,
+          "正丙苯": 0,
+          "甲  苯": 0.058958904109589,
+          "甲乙苯": 2.73972602739726e-05,
+          "苯": 93.2757534246575,
+          "重芳": 0.378794520547945,
+          "非  芳": 0.144712328767123
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1202（反烃进料）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 0.0070958904109589,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 0.00142465753424657,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 6.13224657534246,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 0,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.058958904109589,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 2.73972602739726e-05,
+          "unit": null
+        },
+        "苯": {
+          "value": 93.2757534246575,
+          "unit": null
+        },
+        "重芳": {
+          "value": 0.378794520547945,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.144712328767123,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 35
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00421",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1203（反烃出料）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1203（反烃出料）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1203（反烃出料）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1203（反烃出料）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010127",
+        "sample_name": "SC-1203（反烃出料）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 0.062931506849315,
+          "乙  苯": 8.3171506849315,
+          "二乙苯": 0.92386301369863,
+          "二甲苯": 0.0090958904109589,
+          "异丙苯": 0.0434246575342465,
+          "正丙苯": 0.0293150684931506,
+          "甲  苯": 0.0672328767123287,
+          "甲乙苯": 0.00391780821917808,
+          "苯": 89.9351506849315,
+          "重芳": 0.465753424657534,
+          "非  芳": 0.144958904109589
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1203（反烃出料）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 0.062931506849315,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 8.3171506849315,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 0.92386301369863,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0.0090958904109589,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 0.0434246575342465,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0.0293150684931506,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.0672328767123287,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 0.00391780821917808,
+          "unit": null
+        },
+        "苯": {
+          "value": 89.9351506849315,
+          "unit": null
+        },
+        "重芳": {
+          "value": 0.465753424657534,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.144958904109589,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 36
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00422",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1208（粗分塔不凝气）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1208（粗分塔不凝气）点位包含25项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1208（粗分塔不凝气）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1208（粗分塔不凝气）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010128",
+        "sample_name": "SC-1208（粗分塔不凝气）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "一氧化碳": 2.11849056603773,
+          "丁苯": 0.0218867924528301,
+          "丙烯": 0.00716981132075471,
+          "丙烷": 0.0775471698113207,
+          "乙  苯": 11.7441509433962,
+          "乙烯": 0.510377358490566,
+          "乙烷": 15.4905660377358,
+          "二乙苯": 1,
+          "二氧化碳": 2.17207547169811,
+          "二甲苯": 0.010943396226415,
+          "异丙苯": 0.080754716981132,
+          "异戊烷": 0.00528301886792452,
+          "正丙苯": 0.0788679245283018,
+          "正戊烷": 0.00113207547169811,
+          "氢气": 22.3932075471698,
+          "氧气": 1.1854716981132,
+          "氮气": 23.4732075471698,
+          "甲  苯": 0.0590566037735849,
+          "甲乙苯": 0.0256603773584905,
+          "甲烷": 32.547358490566,
+          "碳五(合计)": 0.00641509433962264,
+          "碳四(合计)": 0.0183018867924528,
+          "苯": 86.724716981132,
+          "重芳": 0.0584905660377358,
+          "非  芳": 0.195094339622641
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1208（粗分塔不凝气）"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 2.11849056603773,
+          "unit": null
+        },
+        "丁苯": {
+          "value": 0.0218867924528301,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 0.00716981132075471,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 0.0775471698113207,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 11.7441509433962,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 0.510377358490566,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 15.4905660377358,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 1,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 2.17207547169811,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0.010943396226415,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 0.080754716981132,
+          "unit": null
+        },
+        "异戊烷": {
+          "value": 0.00528301886792452,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0.0788679245283018,
+          "unit": null
+        },
+        "正戊烷": {
+          "value": 0.00113207547169811,
+          "unit": null
+        },
+        "氢气": {
+          "value": 22.3932075471698,
+          "unit": null
+        },
+        "氧气": {
+          "value": 1.1854716981132,
+          "unit": null
+        },
+        "氮气": {
+          "value": 23.4732075471698,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.0590566037735849,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 0.0256603773584905,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 32.547358490566,
+          "unit": null
+        },
+        "碳五(合计)": {
+          "value": 0.00641509433962264,
+          "unit": null
+        },
+        "碳四(合计)": {
+          "value": 0.0183018867924528,
+          "unit": null
+        },
+        "苯": {
+          "value": 86.724716981132,
+          "unit": null
+        },
+        "重芳": {
+          "value": 0.0584905660377358,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.195094339622641,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 37
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00423",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1211（苯塔侧线）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1211（苯塔侧线）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1211（苯塔侧线）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1211（苯塔侧线）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010129",
+        "sample_name": "SC-1211（苯塔侧线）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 0.000191780821917808,
+          "乙  苯": 0.000958904109589041,
+          "二乙苯": 0.00282191780821917,
+          "二甲苯": 0,
+          "异丙苯": 0.000767123287671233,
+          "正丙苯": 0.000794520547945205,
+          "甲  苯": 0.0787945205479452,
+          "甲乙苯": 0.000575342465753424,
+          "苯": 99.7955890410959,
+          "重芳": 2.73972602739726e-05,
+          "非  芳": 0.114876712328767
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1211（苯塔侧线）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 0.000191780821917808,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 0.000958904109589041,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 0.00282191780821917,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 0.000767123287671233,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0.000794520547945205,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.0787945205479452,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 0.000575342465753424,
+          "unit": null
+        },
+        "苯": {
+          "value": 99.7955890410959,
+          "unit": null
+        },
+        "重芳": {
+          "value": 2.73972602739726e-05,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.114876712328767,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 38
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00424",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1214（苯塔底）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1214（苯塔底）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1214（苯塔底）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1214（苯塔底）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010130",
+        "sample_name": "SC-1214（苯塔底）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 0.310958904109589,
+          "乙  苯": 86.6331232876712,
+          "二乙苯": 9.86556164383561,
+          "二甲苯": 0.0592328767123287,
+          "异丙苯": 0.614328767123287,
+          "正丙苯": 0.877342465753424,
+          "甲  苯": 0.0288493150684931,
+          "甲乙苯": 0.135013698630136,
+          "苯": 0.000164383561643835,
+          "重芳": 1.46816438356164,
+          "非  芳": 0.00742465753424657
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1214（苯塔底）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 0.310958904109589,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 86.6331232876712,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 9.86556164383561,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0.0592328767123287,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 0.614328767123287,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0.877342465753424,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.0288493150684931,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 0.135013698630136,
+          "unit": null
+        },
+        "苯": {
+          "value": 0.000164383561643835,
+          "unit": null
+        },
+        "重芳": {
+          "value": 1.46816438356164,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.00742465753424657,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 39
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00425",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1215（乙苯底）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1215（乙苯底）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1215（乙苯底）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1215（乙苯底）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010132",
+        "sample_name": "SC-1215（乙苯底）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 2.30342465753424,
+          "乙  苯": 1.75167123287671,
+          "二乙苯": 74.9067123287671,
+          "二甲苯": 0.155698630136986,
+          "异丙苯": 4.68621917808219,
+          "正丙苯": 6.65630136986301,
+          "甲  苯": 0.00317808219178082,
+          "甲乙苯": 1.02084931506849,
+          "苯": 0.00550684931506849,
+          "重芳": 8.50112328767123,
+          "非  芳": 0.0100821917808219
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1215（乙苯底）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 2.30342465753424,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 1.75167123287671,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 74.9067123287671,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0.155698630136986,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 4.68621917808219,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 6.65630136986301,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.00317808219178082,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 1.02084931506849,
+          "unit": null
+        },
+        "苯": {
+          "value": 0.00550684931506849,
+          "unit": null
+        },
+        "重芳": {
+          "value": 8.50112328767123,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.0100821917808219,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 40
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00426",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1217（丙苯顶）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1217（丙苯顶）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1217（丙苯顶）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1217（丙苯顶）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010133",
+        "sample_name": "SC-1217（丙苯顶）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 6.81643835616438,
+          "乙  苯": 5.9164109589041,
+          "二乙苯": 44.0193150684931,
+          "二甲苯": 0.569972602739726,
+          "异丙苯": 15.9404931506849,
+          "正丙苯": 22.5976438356164,
+          "甲  苯": 0,
+          "甲乙苯": 3.54468493150684,
+          "苯": 0.021917808219178,
+          "重芳": 0.543260273972602,
+          "非  芳": 0.028904109589041
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1217（丙苯顶）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 6.81643835616438,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 5.9164109589041,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 44.0193150684931,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0.569972602739726,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 15.9404931506849,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 22.5976438356164,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 3.54468493150684,
+          "unit": null
+        },
+        "苯": {
+          "value": 0.021917808219178,
+          "unit": null
+        },
+        "重芳": {
+          "value": 0.543260273972602,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.028904109589041,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 41
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00427",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1218（丙苯底）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1218（丙苯底）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1218（丙苯底）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1218（丙苯底）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010134",
+        "sample_name": "SC-1218（丙苯底）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 0.106273972602739,
+          "乙  苯": 0.00167123287671232,
+          "二乙苯": 87.7772876712328,
+          "二甲苯": 0.000164383561643835,
+          "异丙苯": 0.00134246575342465,
+          "正丙苯": 0.00504109589041095,
+          "甲  苯": 0.00515068493150685,
+          "甲乙苯": 0.000657534246575342,
+          "苯": 5.47945205479452e-05,
+          "重芳": 12.1004931506849,
+          "非  芳": 2.73972602739726e-05
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1218（丙苯底）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 0.106273972602739,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 0.00167123287671232,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 87.7772876712328,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0.000164383561643835,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 0.00134246575342465,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0.00504109589041095,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.00515068493150685,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 0.000657534246575342,
+          "unit": null
+        },
+        "苯": {
+          "value": 5.47945205479452e-05,
+          "unit": null
+        },
+        "重芳": {
+          "value": 12.1004931506849,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 2.73972602739726e-05,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 42
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00428",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-SC-1219（二乙苯顶）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的SC-1219（二乙苯顶）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "SC-1219（二乙苯顶）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SC-1219（二乙苯顶）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010135",
+        "sample_name": "SC-1219（二乙苯顶）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "丁苯": 0.127808219178082,
+          "乙  苯": 0.0206027397260274,
+          "二乙苯": 94.0909863013698,
+          "二甲苯": 0,
+          "异丙苯": 8.21917808219178e-05,
+          "正丙苯": 0.00104109589041095,
+          "甲  苯": 0.00375342465753424,
+          "甲乙苯": 8.21917808219178e-05,
+          "苯": 0.00142465753424657,
+          "重芳": 5.75230136986301,
+          "非  芳": 5.47945205479452e-05
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SC-1219（二乙苯顶）"
+        }
+      ],
+      "parameters": {
+        "丁苯": {
+          "value": 0.127808219178082,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 0.0206027397260274,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 94.0909863013698,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 8.21917808219178e-05,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0.00104109589041095,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.00375342465753424,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 8.21917808219178e-05,
+          "unit": null
+        },
+        "苯": {
+          "value": 0.00142465753424657,
+          "unit": null
+        },
+        "重芳": {
+          "value": 5.75230136986301,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 5.47945205479452e-05,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 43
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00429",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-PL-1334（脱氢尾气）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的PL-1334（脱氢尾气）点位包含22项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "PL-1334（脱氢尾气）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "PL-1334（脱氢尾气）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010136",
+        "sample_name": "PL-1334（脱氢尾气）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "一氧化碳": 0.037917808219178,
+          "丙烯": 0.0113972602739726,
+          "丙烷": 0.00010958904109589,
+          "乙  苯": 98.4736712328767,
+          "乙烯": 0.174821917808219,
+          "乙烷": 0.032904109589041,
+          "二乙苯": 0.00312499999999999,
+          "二氧化碳": 1.8204109589041,
+          "二甲苯": 1.09721643835616,
+          "异戊烷": 0,
+          "正戊烷": 0,
+          "氢气": 78.4749863013698,
+          "氧气": 0.909369863013698,
+          "氮气": 18.1438904109589,
+          "甲  苯": 0.051717808219178,
+          "甲烷": 0.392356164383561,
+          "碳五(合计)": 0,
+          "碳四(合计)": 0.000301369863013698,
+          "苯": 0.00275641025641025,
+          "苯乙烯": 0.292775342465753,
+          "重芳": 0.00266666666666666,
+          "非  芳": 0.0808876712328767
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "PL-1334（脱氢尾气）"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 0.037917808219178,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 0.0113972602739726,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 0.00010958904109589,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 98.4736712328767,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 0.174821917808219,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 0.032904109589041,
+          "unit": null
+        },
+        "二乙苯": {
+          "value": 0.00312499999999999,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 1.8204109589041,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 1.09721643835616,
+          "unit": null
+        },
+        "异戊烷": {
+          "value": 0,
+          "unit": null
+        },
+        "正戊烷": {
+          "value": 0,
+          "unit": null
+        },
+        "氢气": {
+          "value": 78.4749863013698,
+          "unit": null
+        },
+        "氧气": {
+          "value": 0.909369863013698,
+          "unit": null
+        },
+        "氮气": {
+          "value": 18.1438904109589,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 0.051717808219178,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 0.392356164383561,
+          "unit": null
+        },
+        "碳五(合计)": {
+          "value": 0,
+          "unit": null
+        },
+        "碳四(合计)": {
+          "value": 0.000301369863013698,
+          "unit": null
+        },
+        "苯": {
+          "value": 0.00275641025641025,
+          "unit": null
+        },
+        "苯乙烯": {
+          "value": 0.292775342465753,
+          "unit": null
+        },
+        "重芳": {
+          "value": 0.00266666666666666,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.0808876712328767,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 44
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00430",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-PL-305（脱氢液）点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的PL-305（脱氢液）点位包含17项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "PL-305（脱氢液）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "PL-305（脱氢液）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010137",
+        "sample_name": "PL-305（脱氢液）",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "2-乙烯基噻吩": 0.013945205479452,
+          "α甲基苯乙烯": 0.0120547945205479,
+          "丙烯基苯": 0,
+          "乙  苯": 39.9177260273972,
+          "二乙基苯": 0.00356603773584905,
+          "二氢噻喃": 0,
+          "二甲苯": 1.12846575342465,
+          "其  他": 0.172767123287671,
+          "异丙苯": 5.47945205479452e-05,
+          "正丙苯": 0,
+          "甲  苯": 1.08287671232876,
+          "甲乙苯": 0,
+          "苯": 0.374904109589041,
+          "苯乙炔": 0,
+          "苯乙烯": 57.2185753424657,
+          "间、对甲基苯乙烯": 2.73972602739726e-05,
+          "非  芳": 0.0728493150684931
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "PL-305（脱氢液）"
+        }
+      ],
+      "parameters": {
+        "2-乙烯基噻吩": {
+          "value": 0.013945205479452,
+          "unit": null
+        },
+        "α甲基苯乙烯": {
+          "value": 0.0120547945205479,
+          "unit": null
+        },
+        "丙烯基苯": {
+          "value": 0,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 39.9177260273972,
+          "unit": null
+        },
+        "二乙基苯": {
+          "value": 0.00356603773584905,
+          "unit": null
+        },
+        "二氢噻喃": {
+          "value": 0,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 1.12846575342465,
+          "unit": null
+        },
+        "其  他": {
+          "value": 0.172767123287671,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 5.47945205479452e-05,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 1.08287671232876,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 0,
+          "unit": null
+        },
+        "苯": {
+          "value": 0.374904109589041,
+          "unit": null
+        },
+        "苯乙炔": {
+          "value": 0,
+          "unit": null
+        },
+        "苯乙烯": {
+          "value": 57.2185753424657,
+          "unit": null
+        },
+        "间、对甲基苯乙烯": {
+          "value": 2.73972602739726e-05,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.0728493150684931,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 45
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00431",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "芳烃",
+      "name": "延炼12万吨/年乙苯/苯乙烯装置-402顶点位性质",
+      "description": "延炼12万吨/年乙苯/苯乙烯装置的402顶点位包含16项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼12万吨/年乙苯/苯乙烯装置"
+        ],
+        "material": [
+          "402顶"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "402顶",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010144",
+        "sample_name": "402顶",
+        "device_name": "延炼12万吨/年乙苯/苯乙烯装置",
+        "indicators": {
+          "2-乙烯基噻吩": 0,
+          "α甲基苯乙烯": 0,
+          "丙烯基苯": 0,
+          "乙  苯": 4.32202739726027,
+          "二氢噻喃": 0,
+          "二甲苯": 0.0456986301369863,
+          "其  他": 0.000328767123287671,
+          "异丙苯": 0,
+          "正丙苯": 0,
+          "甲  苯": 68.1527397260273,
+          "甲乙苯": 8.21917808219178e-05,
+          "苯": 26.9998904109589,
+          "苯乙炔": 0,
+          "苯乙烯": 0.000684931506849315,
+          "间、对甲基苯乙烯": 0,
+          "非  芳": 0.477945205479452
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼12万吨/年乙苯/苯乙烯装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "402顶"
+        }
+      ],
+      "parameters": {
+        "2-乙烯基噻吩": {
+          "value": 0,
+          "unit": null
+        },
+        "α甲基苯乙烯": {
+          "value": 0,
+          "unit": null
+        },
+        "丙烯基苯": {
+          "value": 0,
+          "unit": null
+        },
+        "乙  苯": {
+          "value": 4.32202739726027,
+          "unit": null
+        },
+        "二氢噻喃": {
+          "value": 0,
+          "unit": null
+        },
+        "二甲苯": {
+          "value": 0.0456986301369863,
+          "unit": null
+        },
+        "其  他": {
+          "value": 0.000328767123287671,
+          "unit": null
+        },
+        "异丙苯": {
+          "value": 0,
+          "unit": null
+        },
+        "正丙苯": {
+          "value": 0,
+          "unit": null
+        },
+        "甲  苯": {
+          "value": 68.1527397260273,
+          "unit": null
+        },
+        "甲乙苯": {
+          "value": 8.21917808219178e-05,
+          "unit": null
+        },
+        "苯": {
+          "value": 26.9998904109589,
+          "unit": null
+        },
+        "苯乙炔": {
+          "value": 0,
+          "unit": null
+        },
+        "苯乙烯": {
+          "value": 0.000684931506849315,
+          "unit": null
+        },
+        "间、对甲基苯乙烯": {
+          "value": 0,
+          "unit": null
+        },
+        "非  芳": {
+          "value": 0.477945205479452,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "12万吨年乙苯苯乙烯装置",
+        "row": 46
+      },
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [],
+  "notes": ""
+}

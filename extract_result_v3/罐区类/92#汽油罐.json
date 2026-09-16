@@ -1,0 +1,289 @@
+[
+  {
+    "rule_id": "TANK_806.0",
+    "description": "延炼92#汽油罐806.0参数：volume=5000.0m3；level_max=11.2m；level_min=2.15m；diameter=23.84136134888829m；initial_level=6.675m；meter_factor=300.0t/m；density=0.6719999999999997t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "806.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 11.2,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 23.84136134888829,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 6.675,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 300.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.6719999999999997,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_807.0",
+    "description": "延炼92#汽油罐807.0参数：volume=5000.0m3；level_max=11.2m；level_min=2.15m；diameter=23.84136134888829m；initial_level=6.675m；meter_factor=300.0t/m；density=0.6719999999999997t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "807.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 11.2,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 23.84136134888829,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 6.675,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 300.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.6719999999999997,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_822.0",
+    "description": "延炼92#汽油罐822.0参数：volume=15000.0m3；level_max=20.0m；level_min=2.15m；diameter=30.90193615983769m；initial_level=11.075m；meter_factor=520.0t/m；density=0.6933333333333334t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "822.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 15000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 20.0,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 30.90193615983769,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 11.075,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 520.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.6933333333333334,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_823.0",
+    "description": "延炼92#汽油罐823.0参数：volume=15000.0m3；level_max=20.0m；level_min=2.15m；diameter=30.90193615983769m；initial_level=11.075m；meter_factor=520.0t/m；density=0.6933333333333334t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "823.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 15000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 20.0,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 30.90193615983769,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 11.075,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 520.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.6933333333333334,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_825.0",
+    "description": "延炼92#汽油罐825.0参数：volume=15000.0m3；level_max=15.5m；level_min=2.15m；diameter=35.10224068625423m；initial_level=8.825m；meter_factor=595.0t/m；density=0.6148333333333332t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "825.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 15000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 35.10224068625423,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 8.825,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 595.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.6148333333333332,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_826.0",
+    "description": "延炼92#汽油罐826.0参数：volume=15000.0m3；level_max=15.5m；level_min=2.15m；diameter=35.10224068625423m；initial_level=8.825m；meter_factor=595.0t/m；density=0.6148333333333332t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "826.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 15000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 35.10224068625423,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 8.825,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 595.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.6148333333333332,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_26101.0",
+    "description": "延炼92#汽油罐26101.0参数：volume=20000.0m3；level_max=15.5m；level_min=2.15m；diameter=40.53257621873582m；initial_level=8.825m；meter_factor=840.0t/m；density=0.651t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "26101.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 40.53257621873582,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 8.825,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 840.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.651,
+        "unit": "t/m3"
+      }
+    }
+  }
+]

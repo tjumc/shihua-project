@@ -1,0 +1,44 @@
+[
+  {
+    "rule_id": "TANK_T-44003",
+    "description": "延石化富异丁烯罐T-44003参数：volume=1000.0m3；level_max=8.5m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-44003"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 1000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-44004",
+    "description": "延石化富异丁烯罐T-44004参数：volume=1000.0m3；level_max=8.5m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-44004"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 1000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  }
+]

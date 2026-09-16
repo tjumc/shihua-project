@@ -1,0 +1,2599 @@
+{
+  "schema_version": "1.0",
+  "category": "装置类",
+  "subcategory": "汽柴油加氢",
+  "status": "ready",
+  "sample_count": 25,
+  "rules": [
+    {
+      "rule_id": "R-UNIT-HYDRO-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "柴油加氢装置基础负荷范围",
+      "scope": {
+        "unit": [
+          "140万吨柴油加氢装置"
+        ]
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 6
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2524.8,
+          4632
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "140万吨柴油加氢装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          2524.8,
+          4632
+        ],
+        "unit": "t/d"
+      },
+      "description": "140万吨柴油加氢装置额定负荷为4208吨/天，最大加工负荷为4632吨/天，最大负荷系数为1.1，最小负荷系数为0.6。",
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "140万吨柴油加氢装置"
+        }
+      ],
+      "parameters": {
+        "feed_rate": {
+          "value": [
+            2524.8,
+            4632
+          ],
+          "unit": "t/d"
+        }
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-CAP-016",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "140万柴油加氢装置负荷边界",
+      "description": "140万柴油加氢装置初始负荷2520吨/天、额定负荷4208吨/天、最大加工负荷4632吨/天。",
+      "scope": {
+        "unit": [
+          "140万柴油加氢装置"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2524.8,
+          4632
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "140万柴油加氢装置",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 2520,
+        "rated_load": 4208,
+        "max_load": 4632,
+        "max_load_factor": 1.1,
+        "min_load_factor": 0.6,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "140万柴油加氢装置"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 2520,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 4208,
+          "unit": null
+        },
+        "max_load": {
+          "value": 4632,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.1,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.6,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 16
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-CAP-022",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "240万柴油加氢装置负荷边界",
+      "description": "240万柴油加氢装置初始负荷4320吨/天、额定负荷6857吨/天、最大加工负荷7200吨/天。",
+      "scope": {
+        "unit": [
+          "240万柴油加氢装置"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          4319.91,
+          7200
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "240万柴油加氢装置",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 4320,
+        "rated_load": 6857,
+        "max_load": 7200,
+        "max_load_factor": 1.05,
+        "min_load_factor": 0.63,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "240万柴油加氢装置"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 4320,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 6857,
+          "unit": null
+        },
+        "max_load": {
+          "value": 7200,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.05,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.63,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 22
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00504",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-原料油点位性质",
+      "description": "延化140万吨/年柴油精制装置的原料油点位包含12项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "原料油"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "原料油",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040040",
+        "sample_name": "原料油",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 226.908064516129,
+          "50%回收温度": 276.979032258064,
+          "90%回收温度": 344.198387096774,
+          "95%回收温度": 358.008064516129,
+          "冷滤点": 1.53225806451612,
+          "凝点": -1.69354838709677,
+          "初馏点": 180.993548387096,
+          "十六烷指数": 37.5409836065573,
+          "密度ρ20": 887.387301587301,
+          "氮含量": 676.970588235294,
+          "硫含量": 1435.76865671641,
+          "闪点(闭口)": 64
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "原料油"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 226.908064516129,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 276.979032258064,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 344.198387096774,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 358.008064516129,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": 1.53225806451612,
+          "unit": null
+        },
+        "凝点": {
+          "value": -1.69354838709677,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 180.993548387096,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 37.5409836065573,
+          "unit": null
+        },
+        "密度ρ20": {
+          "value": 887.387301587301,
+          "unit": null
+        },
+        "氮含量": {
+          "value": 676.970588235294,
+          "unit": null
+        },
+        "硫含量": {
+          "value": 1435.76865671641,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 64,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 2
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00505",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-C-202底点位性质",
+      "description": "延化140万吨/年柴油精制装置的C-202底点位包含12项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "C-202底"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-202底",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040042",
+        "sample_name": "C-202底",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 218.115363881401,
+          "50%回收温度": 256.485444743935,
+          "90%回收温度": 321.056603773584,
+          "95%回收温度": 341.703234501347,
+          "冷滤点": -17.1333333333333,
+          "凝点": -24.3214285714285,
+          "初馏点": 193.798921832884,
+          "十六烷指数": 38.5336927223719,
+          "密度ρ20": 867.161185983827,
+          "硫含量": 3.69088471849865,
+          "铜片腐蚀(50℃，3h)": 1,
+          "闪点(闭口)": 80.1051212938005
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-202底"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 218.115363881401,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 256.485444743935,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 321.056603773584,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 341.703234501347,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": -17.1333333333333,
+          "unit": null
+        },
+        "凝点": {
+          "value": -24.3214285714285,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 193.798921832884,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 38.5336927223719,
+          "unit": null
+        },
+        "密度ρ20": {
+          "value": 867.161185983827,
+          "unit": null
+        },
+        "硫含量": {
+          "value": 3.69088471849865,
+          "unit": null
+        },
+        "铜片腐蚀(50℃，3h)": {
+          "value": 1,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 80.1051212938005,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 3
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00506",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-C-204底点位性质",
+      "description": "延化140万吨/年柴油精制装置的C-204底点位包含19项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "C-204底"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-204底",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040043",
+        "sample_name": "C-204底",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%平均蒸发温度T10%": 48.5166666666666,
+          "50%平均蒸发温度T50%": 81.0262295081967,
+          "90%平均蒸发温度T90%": 127.135792349726,
+          "全馏": 98.1737704918032,
+          "初馏点蒸发温度 TIBP": 35.3232240437158,
+          "密度ρ20": 696.514246575342,
+          "平均残留百分数(B)": 0.8,
+          "异构烷烃": 40.9308333333333,
+          "校正回收百分数(RC)": 98.1803977272727,
+          "校正损失百分数(LC)": 0.988068181818181,
+          "正构烷烃": 21.635,
+          "氮含量": 0.361538461538461,
+          "溴价 gBr/100g": 6.68136612021858,
+          "烯烃含量": 2.00833333333333,
+          "烷烃含量": 83.6808333333333,
+          "环烷烃含量": 21.115,
+          "硫含量": 6,
+          "终馏点蒸发温度TFBP": 159.492349726775,
+          "芳烃含量": 14.3141666666666
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-204底"
+        }
+      ],
+      "parameters": {
+        "10%平均蒸发温度T10%": {
+          "value": 48.5166666666666,
+          "unit": null
+        },
+        "50%平均蒸发温度T50%": {
+          "value": 81.0262295081967,
+          "unit": null
+        },
+        "90%平均蒸发温度T90%": {
+          "value": 127.135792349726,
+          "unit": null
+        },
+        "全馏": {
+          "value": 98.1737704918032,
+          "unit": null
+        },
+        "初馏点蒸发温度 TIBP": {
+          "value": 35.3232240437158,
+          "unit": null
+        },
+        "密度ρ20": {
+          "value": 696.514246575342,
+          "unit": null
+        },
+        "平均残留百分数(B)": {
+          "value": 0.8,
+          "unit": null
+        },
+        "异构烷烃": {
+          "value": 40.9308333333333,
+          "unit": null
+        },
+        "校正回收百分数(RC)": {
+          "value": 98.1803977272727,
+          "unit": null
+        },
+        "校正损失百分数(LC)": {
+          "value": 0.988068181818181,
+          "unit": null
+        },
+        "正构烷烃": {
+          "value": 21.635,
+          "unit": null
+        },
+        "氮含量": {
+          "value": 0.361538461538461,
+          "unit": null
+        },
+        "溴价 gBr/100g": {
+          "value": 6.68136612021858,
+          "unit": null
+        },
+        "烯烃含量": {
+          "value": 2.00833333333333,
+          "unit": null
+        },
+        "烷烃含量": {
+          "value": 83.6808333333333,
+          "unit": null
+        },
+        "环烷烃含量": {
+          "value": 21.115,
+          "unit": null
+        },
+        "硫含量": {
+          "value": 6,
+          "unit": null
+        },
+        "终馏点蒸发温度TFBP": {
+          "value": 159.492349726775,
+          "unit": null
+        },
+        "芳烃含量": {
+          "value": 14.3141666666666,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 4
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00507",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-D-105顶点位性质",
+      "description": "延化140万吨/年柴油精制装置的D-105顶点位包含17项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "D-105顶"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "D-105顶",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040044",
+        "sample_name": "D-105顶",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "一氧化碳": 0,
+          "丙烯": 0.000220385674931129,
+          "丙烷": 1.35476584022038,
+          "乙烯": 0,
+          "乙烷": 1.55217630853994,
+          "二氧化碳": 0.000220385674931129,
+          "异戊烷": 0.0565840220385674,
+          "正戊烷": 0.0770523415977961,
+          "氢气": 88.6171625344352,
+          "氧气": 0.248870523415977,
+          "氨含量": 190,
+          "氮气": 0.956225895316804,
+          "甲烷": 6.43696969696969,
+          "硫化氢": 1147.02479338842,
+          "碳五(合计)": 0.133856749311294,
+          "碳五+其他": 0,
+          "碳四(合计)": 0.704490358126721
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "D-105顶"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 0,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 0.000220385674931129,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 1.35476584022038,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 0,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 1.55217630853994,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 0.000220385674931129,
+          "unit": null
+        },
+        "异戊烷": {
+          "value": 0.0565840220385674,
+          "unit": null
+        },
+        "正戊烷": {
+          "value": 0.0770523415977961,
+          "unit": null
+        },
+        "氢气": {
+          "value": 88.6171625344352,
+          "unit": null
+        },
+        "氧气": {
+          "value": 0.248870523415977,
+          "unit": null
+        },
+        "氨含量": {
+          "value": 190,
+          "unit": null
+        },
+        "氮气": {
+          "value": 0.956225895316804,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 6.43696969696969,
+          "unit": null
+        },
+        "硫化氢": {
+          "value": 1147.02479338842,
+          "unit": null
+        },
+        "碳五(合计)": {
+          "value": 0.133856749311294,
+          "unit": null
+        },
+        "碳五+其他": {
+          "value": 0,
+          "unit": null
+        },
+        "碳四(合计)": {
+          "value": 0.704490358126721,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 5
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00508",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-D-204顶点位性质",
+      "description": "延化140万吨/年柴油精制装置的D-204顶点位包含10项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "D-204顶"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "D-204顶",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040046",
+        "sample_name": "D-204顶",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "C5": 0.453516483516483,
+          "丙烯": 0.021510989010989,
+          "丙烷": 41.8065109890109,
+          "乙烷+乙烯": 12.9355769230769,
+          "反丁烯": 0.0493956043956044,
+          "异丁烷": 24.6995879120879,
+          "正丁烯+异丁烯": 0.261538461538461,
+          "正丁烷": 19.7435989010989,
+          "硫化氢": 20000,
+          "顺丁烯": 0.0343956043956043
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "D-204顶"
+        }
+      ],
+      "parameters": {
+        "C5": {
+          "value": 0.453516483516483,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 0.021510989010989,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 41.8065109890109,
+          "unit": null
+        },
+        "乙烷+乙烯": {
+          "value": 12.9355769230769,
+          "unit": null
+        },
+        "反丁烯": {
+          "value": 0.0493956043956044,
+          "unit": null
+        },
+        "异丁烷": {
+          "value": 24.6995879120879,
+          "unit": null
+        },
+        "正丁烯+异丁烯": {
+          "value": 0.261538461538461,
+          "unit": null
+        },
+        "正丁烷": {
+          "value": 19.7435989010989,
+          "unit": null
+        },
+        "硫化氢": {
+          "value": 20000,
+          "unit": null
+        },
+        "顺丁烯": {
+          "value": 0.0343956043956043,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 6
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00509",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-T-4107点位性质",
+      "description": "延化140万吨/年柴油精制装置的T-4107点位包含12项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "T-4107"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "T-4107",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040049",
+        "sample_name": "T-4107",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 225.879856115107,
+          "50%回收温度": 276.212949640287,
+          "90%回收温度": 342.96690647482,
+          "95%回收温度": 357.615107913669,
+          "冷滤点": 1.34782608695652,
+          "凝点": -1.83333333333333,
+          "初馏点": 178.943884892086,
+          "十六烷指数": 36.3381294964028,
+          "密度": 891.172661870503,
+          "氮含量": 793,
+          "硫含量": 1691.4,
+          "闪点(闭口)": 60.4671532846715
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "T-4107"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 225.879856115107,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 276.212949640287,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 342.96690647482,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 357.615107913669,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": 1.34782608695652,
+          "unit": null
+        },
+        "凝点": {
+          "value": -1.83333333333333,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 178.943884892086,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 36.3381294964028,
+          "unit": null
+        },
+        "密度": {
+          "value": 891.172661870503,
+          "unit": null
+        },
+        "氮含量": {
+          "value": 793,
+          "unit": null
+        },
+        "硫含量": {
+          "value": 1691.4,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 60.4671532846715,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 7
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00510",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-T-4108点位性质",
+      "description": "延化140万吨/年柴油精制装置的T-4108点位包含12项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "T-4108"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "T-4108",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040050",
+        "sample_name": "T-4108",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 227.281889763779,
+          "50%回收温度": 277.266929133858,
+          "90%回收温度": 344.11968503937,
+          "95%回收温度": 357.971653543307,
+          "冷滤点": 1.90551181102362,
+          "凝点": -1.38582677165354,
+          "初馏点": 183.062992125984,
+          "十六烷指数": 36.763779527559,
+          "密度": 890.07265625,
+          "氮含量": 805.2,
+          "硫含量": 1437,
+          "闪点(闭口)": 62.4330708661417
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "T-4108"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 227.281889763779,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 277.266929133858,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 344.11968503937,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 357.971653543307,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": 1.90551181102362,
+          "unit": null
+        },
+        "凝点": {
+          "value": -1.38582677165354,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 183.062992125984,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 36.763779527559,
+          "unit": null
+        },
+        "密度": {
+          "value": 890.07265625,
+          "unit": null
+        },
+        "氮含量": {
+          "value": 805.2,
+          "unit": null
+        },
+        "硫含量": {
+          "value": 1437,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 62.4330708661417,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 8
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00511",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-T-4109点位性质",
+      "description": "延化140万吨/年柴油精制装置的T-4109点位包含12项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "T-4109"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "T-4109",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040051",
+        "sample_name": "T-4109",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 226.677064220183,
+          "50%回收温度": 277.364220183486,
+          "90%回收温度": 344.356880733945,
+          "95%回收温度": 357.850458715596,
+          "冷滤点": 1.92592592592592,
+          "凝点": -1.24074074074074,
+          "初馏点": 180.095412844036,
+          "十六烷指数": 37.4537037037037,
+          "密度": 887.514678899082,
+          "氮含量": 914,
+          "硫含量": 1463.25,
+          "闪点(闭口)": 59.4678899082568
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "T-4109"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 226.677064220183,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 277.364220183486,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 344.356880733945,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 357.850458715596,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": 1.92592592592592,
+          "unit": null
+        },
+        "凝点": {
+          "value": -1.24074074074074,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 180.095412844036,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 37.4537037037037,
+          "unit": null
+        },
+        "密度": {
+          "value": 887.514678899082,
+          "unit": null
+        },
+        "氮含量": {
+          "value": 914,
+          "unit": null
+        },
+        "硫含量": {
+          "value": 1463.25,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 59.4678899082568,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 9
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00512",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-T-4110点位性质",
+      "description": "延化140万吨/年柴油精制装置的T-4110点位包含6项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "T-4110"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "T-4110",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040052",
+        "sample_name": "T-4110",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 147.95,
+          "50%回收温度": 247.549999999999,
+          "90%回收温度": 329.35,
+          "95%回收温度": 349,
+          "初馏点": 86.3,
+          "密度": 839.8
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "T-4110"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 147.95,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 247.549999999999,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 329.35,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 349,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 86.3,
+          "unit": null
+        },
+        "密度": {
+          "value": 839.8,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 10
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00513",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-T-4809点位性质",
+      "description": "延化140万吨/年柴油精制装置的T-4809点位包含6项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "T-4809"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "T-4809",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040053",
+        "sample_name": "T-4809",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 168.6,
+          "50%回收温度": 258.5,
+          "90%回收温度": 330.2,
+          "95%回收温度": 346.8,
+          "初馏点": 62.2,
+          "密度": 842.6
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "T-4809"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 168.6,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 258.5,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 330.2,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 346.8,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 62.2,
+          "unit": null
+        },
+        "密度": {
+          "value": 842.6,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 11
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00514",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-T-4904点位性质",
+      "description": "延化140万吨/年柴油精制装置的T-4904点位包含10项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "T-4904"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "T-4904",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040055",
+        "sample_name": "T-4904",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 203.483333333333,
+          "50%回收温度": 270.766666666666,
+          "90%回收温度": 350.783333333333,
+          "95%回收温度": 368.416666666666,
+          "冷滤点": 3.4,
+          "凝点": 0.166666666666666,
+          "初馏点": 151.049999999999,
+          "十六烷指数": 58.8333333333333,
+          "密度": 815.966666666666,
+          "闪点(闭口)": 47.5
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "T-4904"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 203.483333333333,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 270.766666666666,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 350.783333333333,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 368.416666666666,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": 3.4,
+          "unit": null
+        },
+        "凝点": {
+          "value": 0.166666666666666,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 151.049999999999,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 58.8333333333333,
+          "unit": null
+        },
+        "密度": {
+          "value": 815.966666666666,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 47.5,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 12
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00515",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-T-4905点位性质",
+      "description": "延化140万吨/年柴油精制装置的T-4905点位包含10项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "T-4905"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "T-4905",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040056",
+        "sample_name": "T-4905",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 199.9,
+          "50%回收温度": 270.466666666666,
+          "90%回收温度": 347.2,
+          "95%回收温度": 366.766666666666,
+          "冷滤点": 3,
+          "凝点": 0,
+          "初馏点": 156.4,
+          "十六烷指数": 58.3333333333333,
+          "密度": 816.666666666666,
+          "闪点(闭口)": 55.3333333333333
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "T-4905"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 199.9,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 270.466666666666,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 347.2,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 366.766666666666,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": 3,
+          "unit": null
+        },
+        "凝点": {
+          "value": 0,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 156.4,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 58.3333333333333,
+          "unit": null
+        },
+        "密度": {
+          "value": 816.666666666666,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 55.3333333333333,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 13
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00516",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-T-4906点位性质",
+      "description": "延化140万吨/年柴油精制装置的T-4906点位包含10项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "T-4906"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "T-4906",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040057",
+        "sample_name": "T-4906",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 202.1,
+          "50%回收温度": 268,
+          "90%回收温度": 346,
+          "95%回收温度": 366.3,
+          "冷滤点": 0,
+          "凝点": -3,
+          "初馏点": 164.9,
+          "十六烷指数": 58,
+          "密度": 815.3,
+          "闪点(闭口)": 58
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "T-4906"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 202.1,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 268,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 346,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 366.3,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": 0,
+          "unit": null
+        },
+        "凝点": {
+          "value": -3,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 164.9,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 58,
+          "unit": null
+        },
+        "密度": {
+          "value": 815.3,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 58,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 14
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00517",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-柴油加氢装置污水点位性质",
+      "description": "延化140万吨/年柴油精制装置的柴油加氢装置污水点位包含4项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "柴油加氢装置污水"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "柴油加氢装置污水",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040058",
+        "sample_name": "柴油加氢装置污水",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "COD": 137.211538461538,
+          "pH": 7.0925,
+          "氨氮": 1.07307692307692,
+          "石油类": 18.1117307692307
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "柴油加氢装置污水"
+        }
+      ],
+      "parameters": {
+        "COD": {
+          "value": 137.211538461538,
+          "unit": null
+        },
+        "pH": {
+          "value": 7.0925,
+          "unit": null
+        },
+        "氨氮": {
+          "value": 1.07307692307692,
+          "unit": null
+        },
+        "石油类": {
+          "value": 18.1117307692307,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 15
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00518",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化140万吨/年柴油精制装置-加氢烟道点位性质",
+      "description": "延化140万吨/年柴油精制装置的加氢烟道点位包含8项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化140万吨/年柴油精制装置"
+        ],
+        "material": [
+          "加氢烟道"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "加氢烟道",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040059",
+        "sample_name": "加氢烟道",
+        "device_name": "延化140万吨/年柴油精制装置",
+        "indicators": {
+          "CL-": 4.32,
+          "COD": 141,
+          "pH": 8.18,
+          "氨含量": 11958.5075,
+          "氨氮": 0.325,
+          "石油类": 23.7,
+          "硫化物": 9743.025,
+          "碱度": 17.9233333333333
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化140万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "加氢烟道"
+        }
+      ],
+      "parameters": {
+        "CL-": {
+          "value": 4.32,
+          "unit": null
+        },
+        "COD": {
+          "value": 141,
+          "unit": null
+        },
+        "pH": {
+          "value": 8.18,
+          "unit": null
+        },
+        "氨含量": {
+          "value": 11958.5075,
+          "unit": null
+        },
+        "氨氮": {
+          "value": 0.325,
+          "unit": null
+        },
+        "石油类": {
+          "value": 23.7,
+          "unit": null
+        },
+        "硫化物": {
+          "value": 9743.025,
+          "unit": null
+        },
+        "碱度": {
+          "value": 17.9233333333333,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "140万吨年柴油精制装置",
+        "row": 16
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00534",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化240万吨/年柴油精制装置-D-102点位性质",
+      "description": "延化240万吨/年柴油精制装置的D-102点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化240万吨/年柴油精制装置"
+        ],
+        "material": [
+          "D-102"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "D-102",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040130",
+        "sample_name": "D-102",
+        "device_name": "延化240万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 209.631266846361,
+          "50%回收温度": 266.916711590296,
+          "90%回收温度": 345.664959568733,
+          "95%回收温度": 363.680592991913,
+          "冷滤点": 4.65454545454545,
+          "凝点": 1.68449197860962,
+          "初馏点": 171.603234501347,
+          "十六烷指数": 57.1698113207547,
+          "密度ρ20": 817.468206521739,
+          "硫含量": 510.560975609756,
+          "闪点(闭口)": 62.9056603773584
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化240万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "D-102"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 209.631266846361,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 266.916711590296,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 345.664959568733,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 363.680592991913,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": 4.65454545454545,
+          "unit": null
+        },
+        "凝点": {
+          "value": 1.68449197860962,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 171.603234501347,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 57.1698113207547,
+          "unit": null
+        },
+        "密度ρ20": {
+          "value": 817.468206521739,
+          "unit": null
+        },
+        "硫含量": {
+          "value": 510.560975609756,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 62.9056603773584,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "240万吨年柴油精制装置",
+        "row": 2
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00535",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化240万吨/年柴油精制装置-C-202底点位性质",
+      "description": "延化240万吨/年柴油精制装置的C-202底点位包含12项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化240万吨/年柴油精制装置"
+        ],
+        "material": [
+          "C-202底"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-202底",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040131",
+        "sample_name": "C-202底",
+        "device_name": "延化240万吨/年柴油精制装置",
+        "indicators": {
+          "10%回收温度": 208.241554959785,
+          "50%回收温度": 264.38927613941,
+          "90%回收温度": 340.171849865951,
+          "95%回收温度": 358.8836461126,
+          "冷滤点": 2.47311827956989,
+          "凝点": -0.608465608465608,
+          "初馏点": 181.237533512064,
+          "十六烷指数": 58.75,
+          "密度ρ20": 811.602964959568,
+          "氮含量": 3.42307692307692,
+          "硫含量": 3.42440318302387,
+          "闪点(闭口)": 71.377358490566
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化240万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-202底"
+        }
+      ],
+      "parameters": {
+        "10%回收温度": {
+          "value": 208.241554959785,
+          "unit": null
+        },
+        "50%回收温度": {
+          "value": 264.38927613941,
+          "unit": null
+        },
+        "90%回收温度": {
+          "value": 340.171849865951,
+          "unit": null
+        },
+        "95%回收温度": {
+          "value": 358.8836461126,
+          "unit": null
+        },
+        "冷滤点": {
+          "value": 2.47311827956989,
+          "unit": null
+        },
+        "凝点": {
+          "value": -0.608465608465608,
+          "unit": null
+        },
+        "初馏点": {
+          "value": 181.237533512064,
+          "unit": null
+        },
+        "十六烷指数": {
+          "value": 58.75,
+          "unit": null
+        },
+        "密度ρ20": {
+          "value": 811.602964959568,
+          "unit": null
+        },
+        "氮含量": {
+          "value": 3.42307692307692,
+          "unit": null
+        },
+        "硫含量": {
+          "value": 3.42440318302387,
+          "unit": null
+        },
+        "闪点(闭口)": {
+          "value": 71.377358490566,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "240万吨年柴油精制装置",
+        "row": 3
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00536",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化240万吨/年柴油精制装置-D-202底点位性质",
+      "description": "延化240万吨/年柴油精制装置的D-202底点位包含17项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化240万吨/年柴油精制装置"
+        ],
+        "material": [
+          "D-202底"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "D-202底",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040132",
+        "sample_name": "D-202底",
+        "device_name": "延化240万吨/年柴油精制装置",
+        "indicators": {
+          "10%平均蒸发温度T10%": 92.11689373297,
+          "50%平均蒸发温度T50%": 118.495912806539,
+          "90%平均蒸发温度T90%": 141.97438692098,
+          "全馏": 98.3643051771117,
+          "初馏点蒸发温度 TIBP": 56.4103542234332,
+          "密度ρ20": 746.887272727272,
+          "平均残留百分数(B)": 0.8,
+          "异构烷烃": 29.5753846153846,
+          "正构烷烃": 16.4638461538461,
+          "氮含量": 0.447169811320754,
+          "氯含量": 0.4,
+          "烯烃含量": 0.0207692307692307,
+          "烷烃含量": 87.2507692307692,
+          "环烷烃含量": 41.2115384615384,
+          "硫含量": 3.09214092140921,
+          "终馏点蒸发温度TFBP": 167.974931880109,
+          "芳烃含量": 12.7461538461538
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化240万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "D-202底"
+        }
+      ],
+      "parameters": {
+        "10%平均蒸发温度T10%": {
+          "value": 92.11689373297,
+          "unit": null
+        },
+        "50%平均蒸发温度T50%": {
+          "value": 118.495912806539,
+          "unit": null
+        },
+        "90%平均蒸发温度T90%": {
+          "value": 141.97438692098,
+          "unit": null
+        },
+        "全馏": {
+          "value": 98.3643051771117,
+          "unit": null
+        },
+        "初馏点蒸发温度 TIBP": {
+          "value": 56.4103542234332,
+          "unit": null
+        },
+        "密度ρ20": {
+          "value": 746.887272727272,
+          "unit": null
+        },
+        "平均残留百分数(B)": {
+          "value": 0.8,
+          "unit": null
+        },
+        "异构烷烃": {
+          "value": 29.5753846153846,
+          "unit": null
+        },
+        "正构烷烃": {
+          "value": 16.4638461538461,
+          "unit": null
+        },
+        "氮含量": {
+          "value": 0.447169811320754,
+          "unit": null
+        },
+        "氯含量": {
+          "value": 0.4,
+          "unit": null
+        },
+        "烯烃含量": {
+          "value": 0.0207692307692307,
+          "unit": null
+        },
+        "烷烃含量": {
+          "value": 87.2507692307692,
+          "unit": null
+        },
+        "环烷烃含量": {
+          "value": 41.2115384615384,
+          "unit": null
+        },
+        "硫含量": {
+          "value": 3.09214092140921,
+          "unit": null
+        },
+        "终馏点蒸发温度TFBP": {
+          "value": 167.974931880109,
+          "unit": null
+        },
+        "芳烃含量": {
+          "value": 12.7461538461538,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "240万吨年柴油精制装置",
+        "row": 4
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00537",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化240万吨/年柴油精制装置-D-108顶点位性质",
+      "description": "延化240万吨/年柴油精制装置的D-108顶点位包含24项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化240万吨/年柴油精制装置"
+        ],
+        "material": [
+          "D-108顶"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "D-108顶",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040133",
+        "sample_name": "D-108顶",
+        "device_name": "延化240万吨/年柴油精制装置",
+        "indicators": {
+          "一氧化碳": 0,
+          "丙炔": 0.013312101910828,
+          "丙烯": 0.0054140127388535,
+          "丙烷": 0.843184713375796,
+          "乙炔": 0,
+          "乙烯": 0.00292993630573248,
+          "乙烷": 1.23286624203821,
+          "二氧化碳": 0,
+          "反丁烯": 0.00242038216560509,
+          "异丁烯": 0.000382165605095541,
+          "异丁烷": 0.348343949044586,
+          "异戊烷": 0.040764331210191,
+          "正丁烯": 0.00235668789808917,
+          "正丁烷": 0.203757961783439,
+          "正戊烷": 0.05,
+          "氢气": 93.38,
+          "氧气": 0.297707006369426,
+          "氮气": 1.17834394904458,
+          "甲烷": 2.39598726114649,
+          "硫化氢": 1418.59649122807,
+          "碳二": 1.23579617834394,
+          "碳五": 0.090764331210191,
+          "碳五+其他": 0,
+          "顺丁烯": 0.00222929936305732
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化240万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "D-108顶"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 0,
+          "unit": null
+        },
+        "丙炔": {
+          "value": 0.013312101910828,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 0.0054140127388535,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 0.843184713375796,
+          "unit": null
+        },
+        "乙炔": {
+          "value": 0,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 0.00292993630573248,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 1.23286624203821,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 0,
+          "unit": null
+        },
+        "反丁烯": {
+          "value": 0.00242038216560509,
+          "unit": null
+        },
+        "异丁烯": {
+          "value": 0.000382165605095541,
+          "unit": null
+        },
+        "异丁烷": {
+          "value": 0.348343949044586,
+          "unit": null
+        },
+        "异戊烷": {
+          "value": 0.040764331210191,
+          "unit": null
+        },
+        "正丁烯": {
+          "value": 0.00235668789808917,
+          "unit": null
+        },
+        "正丁烷": {
+          "value": 0.203757961783439,
+          "unit": null
+        },
+        "正戊烷": {
+          "value": 0.05,
+          "unit": null
+        },
+        "氢气": {
+          "value": 93.38,
+          "unit": null
+        },
+        "氧气": {
+          "value": 0.297707006369426,
+          "unit": null
+        },
+        "氮气": {
+          "value": 1.17834394904458,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 2.39598726114649,
+          "unit": null
+        },
+        "硫化氢": {
+          "value": 1418.59649122807,
+          "unit": null
+        },
+        "碳二": {
+          "value": 1.23579617834394,
+          "unit": null
+        },
+        "碳五": {
+          "value": 0.090764331210191,
+          "unit": null
+        },
+        "碳五+其他": {
+          "value": 0,
+          "unit": null
+        },
+        "顺丁烯": {
+          "value": 0.00222929936305732,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "240万吨年柴油精制装置",
+        "row": 5
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00538",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化240万吨/年柴油精制装置-柴油精制污水点位性质",
+      "description": "延化240万吨/年柴油精制装置的柴油精制污水点位包含4项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化240万吨/年柴油精制装置"
+        ],
+        "material": [
+          "柴油精制污水"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "柴油精制污水",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040134",
+        "sample_name": "柴油精制污水",
+        "device_name": "延化240万吨/年柴油精制装置",
+        "indicators": {
+          "COD": 111.730769230769,
+          "pH": 7.34711538461538,
+          "氨氮": 1.16576923076923,
+          "石油类": 14.2501923076923
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化240万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "柴油精制污水"
+        }
+      ],
+      "parameters": {
+        "COD": {
+          "value": 111.730769230769,
+          "unit": null
+        },
+        "pH": {
+          "value": 7.34711538461538,
+          "unit": null
+        },
+        "氨氮": {
+          "value": 1.16576923076923,
+          "unit": null
+        },
+        "石油类": {
+          "value": 14.2501923076923,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "240万吨年柴油精制装置",
+        "row": 6
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00539",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化240万吨/年柴油精制装置-D-201顶点位性质",
+      "description": "延化240万吨/年柴油精制装置的D-201顶点位包含23项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化240万吨/年柴油精制装置"
+        ],
+        "material": [
+          "D-201顶"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "D-201顶",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040276",
+        "sample_name": "D-201顶",
+        "device_name": "延化240万吨/年柴油精制装置",
+        "indicators": {
+          "一氧化碳": 0,
+          "丙炔": 0,
+          "丙烯": 0,
+          "丙烷": 13.85,
+          "乙炔": 0,
+          "乙烯": 0,
+          "乙烷": 9.72,
+          "二氧化碳": 0,
+          "反丁烯": 0,
+          "异丁烯": 0,
+          "异丁烷": 9.81,
+          "异戊烷": 3.84,
+          "正丁烯": 0,
+          "正丁烷": 6.3,
+          "正戊烷": 1.22,
+          "氢气": 48.33,
+          "氧气": 0.08,
+          "氮气": 0.75,
+          "甲烷": 5.94,
+          "碳二": 9.72,
+          "碳五": 5.06,
+          "碳五+其他": 0,
+          "顺丁烯": 0.16
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化240万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "D-201顶"
+        }
+      ],
+      "parameters": {
+        "一氧化碳": {
+          "value": 0,
+          "unit": null
+        },
+        "丙炔": {
+          "value": 0,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 0,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 13.85,
+          "unit": null
+        },
+        "乙炔": {
+          "value": 0,
+          "unit": null
+        },
+        "乙烯": {
+          "value": 0,
+          "unit": null
+        },
+        "乙烷": {
+          "value": 9.72,
+          "unit": null
+        },
+        "二氧化碳": {
+          "value": 0,
+          "unit": null
+        },
+        "反丁烯": {
+          "value": 0,
+          "unit": null
+        },
+        "异丁烯": {
+          "value": 0,
+          "unit": null
+        },
+        "异丁烷": {
+          "value": 9.81,
+          "unit": null
+        },
+        "异戊烷": {
+          "value": 3.84,
+          "unit": null
+        },
+        "正丁烯": {
+          "value": 0,
+          "unit": null
+        },
+        "正丁烷": {
+          "value": 6.3,
+          "unit": null
+        },
+        "正戊烷": {
+          "value": 1.22,
+          "unit": null
+        },
+        "氢气": {
+          "value": 48.33,
+          "unit": null
+        },
+        "氧气": {
+          "value": 0.08,
+          "unit": null
+        },
+        "氮气": {
+          "value": 0.75,
+          "unit": null
+        },
+        "甲烷": {
+          "value": 5.94,
+          "unit": null
+        },
+        "碳二": {
+          "value": 9.72,
+          "unit": null
+        },
+        "碳五": {
+          "value": 5.06,
+          "unit": null
+        },
+        "碳五+其他": {
+          "value": 0,
+          "unit": null
+        },
+        "顺丁烯": {
+          "value": 0.16,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "240万吨年柴油精制装置",
+        "row": 7
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00540",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "汽柴油加氢",
+      "name": "延化240万吨/年柴油精制装置-含硫污水（D-106）点位性质",
+      "description": "延化240万吨/年柴油精制装置的含硫污水（D-106）点位包含7项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延化240万吨/年柴油精制装置"
+        ],
+        "material": [
+          "含硫污水（D-106）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "含硫污水（D-106）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST040290",
+        "sample_name": "含硫污水（D-106）",
+        "device_name": "延化240万吨/年柴油精制装置",
+        "indicators": {
+          "COD": 55,
+          "pH": 9.164,
+          "氯离子": 62.42,
+          "电导率": 0.68,
+          "硫酸根和氯离子": 235.16,
+          "硫酸根离子": 172.74,
+          "碱度": 18.8399999999999
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延化240万吨/年柴油精制装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "含硫污水（D-106）"
+        }
+      ],
+      "parameters": {
+        "COD": {
+          "value": 55,
+          "unit": null
+        },
+        "pH": {
+          "value": 9.164,
+          "unit": null
+        },
+        "氯离子": {
+          "value": 62.42,
+          "unit": null
+        },
+        "电导率": {
+          "value": 0.68,
+          "unit": null
+        },
+        "硫酸根和氯离子": {
+          "value": 235.16,
+          "unit": null
+        },
+        "硫酸根离子": {
+          "value": 172.74,
+          "unit": null
+        },
+        "碱度": {
+          "value": 18.8399999999999,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化装置点位性质全数据_0723.xlsx",
+        "sheet": "240万吨年柴油精制装置",
+        "row": 8
+      },
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [],
+  "notes": ""
+}

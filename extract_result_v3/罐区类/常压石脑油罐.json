@@ -1,0 +1,92 @@
+[
+  {
+    "rule_id": "TANK_6803.0",
+    "description": "延炼常压石脑油罐6803.0参数：volume=10000.0m3；level_max=15.5m；level_min=2.5m；diameter=27.5m；initial_level=9.0m；meter_factor=439.0t/m；density=0.7391102943018214t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "6803.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 27.5,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 9.0,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 439.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.7391102943018214,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_6804.0",
+    "description": "延炼常压石脑油罐6804.0参数：volume=10000.0m3；level_max=15.5m；level_min=2.5m；diameter=27.5m；initial_level=9.0m；meter_factor=439.0t/m；density=0.7391102943018214t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "6804.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 27.5,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 9.0,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 439.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.7391102943018214,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  }
+]

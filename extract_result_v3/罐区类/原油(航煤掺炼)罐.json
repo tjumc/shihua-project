@@ -1,0 +1,47 @@
+[
+  {
+    "rule_id": "TANK_6104.0",
+    "description": "延炼原油(航煤掺炼)罐6104.0参数：volume=5000.0m3；level_max=12.5m；level_min=2.5m；diameter=22.0m；initial_level=7.5m；meter_factor=319.0t/m；density=0.8391806089204193t/m3；tank_height=14.27m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "6104.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 12.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 22.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.5,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 319.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8391806089204193,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 14.27,
+        "unit": "m"
+      }
+    }
+  }
+]

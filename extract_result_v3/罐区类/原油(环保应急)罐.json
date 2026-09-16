@@ -1,0 +1,129 @@
+[
+  {
+    "rule_id": "TANK_6103.0",
+    "description": "延炼原油(环保应急)罐6103.0参数：volume=5000.0m3；level_max=12.5m；level_min=2.5m；diameter=22.0m；initial_level=7.5m；meter_factor=319.0t/m；density=0.8391806089204193t/m3；tank_height=14.27m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "6103.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 12.5,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 22.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.5,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 319.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8391806089204193,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 14.27,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9504.0",
+    "description": "延炼原油(环保应急)罐9504.0参数：volume=10000.0m3；level_max=13.6m；level_min=2.5m；diameter=30.597476161885336m；initial_level=8.05m；meter_factor=530.0t/m；density=0.7207999999999999t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9504.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 13.6,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 30.597476161885336,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 530.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.7207999999999999,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9509.0",
+    "description": "延炼原油(环保应急)罐9509.0参数：volume=20000.0m3；level_max=13.0m；level_min=2.5m；diameter=44.25867224135353m；initial_level=7.75m；meter_factor=1244.0t/m；density=0.8085999999999999t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9509.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 13.0,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 44.25867224135353,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.75,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 1244.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.8085999999999999,
+        "unit": "t/m3"
+      }
+    }
+  }
+]

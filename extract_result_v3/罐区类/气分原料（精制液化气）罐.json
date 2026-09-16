@@ -1,0 +1,118 @@
+[
+  {
+    "rule_id": "TANK_T-4201",
+    "description": "延石化气分原料（精制液化气）罐T-4201参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4202",
+    "description": "延石化气分原料（精制液化气）罐T-4202参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4202"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4203",
+    "description": "延石化气分原料（精制液化气）罐T-4203参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4204",
+    "description": "延石化气分原料（精制液化气）罐T-4204参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4204"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "rule_id": "TANK_2114.0",
+    "description": "延炼不合格苯罐2114.0参数：volume=500.0m3；level_max=8.6m；level_min=2.5m；diameter=8.0m；initial_level=5.55m；meter_factor=44.0t/m；density=0.875352186891127t/m3；tank_height=10.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "2114.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 500.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 8.6,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 8.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 5.55,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 44.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.875352186891127,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 10.7,
+        "unit": "m"
+      }
+    }
+  }
+]

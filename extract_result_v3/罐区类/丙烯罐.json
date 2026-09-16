@@ -1,0 +1,208 @@
+[
+  {
+    "rule_id": "TANK_T-4209",
+    "description": "延石化丙烯罐T-4209参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4210",
+    "description": "延石化丙烯罐T-4210参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4210"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_24701.0",
+    "description": "延炼丙烯罐24701.0参数：volume=1000.0m3；level_max=8.8m；level_min=1.5m；diameter=12.3m；initial_level=5.15m；tank_height=12.3m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "24701.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 1000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 8.8,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 1.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 12.3,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 5.15,
+        "unit": "m"
+      },
+      "tank_height": {
+        "value": 12.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_24702.0",
+    "description": "延炼丙烯罐24702.0参数：volume=1000.0m3；level_max=8.8m；level_min=1.5m；diameter=12.3m；initial_level=5.15m；tank_height=12.3m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "24702.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 1000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 8.8,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 1.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 12.3,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 5.15,
+        "unit": "m"
+      },
+      "tank_height": {
+        "value": 12.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_24705.0",
+    "description": "延炼丙烯罐24705.0参数：volume=1000.0m3；level_max=8.8m；level_min=1.5m；diameter=12.3m；initial_level=5.15m；tank_height=12.3m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "24705.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 1000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 8.8,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 1.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 12.3,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 5.15,
+        "unit": "m"
+      },
+      "tank_height": {
+        "value": 12.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_24706.0",
+    "description": "延炼丙烯罐24706.0参数：volume=1000.0m3；level_max=8.8m；level_min=1.5m；diameter=12.3m；initial_level=5.15m；tank_height=12.3m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "24706.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 1000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 8.8,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 1.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 12.3,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 5.15,
+        "unit": "m"
+      },
+      "tank_height": {
+        "value": 12.3,
+        "unit": "m"
+      }
+    }
+  }
+]

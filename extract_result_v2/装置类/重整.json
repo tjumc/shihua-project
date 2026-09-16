@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0",
+  "category": "装置类",
+  "subcategory": "重整",
+  "status": "ready",
+  "sample_count": 2,
+  "rules": [
+    {
+      "rule_id": "R-UNIT-REFORM-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "重整",
+      "name": "120万吨重整装置基础负荷范围",
+      "scope": {
+        "unit": [
+          "120万吨重整装置"
+        ]
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 5
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2431.2,
+          4464
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "120万吨重整装置",
+      "predicate": "feed_rate",
+      "object": {
+        "operator": "between",
+        "value": [
+          2431.2,
+          4464
+        ],
+        "unit": "t/d"
+      },
+      "description": "120万吨重整装置额定负荷为4052吨/天，最大加工负荷为4464吨/天，最大负荷系数为1.1，最小负荷系数为0.6。",
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "120万吨重整装置"
+        }
+      ],
+      "parameters": {
+        "feed_rate": {
+          "value": [
+            2431.2,
+            4464
+          ],
+          "unit": "t/d"
+        }
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-CAP-015",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "重整",
+      "name": "120万重整装置负荷边界",
+      "description": "120万重整装置初始负荷2424吨/天、额定负荷4052吨/天、最大加工负荷4464吨/天。",
+      "scope": {
+        "unit": [
+          "120万重整装置"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          2431.2,
+          4464
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "120万重整装置",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 2424,
+        "rated_load": 4052,
+        "max_load": 4464,
+        "max_load_factor": 1.1,
+        "min_load_factor": 0.6,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "120万重整装置"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 2424,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 4052,
+          "unit": null
+        },
+        "max_load": {
+          "value": 4464,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.1,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.6,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 15
+      },
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [],
+  "notes": ""
+}

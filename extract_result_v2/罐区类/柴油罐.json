@@ -1,0 +1,1566 @@
+{
+  "schema_version": "1.0",
+  "category": "罐区类",
+  "subcategory": "柴油罐",
+  "status": "ready",
+  "sample_count": 16,
+  "rules": [
+    {
+      "rule_id": "R-TANK-PARAM-029",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "6801罐容与安全液位",
+      "description": "催化柴油罐6801；罐容10000m3；安全液位2.5–15.5m；初始液位9m；液位计系数492；密度0.828342。",
+      "scope": {
+        "tank": [
+          "6801"
+        ],
+        "material": [
+          "催化柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          15.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "6801",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "催化柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 15.5,
+        "safe_lower_level": 2.5,
+        "initial_level": 9,
+        "meter_coefficient": 492,
+        "density": 0.8283422888302874
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "6801"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "催化柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "催化柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 15.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.5,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 9,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 492,
+          "unit": null
+        },
+        "density": {
+          "value": 0.8283422888302874,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 29
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-030",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "6802罐容与安全液位",
+      "description": "催化柴油罐6802；罐容10000m3；安全液位2.5–15.5m；初始液位9m；液位计系数492；密度0.828342。",
+      "scope": {
+        "tank": [
+          "6802"
+        ],
+        "material": [
+          "催化柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          15.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "6802",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "催化柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 15.5,
+        "safe_lower_level": 2.5,
+        "initial_level": 9,
+        "meter_coefficient": 492,
+        "density": 0.8283422888302874
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "6802"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "催化柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "催化柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 15.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.5,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 9,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 492,
+          "unit": null
+        },
+        "density": {
+          "value": 0.8283422888302874,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 30
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-033",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "9527罐容与安全液位",
+      "description": "常压直馏柴油罐9527；罐容10000m3；安全液位2–15.5m；初始液位8.75m；液位计系数478；密度0.776286。",
+      "scope": {
+        "tank": [
+          "9527"
+        ],
+        "material": [
+          "常压直馏柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2,
+          15.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "9527",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "常压直馏柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 15.5,
+        "safe_lower_level": 2,
+        "initial_level": 8.75,
+        "meter_coefficient": 478,
+        "density": 0.7762863549795154
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "9527"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "常压直馏柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "常压直馏柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 15.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 8.75,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 478,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7762863549795154,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 33
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-034",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "9528罐容与安全液位",
+      "description": "常压直馏柴油罐9528；罐容10000m3；安全液位2.5–9.8m；初始液位6.15m；液位计系数478；密度0.776286。",
+      "scope": {
+        "tank": [
+          "9528"
+        ],
+        "material": [
+          "常压直馏柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          9.8
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "9528",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "常压直馏柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 9.8,
+        "safe_lower_level": 2.5,
+        "initial_level": 6.15,
+        "meter_coefficient": 478,
+        "density": 0.7762863549795154
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "9528"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "常压直馏柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "常压直馏柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 9.8,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.5,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 6.15,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 478,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7762863549795154,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 34
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-054",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "801罐容与安全液位",
+      "description": "0#柴油罐801；罐容10000m3；安全液位2.15–13.4m；初始液位7.775m；液位计系数515；密度0.6901。",
+      "scope": {
+        "tank": [
+          "801"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          13.4
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "801",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 13.4,
+        "safe_lower_level": 2.15,
+        "initial_level": 7.775,
+        "meter_coefficient": 515,
+        "density": 0.6900999999999999
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "801"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 13.4,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 7.775,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 515,
+          "unit": null
+        },
+        "density": {
+          "value": 0.6900999999999999,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 54
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-055",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "802罐容与安全液位",
+      "description": "0#柴油罐802；罐容10000m3；安全液位2.15–13.4m；初始液位7.775m；液位计系数515；密度0.6901。",
+      "scope": {
+        "tank": [
+          "802"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          13.4
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "802",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 13.4,
+        "safe_lower_level": 2.15,
+        "initial_level": 7.775,
+        "meter_coefficient": 515,
+        "density": 0.6900999999999999
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "802"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 13.4,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 7.775,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 515,
+          "unit": null
+        },
+        "density": {
+          "value": 0.6900999999999999,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 55
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-056",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "803罐容与安全液位",
+      "description": "0#柴油罐803；罐容10000m3；安全液位2.15–13.4m；初始液位7.775m；液位计系数515；密度0.6901。",
+      "scope": {
+        "tank": [
+          "803"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          13.4
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "803",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 13.4,
+        "safe_lower_level": 2.15,
+        "initial_level": 7.775,
+        "meter_coefficient": 515,
+        "density": 0.6900999999999999
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "803"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 13.4,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 7.775,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 515,
+          "unit": null
+        },
+        "density": {
+          "value": 0.6900999999999999,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 56
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-057",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "804罐容与安全液位",
+      "description": "0#柴油罐804；罐容10000m3；安全液位2.15–13.4m；初始液位7.775m；液位计系数515；密度0.6901。",
+      "scope": {
+        "tank": [
+          "804"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          13.4
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "804",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 13.4,
+        "safe_lower_level": 2.15,
+        "initial_level": 7.775,
+        "meter_coefficient": 515,
+        "density": 0.6900999999999999
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "804"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 13.4,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 7.775,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 515,
+          "unit": null
+        },
+        "density": {
+          "value": 0.6900999999999999,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 57
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-058",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "810罐容与安全液位",
+      "description": "0#柴油罐810；罐容5000m3；安全液位2.15–10.2m；初始液位6.175m；液位计系数365；密度0.7446。",
+      "scope": {
+        "tank": [
+          "810"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          10.2
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "810",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 5000,
+        "unit": "m3",
+        "safe_upper_level": 10.2,
+        "safe_lower_level": 2.15,
+        "initial_level": 6.175,
+        "meter_coefficient": 365,
+        "density": 0.7445999999999998
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "810"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 5000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 10.2,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 6.175,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 365,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7445999999999998,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 58
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-059",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "811罐容与安全液位",
+      "description": "0#柴油罐811；罐容5000m3；安全液位2.15–10.2m；初始液位6.175m；液位计系数365；密度0.7446。",
+      "scope": {
+        "tank": [
+          "811"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          10.2
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "811",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 5000,
+        "unit": "m3",
+        "safe_upper_level": 10.2,
+        "safe_lower_level": 2.15,
+        "initial_level": 6.175,
+        "meter_coefficient": 365,
+        "density": 0.7445999999999998
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "811"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 5000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 10.2,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 6.175,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 365,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7445999999999998,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 59
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-060",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "812罐容与安全液位",
+      "description": "0#柴油罐812；罐容10000m3；安全液位2.15–13.4m；初始液位7.775m；液位计系数575；密度0.7705。",
+      "scope": {
+        "tank": [
+          "812"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          13.4
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "812",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 13.4,
+        "safe_lower_level": 2.15,
+        "initial_level": 7.775,
+        "meter_coefficient": 575,
+        "density": 0.7704999999999999
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "812"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 13.4,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 7.775,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 575,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7704999999999999,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 60
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-061",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "813罐容与安全液位",
+      "description": "0#柴油罐813；罐容10000m3；安全液位2.15–13.4m；初始液位7.775m；液位计系数575；密度0.7705。",
+      "scope": {
+        "tank": [
+          "813"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          13.4
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "813",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 13.4,
+        "safe_lower_level": 2.15,
+        "initial_level": 7.775,
+        "meter_coefficient": 575,
+        "density": 0.7704999999999999
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "813"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 13.4,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 7.775,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 575,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7704999999999999,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 61
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-062",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "818罐容与安全液位",
+      "description": "0#柴油罐818；罐容5000m3；安全液位2.15–12.5m；初始液位7.325m；液位计系数305；密度0.7625。",
+      "scope": {
+        "tank": [
+          "818"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          12.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "818",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 5000,
+        "unit": "m3",
+        "safe_upper_level": 12.5,
+        "safe_lower_level": 2.15,
+        "initial_level": 7.325,
+        "meter_coefficient": 305,
+        "density": 0.7624999999999997
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "818"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 5000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 12.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 7.325,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 305,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7624999999999997,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 62
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-063",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "819罐容与安全液位",
+      "description": "0#柴油罐819；罐容5000m3；安全液位2.15–12.5m；初始液位7.325m；液位计系数305；密度0.7625。",
+      "scope": {
+        "tank": [
+          "819"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          12.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "819",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 5000,
+        "unit": "m3",
+        "safe_upper_level": 12.5,
+        "safe_lower_level": 2.15,
+        "initial_level": 7.325,
+        "meter_coefficient": 305,
+        "density": 0.7624999999999997
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "819"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 5000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 12.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 7.325,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 305,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7624999999999997,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 63
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-064",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "26103罐容与安全液位",
+      "description": "0#柴油罐26103；罐容20000m3；安全液位2.15–15.5m；初始液位8.825m；液位计系数926；密度0.71765。",
+      "scope": {
+        "tank": [
+          "26103"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          15.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "26103",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 20000,
+        "unit": "m3",
+        "safe_upper_level": 15.5,
+        "safe_lower_level": 2.15,
+        "initial_level": 8.825,
+        "meter_coefficient": 926,
+        "density": 0.71765
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "26103"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 20000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 15.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 8.825,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 926,
+          "unit": null
+        },
+        "density": {
+          "value": 0.71765,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 64
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-065",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "柴油罐",
+      "name": "26104罐容与安全液位",
+      "description": "0#柴油罐26104；罐容20000m3；安全液位2.15–15.5m；初始液位8.825m；液位计系数926；密度0.71765。",
+      "scope": {
+        "tank": [
+          "26104"
+        ],
+        "material": [
+          "0#柴油"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.15,
+          15.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "26104",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "0#柴油",
+        "volume": 20000,
+        "unit": "m3",
+        "safe_upper_level": 15.5,
+        "safe_lower_level": 2.15,
+        "initial_level": 8.825,
+        "meter_coefficient": 926,
+        "density": 0.71765
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "26104"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "0#柴油"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "0#柴油",
+          "unit": null
+        },
+        "volume": {
+          "value": 20000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 15.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.15,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 8.825,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 926,
+          "unit": null
+        },
+        "density": {
+          "value": 0.71765,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 65
+      },
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [
+    "source-materials/20260727调研资料",
+    "docs/规则数26-V3.docx"
+  ],
+  "notes": ""
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "rule_id": "TANK_9515.0",
+    "description": "延炼二甲苯罐9515.0参数：volume=1000.0m3；level_max=7.6m；level_min=2.5m；diameter=12.943396734328486m；initial_level=5.05m；meter_factor=232.5t/m；density=1.7669999999999995t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9515.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 1000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 7.6,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 12.943396734328486,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 5.05,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 232.5,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 1.7669999999999995,
+        "unit": "t/m3"
+      }
+    }
+  }
+]

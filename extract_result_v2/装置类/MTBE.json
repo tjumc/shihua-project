@@ -1,0 +1,777 @@
+{
+  "schema_version": "1.0",
+  "category": "装置类",
+  "subcategory": "MTBE",
+  "status": "ready",
+  "sample_count": 11,
+  "rules": [
+    {
+      "rule_id": "R-UNIT-MTBE-001",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "MTBE装置设计规模",
+      "scope": {
+        "unit": [
+          "12万吨/年MTBE装置"
+        ]
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/5、主生产装置操作规程/主装置操作规程/2.联合二车间/12万吨年MTBE装置操作规程/pdf/12万吨年MTBE操作规程-内文.pdf",
+        "page": 5
+      },
+      "record_type": "parameter",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "12万吨/年MTBE装置",
+      "predicate": "annual_operation_hours",
+      "object": {
+        "value": 8000,
+        "unit": "h/a"
+      },
+      "description": "12万吨/年MTBE装置设计年操作时间为8000小时。",
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "12万吨/年MTBE装置"
+        }
+      ],
+      "parameters": {
+        "annual_operation_hours": {
+          "value": 8000,
+          "unit": "h/a"
+        }
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-CAP-008",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "MTBE装置负荷边界",
+      "description": "MTBE装置初始负荷115吨/天、额定负荷164吨/天、最大加工负荷173吨/天。",
+      "scope": {
+        "unit": [
+          "MTBE装置"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          114.8,
+          173
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "MTBE装置",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 115,
+        "rated_load": 164,
+        "max_load": 173,
+        "max_load_factor": 1.05,
+        "min_load_factor": 0.7,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "MTBE装置"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 115,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 164,
+          "unit": null
+        },
+        "max_load": {
+          "value": 173,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.05,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.7,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 8
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-CAP-020",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "12万MTBE装置负荷边界",
+      "description": "12万MTBE装置初始负荷672吨/天、额定负荷1031吨/天、最大加工负荷1080吨/天。",
+      "scope": {
+        "unit": [
+          "12万MTBE装置"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          670.15,
+          1080
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "12万MTBE装置",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 672,
+        "rated_load": 1031,
+        "max_load": 1080,
+        "max_load_factor": 1.05,
+        "min_load_factor": 0.65,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "12万MTBE装置"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 672,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 1031,
+          "unit": null
+        },
+        "max_load": {
+          "value": 1080,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.05,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.65,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 20
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-CAP-028",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "25万MTBE装置负荷边界",
+      "description": "25万MTBE装置初始负荷552吨/天、额定负荷917吨/天、最大加工负荷1008吨/天。",
+      "scope": {
+        "unit": [
+          "25万MTBE装置"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "feed_rate",
+        "operator": "between",
+        "value": [
+          550.2,
+          1008
+        ],
+        "unit": "t/d"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "25万MTBE装置",
+      "predicate": "feed_rate",
+      "object": {
+        "initial_load": 552,
+        "rated_load": 917,
+        "max_load": 1008,
+        "max_load_factor": 1.1,
+        "min_load_factor": 0.6,
+        "unit": "t/d"
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "25万MTBE装置"
+        }
+      ],
+      "parameters": {
+        "initial_load": {
+          "value": 552,
+          "unit": null
+        },
+        "rated_load": {
+          "value": 917,
+          "unit": null
+        },
+        "max_load": {
+          "value": 1008,
+          "unit": null
+        },
+        "max_load_factor": {
+          "value": 1.1,
+          "unit": null
+        },
+        "min_load_factor": {
+          "value": 0.6,
+          "unit": null
+        },
+        "unit": {
+          "value": "t/d",
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "二次加工装置基础数据",
+        "row": 28
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00384",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "延炼6万吨/年MTBE装置-SN-101（C4原料）点位性质",
+      "description": "延炼6万吨/年MTBE装置的SN-101（C4原料）点位包含8项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼6万吨/年MTBE装置"
+        ],
+        "material": [
+          "SN-101（C4原料）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SN-101（C4原料）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010009",
+        "sample_name": "SN-101（C4原料）",
+        "device_name": "延炼6万吨/年MTBE装置",
+        "indicators": {
+          "丙烯": 0.0456908344733242,
+          "丙烷": 0.0600136798905608,
+          "反丁烯": 12.1189876880984,
+          "异丁烯": 13.3961285909712,
+          "异丁烷": 44.4430095759233,
+          "正丁烯": 11.5078112175102,
+          "正丁烷+顺丁烯": 18.4292065663474,
+          "碳五": 0.000519835841313269
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼6万吨/年MTBE装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SN-101（C4原料）"
+        }
+      ],
+      "parameters": {
+        "丙烯": {
+          "value": 0.0456908344733242,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 0.0600136798905608,
+          "unit": null
+        },
+        "反丁烯": {
+          "value": 12.1189876880984,
+          "unit": null
+        },
+        "异丁烯": {
+          "value": 13.3961285909712,
+          "unit": null
+        },
+        "异丁烷": {
+          "value": 44.4430095759233,
+          "unit": null
+        },
+        "正丁烯": {
+          "value": 11.5078112175102,
+          "unit": null
+        },
+        "正丁烷+顺丁烯": {
+          "value": 18.4292065663474,
+          "unit": null
+        },
+        "碳五": {
+          "value": 0.000519835841313269,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "6万吨年MTBE装置",
+        "row": 2
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00385",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "延炼6万吨/年MTBE装置-C-101顶（剩余C4）点位性质",
+      "description": "延炼6万吨/年MTBE装置的C-101顶（剩余C4）点位包含11项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼6万吨/年MTBE装置"
+        ],
+        "material": [
+          "C-101顶（剩余C4）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-101顶（剩余C4）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010010",
+        "sample_name": "C-101顶（剩余C4）",
+        "device_name": "延炼6万吨/年MTBE装置",
+        "indicators": {
+          "MTBE": 7.39560439560439,
+          "丙烯": 0.0422739726027397,
+          "丙烷": 0.0804657534246575,
+          "二甲醚": 490.504109589041,
+          "反丁烯": 11.2655890410958,
+          "异丁烯": 0.106602739726027,
+          "异丁烷": 57.5558356164383,
+          "正丁烯": 11.8864383561643,
+          "正丁烷+顺丁烯": 18.5428767123287,
+          "甲醇": 0.518958904109589,
+          "碳五": 0.000958904109589041
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼6万吨/年MTBE装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-101顶（剩余C4）"
+        }
+      ],
+      "parameters": {
+        "MTBE": {
+          "value": 7.39560439560439,
+          "unit": null
+        },
+        "丙烯": {
+          "value": 0.0422739726027397,
+          "unit": null
+        },
+        "丙烷": {
+          "value": 0.0804657534246575,
+          "unit": null
+        },
+        "二甲醚": {
+          "value": 490.504109589041,
+          "unit": null
+        },
+        "反丁烯": {
+          "value": 11.2655890410958,
+          "unit": null
+        },
+        "异丁烯": {
+          "value": 0.106602739726027,
+          "unit": null
+        },
+        "异丁烷": {
+          "value": 57.5558356164383,
+          "unit": null
+        },
+        "正丁烯": {
+          "value": 11.8864383561643,
+          "unit": null
+        },
+        "正丁烷+顺丁烯": {
+          "value": 18.5428767123287,
+          "unit": null
+        },
+        "甲醇": {
+          "value": 0.518958904109589,
+          "unit": null
+        },
+        "碳五": {
+          "value": 0.000958904109589041,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "6万吨年MTBE装置",
+        "row": 3
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00386",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "延炼6万吨/年MTBE装置-C-102顶（未反C4）点位性质",
+      "description": "延炼6万吨/年MTBE装置的C-102顶（未反C4）点位包含2项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼6万吨/年MTBE装置"
+        ],
+        "material": [
+          "C-102顶（未反C4）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-102顶（未反C4）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010012",
+        "sample_name": "C-102顶（未反C4）",
+        "device_name": "延炼6万吨/年MTBE装置",
+        "indicators": {
+          "MTBE": 6.92307692307692,
+          "二甲醚": 377.40934065934
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼6万吨/年MTBE装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-102顶（未反C4）"
+        }
+      ],
+      "parameters": {
+        "MTBE": {
+          "value": 6.92307692307692,
+          "unit": null
+        },
+        "二甲醚": {
+          "value": 377.40934065934,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "6万吨年MTBE装置",
+        "row": 4
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00387",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "延炼6万吨/年MTBE装置-SN-102（甲醇原料）点位性质",
+      "description": "延炼6万吨/年MTBE装置的SN-102（甲醇原料）点位包含2项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼6万吨/年MTBE装置"
+        ],
+        "material": [
+          "SN-102（甲醇原料）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "SN-102（甲醇原料）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010015",
+        "sample_name": "SN-102（甲醇原料）",
+        "device_name": "延炼6万吨/年MTBE装置",
+        "indicators": {
+          "水": 0.0537735849056603,
+          "甲醇": 99.9462264150943
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼6万吨/年MTBE装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "SN-102（甲醇原料）"
+        }
+      ],
+      "parameters": {
+        "水": {
+          "value": 0.0537735849056603,
+          "unit": null
+        },
+        "甲醇": {
+          "value": 99.9462264150943,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "6万吨年MTBE装置",
+        "row": 5
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00388",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "延炼6万吨/年MTBE装置-C-102底（甲醇水溶液）点位性质",
+      "description": "延炼6万吨/年MTBE装置的C-102底（甲醇水溶液）点位包含2项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼6万吨/年MTBE装置"
+        ],
+        "material": [
+          "C-102底（甲醇水溶液）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-102底（甲醇水溶液）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010016",
+        "sample_name": "C-102底（甲醇水溶液）",
+        "device_name": "延炼6万吨/年MTBE装置",
+        "indicators": {
+          "水": 54.0136538461538,
+          "甲醇": 45.9863461538461
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼6万吨/年MTBE装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-102底（甲醇水溶液）"
+        }
+      ],
+      "parameters": {
+        "水": {
+          "value": 54.0136538461538,
+          "unit": null
+        },
+        "甲醇": {
+          "value": 45.9863461538461,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "6万吨年MTBE装置",
+        "row": 6
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00389",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "延炼6万吨/年MTBE装置-C-103顶（循环甲醇）点位性质",
+      "description": "延炼6万吨/年MTBE装置的C-103顶（循环甲醇）点位包含2项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼6万吨/年MTBE装置"
+        ],
+        "material": [
+          "C-103顶（循环甲醇）"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "C-103顶（循环甲醇）",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010017",
+        "sample_name": "C-103顶（循环甲醇）",
+        "device_name": "延炼6万吨/年MTBE装置",
+        "indicators": {
+          "水": 0.0665479452054794,
+          "甲醇": 99.9334520547945
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼6万吨/年MTBE装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "C-103顶（循环甲醇）"
+        }
+      ],
+      "parameters": {
+        "水": {
+          "value": 0.0665479452054794,
+          "unit": null
+        },
+        "甲醇": {
+          "value": 99.9334520547945,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "6万吨年MTBE装置",
+        "row": 7
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-UNIT-POINT-00390",
+      "type": "process_specification",
+      "category": "装置类",
+      "subcategory": "MTBE",
+      "name": "延炼6万吨/年MTBE装置-化工混合废水点位性质",
+      "description": "延炼6万吨/年MTBE装置的化工混合废水点位包含2项数值性质指标。",
+      "scope": {
+        "unit": [
+          "延炼6万吨/年MTBE装置"
+        ],
+        "material": [
+          "化工混合废水"
+        ]
+      },
+      "record_type": "fact",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "化工混合废水",
+      "predicate": "measured_properties",
+      "object": {
+        "sample_dot_code": "ST010019",
+        "sample_name": "化工混合废水",
+        "device_name": "延炼6万吨/年MTBE装置",
+        "indicators": {
+          "氨氮": 12.8226829268292,
+          "硫化物": 1.32333333333333
+        }
+      },
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "延炼6万吨/年MTBE装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "化工混合废水"
+        }
+      ],
+      "parameters": {
+        "氨氮": {
+          "value": 12.8226829268292,
+          "unit": null
+        },
+        "硫化物": {
+          "value": 1.32333333333333,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼装置点位性质全数据_0723.xlsx",
+        "sheet": "6万吨年MTBE装置",
+        "row": 8
+      },
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [],
+  "notes": ""
+}

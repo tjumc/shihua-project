@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "category": "原油类",
+  "subcategory": "原油罐物料平衡",
+  "status": "ready",
+  "sample_count": 1,
+  "rules": [
+    {
+      "rule_id": "R-CRUDE-TANK-BALANCE-001",
+      "type": "process_specification",
+      "category": "原油类",
+      "subcategory": "原油罐物料平衡",
+      "name": "原油罐初始库存记录",
+      "scope": {
+        "tank": [
+          "6101"
+        ]
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼/2、油罐数据动态/延炼油品动态-20260107.xlsx",
+        "sheet": "油品动态",
+        "row": 4
+      },
+      "record_type": "parameter",
+      "when": null,
+      "then": null,
+      "mapping": [],
+      "subject": "6101",
+      "predicate": "inventory",
+      "object": {
+        "value": 1897.4,
+        "unit": "t",
+        "as_of": "2026-01-07"
+      },
+      "description": "6101号原油罐在调度日的油量为1897.4吨。",
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "6101"
+        }
+      ],
+      "parameters": {
+        "inventory": {
+          "value": 1897.4,
+          "unit": "t"
+        }
+      },
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [],
+  "notes": ""
+}

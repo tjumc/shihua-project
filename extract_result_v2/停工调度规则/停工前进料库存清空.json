@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "category": "停工调度规则",
+  "subcategory": "停工前进料库存清空",
+  "status": "ready",
+  "sample_count": 1,
+  "rules": [
+    {
+      "rule_id": "R-SHUTDOWN-INVENTORY-001",
+      "type": "operation_procedure",
+      "category": "停工调度规则",
+      "subcategory": "停工前进料库存清空",
+      "name": "聚丙烯停工前清空反应器相关物料",
+      "scope": {
+        "unit": [
+          "聚丙烯装置"
+        ],
+        "tank": [
+          "D301",
+          "F301"
+        ]
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）/2026年联合二车间开停工方案/联合二车间聚丙烯装置开停工、吹扫方案.docx",
+        "paragraph": 0
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        },
+        {
+          "target": "MILP",
+          "type": "hard_constraint"
+        }
+      ],
+      "subject": "D301/F301",
+      "predicate": "inventory_before_shutdown",
+      "object": {
+        "operator": "empty_when",
+        "variable": "reactor_density",
+        "value": 470,
+        "unit": "kg/m3"
+      },
+      "description": "聚丙烯装置停工时，反应器密度达到470千克/立方米后切换相关控制回路至手动并清空D301/F301。",
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "聚丙烯装置"
+        },
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "D301"
+        },
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "F301"
+        }
+      ],
+      "parameters": {
+        "inventory_before_shutdown": {
+          "value": 470,
+          "unit": "kg/m3"
+        }
+      },
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [],
+  "notes": ""
+}

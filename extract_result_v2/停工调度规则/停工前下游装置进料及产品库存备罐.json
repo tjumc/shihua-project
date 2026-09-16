@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "category": "停工调度规则",
+  "subcategory": "停工前下游装置进料及产品库存备罐",
+  "status": "ready",
+  "sample_count": 1,
+  "rules": [
+    {
+      "rule_id": "R-SHUTDOWN-DOWNSTREAM-001",
+      "type": "operation_procedure",
+      "category": "停工调度规则",
+      "subcategory": "停工前下游装置进料及产品库存备罐",
+      "name": "停工前协调上下游物流和不合格品回收",
+      "scope": {
+        "unit": [
+          "MTBE装置"
+        ],
+        "material": [
+          "甲醇",
+          "不合格产品"
+        ]
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延石化/6、装置停工方案/2026年石化厂各装置检修开停工方案（修改后终版）/2026年联合二车间开停工方案/联合二车间MTBE装置开停工、吹扫方案.docx",
+        "paragraph": 0
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": null,
+      "mapping": [
+        {
+          "target": "RL",
+          "type": "action_mask"
+        }
+      ],
+      "subject": "MTBE装置",
+      "predicate": "upstream_downstream_coordination",
+      "object": {
+        "action": "adjust_flow_and_recover_material"
+      },
+      "description": "MTBE停工前联系调度，并通知上下游装置调整流程，回收甲醇及不合格产品。",
+      "sets": [
+        {
+          "set_name": "unit",
+          "subset_name": null,
+          "element": "MTBE装置"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "甲醇"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "不合格产品"
+        }
+      ],
+      "parameters": {},
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [],
+  "notes": ""
+}

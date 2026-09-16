@@ -1,0 +1,691 @@
+[
+  {
+    "rule_id": "ASSAY_WN1",
+    "description": "初常顶油质量收率：yield_YCO=1.92%；yield_RCO=3.52%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "WN1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 1.92,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 3.52,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_NK1",
+    "description": "石脑油(重整原料)质量收率：yield_YCO=9.48%；yield_RCO=14.43%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "NK1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 9.48,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 14.43,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_KE1",
+    "description": "常一线(喷气燃料)质量收率：yield_YCO=9.48%；yield_RCO=10.83%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "KE1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 9.48,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 10.83,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_LD1",
+    "description": "常二线(柴油)质量收率：yield_YCO=22.13%；yield_RCO=21.79%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "LD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 22.13,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 21.79,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_HD1",
+    "description": "常三线(VGO)质量收率：yield_YCO=29.85%；yield_RCO=28.55%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "HD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 29.85,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 28.55,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_VR1",
+    "description": "减压渣油质量收率：yield_YCO=23.69%；yield_RCO=19.87%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "VR1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 23.69,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 19.87,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_WN1",
+    "description": "初常顶油质量收率：yield_YCO=0.645%；yield_RCO=0.6494%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "WN1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.645,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.6494,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_NK1",
+    "description": "石脑油(重整原料)质量收率：yield_YCO=0.7352%；yield_RCO=0.7365%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "NK1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.7352,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.7365,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_KE1",
+    "description": "常一线(喷气燃料)质量收率：yield_YCO=0.7906%；yield_RCO=0.7971%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "KE1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.7906,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.7971,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_LD1",
+    "description": "常二线(柴油)质量收率：yield_YCO=0.8281%；yield_RCO=0.8474%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "LD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.8281,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.8474,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_HD1",
+    "description": "常三线(VGO)质量收率：yield_YCO=0.8721%；yield_RCO=0.902%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "HD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.8721,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.902,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_VR1",
+    "description": "减压渣油质量收率：yield_YCO=0.9324%；yield_RCO=0.9838%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "VR1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.9324,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.9838,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_WN1",
+    "description": "初常顶油质量收率：yield_YCO=0.00497%；yield_RCO=0.00197%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "WN1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.00497,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.00197,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_NK1",
+    "description": "石脑油(重整原料)质量收率：yield_YCO=0.00958%；yield_RCO=0.00297%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "NK1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.00958,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.00297,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_KE1",
+    "description": "常一线(喷气燃料)质量收率：yield_YCO=0.0126%；yield_RCO=0.00845%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "KE1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.0126,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.00845,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_LD1",
+    "description": "常二线(柴油)质量收率：yield_YCO=0.0453%；yield_RCO=0.38%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "LD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.0453,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.38,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_HD1",
+    "description": "常三线(VGO)质量收率：yield_YCO=0.08%；yield_RCO=0.64%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "HD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.08,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 0.64,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_VR1",
+    "description": "减压渣油质量收率：yield_YCO=0.16%；yield_RCO=1.14%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "VR1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.16,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 1.14,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_VR1",
+    "description": "减压渣油质量收率：yield_YCO=7.82%；yield_RCO=13.33%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "VR1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 7.82,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 13.33,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_WN1",
+    "description": "初常顶油质量收率：yield_YCO=72.3%；yield_RCO=64.8%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "WN1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 72.3,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 64.8,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_KE1",
+    "description": "常一线(喷气燃料)质量收率：yield_YCO=44.6%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "KE1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 44.6,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_LD1",
+    "description": "常二线(柴油)质量收率：yield_YCO=60.9%；yield_RCO=58.0%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "LD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 60.9,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 58.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_WN1",
+    "description": "初常顶油质量收率：yield_YCO=0.42%；yield_RCO=1.0%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "WN1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 0.42,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 1.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_NK1",
+    "description": "石脑油(重整原料)质量收率：yield_YCO=6.92%；yield_RCO=7.86%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "NK1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 6.92,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 7.86,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_KE1",
+    "description": "常一线(喷气燃料)质量收率：yield_YCO=11.1%；yield_RCO=14.6%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "KE1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 11.1,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 14.6,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_LD1",
+    "description": "常二线(柴油)质量收率：yield_YCO=11.9%；yield_RCO=26.5%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "LD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 11.9,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 26.5,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_HD1",
+    "description": "常三线(VGO)质量收率：yield_YCO=18.3%；yield_RCO=41.5%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "HD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 18.3,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 41.5,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_WN1",
+    "description": "初常顶油质量收率：yield_YCO=65.0%；yield_RCO=65.0%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "WN1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 65.0,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 65.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_NK1",
+    "description": "石脑油(重整原料)质量收率：yield_YCO=145.0%；yield_RCO=175.0%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "NK1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 145.0,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 175.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_KE1",
+    "description": "常一线(喷气燃料)质量收率：yield_YCO=230.0%；yield_RCO=240.0%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "KE1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 230.0,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 240.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_LD1",
+    "description": "常二线(柴油)质量收率：yield_YCO=350.0%；yield_RCO=360.0%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "LD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 350.0,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 360.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_HD1",
+    "description": "常三线(VGO)质量收率：yield_YCO=500.0%；yield_RCO=540.0%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "HD1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 500.0,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 540.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "ASSAY_VR1",
+    "description": "减压渣油质量收率：yield_YCO=999.0%；yield_RCO=999.0%。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": "Qcrude",
+        "element": "VR1"
+      }
+    ],
+    "parameters": {
+      "yield_YCO": {
+        "value": 999.0,
+        "unit": "%"
+      },
+      "yield_RCO": {
+        "value": 999.0,
+        "unit": "%"
+      }
+    }
+  }
+]

@@ -1,0 +1,499 @@
+{
+  "schema_version": "1.0",
+  "category": "罐区类",
+  "subcategory": "煤油罐",
+  "status": "ready",
+  "sample_count": 5,
+  "rules": [
+    {
+      "rule_id": "R-TANK-PARAM-038",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "煤油罐",
+      "name": "9525罐容与安全液位",
+      "description": "航煤原料罐9525；罐容10000m3；安全液位2.5–14.9m；初始液位8.7m；液位计系数468；密度0.760046。",
+      "scope": {
+        "tank": [
+          "9525"
+        ],
+        "material": [
+          "航煤原料"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          14.9
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "9525",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "航煤原料",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 14.9,
+        "safe_lower_level": 2.5,
+        "initial_level": 8.7,
+        "meter_coefficient": 468,
+        "density": 0.7600460546661364
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "9525"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "航煤原料"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "航煤原料",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 14.9,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.5,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 8.7,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 468,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7600460546661364,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 38
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-039",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "煤油罐",
+      "name": "9526罐容与安全液位",
+      "description": "航煤原料罐9526；罐容10000m3；安全液位2.5–14.9m；初始液位8.7m；液位计系数468；密度0.760046。",
+      "scope": {
+        "tank": [
+          "9526"
+        ],
+        "material": [
+          "航煤原料"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          14.9
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "9526",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "航煤原料",
+        "volume": 10000,
+        "unit": "m3",
+        "safe_upper_level": 14.9,
+        "safe_lower_level": 2.5,
+        "initial_level": 8.7,
+        "meter_coefficient": 468,
+        "density": 0.7600460546661364
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "9526"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "航煤原料"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "航煤原料",
+          "unit": null
+        },
+        "volume": {
+          "value": 10000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 14.9,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.5,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 8.7,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 468,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7600460546661364,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 39
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-066",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "煤油罐",
+      "name": "26105罐容与安全液位",
+      "description": "3#喷气燃料罐26105；罐容20000m3；安全液位2.5–15.5m；初始液位9m；液位计系数892；密度0.786516。",
+      "scope": {
+        "tank": [
+          "26105"
+        ],
+        "material": [
+          "3#喷气燃料"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          15.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "26105",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "3#喷气燃料",
+        "volume": 20000,
+        "unit": "m3",
+        "safe_upper_level": 15.5,
+        "safe_lower_level": 2.5,
+        "initial_level": 9,
+        "meter_coefficient": 892,
+        "density": 0.7865163945674997
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "26105"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "3#喷气燃料"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "3#喷气燃料",
+          "unit": null
+        },
+        "volume": {
+          "value": 20000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 15.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.5,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 9,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 892,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7865163945674997,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 66
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-067",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "煤油罐",
+      "name": "26106罐容与安全液位",
+      "description": "3#喷气燃料罐26106；罐容20000m3；安全液位2.5–15.5m；初始液位9m；液位计系数892；密度0.786516。",
+      "scope": {
+        "tank": [
+          "26106"
+        ],
+        "material": [
+          "3#喷气燃料"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          15.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "26106",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "3#喷气燃料",
+        "volume": 20000,
+        "unit": "m3",
+        "safe_upper_level": 15.5,
+        "safe_lower_level": 2.5,
+        "initial_level": 9,
+        "meter_coefficient": 892,
+        "density": 0.7865163945674997
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "26106"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "3#喷气燃料"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "3#喷气燃料",
+          "unit": null
+        },
+        "volume": {
+          "value": 20000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 15.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.5,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 9,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 892,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7865163945674997,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 67
+      },
+      "review_status": "draft"
+    },
+    {
+      "rule_id": "R-TANK-PARAM-068",
+      "type": "process_specification",
+      "category": "罐区类",
+      "subcategory": "煤油罐",
+      "name": "26107罐容与安全液位",
+      "description": "3#喷气燃料罐26107；罐容20000m3；安全液位2.5–15.5m；初始液位9m；液位计系数892；密度0.786516。",
+      "scope": {
+        "tank": [
+          "26107"
+        ],
+        "material": [
+          "3#喷气燃料"
+        ]
+      },
+      "record_type": "rule",
+      "when": null,
+      "then": {
+        "variable": "liquid_level",
+        "operator": "between",
+        "value": [
+          2.5,
+          15.5
+        ],
+        "unit": "m"
+      },
+      "mapping": [
+        {
+          "target": "MILP",
+          "type": "variable_bound"
+        }
+      ],
+      "subject": "26107",
+      "predicate": "tank_capacity_and_level",
+      "object": {
+        "material": "3#喷气燃料",
+        "volume": 20000,
+        "unit": "m3",
+        "safe_upper_level": 15.5,
+        "safe_lower_level": 2.5,
+        "initial_level": 9,
+        "meter_coefficient": 892,
+        "density": 0.7865163945674997
+      },
+      "sets": [
+        {
+          "set_name": "tank",
+          "subset_name": null,
+          "element": "26107"
+        },
+        {
+          "set_name": "material",
+          "subset_name": null,
+          "element": "3#喷气燃料"
+        }
+      ],
+      "parameters": {
+        "material": {
+          "value": "3#喷气燃料",
+          "unit": null
+        },
+        "volume": {
+          "value": 20000,
+          "unit": null
+        },
+        "unit": {
+          "value": "m3",
+          "unit": null
+        },
+        "safe_upper_level": {
+          "value": 15.5,
+          "unit": null
+        },
+        "safe_lower_level": {
+          "value": 2.5,
+          "unit": null
+        },
+        "initial_level": {
+          "value": 9,
+          "unit": null
+        },
+        "meter_coefficient": {
+          "value": 892,
+          "unit": null
+        },
+        "density": {
+          "value": 0.7865163945674997,
+          "unit": null
+        }
+      },
+      "source": {
+        "document": "source-materials/20260727调研资料/延炼延石化_储罐与装置侧线与原油_数据自整理_0724.xlsx",
+        "sheet": "储罐数据",
+        "row": 68
+      },
+      "review_status": "draft"
+    }
+  ],
+  "source_candidates": [
+    "source-materials/20260727调研资料",
+    "docs/规则数26-V3.docx"
+  ],
+  "notes": ""
+}

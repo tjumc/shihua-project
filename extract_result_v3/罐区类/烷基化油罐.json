@@ -1,0 +1,147 @@
+[
+  {
+    "rule_id": "TANK_T-41001",
+    "description": "延石化烷基化油罐T-41001参数：volume=4000.0m3；level_max=15.5m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-41001"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 4000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-41002",
+    "description": "延石化烷基化油罐T-41002参数：volume=4000.0m3；level_max=15.5m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-41002"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 4000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-41008",
+    "description": "延石化烷基化油罐T-41008参数：volume=2000.0m3；level_max=13.5m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-41008"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 13.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9529.0",
+    "description": "延炼烷基化油罐9529.0参数：volume=5000.0m3；level_max=13.0m；level_min=2.5m；diameter=22.129336120676765m；initial_level=7.75m；meter_factor=218.0t/m；density=0.5667999999999999t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9529.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 13.0,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 22.129336120676765,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.75,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 218.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.5667999999999999,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9530.0",
+    "description": "延炼烷基化油罐9530.0参数：volume=5000.0m3；level_max=13.0m；level_min=2.5m；diameter=22.129336120676765m；initial_level=7.75m；meter_factor=218.0t/m；density=0.5667999999999999t/m3。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9530.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 13.0,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 22.129336120676765,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.75,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 218.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.5667999999999999,
+        "unit": "t/m3"
+      }
+    }
+  }
+]

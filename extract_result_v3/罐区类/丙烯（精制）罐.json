@@ -1,0 +1,118 @@
+[
+  {
+    "rule_id": "TANK_T-4205",
+    "description": "延石化丙烯（精制）罐T-4205参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4205"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4206",
+    "description": "延石化丙烯（精制）罐T-4206参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4206"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4207",
+    "description": "延石化丙烯（精制）罐T-4207参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4208",
+    "description": "延石化丙烯（精制）罐T-4208参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4208"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  }
+]

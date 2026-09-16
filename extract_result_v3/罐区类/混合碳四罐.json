@@ -1,0 +1,89 @@
+[
+  {
+    "rule_id": "TANK_T-4301",
+    "description": "延石化混合碳四罐T-4301参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4301"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4302",
+    "description": "延石化混合碳四罐T-4302参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4302"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4303",
+    "description": "延石化混合碳四罐T-4303参数：volume=2000.0m3；level_max=9.85m；level_min=2.15m；diameter=15.7m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4303"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 2000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 9.85,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.15,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.7,
+        "unit": "m"
+      }
+    }
+  }
+]

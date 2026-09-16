@@ -1,0 +1,179 @@
+[
+  {
+    "rule_id": "TANK_T-4901",
+    "description": "延石化催化汽油罐T-4901参数：volume=3000.0m3；level_max=16.03m；level_min=2.5m；diameter=15.436503135496658m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4901"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 3000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 16.03,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.436503135496658,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4902",
+    "description": "延石化催化汽油罐T-4902参数：volume=3000.0m3；level_max=16.03m；level_min=2.5m；diameter=15.436503135496658m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4902"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 3000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 16.03,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.436503135496658,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_T-4903",
+    "description": "延石化催化汽油罐T-4903参数：volume=3000.0m3；level_max=16.03m；level_min=2.5m；diameter=15.436503135496658m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "T-4903"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 3000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 16.03,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 15.436503135496658,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9512.0",
+    "description": "延炼催化汽油罐9512.0参数：volume=5000.0m3；level_max=12.8m；level_min=2.5m；diameter=20.0m；initial_level=7.65m；meter_factor=232.5t/m；density=0.7400704852806802t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9512.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 12.8,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 20.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.65,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 232.5,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.7400704852806802,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_9513.0",
+    "description": "延炼催化汽油罐9513.0参数：volume=5000.0m3；level_max=12.8m；level_min=2.5m；diameter=20.0m；initial_level=7.65m；meter_factor=223.0t/m；density=0.7098310460971685t/m3；tank_height=17.82m。",
+    "sets": [
+      {
+        "set_name": "X",
+        "subset_name": null,
+        "element": "9513.0"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000.0,
+        "unit": "m3"
+      },
+      "level_max": {
+        "value": 12.8,
+        "unit": "m"
+      },
+      "level_min": {
+        "value": 2.5,
+        "unit": "m"
+      },
+      "diameter": {
+        "value": 20.0,
+        "unit": "m"
+      },
+      "initial_level": {
+        "value": 7.65,
+        "unit": "m"
+      },
+      "meter_factor": {
+        "value": 223.0,
+        "unit": "t/m"
+      },
+      "density": {
+        "value": 0.7098310460971685,
+        "unit": "t/m3"
+      },
+      "tank_height": {
+        "value": 17.82,
+        "unit": "m"
+      }
+    }
+  }
+]
