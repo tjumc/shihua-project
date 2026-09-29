@@ -1,0 +1,189 @@
+[
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_RECYCLE_SPG",
+    "description": "200万催化装置的200_回炼油_去延能化侧线比重为0.95。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_回炼油_去延能化.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.95,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_GASOLINE_SPG",
+    "description": "200万催化装置的200_催化汽油侧线比重为0.7148。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7148,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_GASOLINE_RON",
+    "description": "200万催化装置的200_催化汽油侧线辛烷值为89.3。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油.RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 89.3,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_GASOLINE_OLV",
+    "description": "200万催化装置的200_催化汽油侧线烯烃为33.4。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化汽油.OLV"
+      }
+    ],
+    "parameters": {
+      "sidecut_olv": {
+        "value": 33.4,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_DIESEL_SPG",
+    "description": "200万催化装置的200_催化柴油侧线比重为0.845。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_催化柴油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.845,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_SLURRY_SPG",
+    "description": "200万催化装置的200_油浆_直售侧线比重为1.058。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "200万催化装置.200_油浆_直售.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 1.058,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_RECYCLE_SPG",
+    "description": "100万催化装置的100_回炼油_去延能化侧线比重为0.984。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_回炼油_去延能化.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.984,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_GASOLINE_SPG",
+    "description": "100万催化装置的100_催化汽油侧线比重为0.725。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_催化汽油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.725,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_GASOLINE_RON",
+    "description": "100万催化装置的100_催化汽油侧线辛烷值为80.9。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_催化汽油.RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 80.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_DIESEL_SPG",
+    "description": "100万催化装置的100_催化柴油侧线比重为0.856。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_催化柴油.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.856,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_SLURRY_SPG",
+    "description": "100万催化装置的100_油浆_直售侧线比重为0.945。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "100万催化装置.100_油浆_直售.SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.945,
+        "unit": null
+      }
+    }
+  }
+]

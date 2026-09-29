@@ -1,0 +1,342 @@
+[
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_NK1_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线质量收率为9.48%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 9.48,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_NK1_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线质量收率为14.43%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.NK1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 14.43,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_KE1_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线质量收率为9.48%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 9.48,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_KE1_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线质量收率为10.83%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.KE1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 10.83,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_LD1_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线质量收率为22.13%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 22.13,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_LD1_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线质量收率为21.79%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.LD1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 21.79,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_HD1_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线质量收率为29.85%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 29.85,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_HD1_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线质量收率为28.55%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.HD1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 28.55,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_VR1_YCO",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线质量收率为23.69%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 23.69,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_VR1_RCO",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线质量收率为19.87%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "300万吨年常压装置.VR1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 19.87,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_NK1_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线质量收率为9.48%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 9.48,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_NK1_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线质量收率为14.43%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.NK1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 14.43,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_KE1_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线质量收率为9.48%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 9.48,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_KE1_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线质量收率为10.83%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.KE1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 10.83,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_LD1_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线质量收率为22.13%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 22.13,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_LD1_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线质量收率为21.79%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.LD1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 21.79,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_HD1_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线质量收率为29.85%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 29.85,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_HD1_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线质量收率为28.55%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.HD1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 28.55,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_VR1_YCO",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线质量收率为23.69%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 23.69,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_VR1_RCO",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线质量收率为19.87%。",
+    "sets": [
+      {
+        "set_name": "CDUko",
+        "subset_name": null,
+        "element": "260万吨年常压装置.VR1.RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 19.87,
+        "unit": "%"
+      }
+    }
+  }
+]

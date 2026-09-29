@@ -1,0 +1,1022 @@
+[
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6101",
+    "description": "6101原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6101",
+    "description": "6101原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6101",
+    "description": "6101原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6101",
+    "description": "6101原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6101",
+    "description": "6101原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6102",
+    "description": "6102原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6102",
+    "description": "6102原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6102",
+    "description": "6102原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6102",
+    "description": "6102原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6102",
+    "description": "6102原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6105",
+    "description": "6105原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6105",
+    "description": "6105原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6105",
+    "description": "6105原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6105",
+    "description": "6105原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6105",
+    "description": "6105原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6106",
+    "description": "6106原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6106",
+    "description": "6106原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6106",
+    "description": "6106原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6106",
+    "description": "6106原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6106",
+    "description": "6106原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9501",
+    "description": "9501原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9501",
+    "description": "9501原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9501",
+    "description": "9501原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9501",
+    "description": "9501原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9501",
+    "description": "9501原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9502",
+    "description": "9502原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9502",
+    "description": "9502原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9502",
+    "description": "9502原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9502",
+    "description": "9502原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9502",
+    "description": "9502原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9503",
+    "description": "9503原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9503",
+    "description": "9503原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9503",
+    "description": "9503原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9503",
+    "description": "9503原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9503",
+    "description": "9503原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9510",
+    "description": "9510原油罐容积为20000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9510",
+    "description": "9510原油罐计算直径为40米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 40,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9510",
+    "description": "9510原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9510",
+    "description": "9510原油罐米系数为1045吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 1045,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9510",
+    "description": "9510原油罐密度为0.831584577546571吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.831584577546571,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6104",
+    "description": "6104原油罐（航煤掺炼）容积为5000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6104",
+    "description": "6104原油罐（航煤掺炼）计算直径为22米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 22,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6104",
+    "description": "6104原油罐（航煤掺炼）初始液位为7.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 7.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6104",
+    "description": "6104原油罐（航煤掺炼）米系数为319吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 319,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6104",
+    "description": "6104原油罐（航煤掺炼）密度为0.839180608920419吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.839180608920419,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6103",
+    "description": "6103原油罐（环保应急）容积为5000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6103",
+    "description": "6103原油罐（环保应急）计算直径为22米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 22,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6103",
+    "description": "6103原油罐（环保应急）初始液位为7.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 7.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6103",
+    "description": "6103原油罐（环保应急）米系数为319吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 319,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6103",
+    "description": "6103原油罐（环保应急）密度为0.839180608920419吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.839180608920419,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9504",
+    "description": "9504原油罐（环保应急）容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9504",
+    "description": "9504原油罐（环保应急）计算直径为30.5974761618853米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 30.5974761618853,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9504",
+    "description": "9504原油罐（环保应急）初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9504",
+    "description": "9504原油罐（环保应急）米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9504",
+    "description": "9504原油罐（环保应急）密度为0.7208吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.7208,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9509",
+    "description": "9509原油罐（环保应急）容积为20000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9509",
+    "description": "9509原油罐（环保应急）计算直径为44.2586722413535米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 44.2586722413535,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9509",
+    "description": "9509原油罐（环保应急）初始液位为7.75米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 7.75,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9509",
+    "description": "9509原油罐（环保应急）米系数为1244吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 1244,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9509",
+    "description": "9509原油罐（环保应急）密度为0.8086吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.8086,
+        "unit": "t/m3"
+      }
+    }
+  }
+]

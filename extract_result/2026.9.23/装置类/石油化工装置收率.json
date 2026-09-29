@@ -1,0 +1,1498 @@
+[
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_76B17F393CC7CE2D",
+    "description": "120万吨/年重整的液化气质量收率为4.80468355708085%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0480468355708085,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_715522A8D07080C8",
+    "description": "120万吨/年重整的重整汽油质量收率为56.5582998812029%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.重整汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.565582998812029,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_91B05005A822C73D",
+    "description": "120万吨/年重整的重整轻汽油质量收率为17.9197304159452%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.重整轻汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.179197304159452,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_30086D40B5CF7523",
+    "description": "120万吨/年重整的精制油质量收率为0.393661047744019%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.精制油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00393661047744019,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_3146B3F6A798B68A",
+    "description": "120万吨/年重整的C6馏分质量收率为13.4465917649525%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.C6馏分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.134465917649525,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_CB48694A2CFE0608",
+    "description": "120万吨/年重整的含氢气体质量收率为3.18733451871637%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.含氢气体"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0318733451871637,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_34A99BA6E4A07F2B",
+    "description": "120万吨/年重整的含硫燃料气质量收率为0.374249753476563%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.含硫燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00374249753476563,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_4D7381FA66C8274A",
+    "description": "120万吨/年重整的燃料气质量收率为2.94042285563432%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0294042285563432,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_40E9A8D5F158A87F",
+    "description": "120万吨/年重整的不合格汽油质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.不合格汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_32E9C0B6C9483CC2",
+    "description": "120万吨/年重整的污油质量收率为0.0256229084330427%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.000256229084330427,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_829F21462826ED9B",
+    "description": "120万吨/年重整的加工损失质量收率为0.349403296814218%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "120万吨/年重整.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00349403296814218,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_1CBE475363682A5C",
+    "description": "140万吨/年加氢的柴油质量收率为82.2771118067751%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "140万吨/年加氢.柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.822771118067751,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_B8889C070587400C",
+    "description": "140万吨/年加氢的粗汽油质量收率为12.9978875569469%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "140万吨/年加氢.粗汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.129978875569469,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_F43FAE1DA7A39132",
+    "description": "140万吨/年加氢的液化气质量收率为4.39922628591789%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "140万吨/年加氢.液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0439922628591789,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_E1C4954D095B3773",
+    "description": "140万吨/年加氢的高、低气分质量收率为0.100531928431447%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "140万吨/年加氢.高、低气分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00100531928431447,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_B77904E15EB6BDB8",
+    "description": "140万吨/年加氢的干气质量收率为0.119620269272861%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "140万吨/年加氢.干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00119620269272861,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_8C2A1F7F6720F0C6",
+    "description": "140万吨/年加氢的不合格柴油质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "140万吨/年加氢.不合格柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_FBD049A3622B5BCB",
+    "description": "140万吨/年加氢的反冲洗污油质量收率为0.0661729149169021%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "140万吨/年加氢.反冲洗污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.000661729149169021,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_FA6E76BD49B45CF0",
+    "description": "140万吨/年加氢的加工损失质量收率为0.0394492377389224%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "140万吨/年加氢.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.000394492377389224,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_D085C8A59153D510",
+    "description": "20万吨/年苯抽提的苯质量收率为32.0591292297032%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提.苯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.320591292297032,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_691AD02D13FC9BAB",
+    "description": "20万吨/年苯抽提的非芳烃质量收率为67.4038572583439%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提.非芳烃"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.674038572583439,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_A88CD93F14FF68E6",
+    "description": "20万吨/年苯抽提的重组分质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提.重组分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_A76E77621994515B",
+    "description": "20万吨/年苯抽提的不合格苯质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提.不合格苯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_E727A71218A5252E",
+    "description": "20万吨/年苯抽提的加工损失质量收率为0.537013511952881%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00537013511952881,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_EC0C837EC217667D",
+    "description": "60万吨/年气体分馏装置的燃料气质量收率为1.78256174691051%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年气体分馏装置.燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0178256174691051,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_603BED4CA69BB1E3",
+    "description": "60万吨/年气体分馏装置的丙烯质量收率为26.3373498106028%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年气体分馏装置.丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.263373498106028,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_8F2CB4D50E7BD88E",
+    "description": "60万吨/年气体分馏装置的戊烷馏分质量收率为0.798724782750287%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年气体分馏装置.戊烷馏分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00798724782750287,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_8C28BD64C26A6C33",
+    "description": "60万吨/年气体分馏装置的丙烷质量收率为13.2149529506539%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年气体分馏装置.丙烷"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.132149529506539,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_ED241B3C2A85B6A1",
+    "description": "60万吨/年气体分馏装置的气分碳四质量收率为57.5870284352879%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年气体分馏装置.气分碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.575870284352879,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_0669746DBA3EFF1A",
+    "description": "60万吨/年气体分馏装置的不合格丙烯质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年气体分馏装置.不合格丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_6C252B1E6D75A74C",
+    "description": "60万吨/年气体分馏装置的加工损失质量收率为0.279382273794628%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年气体分馏装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00279382273794628,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_0A7CD5D59F3BA985",
+    "description": "20万吨/年聚丙烯装置的聚丙烯粒料(T30S)质量收率为96.7817976837143%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年聚丙烯装置.聚丙烯粒料(T30S)"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.967817976837143,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_61A26378E53BF350",
+    "description": "20万吨/年聚丙烯装置的聚丙烯粒料(C30S)质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年聚丙烯装置.聚丙烯粒料(C30S)"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_0170085C2595E507",
+    "description": "20万吨/年聚丙烯装置的聚丙烯粉料质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年聚丙烯装置.聚丙烯粉料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_7DDD584D838697CA",
+    "description": "20万吨/年聚丙烯装置的大块料质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年聚丙烯装置.大块料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_ED0409BD6D17CEAA",
+    "description": "20万吨/年聚丙烯装置的落地料质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年聚丙烯装置.落地料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_0E5B475CF5E8A17F",
+    "description": "20万吨/年聚丙烯装置的粉尘料质量收率为0.122988623552321%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年聚丙烯装置.粉尘料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00122988623552321,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_3873041D25DD1A2C",
+    "description": "20万吨/年聚丙烯装置的不合格料质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年聚丙烯装置.不合格料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_23F4CB7F7DA028E2",
+    "description": "20万吨/年聚丙烯装置的回收气OG质量收率为2.39315363328892%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年聚丙烯装置.回收气OG"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0239315363328892,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_40C7D2C1AE7B5252",
+    "description": "20万吨/年聚丙烯装置的加工损失质量收率为0.702060059444501%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年聚丙烯装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00702060059444501,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_ADA9C271DC9B9F4A",
+    "description": "12万吨/年MTBE装置的MTBE质量收率为18.4684048473207%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨/年MTBE装置.MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.184684048473207,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_16196EF93F667130",
+    "description": "12万吨/年MTBE装置的醚后C4质量收率为81.3225615095619%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨/年MTBE装置.醚后C4"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.813225615095619,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_048B352288913ADF",
+    "description": "12万吨/年MTBE装置的不合格MTBE质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨/年MTBE装置.不合格MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_5728C03F3A7F6113",
+    "description": "12万吨/年MTBE装置的加工损失质量收率为0.209033643117426%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨/年MTBE装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00209033643117426,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_D6A70A22305B242A",
+    "description": "2万标立方米/年制氢装置的工业氢质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "2万标立方米/年制氢装置.工业氢"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_8419227AA2CF5193",
+    "description": "2万标立方米/年制氢装置的燃料气质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "2万标立方米/年制氢装置.燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_6C83B5BBB5A1E431",
+    "description": "2万标立方米/年制氢装置的加工损失质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "2万标立方米/年制氢装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_05AF79623E5B94C3",
+    "description": "60万吨/年精制装置的精制液化气质量收率为99.97384481255449%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年精制装置.精制液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.9997384481255449,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_DC0F9A17E0EDCA7C",
+    "description": "60万吨/年精制装置的酸性气质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年精制装置.酸性气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_7BE659E7F68811D3",
+    "description": "60万吨/年精制装置的不合格液化气质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年精制装置.不合格液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_4A5E87714C50DF7A",
+    "description": "60万吨/年精制装置的加工损失质量收率为0.026155187445510025%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "60万吨/年精制装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00026155187445510024,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_5180DCBA403FD028",
+    "description": "0.40万吨/年硫磺回收的粗硫磺质量收率为24.93946731234867%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "0.40万吨/年硫磺回收.粗硫磺"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.2493946731234867,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_3DB5D314E8482B59",
+    "description": "0.40万吨/年硫磺回收的烟道气质量收率为75.06053268765133%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "0.40万吨/年硫磺回收.烟道气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.7506053268765133,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_5378D93442271AE2",
+    "description": "2万吨/年硫磺精制的精制硫磺质量收率为85.38011695906432%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "2万吨/年硫磺精制.精制硫磺"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.8538011695906432,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_3092EC2CC2321F4D",
+    "description": "2万吨/年硫磺精制的污水质量收率为14.619883040935672%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "2万吨/年硫磺精制.污水"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.14619883040935672,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_86981D3B2318754B",
+    "description": "180万吨/年汽油精制装置的精制汽油质量收率为98.74192503970029%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置.精制汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.9874192503970028,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_A749EAA31ED00F22",
+    "description": "180万吨/年汽油精制装置的燃料气质量收率为1.1516936217449623%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置.燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.011516936217449623,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_FCF9FC58127F6D2F",
+    "description": "180万吨/年汽油精制装置的不合格汽油质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置.不合格汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_9A8AA04E0D2CB14E",
+    "description": "180万吨/年汽油精制装置的污油质量收率为0.06629561678049983%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置.污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0006629561678049983,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_718B0540172730B1",
+    "description": "180万吨/年汽油精制装置的加工损失质量收率为0.04008572177425572%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0004008572177425572,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_377D792ED7299DBB",
+    "description": "240万吨/年柴油加氢装置的精制柴油质量收率为92.72770342295392%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "240万吨/年柴油加氢装置.精制柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.9272770342295392,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_B6D14130D5572DA1",
+    "description": "240万吨/年柴油加氢装置的石脑油质量收率为3.6932788038820883%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "240万吨/年柴油加氢装置.石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.036932788038820885,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_DAEE34C062872AE3",
+    "description": "240万吨/年柴油加氢装置的轻烃质量收率为1.9298966773728325%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "240万吨/年柴油加氢装置.轻烃"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.019298966773728325,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_BF1C8CCD833F52F8",
+    "description": "240万吨/年柴油加氢装置的富气质量收率为0.6165915377165908%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "240万吨/年柴油加氢装置.富气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.006165915377165908,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_8A1C3E457818E19B",
+    "description": "240万吨/年柴油加氢装置的高、低气分质量收率为0.25151361030021385%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "240万吨/年柴油加氢装置.高、低气分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0025151361030021383,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_72748C29AD9D924E",
+    "description": "240万吨/年柴油加氢装置的不合格柴油质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "240万吨/年柴油加氢装置.不合格柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_78BB628A0E4F7713",
+    "description": "240万吨/年柴油加氢装置的污油质量收率为0.7580243989103399%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "240万吨/年柴油加氢装置.污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.007580243989103399,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_95FE3E7A3C849E23",
+    "description": "240万吨/年柴油加氢装置的加工损失质量收率为0.022991548864008473%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "240万吨/年柴油加氢装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00022991548864008472,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_0C9FE6DC3A454AE7",
+    "description": "20万吨/年烷基化装置的异辛烷组分质量收率为62.3225171330128%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置.异辛烷组分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.623225171330128,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_44B7C594ACC500BC",
+    "description": "20万吨/年烷基化装置的烷基化碳四质量收率为21.2348390190956%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置.烷基化碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.212348390190956,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_7EF0D843B0CB8F8C",
+    "description": "20万吨/年烷基化装置的预处理碳四质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置.预处理碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_90A15C86DECBD766",
+    "description": "20万吨/年烷基化装置的正丁烷质量收率为13.4129718677824%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置.正丁烷"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.134129718677824,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_D728A2ED1B66261F",
+    "description": "20万吨/年烷基化装置的干气质量收率为2.02567112188103%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置.干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0202567112188103,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_657AC46BA55F68FC",
+    "description": "20万吨/年烷基化装置的不合格产品质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置.不合格产品"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_D9A011B65E06D01D",
+    "description": "20万吨/年烷基化装置的加工损失质量收率为1.00400085822827%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0100400085822827,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_D33F9330C8F5C83E",
+    "description": "30万吨/年混合脱氢装置的丙烯质量收率为19.4701328949171%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置.丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.194701328949171,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_DB4B414BCD3886C8",
+    "description": "30万吨/年混合脱氢装置的富异丁烯碳四质量收率为54.4834908891629%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置.富异丁烯碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.544834908891629,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_13F9E6A137D6BF42",
+    "description": "30万吨/年混合脱氢装置的再生碳四质量收率为9.76503630634333%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置.再生碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0976503630634333,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_9965B3828AD6F89D",
+    "description": "30万吨/年混合脱氢装置的正丁烷质量收率为11.4142348266886%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置.正丁烷"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.114142348266886,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_A89E66756BEFAD24",
+    "description": "30万吨/年混合脱氢装置的轻污油质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置.轻污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_172E6C106F12FDA5",
+    "description": "30万吨/年混合脱氢装置的燃料气质量收率为3.29154678723113%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置.燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0329154678723113,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_8FADA12AADD1745E",
+    "description": "30万吨/年混合脱氢装置的氢气质量收率为0.0106178928620359%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置.氢气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.000106178928620359,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_6F1FEBFDA1E11E77",
+    "description": "30万吨/年混合脱氢装置的不合格产品质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置.不合格产品"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_DE9251212EE85358",
+    "description": "30万吨/年混合脱氢装置的加工损失质量收率为1.56494040279491%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0156494040279491,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_25FE682ADEBB1665",
+    "description": "25万吨/年MTBE装置的MTBE质量收率为49.8501410437236%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "25万吨/年MTBE装置.MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.498501410437236,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_1361222C51CAC4DA",
+    "description": "25万吨/年MTBE装置的醚后碳四质量收率为49.354284203103%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "25万吨/年MTBE装置.醚后碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.49354284203103,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_51CFEDBBFA6C4F63",
+    "description": "25万吨/年MTBE装置的不合格产品质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "25万吨/年MTBE装置.不合格产品"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_YSH_EA439BD136FD5232",
+    "description": "25万吨/年MTBE装置的加工损失质量收率为0.795574753173484%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "25万吨/年MTBE装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00795574753173484,
+        "unit": "1"
+      }
+    }
+  }
+]

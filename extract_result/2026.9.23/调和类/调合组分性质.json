@@ -1,0 +1,308 @@
+[
+  {
+    "rule_id": "BLEND_COMPONENT_RON_CAT_GASOLINE",
+    "description": "催化汽油RON为90。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化汽油.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 90,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_CDU_NAPHTHA",
+    "description": "常压石脑油RON为55。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压石脑油.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 55,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_MTBE",
+    "description": "MTBE的RON为115。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "MTBE.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 115,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_ALKYLATE",
+    "description": "烃化液RON为94。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "烃化液.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 94,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_CN_CAT_DIESEL",
+    "description": "催化柴油CN为25。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化柴油.CN"
+      }
+    ],
+    "parameters": {
+      "cn": {
+        "value": 25,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_CN_CDU_DIESEL",
+    "description": "常压直馏柴油CN为59。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压直馏柴油.CN"
+      }
+    ],
+    "parameters": {
+      "cn": {
+        "value": 59,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_CAT_GASOLINE",
+    "description": "催化汽油硫含量为800 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化汽油.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 800,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_CAT_GASOLINE",
+    "description": "催化汽油苯含量为0.8%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化汽油.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0.8,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_CDU_NAPHTHA",
+    "description": "常压石脑油硫含量为300 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压石脑油.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 300,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_CDU_NAPHTHA",
+    "description": "常压石脑油苯含量为1.2%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压石脑油.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 1.2,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_MTBE",
+    "description": "MTBE硫含量为0 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "MTBE.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 0,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_MTBE",
+    "description": "MTBE苯含量为0%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "MTBE.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_ALKYLATE",
+    "description": "烃化液硫含量为10 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "烃化液.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 10,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_ALKYLATE",
+    "description": "烃化液苯含量为0%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "烃化液.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_CAT_DIESEL",
+    "description": "催化柴油硫含量为4500 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化柴油.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 4500,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_CAT_DIESEL",
+    "description": "催化柴油苯含量为0%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化柴油.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_CDU_DIESEL",
+    "description": "常压直馏柴油硫含量为5000 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压直馏柴油.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 5000,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_CDU_DIESEL",
+    "description": "常压直馏柴油苯含量为0%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压直馏柴油.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0,
+        "unit": "%"
+      }
+    }
+  }
+]

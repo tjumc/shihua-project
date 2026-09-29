@@ -1,0 +1,818 @@
+[
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6101",
+    "description": "6101原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6101",
+    "description": "6101原油罐安全液位上限为14.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6101",
+    "description": "6101原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6101",
+    "description": "6101原油罐库存质量上限由安全液位上限14.3米与米系数530吨/米计算得到，为7579吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7579,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6102",
+    "description": "6102原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6102",
+    "description": "6102原油罐安全液位上限为14.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6102",
+    "description": "6102原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6102",
+    "description": "6102原油罐库存质量上限由安全液位上限14.3米与米系数530吨/米计算得到，为7579吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7579,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6105",
+    "description": "6105原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6105",
+    "description": "6105原油罐安全液位上限为14.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6105",
+    "description": "6105原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6105",
+    "description": "6105原油罐库存质量上限由安全液位上限14.3米与米系数530吨/米计算得到，为7579吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7579,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6106",
+    "description": "6106原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6106",
+    "description": "6106原油罐安全液位上限为14.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6106",
+    "description": "6106原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6106",
+    "description": "6106原油罐库存质量上限由安全液位上限14.3米与米系数530吨/米计算得到，为7579吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7579,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9501",
+    "description": "9501原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9501",
+    "description": "9501原油罐安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9501",
+    "description": "9501原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9501",
+    "description": "9501原油罐库存质量上限由安全液位上限13.6米与米系数530吨/米计算得到，为7208吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7208,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9502",
+    "description": "9502原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9502",
+    "description": "9502原油罐安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9502",
+    "description": "9502原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9502",
+    "description": "9502原油罐库存质量上限由安全液位上限13.6米与米系数530吨/米计算得到，为7208吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7208,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9503",
+    "description": "9503原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9503",
+    "description": "9503原油罐安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9503",
+    "description": "9503原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9503",
+    "description": "9503原油罐库存质量上限由安全液位上限13.6米与米系数530吨/米计算得到，为7208吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7208,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9510",
+    "description": "9510原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9510",
+    "description": "9510原油罐安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9510",
+    "description": "9510原油罐库存质量下限由安全液位下限2.5米与米系数1045吨/米计算得到，为2612.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 2612.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9510",
+    "description": "9510原油罐库存质量上限由安全液位上限13.6米与米系数1045吨/米计算得到，为14212吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 14212,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6104",
+    "description": "6104原油罐（航煤掺炼）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6104",
+    "description": "6104原油罐（航煤掺炼）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6104",
+    "description": "6104原油罐（航煤掺炼）库存质量下限由安全液位下限2.5米与米系数319吨/米计算得到，为797.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 797.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6104",
+    "description": "6104原油罐（航煤掺炼）库存质量上限由安全液位上限12.5米与米系数319吨/米计算得到，为3987.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 3987.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6103",
+    "description": "6103原油罐（环保应急）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6103",
+    "description": "6103原油罐（环保应急）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6103",
+    "description": "6103原油罐（环保应急）库存质量下限由安全液位下限2.5米与米系数319吨/米计算得到，为797.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 797.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6103",
+    "description": "6103原油罐（环保应急）库存质量上限由安全液位上限12.5米与米系数319吨/米计算得到，为3987.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 3987.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9504",
+    "description": "9504原油罐（环保应急）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9504",
+    "description": "9504原油罐（环保应急）安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9504",
+    "description": "9504原油罐（环保应急）库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9504",
+    "description": "9504原油罐（环保应急）库存质量上限由安全液位上限13.6米与米系数530吨/米计算得到，为7208吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7208,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9509",
+    "description": "9509原油罐（环保应急）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9509",
+    "description": "9509原油罐（环保应急）安全液位上限为13米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9509",
+    "description": "9509原油罐（环保应急）库存质量下限由安全液位下限2.5米与米系数1244吨/米计算得到，为3110吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 3110,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9509",
+    "description": "9509原油罐（环保应急）库存质量上限由安全液位上限13米与米系数1244吨/米计算得到，为16172吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 16172,
+        "unit": "t"
+      }
+    }
+  }
+]

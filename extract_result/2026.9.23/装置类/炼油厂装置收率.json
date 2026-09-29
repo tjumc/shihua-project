@@ -1,0 +1,1940 @@
+[
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_1C13E9DDBA4BF53A",
+    "description": "常压装置合计的轻质油产量质量收率为48.6815798033973%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "常压装置合计.轻质油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.486815798033973,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_86C07CA0BA2B35F7",
+    "description": "300万常压装置的轻质油产量质量收率为48.7697529470376%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万常压装置.轻质油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.487697529470376,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_0535BB0E3E102A41",
+    "description": "常压装置合计的其中：常压石脑油质量收率为15.451321395419%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "常压装置合计.其中：常压石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.15451321395419,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_5F054E56D5223AF8",
+    "description": "300万常压装置的其中：常压石脑油质量收率为15.6188510048063%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万常压装置.其中：常压石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.156188510048063,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_29C08A6AB16695D4",
+    "description": "常压装置合计的柴油合计质量收率为33.2302584079784%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "常压装置合计.柴油合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.332302584079784,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_99C7BF8DC7438E54",
+    "description": "300万常压装置的柴油合计质量收率为33.1509019422313%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万常压装置.柴油合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.331509019422313,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_16115FA96BEB0676",
+    "description": "常压装置合计的常一线油质量收率为7.84387619901461%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "常压装置合计.常一线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0784387619901461,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_52BCAE8B8DDB317B",
+    "description": "300万常压装置的常一线油质量收率为8.63878942973166%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万常压装置.常一线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0863878942973166,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_A9F47362EF56A638",
+    "description": "常压装置合计的常二线油质量收率为8.99449385517411%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "常压装置合计.常二线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0899449385517411,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_16A60D8C878FB941",
+    "description": "300万常压装置的常二线油质量收率为4.00524714256529%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万常压装置.常二线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0400524714256529,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_37D8C0C039E15374",
+    "description": "常压装置合计的常三线油质量收率为16.3918883537896%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "常压装置合计.常三线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.163918883537896,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_346B7B0A8B1480BC",
+    "description": "300万常压装置的常三线油质量收率为20.5068653699343%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万常压装置.常三线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.205068653699343,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_F5E9DB74BBFE3B13",
+    "description": "常压装置合计的1#渣油产量质量收率为50.9659555224094%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "常压装置合计.1#渣油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.509659555224094,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_21F9835A9E36F592",
+    "description": "300万常压装置的1#渣油产量质量收率为50.936708134863%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万常压装置.1#渣油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.50936708134863,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_1C4D027017CDFCA7",
+    "description": "常压装置合计的其中：自用质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "常压装置合计.其中：自用"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_01F7DA373289077B",
+    "description": "300万常压装置的其中：自用质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万常压装置.其中：自用"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_A50F4FF3BFDAFA85",
+    "description": "常压装置合计的加工损失质量收率为0.352464674193318%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "常压装置合计.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00352464674193318,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_0A0B960E5D5DB54C",
+    "description": "300万常压装置的加工损失质量收率为0.293538918099416%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "300万常压装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00293538918099416,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_97BF80F2FF2637FA",
+    "description": "260万常压装置的轻质油产量质量收率为48.5723168483933%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万常压装置.轻质油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.485723168483933,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_87D385ABE542F774",
+    "description": "260万常压装置的其中：常压石脑油质量收率为15.2437209922054%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万常压装置.其中：常压石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.152437209922054,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_9A9B5F80B98E2285",
+    "description": "260万常压装置的柴油合计质量收率为33.328595856188%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万常压装置.柴油合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.33328595856188,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_F6D3B3159D67F62D",
+    "description": "260万常压装置的常一线油质量收率为6.8588305833759%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万常压装置.常一线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.068588305833759,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BBF20DDC19C4AB59",
+    "description": "260万常压装置的常二线油质量收率为15.1771002198485%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万常压装置.常二线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.151771002198485,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_4E84FB31EB4F5AA4",
+    "description": "260万常压装置的常三线油质量收率为11.2926650529635%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万常压装置.常三线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.112926650529635,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_3431A3FC58FC1E37",
+    "description": "260万常压装置的1#渣油产量质量收率为51.0021984854878%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万常压装置.1#渣油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.510021984854878,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_F604BE94FE297E07",
+    "description": "260万常压装置的加工损失质量收率为0.425484666118896%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "260万常压装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00425484666118896,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_CDBC9B1A1EFE2F30",
+    "description": "催化装置合计的石脑油Ⅲ质量收率为0.7869884575026233%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.石脑油Ⅲ"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.007869884575026234,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_94189F75998C687B",
+    "description": "200万催化装置的石脑油Ⅲ质量收率为1.1384484340191325%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.石脑油Ⅲ"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.011384484340191325,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_BF675FAD12901090",
+    "description": "催化装置合计的干气产量质量收率为3.622411619497686%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.干气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.03622411619497686,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_10C0BA6F852E84CB",
+    "description": "200万催化装置的干气产量质量收率为3.510352509500721%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.干气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.03510352509500721,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_71366E5E1E8839D2",
+    "description": "催化装置合计的液化气产量质量收率为17.979572270829717%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.液化气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.17979572270829716,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_LPG",
+    "description": "200万催化装置的液化气产量质量收率为15.800135412571528%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.液化气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.15800135412571528,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_E347EC64DDE33A67",
+    "description": "催化装置合计的汽油产量质量收率为47.69942702710864%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.汽油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.4769942702710864,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_99575646430F51C5",
+    "description": "200万催化装置的汽油产量质量收率为47.36655309483248%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.汽油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.4736655309483248,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_2F7D602452BAD397",
+    "description": "催化装置合计的柴油产量质量收率为22.193074501573975%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.柴油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.22193074501573976,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_DA7789D18A8E2301",
+    "description": "200万催化装置的柴油产量质量收率为24.331127418861662%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.柴油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.24331127418861662,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_14E2A9A17BB149BD",
+    "description": "催化装置合计的生焦量质量收率为6.573712698256924%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.生焦量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.06573712698256924,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_0A051ED1ADE41DC7",
+    "description": "200万催化装置的生焦量质量收率为6.8585375442274925%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.生焦量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.06858537544227493,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_8ED67EA695920032",
+    "description": "催化装置合计的2#渣油产量质量收率为0.7601893301727978%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.2#渣油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.007601893301727978,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_95D907342C68206E",
+    "description": "200万催化装置的油浆产量质量收率为0.5836937054994977%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.油浆产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.005836937054994977,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_7FD2E479FF07AC24",
+    "description": "催化装置合计的加工损失量质量收率为0.384624095057637%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.加工损失量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00384624095057637,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_284E2E0C703271E3",
+    "description": "200万催化装置的加工损失量质量收率为0.41115188048748524%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.加工损失量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.004111518804874852,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_EC0431F0791BA758",
+    "description": "催化装置合计的轻质油产量合计质量收率为69.89250152868262%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.轻质油产量合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.6989250152868262,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_8DD13D1982668CAA",
+    "description": "200万催化装置的轻质油产量合计质量收率为71.69768051369414%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.轻质油产量合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.7169768051369414,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_65BF8F6A15C83564",
+    "description": "催化装置合计的汽柴液产量合计质量收率为87.87207379951234%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化装置合计.汽柴液产量合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.8787207379951234,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_D4B55B278C282CC1",
+    "description": "200万催化装置的汽柴液产量合计质量收率为87.49781592626566%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "200万催化装置.汽柴液产量合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.8749781592626567,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_EE09D3DFC40DF87D",
+    "description": "100万催化装置的干气产量质量收率为3.873334148428903%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "100万催化装置.干气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.03873334148428903,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_F54D6352F495CC3A",
+    "description": "100万催化装置的液化气产量质量收率为22.859762807189142%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "100万催化装置.液化气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.2285976280718914,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_54059A506E4C3847",
+    "description": "100万催化装置的汽油产量质量收率为48.444797652524755%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "100万催化装置.汽油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.48444797652524757,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_568F168BB5E561C6",
+    "description": "100万催化装置的柴油产量质量收率为17.4055508008314%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "100万催化装置.柴油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.174055508008314,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_1CE97E5AA113B9AF",
+    "description": "100万催化装置的生焦量质量收率为5.935933488201492%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "100万催化装置.生焦量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.05935933488201492,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_2180012FD11AE05A",
+    "description": "100万催化装置的2#渣油产量质量收率为1.1553979704120307%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "100万催化装置.2#渣油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.011553979704120306,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_8E2EAF5EBACA3325",
+    "description": "100万催化装置的加工损失量质量收率为0.32522313241227535%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "100万催化装置.加工损失量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0032522313241227533,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_2F1BA348862C0FBB",
+    "description": "100万催化装置的轻质油产量合计质量收率为65.85034845335616%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "100万催化装置.轻质油产量合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.6585034845335616,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_85EE4F9A92081184",
+    "description": "100万催化装置的汽柴液产量合计质量收率为88.7101112605453%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "100万催化装置.汽柴液产量合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.887101112605453,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_2DF30B4F097D684F",
+    "description": "30万吨液化气精制装置的精制液化气质量收率为99.679409838326%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨液化气精制装置.精制液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.99679409838326,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_F185DFD8A8F04552",
+    "description": "30万吨气体分馏装置的燃料气质量收率为0.00345829298658182%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置.燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 3.45829298658182e-05,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_210A442EBF2E3929",
+    "description": "30万吨液化气精制装置的不合格液化气质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨液化气精制装置.不合格液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_8437F6705A4ABF31",
+    "description": "30万吨气体分馏装置的丙烯质量收率为28.1366717388297%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置.丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.281366717388297,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_AFC03E443C7CC0E1",
+    "description": "30万吨液化气精制装置的酸性气质量收率为0.182701920093764%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨液化气精制装置.酸性气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00182701920093764,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_698741DD9C0C7CEA",
+    "description": "30万吨气体分馏装置的丙烷质量收率为8.95697883524692%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置.丙烷"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0895697883524692,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_C1563035C97D1382",
+    "description": "30万吨液化气精制装置的加工损失质量收率为0.137888241580199%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨液化气精制装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00137888241580199,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_611F7866FB43EBD9",
+    "description": "30万吨气体分馏装置的碳四馏分质量收率为56.8923779222576%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置.碳四馏分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.568923779222576,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_768ADB3164F37F84",
+    "description": "30万吨气体分馏装置的戊烷馏分质量收率为5.6888919629271%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置.戊烷馏分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.056888919629271,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_D9E6483FA74567B9",
+    "description": "30万吨气体分馏装置的不合格丙烯质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置.不合格丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_1DD5F58E268E37F3",
+    "description": "30万吨气体分馏装置的加工损失质量收率为0.32162124775211%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0032162124775211,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_8838B498CE8D3B60",
+    "description": "30万吨气体分馏装置的冲减后丙烯产量质量收率为28.1366717388297%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置.冲减后丙烯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.281366717388297,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_1D1D9C0E7637E589",
+    "description": "10万吨聚丙烯装置的聚丙烯产量合计质量收率为96.1015699083342%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.聚丙烯产量合计"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.961015699083342,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_6213D1D91A857FA5",
+    "description": "10万吨聚丙烯装置的聚丙烯粒料T30S质量收率为95.9013802549784%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.聚丙烯粒料T30S"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.959013802549784,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_59941BF710C20E3F",
+    "description": "10万吨聚丙烯装置的聚丙烯粉料质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.聚丙烯粉料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_5BF08AC0C8546322",
+    "description": "6万吨MTBE装置的MTBE质量收率为18.9269998871714%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "6万吨MTBE装置.MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.189269998871714,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_660621A109D0E9EE",
+    "description": "10万吨聚丙烯装置的大块料质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.大块料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_3F6B5360220D07D1",
+    "description": "6万吨MTBE装置的醚后C4质量收率为79.8149610741284%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "6万吨MTBE装置.醚后C4"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.798149610741284,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_83B3816BF48C10B6",
+    "description": "10万吨聚丙烯装置的过度料质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.过度料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_A9732F6AF8F12974",
+    "description": "6万吨MTBE装置的次品MTBE质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "6万吨MTBE装置.次品MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_30ACFBDD98B43A28",
+    "description": "10万吨聚丙烯装置的粉尘料质量收率为0.200189653355811%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.粉尘料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00200189653355811,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_4CE896940AEA1E6F",
+    "description": "6万吨MTBE装置的加工损失质量收率为1.25803903870021%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "6万吨MTBE装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0125803903870021,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_0CEC41A5B5C7C51C",
+    "description": "10万吨聚丙烯装置的聚丙烯粒料T36F质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.聚丙烯粒料T36F"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_9F32398123AF0A2C",
+    "description": "10万吨聚丙烯装置的轻度氧化处理品质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.轻度氧化处理品"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_A15DD4A66A797A33",
+    "description": "10万吨聚丙烯装置的回收气OG质量收率为3.03445369297229%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.回收气OG"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0303445369297229,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_39CCE0C410AE4AC2",
+    "description": "10万吨聚丙烯装置的加工损失质量收率为0.863976398693499%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置.加工损失"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00863976398693499,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_EF3EB2827A7D07BA",
+    "description": "18万吨干气精制装置的净化干气产量质量收率为75.7528394289882%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "18万吨干气精制装置.净化干气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.757528394289882,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_C4160F8571DE5CF8",
+    "description": "18万吨干气精制装置的酸性气产量质量收率为18.4328435969574%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "18万吨干气精制装置.酸性气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.184328435969574,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_98C29E9A9DE7FC46",
+    "description": "18万吨干气精制装置的液化气组分产量质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "18万吨干气精制装置.液化气组分产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_F24EA4F7DD838AFC",
+    "description": "18万吨干气精制装置的瓦斯气质量收率为4.84526414504533%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "18万吨干气精制装置.瓦斯气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0484526414504533,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_B727C9337F03BAAA",
+    "description": "12万吨乙苯装置的乙苯产量质量收率为46.1344025102414%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨乙苯装置.乙苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.461344025102414,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_7D6A7F601BC5123B",
+    "description": "18万吨干气精制装置的损失量质量收率为0.969052829009065%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "18万吨干气精制装置.损失量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00969052829009065,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_920F3CC3A8240F16",
+    "description": "12万吨乙苯装置的丙苯产量质量收率为1.96112612219995%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨乙苯装置.丙苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0196112612219995,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_096220BCB4D0E90C",
+    "description": "12万吨乙苯装置的高沸物质量收率为0.505534733722653%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨乙苯装置.高沸物"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00505534733722653,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_92F0AC30B431AEE5",
+    "description": "12万吨乙苯装置的烃化尾气质量收率为50.1263836834307%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨乙苯装置.烃化尾气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.501263836834307,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_81CDBCCD644DE9BE",
+    "description": "12万吨乙苯装置的损失量质量收率为1.2725529504053%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨乙苯装置.损失量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.012725529504053,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_94DE489263FAFBFA",
+    "description": "12万吨苯乙烯装置400单元的苯乙烯产量质量收率为95.409100183636%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元.苯乙烯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.95409100183636,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_9533AD90F9FE7257",
+    "description": "12万吨苯乙烯装置400单元的甲苯产量质量收率为2.71373189145072%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元.甲苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0271373189145072,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_E14EB748A6846E09",
+    "description": "12万吨苯乙烯装置300单元的脱氢液质量收率为96.9845310358332%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置300单元.脱氢液"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.969845310358332,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_564153DB83990BA5",
+    "description": "12万吨苯乙烯装置400单元的苯产量质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元.苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_F52A7FCCC3B05601",
+    "description": "12万吨苯乙烯装置300单元的脱氢尾气质量收率为1.82102995887997%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置300单元.脱氢尾气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0182102995887997,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_132E282C1B235A64",
+    "description": "12万吨苯乙烯装置400单元的焦油产量质量收率为1.08141195674352%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元.焦油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0108141195674352,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_7F40BD5BC263499E",
+    "description": "12万吨苯乙烯装置300单元的损失量质量收率为1.19443900528686%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置300单元.损失量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0119443900528686,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_22F9772DEB657DFD",
+    "description": "12万吨苯乙烯装置400单元的乙苯产量质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元.乙苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_4CA4276E2418EE17",
+    "description": "12万吨苯乙烯装置400单元的损失量质量收率为0.795755968169761%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元.损失量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.00795755968169761,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_3632C8EC2F9E92A8",
+    "description": "12万吨苯乙烯装置400单元的苯乙烯收率质量收率为91.5606030937928%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元.苯乙烯收率"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.915606030937928,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_3D5C615D418A1029",
+    "description": "7万吨醋酸仲丁酯装置的醋酸仲丁酯（SBA）质量收率为38.33295685565846%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置.醋酸仲丁酯（SBA）"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.3833295685565846,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_89CB7D654204E4ED",
+    "description": "50万吨航煤加氢装置的3#喷气燃料质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "50万吨航煤加氢装置.3#喷气燃料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_3B90471BBE848FC6",
+    "description": "7万吨醋酸仲丁酯装置的酯后C4质量收率为55.635870792861986%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置.酯后C4"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.5563587079286199,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_C87ADF19F34477EF",
+    "description": "50万吨航煤加氢装置的石脑油质量收率为2.186989212160837%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "50万吨航煤加氢装置.石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.02186989212160837,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_0107F240689A569B",
+    "description": "7万吨醋酸仲丁酯装置的次品SBA质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置.次品SBA"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_7F30AAA75E9ADC36",
+    "description": "50万吨航煤加氢装置的酸性气质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "50万吨航煤加氢装置.酸性气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_9E8D8373577DA1A9",
+    "description": "7万吨醋酸仲丁酯装置的粗酯质量收率为1.4381447180182214%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置.粗酯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.014381447180182213,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_535384B31E7E3FA7",
+    "description": "50万吨航煤加氢装置的酸性水质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "50万吨航煤加氢装置.酸性水"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_58BC79F51E7B71FA",
+    "description": "7万吨醋酸仲丁酯装置的C12质量收率为0.1355319629545968%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置.C12"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.001355319629545968,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_4E63ED98BE0B519B",
+    "description": "50万吨航煤加氢装置的污油质量收率为0%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "50万吨航煤加氢装置.污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_A40CE9B857E717C5",
+    "description": "7万吨醋酸仲丁酯装置的损失量质量收率为4.45749567050674%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置.损失量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0445749567050674,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_C7C0D538D2CD55A2",
+    "description": "50万吨航煤加氢装置的航煤组分油质量收率为97.3030402092187%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "50万吨航煤加氢装置.航煤组分油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.973030402092187,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_42BED26C39F2DA74",
+    "description": "50万吨航煤加氢装置的损失量质量收率为0.5099705786204641%。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "50万吨航煤加氢装置.损失量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.005099705786204641,
+        "unit": "1"
+      }
+    }
+  }
+]

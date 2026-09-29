@@ -1,0 +1,103 @@
+[
+  {
+    "rule_id": "BLEND_RON_CALC_92_GASOLINE",
+    "description": "92#汽油RON由催化汽油、常压石脑油、MTBE、烃化液的RON按质量比例线性加权计算。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.MTBE"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_RON_CALC_95_GASOLINE",
+    "description": "95#汽油RON由催化汽油、常压石脑油、MTBE、烃化液的RON按质量比例线性加权计算。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.MTBE"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_CN_CALC_0_DIESEL",
+    "description": "0#柴油十六烷值由催化柴油、常压直馏柴油的CN按质量比例线性加权计算。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "CN"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.催化柴油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.常压直馏柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油"
+      }
+    ],
+    "parameters": {}
+  }
+]
