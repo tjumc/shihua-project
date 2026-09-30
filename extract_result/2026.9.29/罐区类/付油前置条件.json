@@ -1,0 +1,70 @@
+[
+  {
+    "rule_id": "TANK_GAS_FRACTIONATION_PUMP_START_PRESSURE_MIN_T4201",
+    "description": "2026年检修后罐区开工时，T-4201气分原料罐付料并启动P-4202/AB泵前，罐压力须保持在0.65兆帕以上。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "pump_start_tank_pressure_min": {
+        "value": 0.65,
+        "unit": "MPa"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_GAS_FRACTIONATION_PUMP_START_PRESSURE_MIN_T4202",
+    "description": "2026年检修后罐区开工时，T-4202气分原料罐付料并启动P-4202/AB泵前，罐压力须保持在0.65兆帕以上。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4202"
+      }
+    ],
+    "parameters": {
+      "pump_start_tank_pressure_min": {
+        "value": 0.65,
+        "unit": "MPa"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_GAS_FRACTIONATION_PUMP_START_PRESSURE_MIN_T4203",
+    "description": "2026年检修后罐区开工时，T-4203气分原料罐付料并启动P-4202/AB泵前，罐压力须保持在0.65兆帕以上。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "pump_start_tank_pressure_min": {
+        "value": 0.65,
+        "unit": "MPa"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_GAS_FRACTIONATION_PUMP_START_PRESSURE_MIN_T4204",
+    "description": "2026年检修后罐区开工时，T-4204气分原料罐付料并启动P-4202/AB泵前，罐压力须保持在0.65兆帕以上。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4204"
+      }
+    ],
+    "parameters": {
+      "pump_start_tank_pressure_min": {
+        "value": 0.65,
+        "unit": "MPa"
+      }
+    }
+  }
+]

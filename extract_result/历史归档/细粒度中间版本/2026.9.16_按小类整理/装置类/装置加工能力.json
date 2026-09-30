@@ -1,0 +1,291 @@
+[
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_CDU_300",
+    "description": "300万吨年常压装置最小加工能力由额定负荷与最小负荷系数计算得到，为7293吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 7293,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MAX_CDU_300",
+    "description": "300万吨年常压装置最大加工能力由额定负荷与最大负荷系数计算得到，为9009吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_max": {
+        "value": 9009,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_CDU_260",
+    "description": "260万吨年常压装置最小加工能力由额定负荷与最小负荷系数计算得到，为6485.5吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 6485.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MAX_CDU_260",
+    "description": "260万吨年常压装置最大加工能力由额定负荷与最大负荷系数计算得到，为8011.5吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_max": {
+        "value": 8011.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_FCC_200",
+    "description": "200万催化装置最小加工能力由额定负荷与最小负荷系数计算得到，为4590吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 4590,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_FCC_100",
+    "description": "100万催化装置最小加工能力由额定负荷与最小负荷系数计算得到，为2295吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 2295,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_DIESEL_HYDRO_140",
+    "description": "140万柴油加氢装置最小加工能力由额定负荷与最小负荷系数计算得到，为2524.8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 2524.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_DIESEL_HYDRO_240",
+    "description": "240万柴油加氢装置最小加工能力由额定负荷与最小负荷系数计算得到，为4319.91吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 4319.91,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_REFORMING_120",
+    "description": "120万重整装置最小加工能力由额定负荷与最小负荷系数计算得到，为2431.2吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 2431.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_JET_HYDRO_50",
+    "description": "50万航煤加氢装置最小加工能力由额定负荷与最小负荷系数计算得到，为952吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 952,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_GAS_FRACTIONATION_YL",
+    "description": "气体分馏装置最小加工能力由额定负荷与最小负荷系数计算得到，为575.4吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 575.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_GAS_FRACTIONATION_60",
+    "description": "60万气体分馏装置最小加工能力由额定负荷与最小负荷系数计算得到，为1190吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 1190,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_MTBE_YL",
+    "description": "MTBE装置最小加工能力由额定负荷与最小负荷系数计算得到，为114.8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 114.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_MTBE_12",
+    "description": "12万MTBE装置最小加工能力由额定负荷与最小负荷系数计算得到，为670.15吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 670.15,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_MTBE_25",
+    "description": "25万MTBE装置最小加工能力由额定负荷与最小负荷系数计算得到，为550.2吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 550.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_PP_YL",
+    "description": "聚丙烯装置最小加工能力由额定负荷与最小负荷系数计算得到，为191.8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 191.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_PP_20",
+    "description": "20万聚丙烯装置最小加工能力由额定负荷与最小负荷系数计算得到，为383.6吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 383.6,
+        "unit": "t/d"
+      }
+    }
+  }
+]

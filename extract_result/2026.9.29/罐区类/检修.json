@@ -1,0 +1,121 @@
+[
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YL_9502",
+    "description": "截至2026年6月，延炼9502罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4808",
+    "description": "截至2026年6月，延石化T-4808罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4808"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4203",
+    "description": "截至2026年6月，延石化T-4203罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4207",
+    "description": "截至2026年6月，延石化T-4207罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4209",
+    "description": "截至2026年6月，延石化T-4209罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4309",
+    "description": "截至2026年6月，延石化T-4309罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4307",
+    "description": "截至2026年6月，延石化T-4307罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_CAT_GASOLINE",
+    "description": "催化汽油是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.催化汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_CDU_NAPHTHA",
+    "description": "常压石脑油是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.常压石脑油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_MTBE",
+    "description": "MTBE是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.MTBE"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_ALKYLATE",
+    "description": "烃化液是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.烃化液"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_CAT_GASOLINE",
+    "description": "催化汽油是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.催化汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_CDU_NAPHTHA",
+    "description": "常压石脑油是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.常压石脑油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_MTBE",
+    "description": "MTBE是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.MTBE"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_ALKYLATE",
+    "description": "烃化液是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.烃化液"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_0_DIESEL_CAT_DIESEL",
+    "description": "催化柴油是0#柴油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.催化柴油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_0_DIESEL_CDU_DIESEL",
+    "description": "常压直馏柴油是0#柴油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.常压直馏柴油"
+      }
+    ],
+    "parameters": {}
+  }
+]

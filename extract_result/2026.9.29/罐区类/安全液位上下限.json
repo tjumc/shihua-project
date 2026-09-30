@@ -1,0 +1,4541 @@
+[
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4101",
+    "description": "延石化T-4101罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4102",
+    "description": "延石化T-4102罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4103",
+    "description": "延石化T-4103罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4104",
+    "description": "延石化T-4104罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4807",
+    "description": "延石化T-4807罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4807"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4808",
+    "description": "延石化T-4808罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4808"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4105",
+    "description": "延石化T-4105罐（精制油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4106",
+    "description": "延石化T-4106罐（精制油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4107",
+    "description": "延石化T-4107罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4108",
+    "description": "延石化T-4108罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4108"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4109",
+    "description": "延石化T-4109罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4109"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4110",
+    "description": "延石化T-4110罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4110"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6201",
+    "description": "延炼6201罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6201"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6201",
+    "description": "延炼6201罐（1#渣油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6201"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4809",
+    "description": "延石化T-4809罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4809"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6202",
+    "description": "延炼6202罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6202"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6202",
+    "description": "延炼6202罐（1#渣油）安全液位上限为10.9米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6202"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.9,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4810",
+    "description": "延石化T-4810罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4810"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6204",
+    "description": "延炼6204罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6204"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6204",
+    "description": "延炼6204罐（1#渣油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6204"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4801",
+    "description": "延石化T-4801罐（甲醇）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6205",
+    "description": "延炼6205罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6205"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6205",
+    "description": "延炼6205罐（1#渣油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6205"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4802",
+    "description": "延石化T-4802罐（甲醇）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9505",
+    "description": "延炼9505罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9505"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9505",
+    "description": "延炼9505罐（1#渣油）安全液位上限为8.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9505"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4805",
+    "description": "延石化T-4805罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4805"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9506",
+    "description": "延炼9506罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9506"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9506",
+    "description": "延炼9506罐（1#渣油）安全液位上限为13.47米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9506"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.47,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4806",
+    "description": "延石化T-4806罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4806"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9507",
+    "description": "延炼9507罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9507"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9507",
+    "description": "延炼9507罐（1#渣油）安全液位上限为13.47米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9507"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.47,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4803",
+    "description": "延石化T-4803罐（轻污油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9508",
+    "description": "延炼9508罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9508"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9508",
+    "description": "延炼9508罐（1#渣油）安全液位上限为13.47米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9508"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.47,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4804",
+    "description": "延石化T-4804罐（轻污油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23601",
+    "description": "延炼23601罐（1#渣油(备用)）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23601"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23601",
+    "description": "延炼23601罐（1#渣油(备用)）安全液位上限为15.18米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23601"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.18,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4901",
+    "description": "延石化T-4901罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4901"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4901",
+    "description": "延石化T-4901罐（催化汽油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4901"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23602",
+    "description": "延炼23602罐（2#渣油(备用)）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23602"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23602",
+    "description": "延炼23602罐（2#渣油(备用)）安全液位上限为15.18米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23602"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.18,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4902",
+    "description": "延石化T-4902罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4902"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4902",
+    "description": "延石化T-4902罐（催化汽油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4902"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23603",
+    "description": "延炼23603罐（3#渣油(备用)）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23603"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23603",
+    "description": "延炼23603罐（3#渣油(备用)）安全液位上限为15.18米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23603"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.18,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4903",
+    "description": "延石化T-4903罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4903"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4903",
+    "description": "延石化T-4903罐（催化汽油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4903"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23604",
+    "description": "延炼23604罐（4#渣油(备用)）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23604"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23604",
+    "description": "延炼23604罐（4#渣油(备用)）安全液位上限为15.18米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23604"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.18,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4904",
+    "description": "延石化T-4904罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4904"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4904",
+    "description": "延石化T-4904罐（常压柴油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4904"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6801",
+    "description": "延炼6801罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6801",
+    "description": "延炼6801罐（催化柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4905",
+    "description": "延石化T-4905罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4905"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4905",
+    "description": "延石化T-4905罐（常压柴油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4905"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6802",
+    "description": "延炼6802罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6802",
+    "description": "延炼6802罐（催化柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4906",
+    "description": "延石化T-4906罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4906"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4906",
+    "description": "延石化T-4906罐（常压柴油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4906"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6803",
+    "description": "延炼6803罐（常压石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6803",
+    "description": "延炼6803罐（常压石脑油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6804",
+    "description": "延炼6804罐（常压石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6804",
+    "description": "延炼6804罐（常压石脑油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9527",
+    "description": "延炼9527罐（常压直馏柴油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9527"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9527",
+    "description": "延炼9527罐（常压直馏柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9527"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9528",
+    "description": "延炼9528罐（常压直馏柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9528"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9528",
+    "description": "延炼9528罐（常压直馏柴油）安全液位上限为9.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9528"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9511",
+    "description": "延炼9511罐（过剩精制汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9511"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9511",
+    "description": "延炼9511罐（过剩精制汽油）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9511"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9512",
+    "description": "延炼9512罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9512"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9512",
+    "description": "延炼9512罐（催化汽油）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9512"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9513",
+    "description": "延炼9513罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9513"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9513",
+    "description": "延炼9513罐（催化汽油）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9513"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9525",
+    "description": "延炼9525罐（航煤原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9525"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9525",
+    "description": "延炼9525罐（航煤原料）安全液位上限为14.9米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9525"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.9,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4201",
+    "description": "延石化T-4201罐（气分原料（精制液化气））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9526",
+    "description": "延炼9526罐（航煤原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9526"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9526",
+    "description": "延炼9526罐（航煤原料）安全液位上限为14.9米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9526"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.9,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4202",
+    "description": "延石化T-4202罐（气分原料（精制液化气））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4202"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_806",
+    "description": "延炼806罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "806"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_806",
+    "description": "延炼806罐（92#汽油）安全液位上限为11.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "806"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 11.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4203",
+    "description": "延石化T-4203罐（气分原料（精制液化气））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_807",
+    "description": "延炼807罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "807"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_807",
+    "description": "延炼807罐（92#汽油）安全液位上限为11.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "807"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 11.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4204",
+    "description": "延石化T-4204罐（气分原料（精制液化气））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4204"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_822",
+    "description": "延炼822罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "822"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_822",
+    "description": "延炼822罐（92#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "822"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4205",
+    "description": "延石化T-4205罐（丙烯（精制））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4205"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_823",
+    "description": "延炼823罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "823"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_823",
+    "description": "延炼823罐（92#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "823"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4206",
+    "description": "延石化T-4206罐（丙烯（精制））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4206"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_825",
+    "description": "延炼825罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "825"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_825",
+    "description": "延炼825罐（92#汽油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "825"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4207",
+    "description": "延石化T-4207罐（丙烯（精制））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_826",
+    "description": "延炼826罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "826"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_826",
+    "description": "延炼826罐（92#汽油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "826"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4208",
+    "description": "延石化T-4208罐（丙烯（精制））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4208"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26101",
+    "description": "延炼26101罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26101",
+    "description": "延炼26101罐（92#汽油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4209",
+    "description": "延石化T-4209罐（丙烯）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_814",
+    "description": "延炼814罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "814"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_814",
+    "description": "延炼814罐（95#汽油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "814"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4210",
+    "description": "延石化T-4210罐（丙烯）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4210"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_816",
+    "description": "延炼816罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "816"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_816",
+    "description": "延炼816罐（95#汽油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "816"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4301",
+    "description": "延石化T-4301罐（混合碳四）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4301"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_817",
+    "description": "延炼817罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "817"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_817",
+    "description": "延炼817罐（95#汽油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "817"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4302",
+    "description": "延石化T-4302罐（混合碳四）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4302"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_821",
+    "description": "延炼821罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "821"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_821",
+    "description": "延炼821罐（95#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "821"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4303",
+    "description": "延石化T-4303罐（混合碳四）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4303"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_824",
+    "description": "延炼824罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "824"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_824",
+    "description": "延炼824罐（95#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "824"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4304",
+    "description": "延石化T-4304罐（饱和液化气）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4304"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26102",
+    "description": "延炼26102罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26102",
+    "description": "延炼26102罐（95#汽油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4305",
+    "description": "延石化T-4305罐（饱和液化气）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4305"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_G821",
+    "description": "延炼G-821罐（98#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "G-821"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_G821",
+    "description": "延炼G-821罐（98#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "G-821"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4309",
+    "description": "延石化T-4309罐（丙烷）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_801",
+    "description": "延炼801罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_801",
+    "description": "延炼801罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4310",
+    "description": "延石化T-4310罐（丙烷）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4310"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_802",
+    "description": "延炼802罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_802",
+    "description": "延炼802罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4306",
+    "description": "延石化T-4306罐（碳四原料）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4306"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_803",
+    "description": "延炼803罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_803",
+    "description": "延炼803罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4307",
+    "description": "延石化T-4307罐（碳四原料）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_804",
+    "description": "延炼804罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_804",
+    "description": "延炼804罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4308",
+    "description": "延石化T-4308罐（碳四原料）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4308"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_810",
+    "description": "延炼810罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "810"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_810",
+    "description": "延炼810罐（0#柴油）安全液位上限为10.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "810"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_811",
+    "description": "延炼811罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "811"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_811",
+    "description": "延炼811罐（0#柴油）安全液位上限为10.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "811"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_812",
+    "description": "延炼812罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "812"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_812",
+    "description": "延炼812罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "812"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_813",
+    "description": "延炼813罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "813"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_813",
+    "description": "延炼813罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "813"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_818",
+    "description": "延炼818罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "818"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_818",
+    "description": "延炼818罐（0#柴油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "818"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_819",
+    "description": "延炼819罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "819"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_819",
+    "description": "延炼819罐（0#柴油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "819"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26103",
+    "description": "延炼26103罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26103",
+    "description": "延炼26103罐（0#柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26104",
+    "description": "延炼26104罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26104",
+    "description": "延炼26104罐（0#柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26105",
+    "description": "延炼26105罐（3#喷气燃料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26105",
+    "description": "延炼26105罐（3#喷气燃料）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26106",
+    "description": "延炼26106罐（3#喷气燃料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26106",
+    "description": "延炼26106罐（3#喷气燃料）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26107",
+    "description": "延炼26107罐（3#喷气燃料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26107",
+    "description": "延炼26107罐（3#喷气燃料）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24903",
+    "description": "延炼24903罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24903"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24903",
+    "description": "延炼24903罐（MTBE）安全液位上限为7.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24903"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 7.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24904",
+    "description": "延炼24904罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24904"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24904",
+    "description": "延炼24904罐（MTBE）安全液位上限为7.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24904"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 7.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24905",
+    "description": "延炼24905罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24905"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24905",
+    "description": "延炼24905罐（MTBE）安全液位上限为7.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24905"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 7.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9514",
+    "description": "延炼9514罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9514"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9514",
+    "description": "延炼9514罐（MTBE）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9514"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9516",
+    "description": "延炼9516罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9516"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9516",
+    "description": "延炼9516罐（MTBE）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9516"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9515",
+    "description": "延炼9515罐（二甲苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9515"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9515",
+    "description": "延炼9515罐（二甲苯）安全液位上限为7.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9515"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 7.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9529",
+    "description": "延炼9529罐（烷基化油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9529"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9529",
+    "description": "延炼9529罐（烷基化油）安全液位上限为13米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9529"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9530",
+    "description": "延炼9530罐（烷基化油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9530"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9530",
+    "description": "延炼9530罐（烷基化油）安全液位上限为13米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9530"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2115",
+    "description": "延炼2115罐（苯乙烯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2115"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2115",
+    "description": "延炼2115罐（苯乙烯）安全液位上限为8.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2115"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2116",
+    "description": "延炼2116罐（苯乙烯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2116"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2116",
+    "description": "延炼2116罐（苯乙烯）安全液位上限为8.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2116"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2117",
+    "description": "延炼2117罐（苯乙烯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2117"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2117",
+    "description": "延炼2117罐（苯乙烯）安全液位上限为15.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2117"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2118",
+    "description": "延炼2118罐（苯乙烯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2118"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2118",
+    "description": "延炼2118罐（苯乙烯）安全液位上限为15.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2118"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24901",
+    "description": "延炼24901罐（甲醇原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24901"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24902",
+    "description": "延炼24902罐（甲醇原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24902"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2101",
+    "description": "延炼2101罐（乙苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2101",
+    "description": "延炼2101罐（乙苯）安全液位上限为13.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2102",
+    "description": "延炼2102罐（乙苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2102",
+    "description": "延炼2102罐（乙苯）安全液位上限为13.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2103",
+    "description": "延炼2103罐（乙苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2103",
+    "description": "延炼2103罐（乙苯）安全液位上限为10.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2104",
+    "description": "延炼2104罐（乙苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2104",
+    "description": "延炼2104罐（乙苯）安全液位上限为10.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2105",
+    "description": "延炼2105罐（烃化液）安全液位下限为1.65米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.65,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2105",
+    "description": "延炼2105罐（烃化液）安全液位上限为13.76米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.76,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2106",
+    "description": "延炼2106罐（脱氢液）安全液位下限为1.65米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.65,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2106",
+    "description": "延炼2106罐（脱氢液）安全液位上限为13.76米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.76,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2107",
+    "description": "延炼2107罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2107",
+    "description": "延炼2107罐（石油苯）安全液位上限为9.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2108",
+    "description": "延炼2108罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2108"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2108",
+    "description": "延炼2108罐（石油苯）安全液位上限为9.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2108"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2109",
+    "description": "延炼2109罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2109"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2109",
+    "description": "延炼2109罐（石油苯）安全液位上限为9.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2109"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2110",
+    "description": "延炼2110罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2110"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2110",
+    "description": "延炼2110罐（石油苯）安全液位上限为9.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2110"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2113",
+    "description": "延炼2113罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2113"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2113",
+    "description": "延炼2113罐（石油苯）安全液位上限为8.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2113"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2114",
+    "description": "延炼2114罐（不合格苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2114"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2114",
+    "description": "延炼2114罐（不合格苯）安全液位上限为8.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2114"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_TK3001A",
+    "description": "延炼TK3001A罐（醋酸原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "TK3001A"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_TK3001A",
+    "description": "延炼TK3001A罐（醋酸原料）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "TK3001A"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_TK3001B",
+    "description": "延炼TK3001B罐（醋酸原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "TK3001B"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_TK3001B",
+    "description": "延炼TK3001B罐（醋酸原料）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "TK3001B"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24601",
+    "description": "延炼24601罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24601"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24601",
+    "description": "延炼24601罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24601"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24602",
+    "description": "延炼24602罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24602"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24602",
+    "description": "延炼24602罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24602"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24603",
+    "description": "延炼24603罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24603"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24603",
+    "description": "延炼24603罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24603"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24604",
+    "description": "延炼24604罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24604"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24604",
+    "description": "延炼24604罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24604"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9545",
+    "description": "延炼9545罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9545"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9545",
+    "description": "延炼9545罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9545"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9546",
+    "description": "延炼9546罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9546"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9546",
+    "description": "延炼9546罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9546"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9543",
+    "description": "延炼9543罐（丙烷）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9543"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9543",
+    "description": "延炼9543罐（丙烷）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9543"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9544",
+    "description": "延炼9544罐（丙烷）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9544"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9544",
+    "description": "延炼9544罐（丙烷）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9544"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24701",
+    "description": "延炼24701罐（丙烯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24701"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24701",
+    "description": "延炼24701罐（丙烯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24701"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24702",
+    "description": "延炼24702罐（丙烯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24702"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24702",
+    "description": "延炼24702罐（丙烯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24702"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24705",
+    "description": "延炼24705罐（丙烯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24705"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24705",
+    "description": "延炼24705罐（丙烯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24705"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24706",
+    "description": "延炼24706罐（丙烯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24706"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24706",
+    "description": "延炼24706罐（丙烯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24706"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24707",
+    "description": "延炼24707罐（C4）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24707"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24707",
+    "description": "延炼24707罐（C4）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24707"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24708",
+    "description": "延炼24708罐（C4）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24708"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24708",
+    "description": "延炼24708罐（C4）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24708"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23207",
+    "description": "延炼23207罐（醚后C4）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23207"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23207",
+    "description": "延炼23207罐（醚后C4）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23207"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23208",
+    "description": "延炼23208罐（醚后C4）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23208"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23208",
+    "description": "延炼23208罐（醚后C4）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23208"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_3002A",
+    "description": "延炼3002A罐（醋酸仲丁酯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "3002A"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_3002A",
+    "description": "延炼3002A罐（醋酸仲丁酯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "3002A"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_3002B",
+    "description": "延炼3002B罐（醋酸仲丁酯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "3002B"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_3002B",
+    "description": "延炼3002B罐（醋酸仲丁酯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "3002B"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9541",
+    "description": "延炼9541罐（酯后碳四）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9541"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9541",
+    "description": "延炼9541罐（酯后碳四）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9541"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9542",
+    "description": "延炼9542罐（酯后碳四）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9542"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9542",
+    "description": "延炼9542罐（酯后碳四）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9542"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41001",
+    "description": "延石化T-41001罐（烷基化油）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41001"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41002",
+    "description": "延石化T-41002罐（烷基化油）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41002"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41003",
+    "description": "延石化T-41003罐（MTBE）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41003"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41004",
+    "description": "延石化T-41004罐（MTBE）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41004"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41005",
+    "description": "延石化T-41005罐（甲醇）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41005"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41006",
+    "description": "延石化T-41006罐（甲醇）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41006"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41007",
+    "description": "延石化T-41007罐（轻污油）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41007"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T41007",
+    "description": "延石化T-41007罐（轻污油）安全液位上限为14米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41007"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41008",
+    "description": "延石化T-41008罐（烷基化油）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41008"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T44001",
+    "description": "延石化T-44001罐（异丁烷）安全液位下限为1.85米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44001"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.85,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T44001",
+    "description": "延石化T-44001罐（异丁烷）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44001"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T44002",
+    "description": "延石化T-44002罐（异丁烷）安全液位下限为1.85米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44002"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.85,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T44002",
+    "description": "延石化T-44002罐（异丁烷）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44002"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T44003",
+    "description": "延石化T-44003罐（MTBE碳四）安全液位下限为1.85米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44003"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.85,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T44003",
+    "description": "延石化T-44003罐（MTBE碳四）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44003"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T44004",
+    "description": "延石化T-44004罐（MTBE碳四）安全液位下限为1.85米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44004"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.85,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T44004",
+    "description": "延石化T-44004罐（MTBE碳四）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44004"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  }
+]
