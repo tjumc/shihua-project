@@ -1,0 +1,2701 @@
+[
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线比重为0.7352。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7352,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线比重为0.7365。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7365,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线硫含量为0.00958。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00958,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线硫含量为0.00297。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00297,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_ARW_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线芳烃含量为6.92。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 6.92,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_ARW_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线芳烃含量为7.86。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 7.86,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线比重为0.7906。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7906,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线比重为0.7971。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7971,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线硫含量为0.0126。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0126,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线硫含量为0.00845。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00845,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_ARW_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线芳烃含量为11.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.1,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_ARW_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线芳烃含量为14.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 14.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线比重为0.8281。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8281,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线比重为0.8474。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8474,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线硫含量为0.0453。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0453,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线硫含量为0.38。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.38,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_DON_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线抗爆指数为60.9。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 60.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_DON_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线抗爆指数为58。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 58.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_ARW_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线芳烃含量为11.9。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_LD1_ARW_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线芳烃含量为26.5。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 26.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线比重为0.8721。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8721,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线比重为0.902。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.902,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线硫含量为0.08。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.08,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线硫含量为0.64。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.64,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_ARW_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线芳烃含量为18.3。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 18.3,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_ARW_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线芳烃含量为41.5。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 41.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线比重为0.9324。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9324,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线比重为0.9838。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9838,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线硫含量为0.16。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.16,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线硫含量为1.14。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 1.14,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_CON_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线康氏残炭为7.82。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 7.82,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_VR1_CON_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线康氏残炭为13.33。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 13.33,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线比重为0.7352。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7352,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线比重为0.7365。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7365,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线硫含量为0.00958。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00958,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线硫含量为0.00297。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00297,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_ARW_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线芳烃含量为6.92。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 6.92,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_ARW_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线芳烃含量为7.86。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 7.86,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线比重为0.7906。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7906,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线比重为0.7971。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7971,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线硫含量为0.0126。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0126,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线硫含量为0.00845。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.00845,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_ARW_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线芳烃含量为11.1。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.1,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_ARW_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线芳烃含量为14.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 14.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线比重为0.8281。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8281,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线比重为0.8474。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8474,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线硫含量为0.0453。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.0453,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线硫含量为0.38。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.38,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_DON_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线抗爆指数为60.9。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 60.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_DON_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线抗爆指数为58。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 58.0,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_ARW_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线芳烃含量为11.9。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 11.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_LD1_ARW_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线芳烃含量为26.5。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 26.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线比重为0.8721。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.8721,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线比重为0.902。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.902,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线硫含量为0.08。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.08,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线硫含量为0.64。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.64,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_ARW_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线芳烃含量为18.3。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 18.3,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_ARW_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线芳烃含量为41.5。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "ARW"
+      }
+    ],
+    "parameters": {
+      "sidecut_arw": {
+        "value": 41.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SPG_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线比重为0.9324。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9324,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SPG_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线比重为0.9838。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.9838,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SUL_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线硫含量为0.16。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 0.16,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_SUL_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线硫含量为1.14。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SUL"
+      }
+    ],
+    "parameters": {
+      "sidecut_sul": {
+        "value": 1.14,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_CON_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线康氏残炭为7.82。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 7.82,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_VR1_CON_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线康氏残炭为13.33。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 13.33,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_HD1_CON_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线康氏残炭为0.17。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 0.17,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_NK1_RON_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线辛烷值为43.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 43.2,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_300_KE1_DON_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线抗爆指数为44.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 44.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_HD1_CON_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线康氏残炭为0.17。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "CON"
+      }
+    ],
+    "parameters": {
+      "sidecut_con": {
+        "value": 0.17,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_NK1_RON_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线辛烷值为43.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 43.2,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_PROPERTY_260_KE1_DON_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线抗爆指数为44.6。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "DON"
+      }
+    ],
+    "parameters": {
+      "sidecut_don": {
+        "value": 44.6,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_RECYCLE_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_回炼油_去延能化侧线比重为0.95。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_回炼油_去延能化"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.95,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_GASOLINE_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_催化汽油侧线比重为0.7148。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_催化汽油"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.7148,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_GASOLINE_RON",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_催化汽油侧线辛烷值为89.3。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_催化汽油"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 89.3,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_GASOLINE_OLV",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_催化汽油侧线烯烃为33.4。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_催化汽油"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "OLV"
+      }
+    ],
+    "parameters": {
+      "sidecut_olv": {
+        "value": 33.4,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_DIESEL_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_催化柴油侧线比重为0.845。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_催化柴油"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.845,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC200_SLURRY_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_油浆_直售侧线比重为1.058。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_油浆_直售"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 1.058,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_RECYCLE_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "100万催化装置的100_回炼油_去延能化侧线比重为0.984。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "100_回炼油_去延能化"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.984,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_GASOLINE_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "100万催化装置的100_催化汽油侧线比重为0.725。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "100_催化汽油"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.725,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_GASOLINE_RON",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "100万催化装置的100_催化汽油侧线辛烷值为80.9。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "100_催化汽油"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "RON"
+      }
+    ],
+    "parameters": {
+      "sidecut_ron": {
+        "value": 80.9,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_DIESEL_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "100万催化装置的100_催化柴油侧线比重为0.856。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "100_催化柴油"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.856,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_PROPERTY_FCC100_SLURRY_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "100万催化装置的100_油浆_直售侧线比重为0.945。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "100_油浆_直售"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "SPG"
+      }
+    ],
+    "parameters": {
+      "sidecut_spg": {
+        "value": 0.945,
+        "unit": null
+      }
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "rule_id": "CRUDE_SETTLING_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6102每次收油结束后至少静置6小时方可付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "settling_time_min": {
+        "value": 6,
+        "unit": "h"
+      }
+    }
+  }
+]

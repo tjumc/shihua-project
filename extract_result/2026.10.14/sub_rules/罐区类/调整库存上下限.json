@@ -1,0 +1,219 @@
+[
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4808在调度起点后第8至16小时采用临时库存范围600至4800吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4808"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 600,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 4800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4203在调度起点后第8至16小时采用临时库存范围680至5060吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 680,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 5060,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4207在调度起点后第8至16小时采用临时库存范围760至5320吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 760,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 5320,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4209在调度起点后第8至16小时采用临时库存范围840至5580吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 840,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 5580,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4309在调度起点后第8至16小时采用临时库存范围920至5840吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 920,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 5840,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4307在调度起点后第8至16小时采用临时库存范围1000至6100吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 1000,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 6100,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4201在调度起点后第8至16小时采用临时库存范围1080至6360吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 1080,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 6360,
+        "unit": "t"
+      }
+    }
+  }
+]

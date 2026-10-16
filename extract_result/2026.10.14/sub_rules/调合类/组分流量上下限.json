@@ -1,0 +1,807 @@
+[
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_催化汽油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用催化汽油时，其调合质量流率为4.4至27.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.催化汽油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 4.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 27.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_常压石脑油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用常压石脑油时，其调合质量流率为5.8至33.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.常压石脑油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 5.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 33.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用MTBE时，其调合质量流率为7.2至40.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.MTBE"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 7.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 40.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_烃化液",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用烃化液时，其调合质量流率为8.6至46.6吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.烃化液"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 8.6,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 46.6,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用BMT时，其调合质量流率为10.0至53.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.BMT"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 10.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 53.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_RF1",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用RF1时，其调合质量流率为11.4至29.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.RF1"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 11.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 29.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_HAR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用HAR时，其调合质量流率为12.8至35.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.HAR"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 12.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 35.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_催化汽油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用催化汽油时，其调合质量流率为14.2至42.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.催化汽油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 14.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 42.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_常压石脑油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用常压石脑油时，其调合质量流率为3.0至36.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.常压石脑油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 3.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 36.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用MTBE时，其调合质量流率为4.4至42.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.MTBE"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 4.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 42.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_烃化液",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用烃化液时，其调合质量流率为5.8至48.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.烃化液"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 5.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 48.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用BMT时，其调合质量流率为7.2至25.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.BMT"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 7.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 25.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用MTBE时，其调合质量流率为8.6至31.6吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTBE"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 8.6,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 31.6,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用BMT时，其调合质量流率为10.0至38.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.BMT"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 10.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 38.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_RF1",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用RF1时，其调合质量流率为11.4至44.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.RF1"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 11.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 44.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_HAR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用HAR时，其调合质量流率为12.8至50.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.HAR"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 12.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 50.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_BHR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用BHR时，其调合质量流率为14.2至57.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.BHR"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 14.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 57.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_H1N",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用H1N时，其调合质量流率为3.0至21.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.H1N"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 3.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 21.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_SZB",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用SZB时，其调合质量流率为4.4至27.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.SZB"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 4.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 27.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_催化柴油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用催化柴油时，其调合质量流率为5.8至33.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.催化柴油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 5.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 33.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_常压直馏柴油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用常压直馏柴油时，其调合质量流率为7.2至40.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.常压直馏柴油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 7.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 40.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_HCJ",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用HCJ时，其调合质量流率为8.6至46.6吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.HCJ"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 8.6,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 46.6,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用H2D时，其调合质量流率为10.0至53.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2D"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 10.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 53.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用H2E时，其调合质量流率为11.4至29.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2E"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 11.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 29.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用H2K时，其调合质量流率为12.8至35.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2K"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 12.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 35.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H2D时，其调合质量流率为14.2至42.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 14.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 42.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H2E时，其调合质量流率为3.0至36.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2E"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 3.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 36.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H2K时，其调合质量流率为4.4至42.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2K"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 4.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 42.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H4D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H4D时，其调合质量流率为5.8至48.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H4D"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 5.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 48.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H4E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H4E时，其调合质量流率为7.2至25.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H4E"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 7.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 25.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_JET_H5J",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤选用H5J时，其调合质量流率为8.6至31.6吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 8.6,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 31.6,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_JET_HCJ",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤选用HCJ时，其调合质量流率为10.0至38.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.HCJ"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 10.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 38.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_DMA_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油选用H2D时，其调合质量流率为11.4至44.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2D"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 11.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 44.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_DMA_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油选用H2E时，其调合质量流率为12.8至50.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2E"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 12.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 50.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_DMA_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油选用H2K时，其调合质量流率为14.2至57.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2K"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 14.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 57.2,
+        "unit": "t/h"
+      }
+    }
+  }
+]

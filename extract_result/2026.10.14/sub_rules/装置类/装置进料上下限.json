@@ -1,0 +1,3384 @@
+[
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_CDU_300",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置最小加工能力由额定负荷与最小负荷系数计算得到，为7293吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 7293,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MAX_CDU_300",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置最大加工能力由额定负荷与最大负荷系数计算得到，为9009吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_max": {
+        "value": 9009,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_CDU_260",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置最小加工能力由额定负荷与最小负荷系数计算得到，为6485.5吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 6485.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MAX_CDU_260",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置最大加工能力由额定负荷与最大负荷系数计算得到，为8011.5吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_max": {
+        "value": 8011.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_FCC_200",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置最小加工能力由额定负荷与最小负荷系数计算得到，为4590吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "200万催化装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 4590,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_FCC_100",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "100万催化装置最小加工能力由额定负荷与最小负荷系数计算得到，为2295吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "100万催化装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 2295,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_DIESEL_HYDRO_140",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "140万柴油加氢装置最小加工能力由额定负荷与最小负荷系数计算得到，为2524.8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "140万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 2524.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_DIESEL_HYDRO_240",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "240万柴油加氢装置最小加工能力由额定负荷与最小负荷系数计算得到，为4319.91吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "240万柴油加氢装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 4319.91,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_REFORMING_120",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "120万重整装置最小加工能力由额定负荷与最小负荷系数计算得到，为2431.2吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "120万重整装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 2431.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_JET_HYDRO_50",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "50万航煤加氢装置最小加工能力由额定负荷与最小负荷系数计算得到，为952吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "50万航煤加氢装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 952,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_GAS_FRACTIONATION_YL",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "气体分馏装置最小加工能力由额定负荷与最小负荷系数计算得到，为575.4吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 575.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_GAS_FRACTIONATION_60",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "60万气体分馏装置最小加工能力由额定负荷与最小负荷系数计算得到，为1190吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "60万气体分馏装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 1190,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_MTBE_YL",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "MTBE装置最小加工能力由额定负荷与最小负荷系数计算得到，为114.8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 114.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_MTBE_12",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "12万MTBE装置最小加工能力由额定负荷与最小负荷系数计算得到，为670.15吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "12万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 670.15,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_MTBE_25",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "25万MTBE装置最小加工能力由额定负荷与最小负荷系数计算得到，为550.2吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "25万MTBE装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 550.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_PP_YL",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "聚丙烯装置最小加工能力由额定负荷与最小负荷系数计算得到，为191.8吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 191.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_CAPACITY_MIN_PP_20",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "20万聚丙烯装置最小加工能力由额定负荷与最小负荷系数计算得到，为383.6吨/天。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "20万聚丙烯装置"
+      }
+    ],
+    "parameters": {
+      "processing_capacity_min": {
+        "value": 383.6,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_CDU_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_03正常运行时进料量为5040至6148.8吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "CDU_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 5040,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 6148.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_CDU_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_04正常运行时进料量为5220至6368.4吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "CDU_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 5220,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 6368.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_CDU_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_05正常运行时进料量为5400至6588.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "CDU_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 5400,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 6588.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_CDU_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_06正常运行时进料量为5580至6807.6吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "CDU_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 5580,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 6807.6,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_CDU_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_07正常运行时进料量为5760至7027.2吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "CDU_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 5760,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 7027.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_CDU_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_08正常运行时进料量为5940至7246.8吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "CDU_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 5940,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 7246.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_01正常运行时进料量为345至448.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 345,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 448.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_02正常运行时进料量为360至468.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 360,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 468.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_03正常运行时进料量为375至487.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 375,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 487.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_04正常运行时进料量为390至507.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 390,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 507.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_05正常运行时进料量为405至526.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 405,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 526.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_06正常运行时进料量为420至546.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 420,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 546.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_07正常运行时进料量为435至565.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 435,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 565.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_08正常运行时进料量为450至585.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 450,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 585.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_09正常运行时进料量为465至604.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_09"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 465,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 604.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_01_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_10正常运行时进料量为480至624.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "中压加裂_PH_10"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 480,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 624.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_01正常运行时进料量为425至552.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 425,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 552.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_02正常运行时进料量为440至572.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 440,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 572.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_03正常运行时进料量为455至591.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 455,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 591.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_04正常运行时进料量为470至611.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 470,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 611.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_05正常运行时进料量为485至630.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 485,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 630.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_06正常运行时进料量为500至650.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 500,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 650.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_07正常运行时进料量为515至669.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 515,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 669.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_08正常运行时进料量为530至689.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 530,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 689.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_09正常运行时进料量为545至708.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_09"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 545,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 708.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_02_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_10正常运行时进料量为560至728.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "高压加裂_PH_10"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 560,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 728.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_01正常运行时进料量为505至656.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 505,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 656.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_02正常运行时进料量为520至676.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 520,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 676.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_03正常运行时进料量为535至695.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 535,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 695.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_04正常运行时进料量为550至715.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 550,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 715.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_05正常运行时进料量为565至734.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 565,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 734.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_06正常运行时进料量为580至754.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 580,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 754.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_07正常运行时进料量为595至773.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 595,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 773.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_08正常运行时进料量为610至793.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 610,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 793.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_09正常运行时进料量为625至812.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_09"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 625,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 812.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_03_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_10正常运行时进料量为640至832.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催拆改制_PH_10"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 640,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 832.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_01正常运行时进料量为585至760.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 585,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 760.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_02正常运行时进料量为600至780.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 600,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 780.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_03正常运行时进料量为615至799.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 615,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 799.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_04正常运行时进料量为630至819.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 630,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 819.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_05正常运行时进料量为645至838.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 645,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 838.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_06正常运行时进料量为660至858.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 660,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 858.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_07正常运行时进料量为675至877.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 675,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 877.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_08正常运行时进料量为690至897.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 690,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 897.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_09正常运行时进料量为705至916.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_09"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 705,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 916.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_04_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_10正常运行时进料量为720至936.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "渣加_PH_10"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 720,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 936.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_01正常运行时进料量为665至864.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 665,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 864.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_02正常运行时进料量为680至884.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 680,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 884.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_03正常运行时进料量为695至903.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 695,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 903.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_04正常运行时进料量为710至923.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 710,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 923.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_05正常运行时进料量为725至942.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 725,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 942.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_06正常运行时进料量为740至962.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 740,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 962.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_07正常运行时进料量为755至981.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 755,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 981.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_08正常运行时进料量为770至1001.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 770,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1001.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_09正常运行时进料量为785至1020.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_09"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 785,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1020.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_05_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_10正常运行时进料量为800至1040.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "延迟焦化_PH_10"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 800,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1040.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_01正常运行时进料量为745至968.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 745,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 968.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_02正常运行时进料量为760至988.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 760,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 988.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_03正常运行时进料量为775至1007.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 775,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1007.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_04正常运行时进料量为790至1027.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 790,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1027.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_05正常运行时进料量为805至1046.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 805,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1046.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_06正常运行时进料量为820至1066.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 820,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1066.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_07正常运行时进料量为835至1085.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 835,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1085.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_08正常运行时进料量为850至1105.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 850,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1105.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_09正常运行时进料量为865至1124.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_09"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 865,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1124.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_06_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_10正常运行时进料量为880至1144.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "汽柴油加氢_PH_10"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 880,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1144.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_01正常运行时进料量为825至1072.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 825,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1072.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_02正常运行时进料量为840至1092.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 840,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1092.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_03正常运行时进料量为855至1111.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 855,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1111.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_04正常运行时进料量为870至1131.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 870,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1131.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_05正常运行时进料量为885至1150.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 885,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1150.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_06正常运行时进料量为900至1170.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 900,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1170.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_07正常运行时进料量为915至1189.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 915,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1189.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_08正常运行时进料量为930至1209.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 930,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1209.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_09正常运行时进料量为945至1228.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_09"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 945,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1228.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_07_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_10正常运行时进料量为960至1248.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "重整_PH_10"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 960,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1248.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_01正常运行时进料量为905至1176.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 905,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1176.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_02正常运行时进料量为920至1196.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 920,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1196.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_03正常运行时进料量为935至1215.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 935,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1215.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_04正常运行时进料量为950至1235.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 950,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1235.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_05正常运行时进料量为965至1254.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 965,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1254.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_06正常运行时进料量为980至1274.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 980,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1274.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_07正常运行时进料量为995至1293.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 995,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1293.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_08正常运行时进料量为1010至1313.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1010,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1313.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_09正常运行时进料量为1025至1332.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_09"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1025,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1332.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_08_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_10正常运行时进料量为1040至1352.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "催化_PH_10"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1040,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1352.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_01正常运行时进料量为985至1280.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 985,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1280.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_02正常运行时进料量为1000至1300.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1000,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1300.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_03正常运行时进料量为1015至1319.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1015,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1319.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_04正常运行时进料量为1030至1339.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1030,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1339.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_05正常运行时进料量为1045至1358.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1045,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1358.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_06正常运行时进料量为1060至1378.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_06"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1060,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1378.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_07正常运行时进料量为1075至1397.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_07"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1075,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1397.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_08正常运行时进料量为1090至1417.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_08"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1090,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1417.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_09正常运行时进料量为1105至1436.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_09"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1105,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1436.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_09_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_10正常运行时进料量为1120至1456.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "芳烃_PH_10"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1120,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1456.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_10_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_01正常运行时进料量为1065至1384.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙烯_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1065,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1384.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_10_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_02正常运行时进料量为1080至1404.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙烯_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1080,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1404.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_10_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_03正常运行时进料量为1095至1423.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙烯_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1095,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1423.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_10_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_04正常运行时进料量为1110至1443.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙烯_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1110,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1443.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_UP_PH_10_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_05正常运行时进料量为1125至1462.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "乙烯_PH_05"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 1125,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 1462.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_01_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_01正常运行时进料量为187至252.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "S-Zorb_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 187,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 252.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_01_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_02正常运行时进料量为199至268.7吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "S-Zorb_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 199,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 268.7,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_01_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_03正常运行时进料量为211至284.9吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "S-Zorb_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 211,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 284.9,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_01_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_04正常运行时进料量为223至301.1吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "S-Zorb_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 223,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 301.1,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_02_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_01正常运行时进料量为232至313.2吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "航煤加氢_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 232,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 313.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_02_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_02正常运行时进料量为244至329.4吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "航煤加氢_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 244,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 329.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_02_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_03正常运行时进料量为256至345.6吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "航煤加氢_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 256,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 345.6,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_02_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_04正常运行时进料量为268至361.8吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "航煤加氢_PH_04"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 268,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 361.8,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_03_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "PTA_PH_01正常运行时进料量为277至374.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "PTA_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 277,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 374.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_03_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "PTA_PH_02正常运行时进料量为289至390.2吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "PTA_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 289,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 390.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_03_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "PTA_PH_03正常运行时进料量为301至406.4吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "PTA_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 301,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 406.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_04_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "轻烃回收_PH_01正常运行时进料量为322至434.7吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "轻烃回收_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 322,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 434.7,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_04_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "轻烃回收_PH_02正常运行时进料量为334至450.9吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "轻烃回收_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 334,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 450.9,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_04_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "轻烃回收_PH_03正常运行时进料量为346至467.1吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "轻烃回收_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 346,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 467.1,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_05_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "气分_PH_01正常运行时进料量为367至495.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气分_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 367,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 495.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_05_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "气分_PH_02正常运行时进料量为379至511.7吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气分_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 379,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 511.7,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_05_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "气分_PH_03正常运行时进料量为391至527.9吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "气分_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 391,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 527.9,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_06_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MTBE_PH_01正常运行时进料量为412至556.2吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 412,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 556.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_06_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MTBE_PH_02正常运行时进料量为424至572.4吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 424,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 572.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_06_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MTBE_PH_03正常运行时进料量为436至588.6吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "MTBE_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 436,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 588.6,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_07_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "溶脱_PH_01正常运行时进料量为457至617.0吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "溶脱_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 457,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 617.0,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_07_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "溶脱_PH_02正常运行时进料量为469至633.2吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "溶脱_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 469,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 633.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_07_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "溶脱_PH_03正常运行时进料量为481至649.4吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "溶脱_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 481,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 649.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_08_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "油浆拔头_PH_01正常运行时进料量为502至677.7吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "油浆拔头_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 502,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 677.7,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_08_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "油浆拔头_PH_02正常运行时进料量为514至693.9吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "油浆拔头_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 514,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 693.9,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_08_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "油浆拔头_PH_03正常运行时进料量为526至710.1吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "油浆拔头_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 526,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 710.1,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_09_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚酯_PH_01正常运行时进料量为547至738.5吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚酯_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 547,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 738.5,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_09_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚酯_PH_02正常运行时进料量为559至754.7吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚酯_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 559,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 754.7,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_09_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚酯_PH_03正常运行时进料量为571至770.9吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚酯_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 571,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 770.9,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_10_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚烯烃_PH_01正常运行时进料量为592至799.2吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚烯烃_PH_01"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 592,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 799.2,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_10_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚烯烃_PH_02正常运行时进料量为604至815.4吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚烯烃_PH_02"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 604,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 815.4,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_BOUND_DOWN_PH_10_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚烯烃_PH_03正常运行时进料量为616至831.6吨/天；停机时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Up",
+        "element": "聚烯烃_PH_03"
+      }
+    ],
+    "parameters": {
+      "feed_rate_min": {
+        "value": 616,
+        "unit": "t/d"
+      },
+      "feed_rate_max": {
+        "value": 831.6,
+        "unit": "t/d"
+      }
+    }
+  }
+]

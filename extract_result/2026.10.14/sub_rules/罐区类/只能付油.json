@@ -1,0 +1,186 @@
+[
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4203在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4207在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4209在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4309在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4307在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4201在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4202在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4202"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4204在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4204"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  }
+]

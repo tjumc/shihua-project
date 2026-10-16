@@ -1,0 +1,2992 @@
+[
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_01生产的S_PRODUCT_中压加裂_01有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_01.S_PRODUCT_中压加裂_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_02生产的S_PRODUCT_中压加裂_02有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_02.S_PRODUCT_中压加裂_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_03生产的S_PRODUCT_中压加裂_03有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_03.S_PRODUCT_中压加裂_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_04生产的S_PRODUCT_中压加裂_04有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_04.S_PRODUCT_中压加裂_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_05生产的S_PRODUCT_中压加裂_05有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_05.S_PRODUCT_中压加裂_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_06生产的S_PRODUCT_中压加裂_06有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_06.S_PRODUCT_中压加裂_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_07生产的S_PRODUCT_中压加裂_07有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_07.S_PRODUCT_中压加裂_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_08生产的S_PRODUCT_中压加裂_08有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_08.S_PRODUCT_中压加裂_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_09生产的S_PRODUCT_中压加裂_09有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_09.S_PRODUCT_中压加裂_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_01_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_10生产的S_PRODUCT_中压加裂_10有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "中压加裂_PH_10.S_PRODUCT_中压加裂_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_01生产的S_PRODUCT_高压加裂_01有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_01.S_PRODUCT_高压加裂_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_02生产的S_PRODUCT_高压加裂_02有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_02.S_PRODUCT_高压加裂_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_03生产的S_PRODUCT_高压加裂_03有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_03.S_PRODUCT_高压加裂_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_04生产的S_PRODUCT_高压加裂_04有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_04.S_PRODUCT_高压加裂_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_05生产的S_PRODUCT_高压加裂_05有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_05.S_PRODUCT_高压加裂_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_06生产的S_PRODUCT_高压加裂_06有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_06.S_PRODUCT_高压加裂_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_07生产的S_PRODUCT_高压加裂_07有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_07.S_PRODUCT_高压加裂_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_08生产的S_PRODUCT_高压加裂_08有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_08.S_PRODUCT_高压加裂_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_09生产的S_PRODUCT_高压加裂_09有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_09.S_PRODUCT_高压加裂_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_02_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_10生产的S_PRODUCT_高压加裂_10有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "高压加裂_PH_10.S_PRODUCT_高压加裂_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_01生产的S_PRODUCT_催拆改制_01有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_01.S_PRODUCT_催拆改制_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_02生产的S_PRODUCT_催拆改制_02有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_02.S_PRODUCT_催拆改制_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_03生产的S_PRODUCT_催拆改制_03有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_03.S_PRODUCT_催拆改制_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_04生产的S_PRODUCT_催拆改制_04有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_04.S_PRODUCT_催拆改制_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_05生产的S_PRODUCT_催拆改制_05有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_05.S_PRODUCT_催拆改制_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_06生产的S_PRODUCT_催拆改制_06有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_06.S_PRODUCT_催拆改制_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_07生产的S_PRODUCT_催拆改制_07有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_07.S_PRODUCT_催拆改制_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_08生产的S_PRODUCT_催拆改制_08有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_08.S_PRODUCT_催拆改制_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_09生产的S_PRODUCT_催拆改制_09有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_09.S_PRODUCT_催拆改制_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_03_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_10生产的S_PRODUCT_催拆改制_10有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催拆改制_PH_10.S_PRODUCT_催拆改制_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_01生产的S_PRODUCT_渣加_01有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_01.S_PRODUCT_渣加_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_02生产的S_PRODUCT_渣加_02有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_02.S_PRODUCT_渣加_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_03生产的S_PRODUCT_渣加_03有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_03.S_PRODUCT_渣加_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_04生产的S_PRODUCT_渣加_04有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_04.S_PRODUCT_渣加_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_05生产的S_PRODUCT_渣加_05有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_05.S_PRODUCT_渣加_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_06生产的S_PRODUCT_渣加_06有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_06.S_PRODUCT_渣加_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_07生产的S_PRODUCT_渣加_07有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_07.S_PRODUCT_渣加_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_08生产的S_PRODUCT_渣加_08有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_08.S_PRODUCT_渣加_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_09生产的S_PRODUCT_渣加_09有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_09.S_PRODUCT_渣加_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_04_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_10生产的S_PRODUCT_渣加_10有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "渣加_PH_10.S_PRODUCT_渣加_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_01生产的S_PRODUCT_延迟焦化_01有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_01.S_PRODUCT_延迟焦化_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_02生产的S_PRODUCT_延迟焦化_02有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_02.S_PRODUCT_延迟焦化_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_03生产的S_PRODUCT_延迟焦化_03有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_03.S_PRODUCT_延迟焦化_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_04生产的S_PRODUCT_延迟焦化_04有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_04.S_PRODUCT_延迟焦化_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_05生产的S_PRODUCT_延迟焦化_05有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_05.S_PRODUCT_延迟焦化_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_06生产的S_PRODUCT_延迟焦化_06有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_06.S_PRODUCT_延迟焦化_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_07生产的S_PRODUCT_延迟焦化_07有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_07.S_PRODUCT_延迟焦化_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_08生产的S_PRODUCT_延迟焦化_08有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_08.S_PRODUCT_延迟焦化_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_09生产的S_PRODUCT_延迟焦化_09有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_09.S_PRODUCT_延迟焦化_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_05_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_10生产的S_PRODUCT_延迟焦化_10有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "延迟焦化_PH_10.S_PRODUCT_延迟焦化_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_01生产的S_PRODUCT_汽柴油加氢_01有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_01.S_PRODUCT_汽柴油加氢_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_02生产的S_PRODUCT_汽柴油加氢_02有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_02.S_PRODUCT_汽柴油加氢_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_03生产的S_PRODUCT_汽柴油加氢_03有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_03.S_PRODUCT_汽柴油加氢_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_04生产的S_PRODUCT_汽柴油加氢_04有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_04.S_PRODUCT_汽柴油加氢_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_05生产的S_PRODUCT_汽柴油加氢_05有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_05.S_PRODUCT_汽柴油加氢_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_06生产的S_PRODUCT_汽柴油加氢_06有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_06.S_PRODUCT_汽柴油加氢_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_07生产的S_PRODUCT_汽柴油加氢_07有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_07.S_PRODUCT_汽柴油加氢_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_08生产的S_PRODUCT_汽柴油加氢_08有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_08.S_PRODUCT_汽柴油加氢_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_09生产的S_PRODUCT_汽柴油加氢_09有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_09.S_PRODUCT_汽柴油加氢_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_06_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_10生产的S_PRODUCT_汽柴油加氢_10有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_10.S_PRODUCT_汽柴油加氢_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_01生产的S_PRODUCT_重整_01有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_01.S_PRODUCT_重整_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_02生产的S_PRODUCT_重整_02有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_02.S_PRODUCT_重整_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_03生产的S_PRODUCT_重整_03有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_03.S_PRODUCT_重整_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_04生产的S_PRODUCT_重整_04有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_04.S_PRODUCT_重整_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_05生产的S_PRODUCT_重整_05有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_05.S_PRODUCT_重整_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_06生产的S_PRODUCT_重整_06有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_06.S_PRODUCT_重整_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_07生产的S_PRODUCT_重整_07有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_07.S_PRODUCT_重整_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_08生产的S_PRODUCT_重整_08有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_08.S_PRODUCT_重整_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_09生产的S_PRODUCT_重整_09有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_09.S_PRODUCT_重整_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_07_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_10生产的S_PRODUCT_重整_10有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "重整_PH_10.S_PRODUCT_重整_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_01生产的S_PRODUCT_催化_01有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_01.S_PRODUCT_催化_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_02生产的S_PRODUCT_催化_02有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_02.S_PRODUCT_催化_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_03生产的S_PRODUCT_催化_03有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_03.S_PRODUCT_催化_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_04生产的S_PRODUCT_催化_04有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_04.S_PRODUCT_催化_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_05生产的S_PRODUCT_催化_05有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_05.S_PRODUCT_催化_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_06生产的S_PRODUCT_催化_06有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_06.S_PRODUCT_催化_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_07生产的S_PRODUCT_催化_07有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_07.S_PRODUCT_催化_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_08生产的S_PRODUCT_催化_08有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_08.S_PRODUCT_催化_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_09生产的S_PRODUCT_催化_09有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_09.S_PRODUCT_催化_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_08_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_10生产的S_PRODUCT_催化_10有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "催化_PH_10.S_PRODUCT_催化_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_01生产的S_PRODUCT_芳烃_01有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_01.S_PRODUCT_芳烃_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_02生产的S_PRODUCT_芳烃_02有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_02.S_PRODUCT_芳烃_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_03生产的S_PRODUCT_芳烃_03有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_03.S_PRODUCT_芳烃_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_04生产的S_PRODUCT_芳烃_04有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_04.S_PRODUCT_芳烃_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_05生产的S_PRODUCT_芳烃_05有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_05.S_PRODUCT_芳烃_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_06生产的S_PRODUCT_芳烃_06有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_06.S_PRODUCT_芳烃_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_07生产的S_PRODUCT_芳烃_07有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_07.S_PRODUCT_芳烃_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_08生产的S_PRODUCT_芳烃_08有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_08.S_PRODUCT_芳烃_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_09生产的S_PRODUCT_芳烃_09有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_09.S_PRODUCT_芳烃_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_09_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_10生产的S_PRODUCT_芳烃_10有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "芳烃_PH_10.S_PRODUCT_芳烃_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_01生产的S_PRODUCT_乙烯_01有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_01.S_PRODUCT_乙烯_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_02生产的S_PRODUCT_乙烯_02有产出时，硫质量分数为0至0.0008。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_02.S_PRODUCT_乙烯_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_03生产的S_PRODUCT_乙烯_03有产出时，硫质量分数为0至0.0009。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_03.S_PRODUCT_乙烯_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0009,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_04生产的S_PRODUCT_乙烯_04有产出时，硫质量分数为0至0.001。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_04.S_PRODUCT_乙烯_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.001,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_05生产的S_PRODUCT_乙烯_05有产出时，硫质量分数为0至0.0011。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_05.S_PRODUCT_乙烯_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0011,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_06生产的S_PRODUCT_乙烯_06有产出时，硫质量分数为0至0.0012。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_06.S_PRODUCT_乙烯_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_07生产的S_PRODUCT_乙烯_07有产出时，硫质量分数为0至0.0013。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_07.S_PRODUCT_乙烯_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0013,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_08生产的S_PRODUCT_乙烯_08有产出时，硫质量分数为0至0.0005。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_08.S_PRODUCT_乙烯_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0005,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_09生产的S_PRODUCT_乙烯_09有产出时，硫质量分数为0至0.0006。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_09.S_PRODUCT_乙烯_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0006,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_UP_PH_10_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_10生产的S_PRODUCT_乙烯_10有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "乙烯_PH_10.S_PRODUCT_乙烯_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_01_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_01生产的S_PRODUCT_S_Zorb_01有产出时，硫质量分数为0至0.00046。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "S-Zorb_PH_01.S_PRODUCT_S_Zorb_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00046,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_01_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_02生产的S_PRODUCT_S_Zorb_02有产出时，硫质量分数为0至0.00054。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "S-Zorb_PH_02.S_PRODUCT_S_Zorb_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00054,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_01_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_03生产的S_PRODUCT_S_Zorb_03有产出时，硫质量分数为0至0.00062。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "S-Zorb_PH_03.S_PRODUCT_S_Zorb_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00062,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_02_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_01生产的S_PRODUCT_航煤加氢_01有产出时，硫质量分数为0至0.00054。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "航煤加氢_PH_01.S_PRODUCT_航煤加氢_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00054,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_02_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_02生产的S_PRODUCT_航煤加氢_02有产出时，硫质量分数为0至0.00062。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "航煤加氢_PH_02.S_PRODUCT_航煤加氢_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00062,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_02_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_03生产的S_PRODUCT_航煤加氢_03有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "航煤加氢_PH_03.S_PRODUCT_航煤加氢_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_03_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "PTA_PH_01生产的S_PRODUCT_PTA_01有产出时，硫质量分数为0至0.00062。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "PTA_PH_01.S_PRODUCT_PTA_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00062,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_03_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "PTA_PH_02生产的S_PRODUCT_PTA_02有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "PTA_PH_02.S_PRODUCT_PTA_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_03_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "PTA_PH_03生产的S_PRODUCT_PTA_03有产出时，硫质量分数为0至0.00078。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "PTA_PH_03.S_PRODUCT_PTA_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00078,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_04_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "轻烃回收_PH_01生产的S_PRODUCT_轻烃回收_01有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "轻烃回收_PH_01.S_PRODUCT_轻烃回收_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_04_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "轻烃回收_PH_02生产的S_PRODUCT_轻烃回收_02有产出时，硫质量分数为0至0.00078。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "轻烃回收_PH_02.S_PRODUCT_轻烃回收_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00078,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_04_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "轻烃回收_PH_03生产的S_PRODUCT_轻烃回收_03有产出时，硫质量分数为0至0.00086。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "轻烃回收_PH_03.S_PRODUCT_轻烃回收_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00086,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_05_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "气分_PH_01生产的S_PRODUCT_气分_01有产出时，硫质量分数为0至0.00078。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "气分_PH_01.S_PRODUCT_气分_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00078,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_05_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "气分_PH_02生产的S_PRODUCT_气分_02有产出时，硫质量分数为0至0.00086。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "气分_PH_02.S_PRODUCT_气分_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00086,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_05_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "气分_PH_03生产的S_PRODUCT_气分_03有产出时，硫质量分数为0至0.0003。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "气分_PH_03.S_PRODUCT_气分_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0003,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_06_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MTBE_PH_01生产的S_PRODUCT_MTBE_01有产出时，硫质量分数为0至0.00086。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "MTBE_PH_01.S_PRODUCT_MTBE_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00086,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_06_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MTBE_PH_02生产的S_PRODUCT_MTBE_02有产出时，硫质量分数为0至0.0003。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "MTBE_PH_02.S_PRODUCT_MTBE_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0003,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_06_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MTBE_PH_03生产的S_PRODUCT_MTBE_03有产出时，硫质量分数为0至0.00038。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "MTBE_PH_03.S_PRODUCT_MTBE_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00038,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_07_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "溶脱_PH_01生产的S_PRODUCT_溶脱_01有产出时，硫质量分数为0至0.0003。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "溶脱_PH_01.S_PRODUCT_溶脱_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0003,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_07_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "溶脱_PH_02生产的S_PRODUCT_溶脱_02有产出时，硫质量分数为0至0.00038。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "溶脱_PH_02.S_PRODUCT_溶脱_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00038,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_07_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "溶脱_PH_03生产的S_PRODUCT_溶脱_03有产出时，硫质量分数为0至0.00046。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "溶脱_PH_03.S_PRODUCT_溶脱_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00046,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_08_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "油浆拔头_PH_01生产的S_PRODUCT_油浆拔头_01有产出时，硫质量分数为0至0.00038。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "油浆拔头_PH_01.S_PRODUCT_油浆拔头_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00038,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_08_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "油浆拔头_PH_02生产的S_PRODUCT_油浆拔头_02有产出时，硫质量分数为0至0.00046。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "油浆拔头_PH_02.S_PRODUCT_油浆拔头_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00046,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_08_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "油浆拔头_PH_03生产的S_PRODUCT_油浆拔头_03有产出时，硫质量分数为0至0.00054。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "油浆拔头_PH_03.S_PRODUCT_油浆拔头_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00054,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_09_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚酯_PH_01生产的S_PRODUCT_聚酯_01有产出时，硫质量分数为0至0.00046。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "聚酯_PH_01.S_PRODUCT_聚酯_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00046,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_09_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚酯_PH_02生产的S_PRODUCT_聚酯_02有产出时，硫质量分数为0至0.00054。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "聚酯_PH_02.S_PRODUCT_聚酯_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00054,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_09_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚酯_PH_03生产的S_PRODUCT_聚酯_03有产出时，硫质量分数为0至0.00062。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "聚酯_PH_03.S_PRODUCT_聚酯_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00062,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_10_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚烯烃_PH_01生产的S_PRODUCT_聚烯烃_01有产出时，硫质量分数为0至0.00054。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "聚烯烃_PH_01.S_PRODUCT_聚烯烃_01.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00054,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_10_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚烯烃_PH_02生产的S_PRODUCT_聚烯烃_02有产出时，硫质量分数为0至0.00062。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "聚烯烃_PH_02.S_PRODUCT_聚烯烃_02.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.00062,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_PROPERTY_BOUND_DOWN_PH_10_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚烯烃_PH_03生产的S_PRODUCT_聚烯烃_03有产出时，硫质量分数为0至0.0007。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "聚烯烃_PH_03.S_PRODUCT_聚烯烃_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "product_sulfur_min": {
+        "value": 0,
+        "unit": "1"
+      },
+      "product_sulfur_max": {
+        "value": 0.0007,
+        "unit": "1"
+      }
+    }
+  }
+]

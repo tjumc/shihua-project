@@ -1,0 +1,34 @@
+[
+  {
+    "rule_id": "CRUDE_FEED_TANK_COUNT_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置运行时由1至2个原油罐实际供料；有效连接最小供料流率为1吨/小时。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101,6102,6105,6106"
+      }
+    ],
+    "parameters": {
+      "feed_tank_count_min": {
+        "value": 1,
+        "unit": "1"
+      },
+      "feed_tank_count_max": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  }
+]

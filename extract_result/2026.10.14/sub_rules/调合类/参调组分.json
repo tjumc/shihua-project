@@ -1,0 +1,240 @@
+[
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_CAT_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化汽油是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.催化汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_CDU_NAPHTHA",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压石脑油是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.常压石脑油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "MTBE是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.MTBE"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_ALKYLATE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "烃化液是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.烃化液"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_CAT_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化汽油是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.催化汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_CDU_NAPHTHA",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压石脑油是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.常压石脑油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "MTBE是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.MTBE"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_ALKYLATE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "烃化液是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.烃化液"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_0_DIESEL_CAT_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化柴油是0#柴油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.催化柴油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_0_DIESEL_CDU_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压直馏柴油是0#柴油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.常压直馏柴油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W92",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "92#国Ⅴ汽油新增真实参调关系包括BMT、RF1、HAR、BHR、H1N、SZB、H8N、TOL、XYL、ZBB、HLN；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.BMT,BLEND_W92.RF1,BLEND_W92.HAR,BLEND_W92.BHR,BLEND_W92.H1N,BLEND_W92.SZB,BLEND_W92.H8N,BLEND_W92.TOL,BLEND_W92.XYL,BLEND_W92.ZBB,BLEND_W92.HLN"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W95",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "95#国Ⅴ汽油新增真实参调关系包括BMT、HAR、BHR、SZB、TOL、XYL；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.BMT,BLEND_W95.HAR,BLEND_W95.BHR,BLEND_W95.SZB,BLEND_W95.TOL,BLEND_W95.XYL"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W98",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "98#国Ⅴ汽油新增真实参调关系包括MTB、BMT、RF1、HAR、BHR、H1N、SZB、H8N、TOL、XYL、ZBB、ALK；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTB,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.ALK"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W00",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "0#国标Ⅴ柴油新增真实参调关系包括HCJ、H2D、H2E、H2K、H4D、H4E、HCD、H1J；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.HCJ,BLEND_W00.H2D,BLEND_W00.H2E,BLEND_W00.H2K,BLEND_W00.H4D,BLEND_W00.H4E,BLEND_W00.HCD,BLEND_W00.H1J"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W20",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "-20#国标Ⅴ柴油新增真实参调关系包括H2D、H2E、H2K、H4D、H4E、HCD；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D,BLEND_W20.H2E,BLEND_W20.H2K,BLEND_W20.H4D,BLEND_W20.H4E,BLEND_W20.HCD"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_JET",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "航煤新增真实参调关系包括H5J、HCJ；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J,BLEND_JET.HCJ"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_DMA",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "船用燃料油新增真实参调关系包括H2D、H2E、H2K；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2D,BLEND_DMA.H2E,BLEND_DMA.H2K"
+      }
+    ],
+    "parameters": {}
+  }
+]

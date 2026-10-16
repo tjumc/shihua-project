@@ -1,0 +1,29 @@
+[
+  {
+    "rule_id": "CRUDE_RECEIVE_DEADLINE_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "到货批次ARR_PH_01在调度起点后第2小时到达，须在第20小时结束前由6101与6102收完剩余1000吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101,6102"
+      }
+    ],
+    "parameters": {
+      "arrival_time_offset": {
+        "value": 2,
+        "unit": "h"
+      },
+      "receipt_deadline_offset": {
+        "value": 20,
+        "unit": "h"
+      },
+      "remaining_receipt_mass": {
+        "value": 1000,
+        "unit": "t"
+      }
+    }
+  }
+]

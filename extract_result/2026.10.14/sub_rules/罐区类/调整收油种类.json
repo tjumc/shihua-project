@@ -1,0 +1,218 @@
+[
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4207在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_01；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4207.S_MATERIAL_PH_01"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4209在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_02；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4209.S_MATERIAL_PH_02"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4309在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_03；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4309.S_MATERIAL_PH_03"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4307在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_04；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4307.S_MATERIAL_PH_04"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4201在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_05；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4201.S_MATERIAL_PH_05"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4202在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_06；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4202.S_MATERIAL_PH_06"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4204在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_07；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4204.S_MATERIAL_PH_07"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9502在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_08；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "9502.S_MATERIAL_PH_08"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  }
+]

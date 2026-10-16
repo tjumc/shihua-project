@@ -1,0 +1,230 @@
+[
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）初始液位为7.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 7.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）初始液位为7.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 7.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）初始液位为7.75米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 7.75,
+        "unit": "m"
+      }
+    }
+  }
+]

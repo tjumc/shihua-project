@@ -1,0 +1,30 @@
+[
+  {
+    "rule_id": "CRUDE_FEED_TANK_SWITCH_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置在24小时调度期内最多切换付油罐组合3次。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101,6102,6105"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 24,
+        "unit": "h"
+      },
+      "feed_tank_switch_count_max": {
+        "value": 3,
+        "unit": "1"
+      }
+    }
+  }
+]

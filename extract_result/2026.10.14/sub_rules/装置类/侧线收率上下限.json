@@ -1,0 +1,4922 @@
+[
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_RECYCLE_OIL",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_回炼油_去延能化侧线质量收率为1.51%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_回炼油_去延能化"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0151,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_DRY_GAS",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_干气侧线质量收率为3.21%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0321,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_LPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_液化气侧线质量收率为17.35%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.1735,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_GASOLINE",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_催化汽油侧线质量收率为44.4%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_催化汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.444,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_DIESEL",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_催化柴油侧线质量收率为24.86%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_催化柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.2486,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_FCC200_SLURRY",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "200万催化装置的200_油浆_直售侧线质量收率为0.69%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "200_油浆_直售"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield": {
+        "value": 0.0069,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_常压装置合计_轻质油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，常压装置合计的轻质油产量本月实际汇总收率为48.68%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "常压装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "轻质油产量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 48.68,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_300万吨年常压装置_轻质油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，300万吨年常压装置的轻质油产量本月实际汇总收率为48.77%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "轻质油产量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 48.77,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_常压装置合计_常压石脑油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，常压装置合计的常压石脑油本月实际汇总收率为15.45%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "常压装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "常压石脑油"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 15.45,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_300万吨年常压装置_常压石脑油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，300万吨年常压装置的常压石脑油本月实际质量收率为15.62%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "常压石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 15.62,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_常压装置合计_柴油合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，常压装置合计的柴油合计本月实际汇总收率为33.23%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "常压装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "柴油合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 33.23,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_300万吨年常压装置_柴油合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，300万吨年常压装置的柴油合计本月实际汇总收率为33.15%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "柴油合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 33.15,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_常压装置合计_常一线油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，常压装置合计的常一线油本月实际汇总收率为7.84%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "常压装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "常一线油"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 7.84,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_300万吨年常压装置_常一线油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，300万吨年常压装置的常一线油本月实际质量收率为8.64%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "常一线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 8.64,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_常压装置合计_常二线油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，常压装置合计的常二线油本月实际汇总收率为8.99%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "常压装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "常二线油"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 8.99,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_300万吨年常压装置_常二线油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，300万吨年常压装置的常二线油本月实际质量收率为4.01%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "常二线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 4.01,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_常压装置合计_常三线油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，常压装置合计的常三线油本月实际汇总收率为16.39%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "常压装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "常三线油"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 16.39,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_300万吨年常压装置_常三线油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，300万吨年常压装置的常三线油本月实际质量收率为20.51%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "常三线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 20.51,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_常压装置合计_1_渣油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，常压装置合计的1#渣油产量本月实际汇总收率为50.97%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "常压装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "1#渣油产量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 50.97,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_300万吨年常压装置_1_渣油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，300万吨年常压装置的1#渣油产量本月实际质量收率为50.94%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "1#渣油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 50.94,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SELF_USE_RATE_ACTUAL_202512_YL_常压装置合计_自用",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，常压装置合计的自用本月实际自用占比为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "常压装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "自用"
+      }
+    ],
+    "parameters": {
+      "self_use_rate_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SELF_USE_RATE_ACTUAL_202512_YL_300万吨年常压装置_自用",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，300万吨年常压装置的自用本月实际自用占比为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "自用"
+      }
+    ],
+    "parameters": {
+      "self_use_rate_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_常压装置合计_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，常压装置合计的加工损失本月实际加工损失占比为0.35%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "常压装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.35,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_300万吨年常压装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，300万吨年常压装置的加工损失本月实际加工损失占比为0.29%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.29,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_260万吨年常压装置_轻质油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，260万吨年常压装置的轻质油产量本月实际汇总收率为48.57%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "轻质油产量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 48.57,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_260万吨年常压装置_常压石脑油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，260万吨年常压装置的常压石脑油本月实际质量收率为15.24%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "常压石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 15.24,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_260万吨年常压装置_柴油合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，260万吨年常压装置的柴油合计本月实际汇总收率为33.33%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "柴油合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 33.33,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_260万吨年常压装置_常一线油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，260万吨年常压装置的常一线油本月实际质量收率为6.86%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "常一线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 6.86,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_260万吨年常压装置_常二线油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，260万吨年常压装置的常二线油本月实际质量收率为15.18%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "常二线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 15.18,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_260万吨年常压装置_常三线油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，260万吨年常压装置的常三线油本月实际质量收率为11.29%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "常三线油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 11.29,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_260万吨年常压装置_1_渣油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，260万吨年常压装置的1#渣油产量本月实际质量收率为51.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "1#渣油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 51.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_260万吨年常压装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，260万吨年常压装置的加工损失本月实际加工损失占比为0.43%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.43,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_催化装置合计_石脑油III",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的石脑油Ⅲ本月实际汇总收率为0.79%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "石脑油Ⅲ"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 0.79,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_200万催化装置_石脑油III",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的石脑油Ⅲ本月实际质量收率为1.14%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "石脑油Ⅲ"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 1.14,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_催化装置合计_干气产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的干气产量本月实际汇总收率为3.62%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "干气产量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 3.62,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_200万催化装置_干气产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的干气产量本月实际质量收率为3.51%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "干气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 3.51,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_催化装置合计_液化气产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的液化气产量本月实际汇总收率为17.98%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "液化气产量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 17.98,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_200万催化装置_液化气产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的液化气产量本月实际质量收率为15.80%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "液化气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 15.8,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_催化装置合计_汽油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的汽油产量本月实际汇总收率为47.70%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "汽油产量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 47.7,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_200万催化装置_汽油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的汽油产量本月实际质量收率为47.37%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "汽油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 47.37,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_催化装置合计_柴油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的柴油产量本月实际汇总收率为22.19%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "柴油产量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 22.19,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_200万催化装置_柴油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的柴油产量本月实际质量收率为24.33%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "柴油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 24.33,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_催化装置合计_生焦量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的生焦量本月实际汇总收率为6.57%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "生焦量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 6.57,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_200万催化装置_生焦量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的生焦量本月实际质量收率为6.86%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "生焦量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 6.86,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_催化装置合计_2_渣油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的2#渣油产量本月实际汇总收率为0.76%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "2#渣油产量"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 0.76,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_200万催化装置_油浆产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的油浆产量本月实际质量收率为0.58%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "油浆产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.58,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_催化装置合计_加工损失量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的加工损失量本月实际加工损失占比为0.38%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失量"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.38,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_200万催化装置_加工损失量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的加工损失量本月实际加工损失占比为0.41%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失量"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.41,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_催化装置合计_轻质油产量合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的轻质油产量合计本月实际汇总收率为69.89%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "轻质油产量合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 69.89,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_200万催化装置_轻质油产量合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的轻质油产量合计本月实际汇总收率为71.70%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "轻质油产量合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 71.7,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_催化装置合计_汽柴液产量合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，催化装置合计的汽柴液产量合计本月实际汇总收率为87.87%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "催化装置合计"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "汽柴液产量合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 87.87,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_200万催化装置_汽柴液产量合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，200万催化装置的汽柴液产量合计本月实际汇总收率为87.50%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "200万催化装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "汽柴液产量合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 87.5,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_100万催化装置_干气产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，100万催化装置的干气产量本月实际质量收率为3.87%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "干气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 3.87,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_100万催化装置_液化气产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，100万催化装置的液化气产量本月实际质量收率为22.86%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "液化气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 22.86,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_100万催化装置_汽油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，100万催化装置的汽油产量本月实际质量收率为48.44%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "汽油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 48.44,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_100万催化装置_柴油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，100万催化装置的柴油产量本月实际质量收率为17.41%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "柴油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 17.41,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_100万催化装置_生焦量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，100万催化装置的生焦量本月实际质量收率为5.94%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "生焦量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 5.94,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_100万催化装置_2_渣油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，100万催化装置的2#渣油产量本月实际质量收率为1.16%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "2#渣油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 1.16,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_100万催化装置_加工损失量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，100万催化装置的加工损失量本月实际加工损失占比为0.33%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失量"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.33,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_100万催化装置_轻质油产量合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，100万催化装置的轻质油产量合计本月实际汇总收率为65.85%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "轻质油产量合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 65.85,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_100万催化装置_汽柴液产量合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，100万催化装置的汽柴液产量合计本月实际汇总收率为88.71%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "100万催化装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "汽柴液产量合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 88.71,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_30万吨液化气精制装置_精制液化气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨液化气精制装置的精制液化气本月实际质量收率为99.68%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨液化气精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "精制液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 99.68,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_30万吨气体分馏装置_燃料气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨气体分馏装置的燃料气本月实际质量收率约为0.0035%（报表显示0.00%）。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0035,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_30万吨液化气精制装置_不合格液化气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨液化气精制装置的不合格液化气本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨液化气精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_30万吨气体分馏装置_丙烯",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨气体分馏装置的丙烯本月实际质量收率为28.14%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 28.14,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_30万吨液化气精制装置_酸性气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨液化气精制装置的酸性气本月实际质量收率为0.18%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨液化气精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "酸性气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.18,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_30万吨气体分馏装置_丙烷",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨气体分馏装置的丙烷本月实际质量收率为8.96%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "丙烷"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 8.96,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_30万吨液化气精制装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨液化气精制装置的加工损失本月实际加工损失占比为0.14%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨液化气精制装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.14,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_30万吨气体分馏装置_碳四馏分",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨气体分馏装置的碳四馏分本月实际质量收率为56.89%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "碳四馏分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 56.89,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_30万吨气体分馏装置_戊烷馏分",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨气体分馏装置的戊烷馏分本月实际质量收率为5.69%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "戊烷馏分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 5.69,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_30万吨气体分馏装置_不合格丙烯",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨气体分馏装置的不合格丙烯本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_30万吨气体分馏装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨气体分馏装置的加工损失本月实际加工损失占比为0.32%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.32,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_ADJUSTED_OUTPUT_YIELD_ACTUAL_202512_YL_30万吨气体分馏装置_冲减后丙烯产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨气体分馏装置的冲减后丙烯产量本月实际冲减后丙烯产量占比为28.14%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨气体分馏装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "冲减后丙烯产量"
+      }
+    ],
+    "parameters": {
+      "adjusted_output_yield_actual": {
+        "value": 28.14,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_AGGREGATE_YIELD_ACTUAL_202512_YL_10万吨聚丙烯装置_聚丙烯产量合计",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的聚丙烯产量合计本月实际汇总收率为96.10%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "聚丙烯产量合计"
+      }
+    ],
+    "parameters": {
+      "aggregate_yield_actual": {
+        "value": 96.1,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_10万吨聚丙烯装置_聚丙烯粒料T30S",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的聚丙烯粒料T30S本月实际质量收率为95.90%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "聚丙烯粒料T30S"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 95.9,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_10万吨聚丙烯装置_聚丙烯粉料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的聚丙烯粉料本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "聚丙烯粉料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_6万吨MTBE装置_MTBE",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，6万吨MTBE装置的MTBE本月实际质量收率为18.93%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "6万吨MTBE装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 18.93,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_10万吨聚丙烯装置_大块料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的大块料本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "大块料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_6万吨MTBE装置_醚后C4",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，6万吨MTBE装置的醚后C4本月实际质量收率为79.81%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "6万吨MTBE装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "醚后C4"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 79.81,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_10万吨聚丙烯装置_过度料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的过度料本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "过度料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_6万吨MTBE装置_次品MTBE",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，6万吨MTBE装置的次品MTBE本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "6万吨MTBE装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "次品MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_10万吨聚丙烯装置_粉尘料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的粉尘料本月实际质量收率为0.20%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "粉尘料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.2,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_6万吨MTBE装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，6万吨MTBE装置的加工损失本月实际加工损失占比为1.26%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "6万吨MTBE装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 1.26,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_10万吨聚丙烯装置_聚丙烯粒料T36F",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的聚丙烯粒料T36F本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "聚丙烯粒料T36F"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_10万吨聚丙烯装置_轻度氧化处理品",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的轻度氧化处理品本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "轻度氧化处理品"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_10万吨聚丙烯装置_回收气OG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的回收气OG本月实际质量收率为3.03%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "回收气OG"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 3.03,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_10万吨聚丙烯装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，10万吨聚丙烯装置的加工损失本月实际加工损失占比为0.86%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "10万吨聚丙烯装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.86,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_18万吨干气精制装置_净化干气产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，18万吨干气精制装置的净化干气产量本月实际质量收率为75.75%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "18万吨干气精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "净化干气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 75.75,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_18万吨干气精制装置_酸性气产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，18万吨干气精制装置的酸性气产量本月实际质量收率为18.43%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "18万吨干气精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "酸性气产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 18.43,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_18万吨干气精制装置_液化气组分产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，18万吨干气精制装置的液化气组分产量本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "18万吨干气精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "液化气组分产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_18万吨干气精制装置_瓦斯气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，18万吨干气精制装置的瓦斯气本月实际质量收率为4.85%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "18万吨干气精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "瓦斯气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 4.85,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨乙苯装置_乙苯产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨乙苯装置的乙苯产量本月实际质量收率为46.13%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨乙苯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "乙苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 46.13,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_18万吨干气精制装置_损失量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，18万吨干气精制装置的损失量本月实际加工损失占比为0.97%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "18万吨干气精制装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "损失量"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.97,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨乙苯装置_丙苯产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨乙苯装置的丙苯产量本月实际质量收率为1.96%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨乙苯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "丙苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 1.96,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨乙苯装置_高沸物",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨乙苯装置的高沸物本月实际质量收率为0.51%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨乙苯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "高沸物"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.51,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨乙苯装置_烃化尾气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨乙苯装置的烃化尾气本月实际质量收率为50.13%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨乙苯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "烃化尾气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 50.13,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_12万吨乙苯装置_损失量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨乙苯装置的损失量本月实际加工损失占比为1.27%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨乙苯装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "损失量"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 1.27,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨苯乙烯装置400单元_苯乙烯产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置400单元的苯乙烯产量本月实际质量收率为95.41%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "苯乙烯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 95.41,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨苯乙烯装置400单元_甲苯产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置400单元的甲苯产量本月实际质量收率为2.71%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "甲苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 2.71,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨苯乙烯装置300单元_脱氢液",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置300单元的脱氢液本月实际质量收率为96.98%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置300单元"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "脱氢液"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 96.98,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨苯乙烯装置400单元_苯产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置400单元的苯产量本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨苯乙烯装置300单元_脱氢尾气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置300单元的脱氢尾气本月实际质量收率为1.82%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置300单元"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "脱氢尾气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 1.82,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨苯乙烯装置400单元_焦油产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置400单元的焦油产量本月实际质量收率为1.08%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "焦油产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 1.08,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_12万吨苯乙烯装置300单元_损失量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置300单元的损失量本月实际加工损失占比为1.19%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置300单元"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "损失量"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 1.19,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_12万吨苯乙烯装置400单元_乙苯产量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置400单元的乙苯产量本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "乙苯产量"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_12万吨苯乙烯装置400单元_损失量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置400单元的损失量本月实际加工损失占比为0.80%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "损失量"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.8,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_YIELD_ACTUAL_202512_YL_12万吨苯乙烯装置400单元_苯乙烯收率",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万吨苯乙烯装置400单元的苯乙烯收率本月实际苯乙烯收率为91.56%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万吨苯乙烯装置400单元"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "苯乙烯收率"
+      }
+    ],
+    "parameters": {
+      "product_yield_actual": {
+        "value": 91.56,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_7万吨醋酸仲丁酯装置_醋酸仲丁酯_SBA",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，7万吨醋酸仲丁酯装置的醋酸仲丁酯（SBA）本月实际质量收率为38.33%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "醋酸仲丁酯（SBA）"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 38.33,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_50万航煤加氢装置_3_喷气燃料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，50万航煤加氢装置的3#喷气燃料本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "50万航煤加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "3#喷气燃料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_7万吨醋酸仲丁酯装置_酯后C4",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，7万吨醋酸仲丁酯装置的酯后C4本月实际质量收率为55.64%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "酯后C4"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 55.64,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_50万航煤加氢装置_石脑油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，50万航煤加氢装置的石脑油本月实际质量收率为2.19%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "50万航煤加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 2.19,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_7万吨醋酸仲丁酯装置_次品SBA",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，7万吨醋酸仲丁酯装置的次品SBA本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "次品SBA"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_50万航煤加氢装置_酸性气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，50万航煤加氢装置的酸性气本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "50万航煤加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "酸性气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_7万吨醋酸仲丁酯装置_粗酯",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，7万吨醋酸仲丁酯装置的粗酯本月实际质量收率为1.44%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "粗酯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 1.44,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_50万航煤加氢装置_酸性水",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，50万航煤加氢装置的酸性水本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "50万航煤加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "酸性水"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_7万吨醋酸仲丁酯装置_C12",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，7万吨醋酸仲丁酯装置的C12本月实际质量收率为0.14%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "C12"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.14,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_50万航煤加氢装置_污油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，50万航煤加氢装置的污油本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "50万航煤加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_7万吨醋酸仲丁酯装置_损失量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，7万吨醋酸仲丁酯装置的损失量本月实际加工损失占比为4.46%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "7万吨醋酸仲丁酯装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "损失量"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 4.46,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YL_50万航煤加氢装置_航煤组分油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，50万航煤加氢装置的航煤组分油本月实际质量收率为97.30%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "50万航煤加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "航煤组分油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 97.3,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YL_50万航煤加氢装置_损失量",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，50万航煤加氢装置的损失量本月实际加工损失占比为0.51%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "50万航煤加氢装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "损失量"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.51,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_液化气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的液化气本月实际质量收率为4.80%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 4.8,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_重整汽油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的重整汽油本月实际质量收率为56.56%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "重整汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 56.56,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_重整轻汽油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的重整轻汽油本月实际质量收率为17.92%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "重整轻汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 17.92,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_精制油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的精制油本月实际质量收率为0.39%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "精制油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.39,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_C6馏分",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的C6馏分本月实际质量收率为13.45%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "C6馏分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 13.45,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_含氢气体",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的含氢气体本月实际质量收率为3.19%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "含氢气体"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 3.19,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_含硫燃料气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的含硫燃料气本月实际质量收率为0.37%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "含硫燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.37,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_燃料气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的燃料气本月实际质量收率为2.94%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 2.94,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_不合格汽油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的不合格汽油本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_120万重整装置_污油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的污油本月实际质量收率为0.03%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.03,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_120万重整装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，120万重整装置的加工损失本月实际加工损失占比为0.35%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "120万重整装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.35,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_140万柴油加氢装置_柴油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，140万柴油加氢装置的柴油本月实际质量收率为82.28%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "140万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 82.28,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_140万柴油加氢装置_粗汽油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，140万柴油加氢装置的粗汽油本月实际质量收率为13.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "140万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "粗汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 13.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_140万柴油加氢装置_液化气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，140万柴油加氢装置的液化气本月实际质量收率为4.40%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "140万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 4.4,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_140万柴油加氢装置_高_低气分",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，140万柴油加氢装置的高、低气分本月实际质量收率为0.10%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "140万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "高、低气分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.1,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_140万柴油加氢装置_干气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，140万柴油加氢装置的干气本月实际质量收率为0.12%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "140万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.12,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_140万柴油加氢装置_不合格柴油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，140万柴油加氢装置的不合格柴油本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "140万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_140万柴油加氢装置_反冲洗污油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，140万柴油加氢装置的反冲洗污油本月实际质量收率为0.07%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "140万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "反冲洗污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.07,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_140万柴油加氢装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，140万柴油加氢装置的加工损失本月实际加工损失占比为0.04%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "140万柴油加氢装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.04,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年苯抽提_苯",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年苯抽提的苯本月实际质量收率为32.06%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "苯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 32.06,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年苯抽提_非芳烃",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年苯抽提的非芳烃本月实际质量收率为67.40%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "非芳烃"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 67.4,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年苯抽提_重组分",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年苯抽提的重组分本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "重组分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年苯抽提_不合格苯",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年苯抽提的不合格苯本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格苯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_20万吨_年苯抽提_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年苯抽提的加工损失本月实际加工损失占比为0.54%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年苯抽提"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.54,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_60万气体分馏装置_燃料气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万气体分馏装置的燃料气本月实际质量收率为1.78%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 1.78,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_60万气体分馏装置_丙烯",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万气体分馏装置的丙烯本月实际质量收率为26.34%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 26.34,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_60万气体分馏装置_戊烷馏分",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万气体分馏装置的戊烷馏分本月实际质量收率为0.80%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "戊烷馏分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.8,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_60万气体分馏装置_丙烷",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万气体分馏装置的丙烷本月实际质量收率为13.21%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "丙烷"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 13.21,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_60万气体分馏装置_气分碳四",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万气体分馏装置的气分碳四本月实际质量收率为57.59%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "气分碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 57.59,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_60万气体分馏装置_不合格丙烯",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万气体分馏装置的不合格丙烯本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万气体分馏装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_60万气体分馏装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万气体分馏装置的加工损失本月实际加工损失占比为0.28%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万气体分馏装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.28,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万聚丙烯装置_聚丙烯粒料_T30S",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万聚丙烯装置的聚丙烯粒料(T30S)本月实际质量收率为96.78%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "聚丙烯粒料(T30S)"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 96.78,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万聚丙烯装置_聚丙烯粒料_C30S",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万聚丙烯装置的聚丙烯粒料(C30S)本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "聚丙烯粒料(C30S)"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万聚丙烯装置_聚丙烯粉料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万聚丙烯装置的聚丙烯粉料本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "聚丙烯粉料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万聚丙烯装置_大块料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万聚丙烯装置的大块料本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "大块料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万聚丙烯装置_落地料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万聚丙烯装置的落地料本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "落地料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万聚丙烯装置_粉尘料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万聚丙烯装置的粉尘料本月实际质量收率为0.12%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "粉尘料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.12,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万聚丙烯装置_不合格料",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万聚丙烯装置的不合格料本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格料"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万聚丙烯装置_回收气OG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万聚丙烯装置的回收气OG本月实际质量收率为2.39%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万聚丙烯装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "回收气OG"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 2.39,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_20万聚丙烯装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万聚丙烯装置的加工损失本月实际加工损失占比为0.70%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万聚丙烯装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.7,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_12万MTBE装置_MTBE",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万MTBE装置的MTBE本月实际质量收率为18.47%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万MTBE装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 18.47,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_12万MTBE装置_醚后C4",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万MTBE装置的醚后C4本月实际质量收率为81.32%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万MTBE装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "醚后C4"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 81.32,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_12万MTBE装置_不合格MTBE",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万MTBE装置的不合格MTBE本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万MTBE装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_12万MTBE装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，12万MTBE装置的加工损失本月实际加工损失占比为0.21%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "12万MTBE装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.21,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_60万吨_年精制装置_精制液化气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万吨/年精制装置的精制液化气本月实际质量收率为99.97%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万吨/年精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "精制液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 99.97,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_60万吨_年精制装置_酸性气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万吨/年精制装置的酸性气本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万吨/年精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "酸性气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_60万吨_年精制装置_不合格液化气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万吨/年精制装置的不合格液化气本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万吨/年精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格液化气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_60万吨_年精制装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，60万吨/年精制装置的加工损失本月实际加工损失占比为0.03%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "60万吨/年精制装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.03,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_0_40万吨_年硫磺回收_粗硫磺",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，0.40万吨/年硫磺回收的粗硫磺本月实际质量收率为24.94%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "0.40万吨/年硫磺回收"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "粗硫磺"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 24.94,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_0_40万吨_年硫磺回收_烟道气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，0.40万吨/年硫磺回收的烟道气本月实际质量收率为75.06%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "0.40万吨/年硫磺回收"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "烟道气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 75.06,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_2万吨_年硫磺精制_精制硫磺",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，2万吨/年硫磺精制的精制硫磺本月实际质量收率为85.38%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "2万吨/年硫磺精制"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "精制硫磺"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 85.38,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_2万吨_年硫磺精制_污水",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，2万吨/年硫磺精制的污水本月实际质量收率为14.62%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "2万吨/年硫磺精制"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "污水"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 14.62,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_180万吨_年汽油精制装置_精制汽油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，180万吨/年汽油精制装置的精制汽油本月实际质量收率为98.74%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "精制汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 98.74,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_180万吨_年汽油精制装置_燃料气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，180万吨/年汽油精制装置的燃料气本月实际质量收率为1.15%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 1.15,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_180万吨_年汽油精制装置_不合格汽油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，180万吨/年汽油精制装置的不合格汽油本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格汽油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_180万吨_年汽油精制装置_污油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，180万吨/年汽油精制装置的污油本月实际质量收率为0.07%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.07,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_180万吨_年汽油精制装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，180万吨/年汽油精制装置的加工损失本月实际加工损失占比为0.04%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "180万吨/年汽油精制装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.04,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_240万柴油加氢装置_精制柴油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，240万柴油加氢装置的精制柴油本月实际质量收率为92.73%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "240万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "精制柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 92.73,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_240万柴油加氢装置_石脑油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，240万柴油加氢装置的石脑油本月实际质量收率为3.69%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "240万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "石脑油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 3.69,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_240万柴油加氢装置_轻烃",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，240万柴油加氢装置的轻烃本月实际质量收率为1.93%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "240万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "轻烃"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 1.93,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_240万柴油加氢装置_富气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，240万柴油加氢装置的富气本月实际质量收率为0.62%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "240万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "富气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.62,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_240万柴油加氢装置_高_低气分",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，240万柴油加氢装置的高、低气分本月实际质量收率为0.25%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "240万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "高、低气分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.25,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_240万柴油加氢装置_不合格柴油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，240万柴油加氢装置的不合格柴油本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "240万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格柴油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_240万柴油加氢装置_污油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，240万柴油加氢装置的污油本月实际质量收率为0.76%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "240万柴油加氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.76,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_240万柴油加氢装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，240万柴油加氢装置的加工损失本月实际加工损失占比为0.02%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "240万柴油加氢装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.02,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年烷基化装置_异辛烷组分",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年烷基化装置的异辛烷组分本月实际质量收率为62.32%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "异辛烷组分"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 62.32,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年烷基化装置_烷基化碳四",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年烷基化装置的烷基化碳四本月实际质量收率为21.23%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "烷基化碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 21.23,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年烷基化装置_预处理碳四",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年烷基化装置的预处理碳四本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "预处理碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年烷基化装置_正丁烷",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年烷基化装置的正丁烷本月实际质量收率为13.41%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "正丁烷"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 13.41,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年烷基化装置_干气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年烷基化装置的干气本月实际质量收率为2.03%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "干气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 2.03,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_20万吨_年烷基化装置_不合格产品",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年烷基化装置的不合格产品本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格产品"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_20万吨_年烷基化装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，20万吨/年烷基化装置的加工损失本月实际加工损失占比为1.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "20万吨/年烷基化装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 1.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_30万吨_年混合脱氢装置_丙烯",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨/年混合脱氢装置的丙烯本月实际质量收率为19.47%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "丙烯"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 19.47,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_30万吨_年混合脱氢装置_富异丁烯碳四",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨/年混合脱氢装置的富异丁烯碳四本月实际质量收率为54.48%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "富异丁烯碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 54.48,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_30万吨_年混合脱氢装置_再生碳四",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨/年混合脱氢装置的再生碳四本月实际质量收率为9.77%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "再生碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 9.77,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_30万吨_年混合脱氢装置_正丁烷",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨/年混合脱氢装置的正丁烷本月实际质量收率为11.41%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "正丁烷"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 11.41,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_30万吨_年混合脱氢装置_轻污油",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨/年混合脱氢装置的轻污油本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "轻污油"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_30万吨_年混合脱氢装置_燃料气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨/年混合脱氢装置的燃料气本月实际质量收率为3.29%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "燃料气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 3.29,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_30万吨_年混合脱氢装置_氢气",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨/年混合脱氢装置的氢气本月实际质量收率为0.01%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "氢气"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.01,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_30万吨_年混合脱氢装置_不合格产品",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨/年混合脱氢装置的不合格产品本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格产品"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_30万吨_年混合脱氢装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，30万吨/年混合脱氢装置的加工损失本月实际加工损失占比为1.56%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "30万吨/年混合脱氢装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 1.56,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_25万MTBE装置_MTBE",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，25万MTBE装置的MTBE本月实际质量收率为49.85%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "25万MTBE装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "MTBE"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 49.85,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_25万MTBE装置_醚后碳四",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，25万MTBE装置的醚后碳四本月实际质量收率为49.35%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "25万MTBE装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "醚后碳四"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 49.35,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_SIDECUT_YIELD_ACTUAL_202512_YSH_25万MTBE装置_不合格产品",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，25万MTBE装置的不合格产品本月实际质量收率为0.00%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "25万MTBE装置"
+      },
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "不合格产品"
+      }
+    ],
+    "parameters": {
+      "sidecut_mass_yield_actual": {
+        "value": 0.0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PROCESSING_LOSS_RATE_ACTUAL_202512_YSH_25万MTBE装置_加工损失",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2025年12月，25万MTBE装置的加工损失本月实际加工损失占比为0.80%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "25万MTBE装置"
+      },
+      {
+        "set_name": "Q",
+        "subset_name": null,
+        "element": "加工损失"
+      }
+    ],
+    "parameters": {
+      "processing_loss_rate_actual": {
+        "value": 0.8,
+        "unit": "%"
+      }
+    }
+  }
+]

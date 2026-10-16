@@ -1,0 +1,26 @@
+[
+  {
+    "rule_id": "CRUDE_MIX_TOTAL_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MIX_CRUDE_01在N01周期内的混合原油输出质量流率等于全部原油进料质量流率之和，忽略损耗。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Umix",
+        "element": "MIX_CRUDE_01"
+      },
+      {
+        "set_name": "N",
+        "subset_name": null,
+        "element": "N01"
+      }
+    ],
+    "parameters": {
+      "blend_loss_fraction": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  }
+]

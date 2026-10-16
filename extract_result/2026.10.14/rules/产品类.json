@@ -1,0 +1,2902 @@
+[
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_P90",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "90#车用汽油（Ⅲ）（P90）在日窗口[0小时,24小时)内的合格产品总产量为55至200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_P90"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 55,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_P93",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "93#车用汽油（Ⅲ）（P93）在日窗口[0小时,24小时)内的合格产品总产量为70至240吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_P93"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 70,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 240,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_P97",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "97#车用汽油（Ⅲ）（P97）在日窗口[0小时,24小时)内的合格产品总产量为85至280吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_P97"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 85,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 280,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_GE3",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "93#乙醇汽油（Ⅲ）（GE3）在日窗口[0小时,24小时)内的合格产品总产量为100至320吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_GE3"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 100,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 320,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_GE7",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "97#乙醇汽油（Ⅲ）（GE7）在日窗口[0小时,24小时)内的合格产品总产量为115至360吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_GE7"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 115,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 360,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_LE3",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "93#乙醇组分油(Ⅳ)（LE3）在日窗口[0小时,24小时)内的合格产品总产量为130至400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_LE3"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 130,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_LE7",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "97#乙醇组分油(Ⅳ)（LE7）在日窗口[0小时,24小时)内的合格产品总产量为145至440吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_LE7"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 145,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 440,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_L93",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "93#车用汽油(Ⅳ)（L93）在日窗口[0小时,24小时)内的合格产品总产量为160至280吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_L93"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 160,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 280,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_L97",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "97#车用汽油(Ⅳ)（L97）在日窗口[0小时,24小时)内的合格产品总产量为175至320吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_L97"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 175,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 320,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_W89",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "89#国Ⅴ汽油（W89）在日窗口[0小时,24小时)内的合格产品总产量为190至360吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W89"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 190,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 360,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_W92",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油（W92）在日窗口[0小时,24小时)内的合格产品总产量为205至400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W92"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 205,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_W95",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油（W95）在日窗口[0小时,24小时)内的合格产品总产量为40至260吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W95"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 40,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 260,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_W98",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油（W98）在日窗口[0小时,24小时)内的合格产品总产量为55至300吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W98"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 55,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 300,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_JET",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤（JET）在日窗口[0小时,24小时)内的合格产品总产量为70至340吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_JET"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 70,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 340,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_LAP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "灯油（LAP）在日窗口[0小时,24小时)内的合格产品总产量为85至380吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_LAP"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 85,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 380,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_D00",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#柴油（Ⅴ）（D00）在日窗口[0小时,24小时)内的合格产品总产量为100至220吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_D00"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 100,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 220,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_D_5",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-5#柴油（Ⅱ）（D-5）在日窗口[0小时,24小时)内的合格产品总产量为115至260吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_D-5"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 115,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 260,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_D10",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-10#柴油（Ⅱ）（D10）在日窗口[0小时,24小时)内的合格产品总产量为130至300吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_D10"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 130,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 300,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_R00",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#车用柴油（Ⅲ）（R00）在日窗口[0小时,24小时)内的合格产品总产量为145至340吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_R00"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 145,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 340,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_R10",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-10#车用柴油（Ⅲ）（R10）在日窗口[0小时,24小时)内的合格产品总产量为160至380吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_R10"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 160,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 380,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_L00",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#车用柴油（Ⅳ）（L00）在日窗口[0小时,24小时)内的合格产品总产量为175至420吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_L00"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 175,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 420,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_L10",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-10#车用柴油（Ⅳ）（L10）在日窗口[0小时,24小时)内的合格产品总产量为190至460吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_L10"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 190,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 460,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_DAM",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "军用柴油（DAM）在日窗口[0小时,24小时)内的合格产品总产量为205至500吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_DAM"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 205,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 500,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_W10",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-10#国标Ⅴ柴油（W10）在日窗口[0小时,24小时)内的合格产品总产量为40至160吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W10"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 40,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 160,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_W20",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油（W20）在日窗口[0小时,24小时)内的合格产品总产量为55至200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W20"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 55,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_W35",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-35#国标Ⅴ柴油（W35）在日窗口[0小时,24小时)内的合格产品总产量为70至240吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W35"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 70,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 240,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_EER",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "重整石脑油（EER）在日窗口[0小时,24小时)内的合格产品总产量为85至280吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_EER"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 85,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 280,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_EEN",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "乙烯石脑油（EEN）在日窗口[0小时,24小时)内的合格产品总产量为100至320吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_EEN"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 100,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 320,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_EEH",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "轻质化肥料（EEH）在日窗口[0小时,24小时)内的合格产品总产量为115至360吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_EEH"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 115,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 360,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_EEW",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤组分油（EEW）在日窗口[0小时,24小时)内的合格产品总产量为130至400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_EEW"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 130,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_F25",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "商品重油（F25）在日窗口[0小时,24小时)内的合格产品总产量为145至440吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_F25"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 145,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 440,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_DMA",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油（DMA）在日窗口[0小时,24小时)内的合格产品总产量为160至280吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_DMA"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 160,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 280,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_TOL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "甲苯（TOL）在日窗口[0小时,24小时)内的合格产品总产量为175至320吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_TOL"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 175,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 320,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_XYL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "二甲苯（XYL）在日窗口[0小时,24小时)内的合格产品总产量为190至360吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_XYL"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 190,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 360,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_S06",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "6#溶剂油（S06）在日窗口[0小时,24小时)内的合格产品总产量为205至400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_S06"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 205,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_S12",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "120#溶剂油（S12）在日窗口[0小时,24小时)内的合格产品总产量为40至260吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_S12"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 40,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 260,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_RAS",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "普通沥青（RAS）在日窗口[0小时,24小时)内的合格产品总产量为55至300吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_RAS"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 55,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 300,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_HAS",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "重交沥青（HAS）在日窗口[0小时,24小时)内的合格产品总产量为70至340吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_HAS"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 70,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 340,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_A60",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "60#道路沥青（A60）在日窗口[0小时,24小时)内的合格产品总产量为85至380吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_A60"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 85,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 380,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_PGS",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "商品干气（PGS）在日窗口[0小时,24小时)内的合格产品总产量为100至220吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_PGS"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 100,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 220,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_PBG",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "饱和液化气（PBG）在日窗口[0小时,24小时)内的合格产品总产量为115至260吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_PBG"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 115,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 260,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_RC3",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "精丙烯（RC3）在日窗口[0小时,24小时)内的合格产品总产量为130至300吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_RC3"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 130,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 300,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_PPP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "聚丙烯（PPP）在日窗口[0小时,24小时)内的合格产品总产量为145至340吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_PPP"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 145,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 340,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_MC5",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "外售碳五（MC5）在日窗口[0小时,24小时)内的合格产品总产量为160至380吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_MC5"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 160,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 380,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_CCK",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "石油焦（CCK）在日窗口[0小时,24小时)内的合格产品总产量为175至420吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_CCK"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 175,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 420,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_SUL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "硫磺（SUL）在日窗口[0小时,24小时)内的合格产品总产量为190至460吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_SUL"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 190,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 460,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_CPA",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "环烷酸（CPA）在日窗口[0小时,24小时)内的合格产品总产量为205至500吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_CPA"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 205,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 500,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_MTB",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "MTBE（MTB）在日窗口[0小时,24小时)内的合格产品总产量为40至160吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_MTB"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 40,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 160,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_ZBB",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "丙苯（ZBB）在日窗口[0小时,24小时)内的合格产品总产量为55至200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_ZBB"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 55,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_DAILY_BOUND_PH_STR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "苯乙烯（STR）在日窗口[0小时,24小时)内的合格产品总产量为70至240吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_STR"
+      }
+    ],
+    "parameters": {
+      "window_start_offset": {
+        "value": 0,
+        "unit": "h"
+      },
+      "window_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "daily_output_min": {
+        "value": 70,
+        "unit": "t"
+      },
+      "daily_output_max": {
+        "value": 240,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_P90",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "90#车用汽油（Ⅲ）（P90）在30天（720小时）调度期内的合格产品总产量为1650至6000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_P90"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 1650,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 6000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_P93",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "93#车用汽油（Ⅲ）（P93）在30天（720小时）调度期内的合格产品总产量为2100至7200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_P93"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 2100,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 7200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_P97",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "97#车用汽油（Ⅲ）（P97）在30天（720小时）调度期内的合格产品总产量为2550至8400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_P97"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 2550,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 8400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_GE3",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "93#乙醇汽油（Ⅲ）（GE3）在30天（720小时）调度期内的合格产品总产量为3000至9600吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_GE3"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3000,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 9600,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_GE7",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "97#乙醇汽油（Ⅲ）（GE7）在30天（720小时）调度期内的合格产品总产量为3450至10800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_GE7"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3450,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 10800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_LE3",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "93#乙醇组分油(Ⅳ)（LE3）在30天（720小时）调度期内的合格产品总产量为3900至12000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_LE3"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3900,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 12000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_LE7",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "97#乙醇组分油(Ⅳ)（LE7）在30天（720小时）调度期内的合格产品总产量为4350至13200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_LE7"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 4350,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 13200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_L93",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "93#车用汽油(Ⅳ)（L93）在30天（720小时）调度期内的合格产品总产量为4800至8400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_L93"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 4800,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 8400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_L97",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "97#车用汽油(Ⅳ)（L97）在30天（720小时）调度期内的合格产品总产量为5250至9600吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_L97"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 5250,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 9600,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_W89",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "89#国Ⅴ汽油（W89）在30天（720小时）调度期内的合格产品总产量为5700至10800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W89"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 5700,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 10800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_W92",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油（W92）在30天（720小时）调度期内的合格产品总产量为6150至12000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W92"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 6150,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 12000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_W95",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油（W95）在30天（720小时）调度期内的合格产品总产量为1200至7800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W95"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 1200,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 7800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_W98",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油（W98）在30天（720小时）调度期内的合格产品总产量为1650至9000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W98"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 1650,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 9000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_JET",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤（JET）在30天（720小时）调度期内的合格产品总产量为2100至10200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_JET"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 2100,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 10200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_LAP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "灯油（LAP）在30天（720小时）调度期内的合格产品总产量为2550至11400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_LAP"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 2550,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 11400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_D00",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#柴油（Ⅴ）（D00）在30天（720小时）调度期内的合格产品总产量为3000至6600吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_D00"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3000,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 6600,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_D_5",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-5#柴油（Ⅱ）（D-5）在30天（720小时）调度期内的合格产品总产量为3450至7800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_D-5"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3450,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 7800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_D10",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-10#柴油（Ⅱ）（D10）在30天（720小时）调度期内的合格产品总产量为3900至9000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_D10"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3900,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 9000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_R00",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#车用柴油（Ⅲ）（R00）在30天（720小时）调度期内的合格产品总产量为4350至10200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_R00"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 4350,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 10200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_R10",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-10#车用柴油（Ⅲ）（R10）在30天（720小时）调度期内的合格产品总产量为4800至11400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_R10"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 4800,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 11400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_L00",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#车用柴油（Ⅳ）（L00）在30天（720小时）调度期内的合格产品总产量为5250至12600吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_L00"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 5250,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 12600,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_L10",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-10#车用柴油（Ⅳ）（L10）在30天（720小时）调度期内的合格产品总产量为5700至13800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_L10"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 5700,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 13800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_DAM",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "军用柴油（DAM）在30天（720小时）调度期内的合格产品总产量为6150至15000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_DAM"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 6150,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 15000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_W10",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-10#国标Ⅴ柴油（W10）在30天（720小时）调度期内的合格产品总产量为1200至4800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W10"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 1200,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 4800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_W20",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油（W20）在30天（720小时）调度期内的合格产品总产量为1650至6000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W20"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 1650,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 6000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_W35",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-35#国标Ⅴ柴油（W35）在30天（720小时）调度期内的合格产品总产量为2100至7200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_W35"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 2100,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 7200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_EER",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "重整石脑油（EER）在30天（720小时）调度期内的合格产品总产量为2550至8400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_EER"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 2550,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 8400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_EEN",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "乙烯石脑油（EEN）在30天（720小时）调度期内的合格产品总产量为3000至9600吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_EEN"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3000,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 9600,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_EEH",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "轻质化肥料（EEH）在30天（720小时）调度期内的合格产品总产量为3450至10800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_EEH"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3450,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 10800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_EEW",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤组分油（EEW）在30天（720小时）调度期内的合格产品总产量为3900至12000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_EEW"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3900,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 12000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_F25",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "商品重油（F25）在30天（720小时）调度期内的合格产品总产量为4350至13200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_F25"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 4350,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 13200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_DMA",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油（DMA）在30天（720小时）调度期内的合格产品总产量为4800至8400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_DMA"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 4800,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 8400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_TOL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "甲苯（TOL）在30天（720小时）调度期内的合格产品总产量为5250至9600吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_TOL"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 5250,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 9600,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_XYL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "二甲苯（XYL）在30天（720小时）调度期内的合格产品总产量为5700至10800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_XYL"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 5700,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 10800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_S06",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "6#溶剂油（S06）在30天（720小时）调度期内的合格产品总产量为6150至12000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_S06"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 6150,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 12000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_S12",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "120#溶剂油（S12）在30天（720小时）调度期内的合格产品总产量为1200至7800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_S12"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 1200,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 7800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_RAS",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "普通沥青（RAS）在30天（720小时）调度期内的合格产品总产量为1650至9000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_RAS"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 1650,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 9000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_HAS",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "重交沥青（HAS）在30天（720小时）调度期内的合格产品总产量为2100至10200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_HAS"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 2100,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 10200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_A60",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "60#道路沥青（A60）在30天（720小时）调度期内的合格产品总产量为2550至11400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_A60"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 2550,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 11400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_PGS",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "商品干气（PGS）在30天（720小时）调度期内的合格产品总产量为3000至6600吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_PGS"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3000,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 6600,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_PBG",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "饱和液化气（PBG）在30天（720小时）调度期内的合格产品总产量为3450至7800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_PBG"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3450,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 7800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_RC3",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "精丙烯（RC3）在30天（720小时）调度期内的合格产品总产量为3900至9000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_RC3"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 3900,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 9000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_PPP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "聚丙烯（PPP）在30天（720小时）调度期内的合格产品总产量为4350至10200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_PPP"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 4350,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 10200,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_MC5",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "外售碳五（MC5）在30天（720小时）调度期内的合格产品总产量为4800至11400吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_MC5"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 4800,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 11400,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_CCK",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "石油焦（CCK）在30天（720小时）调度期内的合格产品总产量为5250至12600吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_CCK"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 5250,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 12600,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_SUL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "硫磺（SUL）在30天（720小时）调度期内的合格产品总产量为5700至13800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_SUL"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 5700,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 13800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_CPA",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "环烷酸（CPA）在30天（720小时）调度期内的合格产品总产量为6150至15000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_CPA"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 6150,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 15000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_MTB",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "MTBE（MTB）在30天（720小时）调度期内的合格产品总产量为1200至4800吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_MTB"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 1200,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 4800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_ZBB",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "丙苯（ZBB）在30天（720小时）调度期内的合格产品总产量为1650至6000吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_ZBB"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 1650,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 6000,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_HORIZON_BOUND_PH_STR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "苯乙烯（STR）在30天（720小时）调度期内的合格产品总产量为2100至7200吨。",
+    "sets": [
+      {
+        "set_name": "S",
+        "subset_name": null,
+        "element": "S_PRODUCT_STR"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 720,
+        "unit": "h"
+      },
+      "horizon_output_min": {
+        "value": 2100,
+        "unit": "t"
+      },
+      "horizon_output_max": {
+        "value": 7200,
+        "unit": "t"
+      }
+    }
+  }
+]

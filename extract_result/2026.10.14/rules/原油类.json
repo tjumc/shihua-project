@@ -1,0 +1,2096 @@
+[
+  {
+    "rule_id": "CRUDE_FEED_TANK_SWITCH_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置在24小时调度期内最多切换付油罐组合3次。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101,6102,6105"
+      }
+    ],
+    "parameters": {
+      "horizon_duration": {
+        "value": 24,
+        "unit": "h"
+      },
+      "feed_tank_switch_count_max": {
+        "value": 3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6101同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6102同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6105同时实际供料的常减压装置最多1套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 1,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6106同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9501同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9502同时实际供料的常减压装置最多1套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 1,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9503同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9510同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6104同时实际供料的常减压装置最多1套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 1,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6103同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_FEED_TANK_COUNT_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置运行时由1至2个原油罐实际供料；有效连接最小供料流率为1吨/小时。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101,6102,6105,6106"
+      }
+    ],
+    "parameters": {
+      "feed_tank_count_min": {
+        "value": 1,
+        "unit": "1"
+      },
+      "feed_tank_count_max": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIPT_TANK_SELECTION_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "到货批次ARR_PH_01允许选择6101接收；实际收油仍须满足管路可达、物料相容、储罐可用和库存上限。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "receipt_compatible": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_NK1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常石脑油侧线质量收率为9.48%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 9.48,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_NK1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常石脑油侧线质量收率为14.43%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 14.43,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_KE1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常一线侧线质量收率为9.48%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 9.48,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_KE1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常一线侧线质量收率为10.83%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 10.83,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_LD1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常二线侧线质量收率为22.13%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 22.13,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_LD1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常二线侧线质量收率为21.79%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 21.79,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_HD1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常三线侧线质量收率为29.85%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 29.85,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_HD1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常三线侧线质量收率为28.55%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 28.55,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_VR1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工YCO时，300_常渣侧线质量收率为23.69%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 23.69,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_300_VR1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "300万吨年常压装置加工RCO时，300_常渣侧线质量收率为19.87%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 19.87,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_NK1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常石脑油侧线质量收率为9.48%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 9.48,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_NK1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常石脑油侧线质量收率为14.43%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "NK1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 14.43,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_KE1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常一线侧线质量收率为9.48%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 9.48,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_KE1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常一线侧线质量收率为10.83%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "KE1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 10.83,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_LD1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常二线侧线质量收率为22.13%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 22.13,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_LD1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常二线侧线质量收率为21.79%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "LD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 21.79,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_HD1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常三线侧线质量收率为29.85%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 29.85,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_HD1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常三线侧线质量收率为28.55%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "HD1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 28.55,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_VR1_YCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工YCO时，260_常渣侧线质量收率为23.69%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 23.69,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CDU_SIDECUT_YIELD_260_VR1_RCO",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "260万吨年常压装置加工RCO时，260_常渣侧线质量收率为19.87%。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": null,
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "K",
+        "subset_name": null,
+        "element": "VR1"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "mass_yield": {
+        "value": 19.87,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_YCO_API",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延安原油（YCO）API为36.2。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "api": {
+        "value": 36.2,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_YCO_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延安原油（YCO）比重为0.8398。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "specific_gravity": {
+        "value": 0.8398,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_YCO_SUL",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延安原油（YCO）硫含量为0.08。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 0.08,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_YCO_ACID_VALUE",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延安原油（YCO）酸值为0.04。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "acid_value": {
+        "value": 0.04,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_RCO_API",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "俄罗斯原油（RCO）API为34.5。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "api": {
+        "value": 34.5,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_RCO_SPG",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "俄罗斯原油（RCO）比重为0.8497。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "specific_gravity": {
+        "value": 0.8497,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_RCO_SUL",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "俄罗斯原油（RCO）硫含量为0.56。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 0.56,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_PROPERTY_RCO_ACID_VALUE",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "俄罗斯原油（RCO）酸值为0.17。",
+    "sets": [
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "acid_value": {
+        "value": 0.17,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MIX_TOTAL_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MIX_CRUDE_01在N01周期内的混合原油输出质量流率等于全部原油进料质量流率之和，忽略损耗。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Umix",
+        "element": "MIX_CRUDE_01"
+      },
+      {
+        "set_name": "N",
+        "subset_name": null,
+        "element": "N01"
+      }
+    ],
+    "parameters": {
+      "blend_loss_fraction": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐库存质量上限由安全液位上限14.3米与米系数530吨/米计算得到，为7579吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7579,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐库存质量上限由安全液位上限14.3米与米系数530吨/米计算得到，为7579吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7579,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐库存质量上限由安全液位上限14.3米与米系数530吨/米计算得到，为7579吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7579,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐库存质量上限由安全液位上限14.3米与米系数530吨/米计算得到，为7579吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7579,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐库存质量上限由安全液位上限13.6米与米系数530吨/米计算得到，为7208吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7208,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐库存质量上限由安全液位上限13.6米与米系数530吨/米计算得到，为7208吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7208,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐库存质量上限由安全液位上限13.6米与米系数530吨/米计算得到，为7208吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7208,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐库存质量下限由安全液位下限2.5米与米系数1045吨/米计算得到，为2612.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 2612.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐库存质量上限由安全液位上限13.6米与米系数1045吨/米计算得到，为14212吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 14212,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）库存质量下限由安全液位下限2.5米与米系数319吨/米计算得到，为797.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 797.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）库存质量上限由安全液位上限12.5米与米系数319吨/米计算得到，为3987.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 3987.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）库存质量下限由安全液位下限2.5米与米系数319吨/米计算得到，为797.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 797.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）库存质量上限由安全液位上限12.5米与米系数319吨/米计算得到，为3987.5吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 3987.5,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）库存质量下限由安全液位下限2.5米与米系数530吨/米计算得到，为1325吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 1325,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）库存质量上限由安全液位上限13.6米与米系数530吨/米计算得到，为7208吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 7208,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MIN_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）库存质量下限由安全液位下限2.5米与米系数1244吨/米计算得到，为3110吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_min": {
+        "value": 3110,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_MASS_MAX_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）库存质量上限由安全液位上限13米与米系数1244吨/米计算得到，为16172吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "inventory_mass_max": {
+        "value": 16172,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_DISPATCH_MUTEX_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6101同一时段不得同时收油和付油；收付状态与对应流量联动。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "max_simultaneous_receive_dispatch_states": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6101处于收油状态时，收油质量流率为52至196吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 52,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 196,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6102处于收油状态时，收油质量流率为59至207吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 59,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 207,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6105处于收油状态时，收油质量流率为66至218吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 66,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 218,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6106处于收油状态时，收油质量流率为73至229吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 73,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 229,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9501处于收油状态时，收油质量流率为80至240吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 80,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 240,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9502处于收油状态时，收油质量流率为87至251吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 87,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 251,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9503处于收油状态时，收油质量流率为94至262吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 94,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 262,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9510处于收油状态时，收油质量流率为101至273吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 101,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 273,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6104处于收油状态时，收油质量流率为108至284吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 108,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 284,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6103处于收油状态时，收油质量流率为115至295吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 115,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 295,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐初始液位为8.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）初始液位为7.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 7.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）初始液位为7.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 7.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）初始液位为8.05米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 8.05,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_INITIAL_LEVEL_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）初始液位为7.75米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "initial_level": {
+        "value": 7.75,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_SETTLING_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6102每次收油结束后至少静置6小时方可付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "settling_time_min": {
+        "value": 6,
+        "unit": "h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_DEADLINE_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "到货批次ARR_PH_01在调度起点后第2小时到达，须在第20小时结束前由6101与6102收完剩余1000吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101,6102"
+      }
+    ],
+    "parameters": {
+      "arrival_time_offset": {
+        "value": 2,
+        "unit": "h"
+      },
+      "receipt_deadline_offset": {
+        "value": 20,
+        "unit": "h"
+      },
+      "remaining_receipt_mass": {
+        "value": 1000,
+        "unit": "t"
+      }
+    }
+  }
+]

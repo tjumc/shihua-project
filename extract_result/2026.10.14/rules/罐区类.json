@@ -1,0 +1,7669 @@
+[
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐计算直径为28.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 28.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐密度为0.830799579712556吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.830799579712556,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐容积为20000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐计算直径为40米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 40,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐米系数为1045吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 1045,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐密度为0.831584577546571吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.831584577546571,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）容积为5000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）计算直径为22米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 22,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）米系数为319吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 319,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）密度为0.839180608920419吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.839180608920419,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）容积为5000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 5000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）计算直径为22米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 22,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）米系数为319吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 319,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）密度为0.839180608920419吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.839180608920419,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）容积为10000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 10000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）计算直径为30.5974761618853米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 30.5974761618853,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）米系数为530吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 530,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）密度为0.7208吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.7208,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_VOLUME_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）容积为20000立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "volume": {
+        "value": 20000,
+        "unit": "m3"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DIAMETER_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）计算直径为44.2586722413535米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "diameter": {
+        "value": 44.2586722413535,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_METER_FACTOR_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）米系数为1244吨/米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "meter_factor": {
+        "value": 1244,
+        "unit": "t/m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_TANK_DENSITY_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）密度为0.8086吨/立方米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "density": {
+        "value": 0.8086,
+        "unit": "t/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4203在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4207在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4209在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4309在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4307在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4201在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4202在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4202"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_DISPATCH_ONLY_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4204在指定时段只允许付油，不允许收油；允许付油不代表必须付油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4204"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 0,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_RECEIVE_ONLY_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9502在指定时段只允许收油，不允许付油；允许收油不代表必须收油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_RECEIVE_ONLY_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4808在指定时段只允许收油，不允许付油；允许收油不代表必须收油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4808"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_RECEIVE_ONLY_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4203在指定时段只允许收油，不允许付油；允许收油不代表必须收油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_RECEIVE_ONLY_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4207在指定时段只允许收油，不允许付油；允许收油不代表必须收油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_RECEIVE_ONLY_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4209在指定时段只允许收油，不允许付油；允许收油不代表必须收油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_RECEIVE_ONLY_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4309在指定时段只允许收油，不允许付油；允许收油不代表必须收油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_RECEIVE_ONLY_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4307在指定时段只允许收油，不允许付油；允许收油不代表必须收油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_RECEIVE_ONLY_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4201在指定时段只允许收油，不允许付油；允许收油不代表必须收油。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 0,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_SIMULTANEOUS_ALLOWED_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4209在指定时段允许同时收油与付油，但仍须满足物料相容、库存和收付能力要求。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "simultaneous_receive_dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_SIMULTANEOUS_ALLOWED_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4309在指定时段允许同时收油与付油，但仍须满足物料相容、库存和收付能力要求。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "simultaneous_receive_dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_SIMULTANEOUS_ALLOWED_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4307在指定时段允许同时收油与付油，但仍须满足物料相容、库存和收付能力要求。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "simultaneous_receive_dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_SIMULTANEOUS_ALLOWED_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4201在指定时段允许同时收油与付油，但仍须满足物料相容、库存和收付能力要求。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "simultaneous_receive_dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_SIMULTANEOUS_ALLOWED_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4202在指定时段允许同时收油与付油，但仍须满足物料相容、库存和收付能力要求。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4202"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "simultaneous_receive_dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_SIMULTANEOUS_ALLOWED_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4204在指定时段允许同时收油与付油，但仍须满足物料相容、库存和收付能力要求。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4204"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "simultaneous_receive_dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_SIMULTANEOUS_ALLOWED_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9502在指定时段允许同时收油与付油，但仍须满足物料相容、库存和收付能力要求。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "simultaneous_receive_dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_SIMULTANEOUS_ALLOWED_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4808在指定时段允许同时收油与付油，但仍须满足物料相容、库存和收付能力要求。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4808"
+      }
+    ],
+    "parameters": {
+      "receive_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      },
+      "simultaneous_receive_dispatch_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6101原油罐安全液位上限为14.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6102原油罐安全液位上限为14.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6105原油罐安全液位上限为14.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6106原油罐安全液位上限为14.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9501",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9501原油罐安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9502原油罐安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9503",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9503原油罐安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9510",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9510原油罐安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6104原油罐（航煤掺炼）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_6103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "6103原油罐（环保应急）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9504",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9504原油罐（环保应急）安全液位上限为13.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9504"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MIN_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_INVENTORY_LEVEL_MAX_9509",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "9509原油罐（环保应急）安全液位上限为13米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9509"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4101罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4102罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4103罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4104罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4807",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4807罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4807"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4808",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4808罐（石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4808"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4105罐（精制油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4106罐（精制油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4107",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4107罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4108",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4108罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4108"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4109",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4109罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4109"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4110",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4110罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4110"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6201",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6201罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6201"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6201",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6201罐（1#渣油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6201"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4809",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4809罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4809"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6202",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6202罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6202"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6202",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6202罐（1#渣油）安全液位上限为10.9米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6202"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.9,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4810",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4810罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4810"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6204",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6204罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6204"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6204",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6204罐（1#渣油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6204"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4801",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4801罐（甲醇）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6205",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6205罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6205"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6205",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6205罐（1#渣油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6205"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4802",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4802罐（甲醇）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9505",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9505罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9505"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9505",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9505罐（1#渣油）安全液位上限为8.3米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9505"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.3,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4805",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4805罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4805"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9506",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9506罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9506"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9506",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9506罐（1#渣油）安全液位上限为13.47米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9506"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.47,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4806",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4806罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4806"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9507",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9507罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9507"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9507",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9507罐（1#渣油）安全液位上限为13.47米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9507"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.47,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4803",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4803罐（轻污油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9508",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9508罐（1#渣油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9508"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9508",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9508罐（1#渣油）安全液位上限为13.47米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9508"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.47,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4804",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4804罐（轻污油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23601",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23601罐（1#渣油(备用)）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23601"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23601",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23601罐（1#渣油(备用)）安全液位上限为15.18米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23601"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.18,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4901",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4901罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4901"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4901",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4901罐（催化汽油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4901"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23602",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23602罐（2#渣油(备用)）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23602"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23602",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23602罐（2#渣油(备用)）安全液位上限为15.18米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23602"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.18,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4902",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4902罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4902"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4902",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4902罐（催化汽油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4902"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23603",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23603罐（3#渣油(备用)）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23603"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23603",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23603罐（3#渣油(备用)）安全液位上限为15.18米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23603"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.18,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4903",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4903罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4903"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4903",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4903罐（催化汽油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4903"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23604",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23604罐（4#渣油(备用)）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23604"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23604",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23604罐（4#渣油(备用)）安全液位上限为15.18米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23604"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.18,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4904",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4904罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4904"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4904",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4904罐（常压柴油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4904"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6801",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6801罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6801",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6801罐（催化柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4905",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4905罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4905"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4905",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4905罐（常压柴油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4905"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6802",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6802罐（催化柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6802",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6802罐（催化柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4906",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4906罐（常压柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4906"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T4906",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4906罐（常压柴油）安全液位上限为16.03米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4906"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 16.03,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6803",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6803罐（常压石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6803",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6803罐（常压石脑油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_6804",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6804罐（常压石脑油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_6804",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼6804罐（常压石脑油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9527",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9527罐（常压直馏柴油）安全液位下限为2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9527"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9527",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9527罐（常压直馏柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9527"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9528",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9528罐（常压直馏柴油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9528"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9528",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9528罐（常压直馏柴油）安全液位上限为9.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9528"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9511",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9511罐（过剩精制汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9511"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9511",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9511罐（过剩精制汽油）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9511"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9512",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9512罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9512"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9512",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9512罐（催化汽油）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9512"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9513",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9513罐（催化汽油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9513"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9513",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9513罐（催化汽油）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9513"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9525",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9525罐（航煤原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9525"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9525",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9525罐（航煤原料）安全液位上限为14.9米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9525"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.9,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4201",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4201罐（气分原料（精制液化气））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9526",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9526罐（航煤原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9526"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9526",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9526罐（航煤原料）安全液位上限为14.9米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9526"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14.9,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4202",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4202罐（气分原料（精制液化气））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4202"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_806",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼806罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "806"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_806",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼806罐（92#汽油）安全液位上限为11.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "806"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 11.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4203",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4203罐（气分原料（精制液化气））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_807",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼807罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "807"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_807",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼807罐（92#汽油）安全液位上限为11.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "807"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 11.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4204",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4204罐（气分原料（精制液化气））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4204"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_822",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼822罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "822"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_822",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼822罐（92#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "822"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4205",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4205罐（丙烯（精制））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4205"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_823",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼823罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "823"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_823",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼823罐（92#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "823"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4206",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4206罐（丙烯（精制））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4206"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_825",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼825罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "825"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_825",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼825罐（92#汽油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "825"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4207",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4207罐（丙烯（精制））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_826",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼826罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "826"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_826",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼826罐（92#汽油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "826"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4208",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4208罐（丙烯（精制））安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4208"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26101罐（92#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26101罐（92#汽油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4209",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4209罐（丙烯）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_814",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼814罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "814"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_814",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼814罐（95#汽油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "814"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4210",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4210罐（丙烯）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4210"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_816",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼816罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "816"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_816",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼816罐（95#汽油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "816"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4301",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4301罐（混合碳四）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4301"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_817",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼817罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "817"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_817",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼817罐（95#汽油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "817"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4302",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4302罐（混合碳四）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4302"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_821",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼821罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "821"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_821",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼821罐（95#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "821"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4303",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4303罐（混合碳四）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4303"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_824",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼824罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "824"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_824",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼824罐（95#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "824"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4304",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4304罐（饱和液化气）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4304"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26102罐（95#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26102罐（95#汽油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4305",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4305罐（饱和液化气）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4305"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_G821",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼G-821罐（98#汽油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "G-821"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_G821",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼G-821罐（98#汽油）安全液位上限为20米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "G-821"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 20,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4309",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4309罐（丙烷）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_801",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼801罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_801",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼801罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "801"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4310",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4310罐（丙烷）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4310"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_802",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼802罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_802",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼802罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "802"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4306",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4306罐（碳四原料）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4306"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_803",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼803罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_803",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼803罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "803"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4307",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4307罐（碳四原料）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_804",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼804罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_804",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼804罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "804"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T4308",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-4308罐（碳四原料）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4308"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_810",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼810罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "810"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_810",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼810罐（0#柴油）安全液位上限为10.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "810"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_811",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼811罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "811"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_811",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼811罐（0#柴油）安全液位上限为10.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "811"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_812",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼812罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "812"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_812",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼812罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "812"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_813",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼813罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "813"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_813",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼813罐（0#柴油）安全液位上限为13.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "813"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_818",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼818罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "818"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_818",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼818罐（0#柴油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "818"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_819",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼819罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "819"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_819",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼819罐（0#柴油）安全液位上限为12.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "819"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26103罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26103罐（0#柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26104罐（0#柴油）安全液位下限为2.15米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.15,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26104罐（0#柴油）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26105罐（3#喷气燃料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26105罐（3#喷气燃料）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26106罐（3#喷气燃料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26106罐（3#喷气燃料）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_26107",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26107罐（3#喷气燃料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_26107",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼26107罐（3#喷气燃料）安全液位上限为15.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "26107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24903",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24903罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24903"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24903",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24903罐（MTBE）安全液位上限为7.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24903"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 7.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24904",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24904罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24904"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24904",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24904罐（MTBE）安全液位上限为7.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24904"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 7.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24905",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24905罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24905"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24905",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24905罐（MTBE）安全液位上限为7.4米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24905"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 7.4,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9514",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9514罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9514"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9514",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9514罐（MTBE）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9514"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9516",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9516罐（MTBE）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9516"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9516",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9516罐（MTBE）安全液位上限为12.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9516"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 12.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9515",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9515罐（二甲苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9515"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9515",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9515罐（二甲苯）安全液位上限为7.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9515"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 7.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9529",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9529罐（烷基化油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9529"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9529",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9529罐（烷基化油）安全液位上限为13米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9529"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9530",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9530罐（烷基化油）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9530"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9530",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9530罐（烷基化油）安全液位上限为13米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9530"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2115",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2115罐（苯乙烯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2115"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2115",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2115罐（苯乙烯）安全液位上限为8.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2115"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2116",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2116罐（苯乙烯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2116"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2116",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2116罐（苯乙烯）安全液位上限为8.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2116"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2117",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2117罐（苯乙烯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2117"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2117",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2117罐（苯乙烯）安全液位上限为15.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2117"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2118",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2118罐（苯乙烯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2118"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2118",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2118罐（苯乙烯）安全液位上限为15.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2118"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 15.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24901",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24901罐（甲醇原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24901"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24902",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24902罐（甲醇原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24902"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2101罐（乙苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2101",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2101罐（乙苯）安全液位上限为13.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2101"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2102罐（乙苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2102",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2102罐（乙苯）安全液位上限为13.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2102"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2103罐（乙苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2103",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2103罐（乙苯）安全液位上限为10.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2103"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2104罐（乙苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2104",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2104罐（乙苯）安全液位上限为10.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2104"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 10.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2105罐（烃化液）安全液位下限为1.65米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.65,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2105",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2105罐（烃化液）安全液位上限为13.76米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2105"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.76,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2106罐（脱氢液）安全液位下限为1.65米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.65,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2106",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2106罐（脱氢液）安全液位上限为13.76米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2106"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 13.76,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2107",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2107罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2107",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2107罐（石油苯）安全液位上限为9.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2107"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2108",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2108罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2108"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2108",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2108罐（石油苯）安全液位上限为9.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2108"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2109",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2109罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2109"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2109",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2109罐（石油苯）安全液位上限为9.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2109"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2110",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2110罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2110"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2110",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2110罐（石油苯）安全液位上限为9.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2110"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 9.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2113",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2113罐（石油苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2113"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2113",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2113罐（石油苯）安全液位上限为8.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2113"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_2114",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2114罐（不合格苯）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2114"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_2114",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼2114罐（不合格苯）安全液位上限为8.6米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "2114"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.6,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_TK3001A",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼TK3001A罐（醋酸原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "TK3001A"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_TK3001A",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼TK3001A罐（醋酸原料）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "TK3001A"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_TK3001B",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼TK3001B罐（醋酸原料）安全液位下限为2.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "TK3001B"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_TK3001B",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼TK3001B罐（醋酸原料）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "TK3001B"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24601",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24601罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24601"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24601",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24601罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24601"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24602",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24602罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24602"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24602",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24602罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24602"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24603",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24603罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24603"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24603",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24603罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24603"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24604",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24604罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24604"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24604",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24604罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24604"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9545",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9545罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9545"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9545",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9545罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9545"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9546",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9546罐（精制液化气）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9546"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9546",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9546罐（精制液化气）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9546"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9543",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9543罐（丙烷）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9543"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9543",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9543罐（丙烷）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9543"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9544",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9544罐（丙烷）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9544"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9544",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9544罐（丙烷）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9544"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24701",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24701罐（丙烯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24701"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24701",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24701罐（丙烯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24701"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24702",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24702罐（丙烯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24702"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24702",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24702罐（丙烯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24702"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24705",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24705罐（丙烯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24705"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24705",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24705罐（丙烯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24705"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24706",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24706罐（丙烯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24706"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24706",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24706罐（丙烯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24706"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24707",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24707罐（C4）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24707"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24707",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24707罐（C4）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24707"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_24708",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24708罐（C4）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24708"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_24708",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼24708罐（C4）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "24708"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23207",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23207罐（醚后C4）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23207"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23207",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23207罐（醚后C4）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23207"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_23208",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23208罐（醚后C4）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23208"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_23208",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼23208罐（醚后C4）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "23208"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_3002A",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼3002A罐（醋酸仲丁酯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "3002A"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_3002A",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼3002A罐（醋酸仲丁酯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "3002A"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_3002B",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼3002B罐（醋酸仲丁酯）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "3002B"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_3002B",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼3002B罐（醋酸仲丁酯）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "3002B"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9541",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9541罐（酯后碳四）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9541"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9541",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9541罐（酯后碳四）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9541"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YL_9542",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9542罐（酯后碳四）安全液位下限为1.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9542"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YL_9542",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延炼9542罐（酯后碳四）安全液位上限为8.8米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9542"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.8,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41001",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-41001罐（烷基化油）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41001"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41002",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-41002罐（烷基化油）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41002"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41003",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-41003罐（MTBE）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41003"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41004",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-41004罐（MTBE）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41004"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41005",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-41005罐（甲醇）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41005"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41006",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-41006罐（甲醇）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41006"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41007",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-41007罐（轻污油）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41007"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T41007",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-41007罐（轻污油）安全液位上限为14米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41007"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 14,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T41008",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-41008罐（烷基化油）安全液位下限为2.2米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-41008"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 2.2,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T44001",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-44001罐（异丁烷）安全液位下限为1.85米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44001"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.85,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T44001",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-44001罐（异丁烷）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44001"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T44002",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-44002罐（异丁烷）安全液位下限为1.85米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44002"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.85,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T44002",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-44002罐（异丁烷）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44002"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T44003",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-44003罐（MTBE碳四）安全液位下限为1.85米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44003"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.85,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T44003",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-44003罐（MTBE碳四）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44003"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MIN_YSH_T44004",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-44004罐（MTBE碳四）安全液位下限为1.85米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44004"
+      }
+    ],
+    "parameters": {
+      "inventory_level_min": {
+        "value": 1.85,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_LEVEL_MAX_YSH_T44004",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "延石化T-44004罐（MTBE碳四）安全液位上限为8.5米。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-44004"
+      }
+    ],
+    "parameters": {
+      "inventory_level_max": {
+        "value": 8.5,
+        "unit": "m"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YL_9502",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "截至2026年6月，延炼9502罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4808",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "截至2026年6月，延石化T-4808罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4808"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4203",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "截至2026年6月，延石化T-4203罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4207",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "截至2026年6月，延石化T-4207罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4209",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "截至2026年6月，延石化T-4209罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4309",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "截至2026年6月，延石化T-4309罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MAINTENANCE_STATUS_202606_YSH_T4307",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "截至2026年6月，延石化T-4307罐记录状态为检修。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "maintenance_status": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_GAS_FRACTIONATION_PUMP_START_PRESSURE_MIN_T4201",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2026年检修后罐区开工时，T-4201气分原料罐付料并启动P-4202/AB泵前，罐压力须保持在0.65兆帕以上。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "pump_start_tank_pressure_min": {
+        "value": 0.65,
+        "unit": "MPa"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_GAS_FRACTIONATION_PUMP_START_PRESSURE_MIN_T4202",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2026年检修后罐区开工时，T-4202气分原料罐付料并启动P-4202/AB泵前，罐压力须保持在0.65兆帕以上。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4202"
+      }
+    ],
+    "parameters": {
+      "pump_start_tank_pressure_min": {
+        "value": 0.65,
+        "unit": "MPa"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_GAS_FRACTIONATION_PUMP_START_PRESSURE_MIN_T4203",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2026年检修后罐区开工时，T-4203气分原料罐付料并启动P-4202/AB泵前，罐压力须保持在0.65兆帕以上。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "pump_start_tank_pressure_min": {
+        "value": 0.65,
+        "unit": "MPa"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_GAS_FRACTIONATION_PUMP_START_PRESSURE_MIN_T4204",
+    "factory": "yanlian",
+    "placeholder": "0",
+    "description": "2026年检修后罐区开工时，T-4204气分原料罐付料并启动P-4202/AB泵前，罐压力须保持在0.65兆帕以上。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4204"
+      }
+    ],
+    "parameters": {
+      "pump_start_tank_pressure_min": {
+        "value": 0.65,
+        "unit": "MPa"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4808在调度起点后第8至16小时采用临时库存范围600至4800吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4808"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 600,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 4800,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4203在调度起点后第8至16小时采用临时库存范围680至5060吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4203"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 680,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 5060,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4207在调度起点后第8至16小时采用临时库存范围760至5320吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4207"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 760,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 5320,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4209在调度起点后第8至16小时采用临时库存范围840至5580吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4209"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 840,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 5580,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4309在调度起点后第8至16小时采用临时库存范围920至5840吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4309"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 920,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 5840,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4307在调度起点后第8至16小时采用临时库存范围1000至6100吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4307"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 1000,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 6100,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_INVENTORY_TEMP_BOUND_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4201在调度起点后第8至16小时采用临时库存范围1080至6360吨。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "T-4201"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 8,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 16,
+        "unit": "h"
+      },
+      "inventory_min": {
+        "value": 1080,
+        "unit": "t"
+      },
+      "inventory_max": {
+        "value": 6360,
+        "unit": "t"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4207在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_01；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4207.S_MATERIAL_PH_01"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4209在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_02；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4209.S_MATERIAL_PH_02"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4309在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_03；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4309.S_MATERIAL_PH_03"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4307在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_04；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4307.S_MATERIAL_PH_04"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4201在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_05；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4201.S_MATERIAL_PH_05"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4202在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_06；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4202.S_MATERIAL_PH_06"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "T-4204在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_07；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "T-4204.S_MATERIAL_PH_07"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "TANK_MATERIAL_PERMISSION_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9502在调度起点后[12小时,24小时)只允许接收S_MATERIAL_PH_08；切换前须确认清罐与物料相容条件。",
+    "sets": [
+      {
+        "set_name": "IT",
+        "subset_name": null,
+        "element": "9502.S_MATERIAL_PH_08"
+      }
+    ],
+    "parameters": {
+      "effective_start_offset": {
+        "value": 12,
+        "unit": "h"
+      },
+      "effective_end_offset": {
+        "value": 24,
+        "unit": "h"
+      },
+      "receipt_allowed": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "rule_id": "CRUDE_RECEIVE_DISPATCH_MUTEX_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6101同一时段不得同时收油和付油；收付状态与对应流量联动。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "max_simultaneous_receive_dispatch_states": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  }
+]

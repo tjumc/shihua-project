@@ -1,0 +1,982 @@
+[
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_催化汽油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用催化汽油时，该组分质量比例为0.009至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.催化汽油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_常压石脑油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用常压石脑油时，该组分质量比例为0.013至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.常压石脑油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用MTBE时，该组分质量比例为0.017至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_烃化液",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用烃化液时，该组分质量比例为0.005至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用BMT时，该组分质量比例为0.009至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.BMT"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_RF1",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用RF1时，该组分质量比例为0.013至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.RF1"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_HAR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用HAR时，该组分质量比例为0.017至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.HAR"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_催化汽油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用催化汽油时，该组分质量比例为0.005至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.催化汽油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_常压石脑油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用常压石脑油时，该组分质量比例为0.009至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.常压石脑油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用MTBE时，该组分质量比例为0.013至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_烃化液",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用烃化液时，该组分质量比例为0.017至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用BMT时，该组分质量比例为0.005至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.BMT"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用MTBE时，该组分质量比例为0.009至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用BMT时，该组分质量比例为0.013至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.BMT"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_RF1",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用RF1时，该组分质量比例为0.017至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.RF1"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_HAR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用HAR时，该组分质量比例为0.005至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.HAR"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_BHR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用BHR时，该组分质量比例为0.009至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.BHR"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_H1N",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用H1N时，该组分质量比例为0.013至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.H1N"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_SZB",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用SZB时，该组分质量比例为0.017至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.SZB"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_催化柴油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用催化柴油时，该组分质量比例为0.005至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.催化柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_常压直馏柴油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用常压直馏柴油时，该组分质量比例为0.009至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.常压直馏柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_HCJ",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用HCJ时，该组分质量比例为0.013至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.HCJ"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用H2D时，该组分质量比例为0.017至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2D"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用H2E时，该组分质量比例为0.005至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2E"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用H2K时，该组分质量比例为0.009至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2K"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H2D时，该组分质量比例为0.013至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H2E时，该组分质量比例为0.017至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2E"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H2K时，该组分质量比例为0.005至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2K"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H4D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H4D时，该组分质量比例为0.009至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H4D"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H4E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H4E时，该组分质量比例为0.013至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H4E"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_JET_H5J",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤调合并选用H5J时，该组分质量比例为0.017至0.85。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_JET.JET"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.85,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_JET_HCJ",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤调合并选用HCJ时，该组分质量比例为0.005至0.85。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.HCJ"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_JET.JET"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.85,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_DMA_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油调合并选用H2D时，该组分质量比例为0.009至0.6。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2D"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_DMA.DMA"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_DMA_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油调合并选用H2E时，该组分质量比例为0.013至0.6。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2E"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_DMA.DMA"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_DMA_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油调合并选用H2K时，该组分质量比例为0.017至0.6。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2K"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_DMA.DMA"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  }
+]

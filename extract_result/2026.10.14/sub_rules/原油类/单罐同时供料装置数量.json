@@ -1,0 +1,282 @@
+[
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6101同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6102同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6105同时实际供料的常减压装置最多1套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 1,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6106同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9501同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9502同时实际供料的常减压装置最多1套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 1,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9503同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9510同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6104同时实际供料的常减压装置最多1套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 1,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_MAX_SUPPLIED_UNITS_PH_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6103同时实际供料的常减压装置最多2套；连接流量达到1吨/小时计为实际供料。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      },
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置,260万吨年常压装置"
+      }
+    ],
+    "parameters": {
+      "max_supplied_units": {
+        "value": 2,
+        "unit": "1"
+      },
+      "minimum_active_feed_rate": {
+        "value": 1,
+        "unit": "t/h"
+      }
+    }
+  }
+]

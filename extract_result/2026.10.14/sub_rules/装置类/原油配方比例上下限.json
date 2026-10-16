@@ -1,0 +1,842 @@
+[
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_001",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，YCO占总原油进料质量的比例为0.02至0.21。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.02,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.21,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_002",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，RCO占总原油进料质量的比例为0.03至0.25。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.03,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.25,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_003",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_03占总原油进料质量的比例为0.04至0.29。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_03"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.04,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.29,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_004",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_04占总原油进料质量的比例为0.01至0.29。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_04"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.01,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.29,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_005",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_05占总原油进料质量的比例为0.02至0.18。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_05"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.02,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_006",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_06占总原油进料质量的比例为0.03至0.22。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_06"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.03,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.22,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_007",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_07占总原油进料质量的比例为0.04至0.26。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_07"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.04,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.26,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_008",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_08占总原油进料质量的比例为0.01至0.26。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_08"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.01,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.26,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_009",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_09占总原油进料质量的比例为0.02至0.3。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_09"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.02,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_010",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_10占总原油进料质量的比例为0.03至0.19。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_10"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.03,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.19,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_011",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_11占总原油进料质量的比例为0.04至0.23。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_11"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.04,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.23,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_012",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_12占总原油进料质量的比例为0.01至0.23。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_12"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.01,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.23,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_013",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_13占总原油进料质量的比例为0.02至0.27。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_13"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.02,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.27,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_014",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_14占总原油进料质量的比例为0.03至0.31。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_14"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.03,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.31,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_015",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_15占总原油进料质量的比例为0.04至0.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_15"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.04,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.2,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_016",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_16占总原油进料质量的比例为0.01至0.2。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_16"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.01,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.2,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_017",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_17占总原油进料质量的比例为0.02至0.24。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_17"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.02,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.24,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_018",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_18占总原油进料质量的比例为0.03至0.28。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_18"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.03,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.28,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_019",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_19占总原油进料质量的比例为0.04至0.32。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_19"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.04,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.32,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_020",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_20占总原油进料质量的比例为0.01至0.17。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_20"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.01,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.17,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_021",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_21占总原油进料质量的比例为0.02至0.21。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_21"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.02,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.21,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_022",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_22占总原油进料质量的比例为0.03至0.25。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_22"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.03,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.25,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_023",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_23占总原油进料质量的比例为0.04至0.29。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_23"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.04,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.29,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_024",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_24占总原油进料质量的比例为0.01至0.29。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_24"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.01,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.29,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_025",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_25占总原油进料质量的比例为0.02至0.18。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_25"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.02,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_026",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_26占总原油进料质量的比例为0.03至0.22。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_26"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.03,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.22,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_027",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_27占总原油进料质量的比例为0.04至0.26。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_27"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.04,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.26,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_028",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_28占总原油进料质量的比例为0.01至0.26。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_28"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.01,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.26,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_029",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置正常运行时，O_PH_29占总原油进料质量的比例为0.02至0.3。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_29"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.02,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_RECIPE_BOUND_PH_030",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置正常运行时，O_PH_30占总原油进料质量的比例为0.03至0.19。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_30"
+      }
+    ],
+    "parameters": {
+      "crude_mass_fraction_min": {
+        "value": 0.03,
+        "unit": "1"
+      },
+      "crude_mass_fraction_max": {
+        "value": 0.19,
+        "unit": "1"
+      }
+    }
+  }
+]

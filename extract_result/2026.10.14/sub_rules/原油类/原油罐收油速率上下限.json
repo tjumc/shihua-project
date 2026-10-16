@@ -1,0 +1,232 @@
+[
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6101处于收油状态时，收油质量流率为52至196吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 52,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 196,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6102处于收油状态时，收油质量流率为59至207吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6102"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 59,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 207,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6105处于收油状态时，收油质量流率为66至218吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6105"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 66,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 218,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6106处于收油状态时，收油质量流率为73至229吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6106"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 73,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 229,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9501处于收油状态时，收油质量流率为80至240吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9501"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 80,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 240,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9502处于收油状态时，收油质量流率为87至251吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9502"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 87,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 251,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9503处于收油状态时，收油质量流率为94至262吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9503"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 94,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 262,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "9510处于收油状态时，收油质量流率为101至273吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "9510"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 101,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 273,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6104处于收油状态时，收油质量流率为108至284吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6104"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 108,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 284,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "CRUDE_RECEIVE_RATE_PH_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "6103处于收油状态时，收油质量流率为115至295吨/小时；未收油时为0。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6103"
+      }
+    ],
+    "parameters": {
+      "receive_rate_min": {
+        "value": 115,
+        "unit": "t/h"
+      },
+      "receive_rate_max": {
+        "value": 295,
+        "unit": "t/h"
+      }
+    }
+  }
+]

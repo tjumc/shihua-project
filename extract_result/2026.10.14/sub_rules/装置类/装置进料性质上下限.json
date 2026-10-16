@@ -1,0 +1,232 @@
+[
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置有进料时，混合进料硫质量分数为0.00112至0.01012。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "300万吨年常压装置.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.00112,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.01012,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置有进料时，混合进料硫质量分数为0.00124至0.01124。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "260万吨年常压装置.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.00124,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.01124,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_03有进料时，混合进料硫质量分数为0.00136至0.00936。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "CDU_PH_03.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.00136,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.00936,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_04有进料时，混合进料硫质量分数为0.00148至0.01048。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "CDU_PH_04.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.00148,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.01048,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_05有进料时，混合进料硫质量分数为0.0016至0.0116。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "CDU_PH_05.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.0016,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.0116,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_06有进料时，混合进料硫质量分数为0.00172至0.00972。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "CDU_PH_06.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.00172,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.00972,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_07有进料时，混合进料硫质量分数为0.00184至0.01084。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "CDU_PH_07.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.00184,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.01084,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_08有进料时，混合进料硫质量分数为0.00196至0.01196。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "CDU_PH_08.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.00196,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.01196,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_09有进料时，混合进料硫质量分数为0.00208至0.01008。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "CDU_PH_09.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.00208,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.01008,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_FEED_PROPERTY_BOUND_PH_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "CDU_PH_10有进料时，混合进料硫质量分数为0.0022至0.0112。",
+    "sets": [
+      {
+        "set_name": "UQ",
+        "subset_name": null,
+        "element": "CDU_PH_10.SULFUR"
+      }
+    ],
+    "parameters": {
+      "feed_sulfur_min": {
+        "value": 0.0022,
+        "unit": "1"
+      },
+      "feed_sulfur_max": {
+        "value": 0.0112,
+        "unit": "1"
+      }
+    }
+  }
+]

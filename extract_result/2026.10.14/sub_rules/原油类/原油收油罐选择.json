@@ -1,0 +1,21 @@
+[
+  {
+    "rule_id": "CRUDE_RECEIPT_TANK_SELECTION_PH_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "到货批次ARR_PH_01允许选择6101接收；实际收油仍须满足管路可达、物料相容、储罐可用和库存上限。",
+    "sets": [
+      {
+        "set_name": "T",
+        "subset_name": null,
+        "element": "6101"
+      }
+    ],
+    "parameters": {
+      "receipt_compatible": {
+        "value": 1,
+        "unit": "1"
+      }
+    }
+  }
+]

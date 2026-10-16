@@ -1,0 +1,842 @@
+[
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_001",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用YCO时，该原油进料量为595至1555吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "YCO"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 595,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 1555,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_002",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用RCO时，该原油进料量为640至1710吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "RCO"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 640,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 1710,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_003",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_03时，该原油进料量为685至1865吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_03"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 685,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 1865,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_004",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_04时，该原油进料量为730至2020吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_04"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 730,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2020,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_005",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_05时，该原油进料量为775至1625吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_05"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 775,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 1625,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_006",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_06时，该原油进料量为820至1780吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_06"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 820,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 1780,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_007",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_07时，该原油进料量为865至1935吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_07"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 865,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 1935,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_008",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_08时，该原油进料量为910至2090吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_08"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 910,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2090,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_009",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_09时，该原油进料量为955至2245吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_09"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 955,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2245,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_010",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_10时，该原油进料量为1000至1850吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_10"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1000,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 1850,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_011",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_11时，该原油进料量为1045至2005吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_11"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1045,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2005,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_012",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_12时，该原油进料量为1090至2160吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_12"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1090,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2160,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_013",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_13时，该原油进料量为1135至2315吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_13"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1135,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2315,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_014",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_14时，该原油进料量为1180至2470吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_14"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1180,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2470,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_015",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_15时，该原油进料量为1225至2075吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_15"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1225,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2075,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_016",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_16时，该原油进料量为1270至2230吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_16"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1270,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2230,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_017",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_17时，该原油进料量为1315至2385吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_17"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1315,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2385,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_018",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_18时，该原油进料量为1360至2540吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_18"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1360,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2540,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_019",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_19时，该原油进料量为1405至2695吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_19"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1405,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2695,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_020",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_20时，该原油进料量为1450至2300吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_20"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1450,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2300,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_021",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_21时，该原油进料量为1495至2455吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_21"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1495,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2455,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_022",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_22时，该原油进料量为1540至2610吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_22"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1540,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2610,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_023",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_23时，该原油进料量为1585至2765吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_23"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1585,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2765,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_024",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_24时，该原油进料量为1630至2920吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_24"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1630,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2920,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_025",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_25时，该原油进料量为1675至2525吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_25"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1675,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2525,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_026",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_26时，该原油进料量为1720至2680吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_26"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1720,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2680,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_027",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_27时，该原油进料量为1765至2835吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_27"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1765,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2835,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_028",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_28时，该原油进料量为1810至2990吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_28"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1810,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2990,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_029",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "300万吨年常压装置选用O_PH_29时，该原油进料量为1855至3145吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "300万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_29"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1855,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 3145,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_CRUDE_FEED_BOUND_PH_030",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "260万吨年常压装置选用O_PH_30时，该原油进料量为1900至2750吨/天；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "U",
+        "subset_name": "Ucdu",
+        "element": "260万吨年常压装置"
+      },
+      {
+        "set_name": "O",
+        "subset_name": null,
+        "element": "O_PH_30"
+      }
+    ],
+    "parameters": {
+      "crude_feed_min": {
+        "value": 1900,
+        "unit": "t/d"
+      },
+      "crude_feed_max": {
+        "value": 2750,
+        "unit": "t/d"
+      }
+    }
+  }
+]

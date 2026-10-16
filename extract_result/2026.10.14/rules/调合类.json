@@ -1,0 +1,5046 @@
+[
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_CAT_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化汽油是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.催化汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_CDU_NAPHTHA",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压石脑油是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.常压石脑油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "MTBE是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.MTBE"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_92_GASOLINE_ALKYLATE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "烃化液是92#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.烃化液"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_CAT_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化汽油是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.催化汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_CDU_NAPHTHA",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压石脑油是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.常压石脑油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "MTBE是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.MTBE"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_95_GASOLINE_ALKYLATE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "烃化液是95#汽油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.烃化液"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_0_DIESEL_CAT_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化柴油是0#柴油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.催化柴油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_0_DIESEL_CDU_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压直馏柴油是0#柴油的允许参调组分。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.常压直馏柴油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W92",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "92#国Ⅴ汽油新增真实参调关系包括BMT、RF1、HAR、BHR、H1N、SZB、H8N、TOL、XYL、ZBB、HLN；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.BMT,BLEND_W92.RF1,BLEND_W92.HAR,BLEND_W92.BHR,BLEND_W92.H1N,BLEND_W92.SZB,BLEND_W92.H8N,BLEND_W92.TOL,BLEND_W92.XYL,BLEND_W92.ZBB,BLEND_W92.HLN"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W95",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "95#国Ⅴ汽油新增真实参调关系包括BMT、HAR、BHR、SZB、TOL、XYL；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.BMT,BLEND_W95.HAR,BLEND_W95.BHR,BLEND_W95.SZB,BLEND_W95.TOL,BLEND_W95.XYL"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W98",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "98#国Ⅴ汽油新增真实参调关系包括MTB、BMT、RF1、HAR、BHR、H1N、SZB、H8N、TOL、XYL、ZBB、ALK；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTB,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.ALK"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W00",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "0#国标Ⅴ柴油新增真实参调关系包括HCJ、H2D、H2E、H2K、H4D、H4E、HCD、H1J；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.HCJ,BLEND_W00.H2D,BLEND_W00.H2E,BLEND_W00.H2K,BLEND_W00.H4D,BLEND_W00.H4E,BLEND_W00.HCD,BLEND_W00.H1J"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_W20",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "-20#国标Ⅴ柴油新增真实参调关系包括H2D、H2E、H2K、H4D、H4E、HCD；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D,BLEND_W20.H2E,BLEND_W20.H2K,BLEND_W20.H4D,BLEND_W20.H4E,BLEND_W20.HCD"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_JET",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "航煤新增真实参调关系包括H5J、HCJ；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J,BLEND_JET.HCJ"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_ALLOWED_DMA",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "船用燃料油新增真实参调关系包括H2D、H2E、H2K；与merge已覆盖的重复参调关系已去重。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2D,BLEND_DMA.H2E,BLEND_DMA.H2K"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_催化汽油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用催化汽油时，其调合质量流率为4.4至27.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.催化汽油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 4.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 27.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_常压石脑油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用常压石脑油时，其调合质量流率为5.8至33.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.常压石脑油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 5.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 33.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用MTBE时，其调合质量流率为7.2至40.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.MTBE"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 7.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 40.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_烃化液",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用烃化液时，其调合质量流率为8.6至46.6吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.烃化液"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 8.6,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 46.6,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用BMT时，其调合质量流率为10.0至53.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.BMT"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 10.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 53.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_RF1",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用RF1时，其调合质量流率为11.4至29.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.RF1"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 11.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 29.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W92_HAR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油选用HAR时，其调合质量流率为12.8至35.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.HAR"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 12.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 35.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_催化汽油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用催化汽油时，其调合质量流率为14.2至42.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.催化汽油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 14.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 42.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_常压石脑油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用常压石脑油时，其调合质量流率为3.0至36.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.常压石脑油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 3.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 36.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用MTBE时，其调合质量流率为4.4至42.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.MTBE"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 4.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 42.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_烃化液",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用烃化液时，其调合质量流率为5.8至48.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.烃化液"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 5.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 48.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W95_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油选用BMT时，其调合质量流率为7.2至25.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.BMT"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 7.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 25.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用MTBE时，其调合质量流率为8.6至31.6吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTBE"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 8.6,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 31.6,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用BMT时，其调合质量流率为10.0至38.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.BMT"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 10.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 38.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_RF1",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用RF1时，其调合质量流率为11.4至44.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.RF1"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 11.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 44.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_HAR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用HAR时，其调合质量流率为12.8至50.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.HAR"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 12.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 50.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_BHR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用BHR时，其调合质量流率为14.2至57.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.BHR"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 14.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 57.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_H1N",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用H1N时，其调合质量流率为3.0至21.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.H1N"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 3.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 21.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W98_SZB",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油选用SZB时，其调合质量流率为4.4至27.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.SZB"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 4.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 27.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_催化柴油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用催化柴油时，其调合质量流率为5.8至33.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.催化柴油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 5.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 33.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_常压直馏柴油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用常压直馏柴油时，其调合质量流率为7.2至40.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.常压直馏柴油"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 7.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 40.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_HCJ",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用HCJ时，其调合质量流率为8.6至46.6吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.HCJ"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 8.6,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 46.6,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用H2D时，其调合质量流率为10.0至53.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2D"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 10.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 53.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用H2E时，其调合质量流率为11.4至29.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2E"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 11.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 29.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W00_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油选用H2K时，其调合质量流率为12.8至35.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2K"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 12.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 35.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H2D时，其调合质量流率为14.2至42.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 14.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 42.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H2E时，其调合质量流率为3.0至36.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2E"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 3.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 36.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H2K时，其调合质量流率为4.4至42.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2K"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 4.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 42.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H4D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H4D时，其调合质量流率为5.8至48.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H4D"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 5.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 48.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_W20_H4E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油选用H4E时，其调合质量流率为7.2至25.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H4E"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 7.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 25.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_JET_H5J",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤选用H5J时，其调合质量流率为8.6至31.6吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 8.6,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 31.6,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_JET_HCJ",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤选用HCJ时，其调合质量流率为10.0至38.0吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.HCJ"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 10.0,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 38.0,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_DMA_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油选用H2D时，其调合质量流率为11.4至44.4吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2D"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 11.4,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 44.4,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_DMA_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油选用H2E时，其调合质量流率为12.8至50.8吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2E"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 12.8,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 50.8,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_FLOW_PH_DMA_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油选用H2K时，其调合质量流率为14.2至57.2吨/小时；未选用时为0。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2K"
+      }
+    ],
+    "parameters": {
+      "component_rate_min": {
+        "value": 14.2,
+        "unit": "t/h"
+      },
+      "component_rate_max": {
+        "value": 57.2,
+        "unit": "t/h"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_催化汽油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用催化汽油时，该组分质量比例为0.009至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.催化汽油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_常压石脑油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用常压石脑油时，该组分质量比例为0.013至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.常压石脑油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用MTBE时，该组分质量比例为0.017至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_烃化液",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用烃化液时，该组分质量比例为0.005至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用BMT时，该组分质量比例为0.009至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.BMT"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_RF1",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用RF1时，该组分质量比例为0.013至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.RF1"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W92_HAR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合并选用HAR时，该组分质量比例为0.017至0.12。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.HAR"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.12,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_催化汽油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用催化汽油时，该组分质量比例为0.005至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.催化汽油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_常压石脑油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用常压石脑油时，该组分质量比例为0.009至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.常压石脑油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用MTBE时，该组分质量比例为0.013至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_烃化液",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用烃化液时，该组分质量比例为0.017至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W95_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合并选用BMT时，该组分质量比例为0.005至0.164。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.BMT"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.164,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用MTBE时，该组分质量比例为0.009至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTBE"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_BMT",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用BMT时，该组分质量比例为0.013至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.BMT"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_RF1",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用RF1时，该组分质量比例为0.017至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.RF1"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_HAR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用HAR时，该组分质量比例为0.005至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.HAR"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_BHR",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用BHR时，该组分质量比例为0.009至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.BHR"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_H1N",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用H1N时，该组分质量比例为0.013至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.H1N"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W98_SZB",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合并选用SZB时，该组分质量比例为0.017至0.15。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.SZB"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.15,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_催化柴油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用催化柴油时，该组分质量比例为0.005至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.催化柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_常压直馏柴油",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用常压直馏柴油时，该组分质量比例为0.009至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.常压直馏柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_HCJ",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用HCJ时，该组分质量比例为0.013至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.HCJ"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用H2D时，该组分质量比例为0.017至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2D"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用H2E时，该组分质量比例为0.005至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2E"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W00_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合并选用H2K时，该组分质量比例为0.009至0.18。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.H2K"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.18,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H2D时，该组分质量比例为0.013至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H2E时，该组分质量比例为0.017至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2E"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H2K时，该组分质量比例为0.005至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2K"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H4D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H4D时，该组分质量比例为0.009至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H4D"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_W20_H4E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合并选用H4E时，该组分质量比例为0.013至0.3。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H4E"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.3,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_JET_H5J",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤调合并选用H5J时，该组分质量比例为0.017至0.85。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_JET.JET"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.85,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_JET_HCJ",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤调合并选用HCJ时，该组分质量比例为0.005至0.85。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.HCJ"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_JET.JET"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.005,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.85,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_DMA_H2D",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油调合并选用H2D时，该组分质量比例为0.009至0.6。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2D"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_DMA.DMA"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.009,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_DMA_H2E",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油调合并选用H2E时，该组分质量比例为0.013至0.6。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2E"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_DMA.DMA"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.013,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RECIPE_PH_DMA_H2K",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油调合并选用H2K时，该组分质量比例为0.017至0.6。",
+    "sets": [
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2K"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_DMA.DMA"
+      }
+    ],
+    "parameters": {
+      "component_mass_fraction_min": {
+        "value": 0.017,
+        "unit": "1"
+      },
+      "component_mass_fraction_max": {
+        "value": 0.6,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_CAT_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化汽油RON为90。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化汽油.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 90,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_CDU_NAPHTHA",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压石脑油RON为55。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压石脑油.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 55,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "MTBE的RON为115。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "MTBE.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 115,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_RON_ALKYLATE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "烃化液RON为94。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "烃化液.RON"
+      }
+    ],
+    "parameters": {
+      "ron": {
+        "value": 94,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_CN_CAT_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化柴油CN为25。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化柴油.CN"
+      }
+    ],
+    "parameters": {
+      "cn": {
+        "value": 25,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_CN_CDU_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压直馏柴油CN为59。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压直馏柴油.CN"
+      }
+    ],
+    "parameters": {
+      "cn": {
+        "value": 59,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_CAT_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化汽油硫含量为800 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化汽油.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 800,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_CAT_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化汽油苯含量为0.8%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化汽油.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0.8,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_CDU_NAPHTHA",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压石脑油硫含量为300 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压石脑油.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 300,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_CDU_NAPHTHA",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压石脑油苯含量为1.2%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压石脑油.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 1.2,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "MTBE硫含量为0 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "MTBE.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 0,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_MTBE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "MTBE苯含量为0%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "MTBE.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_ALKYLATE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "烃化液硫含量为10 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "烃化液.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 10,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_ALKYLATE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "烃化液苯含量为0%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "烃化液.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_CAT_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化柴油硫含量为4500 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化柴油.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 4500,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_CAT_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "催化柴油苯含量为0%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "催化柴油.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_SUL_CDU_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压直馏柴油硫含量为5000 ppm。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压直馏柴油.SUL"
+      }
+    ],
+    "parameters": {
+      "sulfur": {
+        "value": 5000,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_COMPONENT_BNZ_CDU_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "常压直馏柴油苯含量为0%。",
+    "sets": [
+      {
+        "set_name": "SQ",
+        "subset_name": null,
+        "element": "常压直馏柴油.BNZ"
+      }
+    ],
+    "parameters": {
+      "benzene": {
+        "value": 0,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_RON_CALC_92_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "92#汽油RON由催化汽油、常压石脑油、MTBE、烃化液的RON按质量比例线性加权计算。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.MTBE"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "92#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_RON_CALC_95_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "95#汽油RON由催化汽油、常压石脑油、MTBE、烃化液的RON按质量比例线性加权计算。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.催化汽油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.常压石脑油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.MTBE"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "95#汽油调合.烃化液"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "BLEND_CN_CALC_0_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "0#柴油十六烷值由催化柴油、常压直馏柴油的CN按质量比例线性加权计算。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "CN"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.催化柴油"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "0#柴油调合.常压直馏柴油"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油"
+      }
+    ],
+    "parameters": {}
+  },
+  {
+    "rule_id": "PRODUCT_RON_MIN_92_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "92#汽油RON下限为92。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "92#汽油调合.92#汽油.RON"
+      }
+    ],
+    "parameters": {
+      "product_ron_min": {
+        "value": 92,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_RON_MIN_95_GASOLINE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "95#汽油RON下限为95。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "95#汽油调合.95#汽油.RON"
+      }
+    ],
+    "parameters": {
+      "product_ron_min": {
+        "value": 95,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "PRODUCT_CN_MIN_0_DIESEL",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "0#柴油CN下限为51。",
+    "sets": [
+      {
+        "set_name": "OUSQ",
+        "subset_name": null,
+        "element": "0#柴油调合.0#柴油.CN"
+      }
+    ],
+    "parameters": {
+      "product_cn_min": {
+        "value": 51,
+        "unit": null
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W92_DON",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "92#国Ⅴ汽油调合时，抗爆指数使用各有效参调组分的DON性质参数进行质量约束，成品抗爆指数不得低于87。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "DON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.MTB,BLEND_W92.BMT,BLEND_W92.RF1,BLEND_W92.HAR,BLEND_W92.BHR,BLEND_W92.H1N,BLEND_W92.SZB,BLEND_W92.H8N,BLEND_W92.TOL,BLEND_W92.XYL,BLEND_W92.ZBB,BLEND_W92.HLN"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "anti_knock_index_MTB": {
+        "value": 105,
+        "unit": "1"
+      },
+      "anti_knock_index_BMT": {
+        "value": 105,
+        "unit": "1"
+      },
+      "anti_knock_index_RF1": {
+        "value": 78.8,
+        "unit": "1"
+      },
+      "anti_knock_index_HAR": {
+        "value": 98,
+        "unit": "1"
+      },
+      "anti_knock_index_BHR": {
+        "value": 98,
+        "unit": "1"
+      },
+      "anti_knock_index_H1N": {
+        "value": 92,
+        "unit": "1"
+      },
+      "anti_knock_index_SZB": {
+        "value": 83.5,
+        "unit": "1"
+      },
+      "anti_knock_index_H8N": {
+        "value": 88,
+        "unit": "1"
+      },
+      "anti_knock_index_TOL": {
+        "value": 105,
+        "unit": "1"
+      },
+      "anti_knock_index_XYL": {
+        "value": 99.3,
+        "unit": "1"
+      },
+      "anti_knock_index_ZBB": {
+        "value": 99.3,
+        "unit": "1"
+      },
+      "anti_knock_index_HLN": {
+        "value": 85,
+        "unit": "1"
+      },
+      "product_anti_knock_index_min": {
+        "value": 87,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W92_OLV",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "92#国Ⅴ汽油调合时，烯烃含量使用各有效参调组分的OLV性质参数进行质量约束，成品烯烃含量不得高于25%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "OLV"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.MTB,BLEND_W92.BMT,BLEND_W92.RF1,BLEND_W92.HAR,BLEND_W92.BHR,BLEND_W92.H1N,BLEND_W92.SZB,BLEND_W92.H8N,BLEND_W92.TOL,BLEND_W92.XYL,BLEND_W92.ZBB,BLEND_W92.HLN"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "olefin_content_MTB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_BMT": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_RF1": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_HAR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_BHR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_H1N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_SZB": {
+        "value": 20,
+        "unit": "%"
+      },
+      "olefin_content_H8N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_TOL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_XYL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_ZBB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_HLN": {
+        "value": 0.03,
+        "unit": "%"
+      },
+      "product_olefin_content_max": {
+        "value": 25,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W92_BNZ",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "92#国Ⅴ汽油调合时，苯含量使用各有效参调组分的BNZ性质参数进行质量约束，成品苯含量不得高于1%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "BNZ"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.MTB,BLEND_W92.BMT,BLEND_W92.RF1,BLEND_W92.HAR,BLEND_W92.BHR,BLEND_W92.H1N,BLEND_W92.SZB,BLEND_W92.H8N,BLEND_W92.TOL,BLEND_W92.XYL,BLEND_W92.ZBB,BLEND_W92.HLN"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "benzene_content_MTB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_BMT": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_RF1": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_HAR": {
+        "value": 0.2,
+        "unit": "%"
+      },
+      "benzene_content_BHR": {
+        "value": 0.2,
+        "unit": "%"
+      },
+      "benzene_content_H1N": {
+        "value": 0.5,
+        "unit": "%"
+      },
+      "benzene_content_SZB": {
+        "value": 0.5,
+        "unit": "%"
+      },
+      "benzene_content_H8N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_TOL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_XYL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_ZBB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_HLN": {
+        "value": 0.5,
+        "unit": "%"
+      },
+      "product_benzene_content_max": {
+        "value": 1,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W92_MTE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "92#国Ⅴ汽油调合时，MTBE含量使用各有效参调组分的MTE性质参数进行质量约束，成品MTBE含量不得高于14%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "MTE"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.MTB,BLEND_W92.BMT,BLEND_W92.RF1,BLEND_W92.HAR,BLEND_W92.BHR,BLEND_W92.H1N,BLEND_W92.SZB,BLEND_W92.H8N,BLEND_W92.TOL,BLEND_W92.XYL,BLEND_W92.ZBB,BLEND_W92.HLN"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "mtbe_content_MTB": {
+        "value": 99.6,
+        "unit": "%"
+      },
+      "mtbe_content_BMT": {
+        "value": 99.6,
+        "unit": "%"
+      },
+      "mtbe_content_RF1": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_HAR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_BHR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_H1N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_SZB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_H8N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_TOL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_XYL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_ZBB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_HLN": {
+        "value": 0,
+        "unit": "%"
+      },
+      "product_mtbe_content_max": {
+        "value": 14,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W92_ARW",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "92#国Ⅴ汽油调合时，芳烃含量使用各有效参调组分的ARW性质参数进行质量约束，成品芳烃含量不得高于38%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "ARW"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.MTB,BLEND_W92.BMT,BLEND_W92.RF1,BLEND_W92.HAR,BLEND_W92.BHR,BLEND_W92.H1N,BLEND_W92.SZB,BLEND_W92.H8N,BLEND_W92.TOL,BLEND_W92.XYL,BLEND_W92.ZBB,BLEND_W92.HLN"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "aromatic_content_MTB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_BMT": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_RF1": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_HAR": {
+        "value": 70,
+        "unit": "%"
+      },
+      "aromatic_content_BHR": {
+        "value": 80,
+        "unit": "%"
+      },
+      "aromatic_content_H1N": {
+        "value": 22,
+        "unit": "%"
+      },
+      "aromatic_content_SZB": {
+        "value": 20,
+        "unit": "%"
+      },
+      "aromatic_content_H8N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_TOL": {
+        "value": 100,
+        "unit": "%"
+      },
+      "aromatic_content_XYL": {
+        "value": 100,
+        "unit": "%"
+      },
+      "aromatic_content_ZBB": {
+        "value": 100,
+        "unit": "%"
+      },
+      "aromatic_content_HLN": {
+        "value": 6.8,
+        "unit": "%"
+      },
+      "product_aromatic_content_max": {
+        "value": 38,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W95_DON",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "95#国Ⅴ汽油调合时，抗爆指数使用各有效参调组分的DON性质参数进行质量约束，成品抗爆指数不得低于90。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "DON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.MTB,BLEND_W95.BMT,BLEND_W95.HAR,BLEND_W95.BHR,BLEND_W95.SZB,BLEND_W95.TOL,BLEND_W95.XYL,BLEND_W95.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "anti_knock_index_MTB": {
+        "value": 105,
+        "unit": "1"
+      },
+      "anti_knock_index_BMT": {
+        "value": 105,
+        "unit": "1"
+      },
+      "anti_knock_index_HAR": {
+        "value": 98,
+        "unit": "1"
+      },
+      "anti_knock_index_BHR": {
+        "value": 98,
+        "unit": "1"
+      },
+      "anti_knock_index_SZB": {
+        "value": 83.5,
+        "unit": "1"
+      },
+      "anti_knock_index_TOL": {
+        "value": 105,
+        "unit": "1"
+      },
+      "anti_knock_index_XYL": {
+        "value": 99.3,
+        "unit": "1"
+      },
+      "anti_knock_index_ALK": {
+        "value": 105,
+        "unit": "1"
+      },
+      "product_anti_knock_index_min": {
+        "value": 90,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W95_OLV",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "95#国Ⅴ汽油调合时，烯烃含量使用各有效参调组分的OLV性质参数进行质量约束，成品烯烃含量不得高于25%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "OLV"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.MTB,BLEND_W95.BMT,BLEND_W95.HAR,BLEND_W95.BHR,BLEND_W95.SZB,BLEND_W95.TOL,BLEND_W95.XYL,BLEND_W95.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "olefin_content_MTB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_BMT": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_HAR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_BHR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_SZB": {
+        "value": 20,
+        "unit": "%"
+      },
+      "olefin_content_TOL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_XYL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_ALK": {
+        "value": 0,
+        "unit": "%"
+      },
+      "product_olefin_content_max": {
+        "value": 25,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W95_BNZ",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "95#国Ⅴ汽油调合时，苯含量使用各有效参调组分的BNZ性质参数进行质量约束，成品苯含量不得高于1%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "BNZ"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.MTB,BLEND_W95.BMT,BLEND_W95.HAR,BLEND_W95.BHR,BLEND_W95.SZB,BLEND_W95.TOL,BLEND_W95.XYL,BLEND_W95.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "benzene_content_MTB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_BMT": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_HAR": {
+        "value": 0.2,
+        "unit": "%"
+      },
+      "benzene_content_BHR": {
+        "value": 0.2,
+        "unit": "%"
+      },
+      "benzene_content_SZB": {
+        "value": 0.5,
+        "unit": "%"
+      },
+      "benzene_content_TOL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_XYL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_ALK": {
+        "value": 0,
+        "unit": "%"
+      },
+      "product_benzene_content_max": {
+        "value": 1,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W95_MTE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "95#国Ⅴ汽油调合时，MTBE含量使用各有效参调组分的MTE性质参数进行质量约束，成品MTBE含量不得高于14%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "MTE"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.MTB,BLEND_W95.BMT,BLEND_W95.HAR,BLEND_W95.BHR,BLEND_W95.SZB,BLEND_W95.TOL,BLEND_W95.XYL,BLEND_W95.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "mtbe_content_MTB": {
+        "value": 99.6,
+        "unit": "%"
+      },
+      "mtbe_content_BMT": {
+        "value": 99.6,
+        "unit": "%"
+      },
+      "mtbe_content_HAR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_BHR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_SZB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_TOL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_XYL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_ALK": {
+        "value": 99.6,
+        "unit": "%"
+      },
+      "product_mtbe_content_max": {
+        "value": 14,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W95_ARW",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "95#国Ⅴ汽油调合时，芳烃含量使用各有效参调组分的ARW性质参数进行质量约束，成品芳烃含量不得高于38%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "ARW"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.MTB,BLEND_W95.BMT,BLEND_W95.HAR,BLEND_W95.BHR,BLEND_W95.SZB,BLEND_W95.TOL,BLEND_W95.XYL,BLEND_W95.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "aromatic_content_MTB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_BMT": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_HAR": {
+        "value": 70,
+        "unit": "%"
+      },
+      "aromatic_content_BHR": {
+        "value": 80,
+        "unit": "%"
+      },
+      "aromatic_content_SZB": {
+        "value": 20,
+        "unit": "%"
+      },
+      "aromatic_content_TOL": {
+        "value": 100,
+        "unit": "%"
+      },
+      "aromatic_content_XYL": {
+        "value": 100,
+        "unit": "%"
+      },
+      "aromatic_content_ALK": {
+        "value": 0,
+        "unit": "%"
+      },
+      "product_aromatic_content_max": {
+        "value": 38,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W98_RON",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "98#国Ⅴ汽油调合时，研究法辛烷值使用各有效参调组分的RON性质参数进行质量约束，成品研究法辛烷值不得低于98。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTB,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "ron_MTB": {
+        "value": 117,
+        "unit": "1"
+      },
+      "ron_BMT": {
+        "value": 117,
+        "unit": "1"
+      },
+      "ron_RF1": {
+        "value": 82,
+        "unit": "1"
+      },
+      "ron_HAR": {
+        "value": 103,
+        "unit": "1"
+      },
+      "ron_BHR": {
+        "value": 103,
+        "unit": "1"
+      },
+      "ron_H1N": {
+        "value": 98.5,
+        "unit": "1"
+      },
+      "ron_SZB": {
+        "value": 88.5,
+        "unit": "1"
+      },
+      "ron_H8N": {
+        "value": 90,
+        "unit": "1"
+      },
+      "ron_TOL": {
+        "value": 105,
+        "unit": "1"
+      },
+      "ron_XYL": {
+        "value": 105,
+        "unit": "1"
+      },
+      "ron_ZBB": {
+        "value": 105,
+        "unit": "1"
+      },
+      "ron_ALK": {
+        "value": 120,
+        "unit": "1"
+      },
+      "product_ron_min": {
+        "value": 98,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W98_DON",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "98#国Ⅴ汽油调合时，抗爆指数使用各有效参调组分的DON性质参数进行质量约束，成品抗爆指数不得低于93。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "DON"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTB,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "anti_knock_index_MTB": {
+        "value": 105,
+        "unit": "1"
+      },
+      "anti_knock_index_BMT": {
+        "value": 105,
+        "unit": "1"
+      },
+      "anti_knock_index_RF1": {
+        "value": 78.8,
+        "unit": "1"
+      },
+      "anti_knock_index_HAR": {
+        "value": 98,
+        "unit": "1"
+      },
+      "anti_knock_index_BHR": {
+        "value": 98,
+        "unit": "1"
+      },
+      "anti_knock_index_H1N": {
+        "value": 92,
+        "unit": "1"
+      },
+      "anti_knock_index_SZB": {
+        "value": 83.5,
+        "unit": "1"
+      },
+      "anti_knock_index_H8N": {
+        "value": 88,
+        "unit": "1"
+      },
+      "anti_knock_index_TOL": {
+        "value": 105,
+        "unit": "1"
+      },
+      "anti_knock_index_XYL": {
+        "value": 99.3,
+        "unit": "1"
+      },
+      "anti_knock_index_ZBB": {
+        "value": 99.3,
+        "unit": "1"
+      },
+      "anti_knock_index_ALK": {
+        "value": 105,
+        "unit": "1"
+      },
+      "product_anti_knock_index_min": {
+        "value": 93,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W98_OLV",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "98#国Ⅴ汽油调合时，烯烃含量使用各有效参调组分的OLV性质参数进行质量约束，成品烯烃含量不得高于25%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "OLV"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTB,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "olefin_content_MTB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_BMT": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_RF1": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_HAR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_BHR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_H1N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_SZB": {
+        "value": 20,
+        "unit": "%"
+      },
+      "olefin_content_H8N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_TOL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_XYL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_ZBB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "olefin_content_ALK": {
+        "value": 0,
+        "unit": "%"
+      },
+      "product_olefin_content_max": {
+        "value": 25,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W98_BNZ",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "98#国Ⅴ汽油调合时，苯含量使用各有效参调组分的BNZ性质参数进行质量约束，成品苯含量不得高于1%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "BNZ"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTB,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "benzene_content_MTB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_BMT": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_RF1": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_HAR": {
+        "value": 0.2,
+        "unit": "%"
+      },
+      "benzene_content_BHR": {
+        "value": 0.2,
+        "unit": "%"
+      },
+      "benzene_content_H1N": {
+        "value": 0.5,
+        "unit": "%"
+      },
+      "benzene_content_SZB": {
+        "value": 0.5,
+        "unit": "%"
+      },
+      "benzene_content_H8N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_TOL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_XYL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_ZBB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "benzene_content_ALK": {
+        "value": 0,
+        "unit": "%"
+      },
+      "product_benzene_content_max": {
+        "value": 1,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W98_MTE",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "98#国Ⅴ汽油调合时，MTBE含量使用各有效参调组分的MTE性质参数进行质量约束，成品MTBE含量不得高于14%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "MTE"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTB,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "mtbe_content_MTB": {
+        "value": 99.6,
+        "unit": "%"
+      },
+      "mtbe_content_BMT": {
+        "value": 99.6,
+        "unit": "%"
+      },
+      "mtbe_content_RF1": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_HAR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_BHR": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_H1N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_SZB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_H8N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_TOL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_XYL": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_ZBB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "mtbe_content_ALK": {
+        "value": 99.6,
+        "unit": "%"
+      },
+      "product_mtbe_content_max": {
+        "value": 14,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W98_ARW",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "98#国Ⅴ汽油调合时，芳烃含量使用各有效参调组分的ARW性质参数进行质量约束，成品芳烃含量不得高于38%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "ARW"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTB,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.ALK"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "aromatic_content_MTB": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_BMT": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_RF1": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_HAR": {
+        "value": 70,
+        "unit": "%"
+      },
+      "aromatic_content_BHR": {
+        "value": 80,
+        "unit": "%"
+      },
+      "aromatic_content_H1N": {
+        "value": 22,
+        "unit": "%"
+      },
+      "aromatic_content_SZB": {
+        "value": 20,
+        "unit": "%"
+      },
+      "aromatic_content_H8N": {
+        "value": 0,
+        "unit": "%"
+      },
+      "aromatic_content_TOL": {
+        "value": 100,
+        "unit": "%"
+      },
+      "aromatic_content_XYL": {
+        "value": 100,
+        "unit": "%"
+      },
+      "aromatic_content_ZBB": {
+        "value": 100,
+        "unit": "%"
+      },
+      "aromatic_content_ALK": {
+        "value": 0,
+        "unit": "%"
+      },
+      "product_aromatic_content_max": {
+        "value": 38,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W00_CTI",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "0#国标Ⅴ柴油调合时，十六烷指数使用各有效参调组分的CTI性质参数进行质量约束，成品十六烷指数不得低于46。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "CTI"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.HCJ,BLEND_W00.H2D,BLEND_W00.H2E,BLEND_W00.H2K,BLEND_W00.H4D,BLEND_W00.H4E,BLEND_W00.HCD,BLEND_W00.H1J"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "cetane_index_HCJ": {
+        "value": 50,
+        "unit": "1"
+      },
+      "cetane_index_H2D": {
+        "value": 49,
+        "unit": "1"
+      },
+      "cetane_index_H2E": {
+        "value": 26,
+        "unit": "1"
+      },
+      "cetane_index_H2K": {
+        "value": 49,
+        "unit": "1"
+      },
+      "cetane_index_H4D": {
+        "value": 46,
+        "unit": "1"
+      },
+      "cetane_index_H4E": {
+        "value": 49,
+        "unit": "1"
+      },
+      "cetane_index_HCD": {
+        "value": 59,
+        "unit": "1"
+      },
+      "cetane_index_H1J": {
+        "value": 49,
+        "unit": "1"
+      },
+      "product_cetane_index_min": {
+        "value": 46,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_W20_CTI",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "-20#国标Ⅴ柴油调合时，十六烷指数使用各有效参调组分的CTI性质参数进行质量约束，成品十六烷指数不得低于46。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "CTI"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D,BLEND_W20.H2E,BLEND_W20.H2K,BLEND_W20.H4D,BLEND_W20.H4E,BLEND_W20.HCD"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "cetane_index_H2D": {
+        "value": 49,
+        "unit": "1"
+      },
+      "cetane_index_H2E": {
+        "value": 26,
+        "unit": "1"
+      },
+      "cetane_index_H2K": {
+        "value": 49,
+        "unit": "1"
+      },
+      "cetane_index_H4D": {
+        "value": 46,
+        "unit": "1"
+      },
+      "cetane_index_H4E": {
+        "value": 49,
+        "unit": "1"
+      },
+      "cetane_index_HCD": {
+        "value": 59,
+        "unit": "1"
+      },
+      "product_cetane_index_min": {
+        "value": 46,
+        "unit": "1"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_JET_ARW",
+    "factory": "jiujiang",
+    "placeholder": "0",
+    "description": "航煤调合时，芳烃含量使用各有效参调组分的ARW性质参数进行质量约束，成品芳烃含量不得高于19%。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "ARW"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J,BLEND_JET.HCJ"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_JET.JET"
+      }
+    ],
+    "parameters": {
+      "aromatic_content_H5J": {
+        "value": 10,
+        "unit": "%"
+      },
+      "aromatic_content_HCJ": {
+        "value": 7.21313093538269,
+        "unit": "%"
+      },
+      "product_aromatic_content_max": {
+        "value": 19,
+        "unit": "%"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W92_SUL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合时，硫含量按有效参调组分的对应性质进行质量约束，成品硫含量不得高于50mg/kg。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "SUL"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.催化汽油,BLEND_W92.常压石脑油,BLEND_W92.MTBE,BLEND_W92.烃化液,BLEND_W92.BMT,BLEND_W92.RF1,BLEND_W92.HAR,BLEND_W92.BHR,BLEND_W92.H1N,BLEND_W92.SZB,BLEND_W92.H8N,BLEND_W92.TOL,BLEND_W92.XYL,BLEND_W92.ZBB,BLEND_W92.HLN"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "sul_催化汽油": {
+        "value": 53,
+        "unit": "mg/kg"
+      },
+      "sul_常压石脑油": {
+        "value": 70,
+        "unit": "mg/kg"
+      },
+      "sul_MTBE": {
+        "value": 87,
+        "unit": "mg/kg"
+      },
+      "sul_烃化液": {
+        "value": 104,
+        "unit": "mg/kg"
+      },
+      "sul_BMT": {
+        "value": 121,
+        "unit": "mg/kg"
+      },
+      "sul_RF1": {
+        "value": 138,
+        "unit": "mg/kg"
+      },
+      "sul_HAR": {
+        "value": 155,
+        "unit": "mg/kg"
+      },
+      "sul_BHR": {
+        "value": 172,
+        "unit": "mg/kg"
+      },
+      "sul_H1N": {
+        "value": 189,
+        "unit": "mg/kg"
+      },
+      "sul_SZB": {
+        "value": 206,
+        "unit": "mg/kg"
+      },
+      "sul_H8N": {
+        "value": 223,
+        "unit": "mg/kg"
+      },
+      "sul_TOL": {
+        "value": 240,
+        "unit": "mg/kg"
+      },
+      "sul_XYL": {
+        "value": 257,
+        "unit": "mg/kg"
+      },
+      "sul_ZBB": {
+        "value": 274,
+        "unit": "mg/kg"
+      },
+      "sul_HLN": {
+        "value": 291,
+        "unit": "mg/kg"
+      },
+      "product_sul_max": {
+        "value": 50,
+        "unit": "mg/kg"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W92_RVP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "92#国Ⅴ汽油调合时，蒸气压按有效参调组分的对应性质进行质量约束，成品蒸气压不得高于65kPa。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RVP"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W92.催化汽油,BLEND_W92.常压石脑油,BLEND_W92.MTBE,BLEND_W92.烃化液,BLEND_W92.BMT,BLEND_W92.RF1,BLEND_W92.HAR,BLEND_W92.BHR,BLEND_W92.H1N,BLEND_W92.SZB,BLEND_W92.H8N,BLEND_W92.TOL,BLEND_W92.XYL,BLEND_W92.ZBB,BLEND_W92.HLN"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W92.W92"
+      }
+    ],
+    "parameters": {
+      "rvp_催化汽油": {
+        "value": 53,
+        "unit": "kPa"
+      },
+      "rvp_常压石脑油": {
+        "value": 62,
+        "unit": "kPa"
+      },
+      "rvp_MTBE": {
+        "value": 71,
+        "unit": "kPa"
+      },
+      "rvp_烃化液": {
+        "value": 80,
+        "unit": "kPa"
+      },
+      "rvp_BMT": {
+        "value": 89,
+        "unit": "kPa"
+      },
+      "rvp_RF1": {
+        "value": 38,
+        "unit": "kPa"
+      },
+      "rvp_HAR": {
+        "value": 47,
+        "unit": "kPa"
+      },
+      "rvp_BHR": {
+        "value": 56,
+        "unit": "kPa"
+      },
+      "rvp_H1N": {
+        "value": 65,
+        "unit": "kPa"
+      },
+      "rvp_SZB": {
+        "value": 74,
+        "unit": "kPa"
+      },
+      "rvp_H8N": {
+        "value": 83,
+        "unit": "kPa"
+      },
+      "rvp_TOL": {
+        "value": 32,
+        "unit": "kPa"
+      },
+      "rvp_XYL": {
+        "value": 41,
+        "unit": "kPa"
+      },
+      "rvp_ZBB": {
+        "value": 50,
+        "unit": "kPa"
+      },
+      "rvp_HLN": {
+        "value": 59,
+        "unit": "kPa"
+      },
+      "product_rvp_max": {
+        "value": 65,
+        "unit": "kPa"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W95_SUL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合时，硫含量按有效参调组分的对应性质进行质量约束，成品硫含量不得高于50mg/kg。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "SUL"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.催化汽油,BLEND_W95.常压石脑油,BLEND_W95.MTBE,BLEND_W95.烃化液,BLEND_W95.BMT,BLEND_W95.HAR,BLEND_W95.BHR,BLEND_W95.SZB,BLEND_W95.TOL,BLEND_W95.XYL,BLEND_W95.烷基化"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "sul_催化汽油": {
+        "value": 115,
+        "unit": "mg/kg"
+      },
+      "sul_常压石脑油": {
+        "value": 132,
+        "unit": "mg/kg"
+      },
+      "sul_MTBE": {
+        "value": 149,
+        "unit": "mg/kg"
+      },
+      "sul_烃化液": {
+        "value": 166,
+        "unit": "mg/kg"
+      },
+      "sul_BMT": {
+        "value": 183,
+        "unit": "mg/kg"
+      },
+      "sul_HAR": {
+        "value": 200,
+        "unit": "mg/kg"
+      },
+      "sul_BHR": {
+        "value": 217,
+        "unit": "mg/kg"
+      },
+      "sul_SZB": {
+        "value": 234,
+        "unit": "mg/kg"
+      },
+      "sul_TOL": {
+        "value": 251,
+        "unit": "mg/kg"
+      },
+      "sul_XYL": {
+        "value": 268,
+        "unit": "mg/kg"
+      },
+      "sul_烷基化": {
+        "value": 285,
+        "unit": "mg/kg"
+      },
+      "product_sul_max": {
+        "value": 50,
+        "unit": "mg/kg"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W95_RVP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "95#国Ⅴ汽油调合时，蒸气压按有效参调组分的对应性质进行质量约束，成品蒸气压不得高于65kPa。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RVP"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W95.催化汽油,BLEND_W95.常压石脑油,BLEND_W95.MTBE,BLEND_W95.烃化液,BLEND_W95.BMT,BLEND_W95.HAR,BLEND_W95.BHR,BLEND_W95.SZB,BLEND_W95.TOL,BLEND_W95.XYL,BLEND_W95.烷基化"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W95.W95"
+      }
+    ],
+    "parameters": {
+      "rvp_催化汽油": {
+        "value": 67,
+        "unit": "kPa"
+      },
+      "rvp_常压石脑油": {
+        "value": 76,
+        "unit": "kPa"
+      },
+      "rvp_MTBE": {
+        "value": 85,
+        "unit": "kPa"
+      },
+      "rvp_烃化液": {
+        "value": 34,
+        "unit": "kPa"
+      },
+      "rvp_BMT": {
+        "value": 43,
+        "unit": "kPa"
+      },
+      "rvp_HAR": {
+        "value": 52,
+        "unit": "kPa"
+      },
+      "rvp_BHR": {
+        "value": 61,
+        "unit": "kPa"
+      },
+      "rvp_SZB": {
+        "value": 70,
+        "unit": "kPa"
+      },
+      "rvp_TOL": {
+        "value": 79,
+        "unit": "kPa"
+      },
+      "rvp_XYL": {
+        "value": 88,
+        "unit": "kPa"
+      },
+      "rvp_烷基化": {
+        "value": 37,
+        "unit": "kPa"
+      },
+      "product_rvp_max": {
+        "value": 65,
+        "unit": "kPa"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W98_SUL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合时，硫含量按有效参调组分的对应性质进行质量约束，成品硫含量不得高于50mg/kg。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "SUL"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTBE,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.烷基化"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "sul_MTBE": {
+        "value": 177,
+        "unit": "mg/kg"
+      },
+      "sul_BMT": {
+        "value": 194,
+        "unit": "mg/kg"
+      },
+      "sul_RF1": {
+        "value": 211,
+        "unit": "mg/kg"
+      },
+      "sul_HAR": {
+        "value": 228,
+        "unit": "mg/kg"
+      },
+      "sul_BHR": {
+        "value": 245,
+        "unit": "mg/kg"
+      },
+      "sul_H1N": {
+        "value": 262,
+        "unit": "mg/kg"
+      },
+      "sul_SZB": {
+        "value": 279,
+        "unit": "mg/kg"
+      },
+      "sul_H8N": {
+        "value": 296,
+        "unit": "mg/kg"
+      },
+      "sul_TOL": {
+        "value": 313,
+        "unit": "mg/kg"
+      },
+      "sul_XYL": {
+        "value": 330,
+        "unit": "mg/kg"
+      },
+      "sul_ZBB": {
+        "value": 347,
+        "unit": "mg/kg"
+      },
+      "sul_烷基化": {
+        "value": 364,
+        "unit": "mg/kg"
+      },
+      "product_sul_max": {
+        "value": 50,
+        "unit": "mg/kg"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W98_RVP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "98#国Ⅴ汽油调合时，蒸气压按有效参调组分的对应性质进行质量约束，成品蒸气压不得高于65kPa。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "RVP"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W98.MTBE,BLEND_W98.BMT,BLEND_W98.RF1,BLEND_W98.HAR,BLEND_W98.BHR,BLEND_W98.H1N,BLEND_W98.SZB,BLEND_W98.H8N,BLEND_W98.TOL,BLEND_W98.XYL,BLEND_W98.ZBB,BLEND_W98.烷基化"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W98.W98"
+      }
+    ],
+    "parameters": {
+      "rvp_MTBE": {
+        "value": 81,
+        "unit": "kPa"
+      },
+      "rvp_BMT": {
+        "value": 30,
+        "unit": "kPa"
+      },
+      "rvp_RF1": {
+        "value": 39,
+        "unit": "kPa"
+      },
+      "rvp_HAR": {
+        "value": 48,
+        "unit": "kPa"
+      },
+      "rvp_BHR": {
+        "value": 57,
+        "unit": "kPa"
+      },
+      "rvp_H1N": {
+        "value": 66,
+        "unit": "kPa"
+      },
+      "rvp_SZB": {
+        "value": 75,
+        "unit": "kPa"
+      },
+      "rvp_H8N": {
+        "value": 84,
+        "unit": "kPa"
+      },
+      "rvp_TOL": {
+        "value": 33,
+        "unit": "kPa"
+      },
+      "rvp_XYL": {
+        "value": 42,
+        "unit": "kPa"
+      },
+      "rvp_ZBB": {
+        "value": 51,
+        "unit": "kPa"
+      },
+      "rvp_烷基化": {
+        "value": 60,
+        "unit": "kPa"
+      },
+      "product_rvp_max": {
+        "value": 65,
+        "unit": "kPa"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W00_SUL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合时，硫含量按有效参调组分的对应性质进行质量约束，成品硫含量不得高于50mg/kg。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "SUL"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.催化柴油,BLEND_W00.常压直馏柴油,BLEND_W00.HCJ,BLEND_W00.H2D,BLEND_W00.H2E,BLEND_W00.H2K,BLEND_W00.H4D,BLEND_W00.H4E,BLEND_W00.HCD,BLEND_W00.H1J"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "sul_催化柴油": {
+        "value": 239,
+        "unit": "mg/kg"
+      },
+      "sul_常压直馏柴油": {
+        "value": 256,
+        "unit": "mg/kg"
+      },
+      "sul_HCJ": {
+        "value": 273,
+        "unit": "mg/kg"
+      },
+      "sul_H2D": {
+        "value": 290,
+        "unit": "mg/kg"
+      },
+      "sul_H2E": {
+        "value": 307,
+        "unit": "mg/kg"
+      },
+      "sul_H2K": {
+        "value": 324,
+        "unit": "mg/kg"
+      },
+      "sul_H4D": {
+        "value": 341,
+        "unit": "mg/kg"
+      },
+      "sul_H4E": {
+        "value": 358,
+        "unit": "mg/kg"
+      },
+      "sul_HCD": {
+        "value": 375,
+        "unit": "mg/kg"
+      },
+      "sul_H1J": {
+        "value": 392,
+        "unit": "mg/kg"
+      },
+      "product_sul_max": {
+        "value": 50,
+        "unit": "mg/kg"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W00_DEN",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合时，密度按有效参调组分的对应性质进行质量约束，成品密度790至860kg/m3。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "DEN"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.催化柴油,BLEND_W00.常压直馏柴油,BLEND_W00.HCJ,BLEND_W00.H2D,BLEND_W00.H2E,BLEND_W00.H2K,BLEND_W00.H4D,BLEND_W00.H4E,BLEND_W00.HCD,BLEND_W00.H1J"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "den_催化柴油": {
+        "value": 871,
+        "unit": "kg/m3"
+      },
+      "den_常压直馏柴油": {
+        "value": 878,
+        "unit": "kg/m3"
+      },
+      "den_HCJ": {
+        "value": 885,
+        "unit": "kg/m3"
+      },
+      "den_H2D": {
+        "value": 892,
+        "unit": "kg/m3"
+      },
+      "den_H2E": {
+        "value": 899,
+        "unit": "kg/m3"
+      },
+      "den_H2K": {
+        "value": 906,
+        "unit": "kg/m3"
+      },
+      "den_H4D": {
+        "value": 763,
+        "unit": "kg/m3"
+      },
+      "den_H4E": {
+        "value": 770,
+        "unit": "kg/m3"
+      },
+      "den_HCD": {
+        "value": 777,
+        "unit": "kg/m3"
+      },
+      "den_H1J": {
+        "value": 784,
+        "unit": "kg/m3"
+      },
+      "product_den_min": {
+        "value": 790,
+        "unit": "kg/m3"
+      },
+      "product_den_max": {
+        "value": 860,
+        "unit": "kg/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W00_FP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合时，闪点按有效参调组分的对应性质进行质量约束，成品闪点不得低于55°C。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "FP"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.催化柴油,BLEND_W00.常压直馏柴油,BLEND_W00.HCJ,BLEND_W00.H2D,BLEND_W00.H2E,BLEND_W00.H2K,BLEND_W00.H4D,BLEND_W00.H4E,BLEND_W00.HCD,BLEND_W00.H1J"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "fp_催化柴油": {
+        "value": 89,
+        "unit": "°C"
+      },
+      "fp_常压直馏柴油": {
+        "value": 98,
+        "unit": "°C"
+      },
+      "fp_HCJ": {
+        "value": 37,
+        "unit": "°C"
+      },
+      "fp_H2D": {
+        "value": 46,
+        "unit": "°C"
+      },
+      "fp_H2E": {
+        "value": 55,
+        "unit": "°C"
+      },
+      "fp_H2K": {
+        "value": 64,
+        "unit": "°C"
+      },
+      "fp_H4D": {
+        "value": 73,
+        "unit": "°C"
+      },
+      "fp_H4E": {
+        "value": 82,
+        "unit": "°C"
+      },
+      "fp_HCD": {
+        "value": 91,
+        "unit": "°C"
+      },
+      "fp_H1J": {
+        "value": 100,
+        "unit": "°C"
+      },
+      "product_fp_min": {
+        "value": 55,
+        "unit": "°C"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W00_CFPP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "0#国标Ⅴ柴油调合时，冷滤点按有效参调组分的对应性质进行质量约束，成品冷滤点不得高于4°C。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "CFPP"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W00.催化柴油,BLEND_W00.常压直馏柴油,BLEND_W00.HCJ,BLEND_W00.H2D,BLEND_W00.H2E,BLEND_W00.H2K,BLEND_W00.H4D,BLEND_W00.H4E,BLEND_W00.HCD,BLEND_W00.H1J"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W00.W00"
+      }
+    ],
+    "parameters": {
+      "cfpp_催化柴油": {
+        "value": 2,
+        "unit": "°C"
+      },
+      "cfpp_常压直馏柴油": {
+        "value": 4,
+        "unit": "°C"
+      },
+      "cfpp_HCJ": {
+        "value": -29,
+        "unit": "°C"
+      },
+      "cfpp_H2D": {
+        "value": -27,
+        "unit": "°C"
+      },
+      "cfpp_H2E": {
+        "value": -25,
+        "unit": "°C"
+      },
+      "cfpp_H2K": {
+        "value": -23,
+        "unit": "°C"
+      },
+      "cfpp_H4D": {
+        "value": -21,
+        "unit": "°C"
+      },
+      "cfpp_H4E": {
+        "value": -19,
+        "unit": "°C"
+      },
+      "cfpp_HCD": {
+        "value": -17,
+        "unit": "°C"
+      },
+      "cfpp_H1J": {
+        "value": -15,
+        "unit": "°C"
+      },
+      "product_cfpp_max": {
+        "value": 4,
+        "unit": "°C"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W20_SUL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合时，硫含量按有效参调组分的对应性质进行质量约束，成品硫含量不得高于50mg/kg。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "SUL"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D,BLEND_W20.H2E,BLEND_W20.H2K,BLEND_W20.H4D,BLEND_W20.H4E,BLEND_W20.HCD"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "sul_H2D": {
+        "value": 363,
+        "unit": "mg/kg"
+      },
+      "sul_H2E": {
+        "value": 380,
+        "unit": "mg/kg"
+      },
+      "sul_H2K": {
+        "value": 397,
+        "unit": "mg/kg"
+      },
+      "sul_H4D": {
+        "value": 414,
+        "unit": "mg/kg"
+      },
+      "sul_H4E": {
+        "value": 431,
+        "unit": "mg/kg"
+      },
+      "sul_HCD": {
+        "value": 448,
+        "unit": "mg/kg"
+      },
+      "product_sul_max": {
+        "value": 50,
+        "unit": "mg/kg"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W20_DEN",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合时，密度按有效参调组分的对应性质进行质量约束，成品密度790至860kg/m3。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "DEN"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D,BLEND_W20.H2E,BLEND_W20.H2K,BLEND_W20.H4D,BLEND_W20.H4E,BLEND_W20.HCD"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "den_H2D": {
+        "value": 773,
+        "unit": "kg/m3"
+      },
+      "den_H2E": {
+        "value": 780,
+        "unit": "kg/m3"
+      },
+      "den_H2K": {
+        "value": 787,
+        "unit": "kg/m3"
+      },
+      "den_H4D": {
+        "value": 794,
+        "unit": "kg/m3"
+      },
+      "den_H4E": {
+        "value": 801,
+        "unit": "kg/m3"
+      },
+      "den_HCD": {
+        "value": 808,
+        "unit": "kg/m3"
+      },
+      "product_den_min": {
+        "value": 790,
+        "unit": "kg/m3"
+      },
+      "product_den_max": {
+        "value": 860,
+        "unit": "kg/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W20_FP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合时，闪点按有效参调组分的对应性质进行质量约束，成品闪点不得低于55°C。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "FP"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D,BLEND_W20.H2E,BLEND_W20.H2K,BLEND_W20.H4D,BLEND_W20.H4E,BLEND_W20.HCD"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "fp_H2D": {
+        "value": 39,
+        "unit": "°C"
+      },
+      "fp_H2E": {
+        "value": 48,
+        "unit": "°C"
+      },
+      "fp_H2K": {
+        "value": 57,
+        "unit": "°C"
+      },
+      "fp_H4D": {
+        "value": 66,
+        "unit": "°C"
+      },
+      "fp_H4E": {
+        "value": 75,
+        "unit": "°C"
+      },
+      "fp_HCD": {
+        "value": 84,
+        "unit": "°C"
+      },
+      "product_fp_min": {
+        "value": 55,
+        "unit": "°C"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_W20_CFPP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "-20#国标Ⅴ柴油调合时，冷滤点按有效参调组分的对应性质进行质量约束，成品冷滤点不得高于-14°C。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "CFPP"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_W20.H2D,BLEND_W20.H2E,BLEND_W20.H2K,BLEND_W20.H4D,BLEND_W20.H4E,BLEND_W20.HCD"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_W20.W20"
+      }
+    ],
+    "parameters": {
+      "cfpp_H2D": {
+        "value": -21,
+        "unit": "°C"
+      },
+      "cfpp_H2E": {
+        "value": -19,
+        "unit": "°C"
+      },
+      "cfpp_H2K": {
+        "value": -17,
+        "unit": "°C"
+      },
+      "cfpp_H4D": {
+        "value": -15,
+        "unit": "°C"
+      },
+      "cfpp_H4E": {
+        "value": -13,
+        "unit": "°C"
+      },
+      "cfpp_HCD": {
+        "value": -11,
+        "unit": "°C"
+      },
+      "product_cfpp_max": {
+        "value": -14,
+        "unit": "°C"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_JET_SUL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤调合时，硫含量按有效参调组分的对应性质进行质量约束，成品硫含量不得高于1800mg/kg。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "SUL"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J,BLEND_JET.HCJ"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_JET.JET"
+      }
+    ],
+    "parameters": {
+      "sul_H5J": {
+        "value": 487,
+        "unit": "mg/kg"
+      },
+      "sul_HCJ": {
+        "value": 504,
+        "unit": "mg/kg"
+      },
+      "product_sul_max": {
+        "value": 1800,
+        "unit": "mg/kg"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_JET_FP",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤调合时，闪点按有效参调组分的对应性质进行质量约束，成品闪点不得低于40°C。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "FP"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J,BLEND_JET.HCJ"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_JET.JET"
+      }
+    ],
+    "parameters": {
+      "fp_H5J": {
+        "value": 54,
+        "unit": "°C"
+      },
+      "fp_HCJ": {
+        "value": 63,
+        "unit": "°C"
+      },
+      "product_fp_min": {
+        "value": 40,
+        "unit": "°C"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_JET_FRZ",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤调合时，冰点按有效参调组分的对应性质进行质量约束，成品冰点不得高于-49°C。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "FRZ"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J,BLEND_JET.HCJ"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_JET.JET"
+      }
+    ],
+    "parameters": {
+      "frz_H5J": {
+        "value": -53,
+        "unit": "°C"
+      },
+      "frz_HCJ": {
+        "value": -50,
+        "unit": "°C"
+      },
+      "product_frz_max": {
+        "value": -49,
+        "unit": "°C"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_JET_DEN",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "航煤调合时，密度按有效参调组分的对应性质进行质量约束，成品密度775至840kg/m3。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "DEN"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_JET.H5J,BLEND_JET.HCJ"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_JET.JET"
+      }
+    ],
+    "parameters": {
+      "den_H5J": {
+        "value": 851,
+        "unit": "kg/m3"
+      },
+      "den_HCJ": {
+        "value": 858,
+        "unit": "kg/m3"
+      },
+      "product_den_min": {
+        "value": 775,
+        "unit": "kg/m3"
+      },
+      "product_den_max": {
+        "value": 840,
+        "unit": "kg/m3"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_DMA_SUL",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油调合时，硫含量按有效参调组分的对应性质进行质量约束，成品硫含量不得高于5000mg/kg。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "SUL"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2D,BLEND_DMA.H2E,BLEND_DMA.H2K"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_DMA.DMA"
+      }
+    ],
+    "parameters": {
+      "sul_H2D": {
+        "value": 11,
+        "unit": "mg/kg"
+      },
+      "sul_H2E": {
+        "value": 28,
+        "unit": "mg/kg"
+      },
+      "sul_H2K": {
+        "value": 45,
+        "unit": "mg/kg"
+      },
+      "product_sul_max": {
+        "value": 5000,
+        "unit": "mg/kg"
+      }
+    }
+  },
+  {
+    "rule_id": "BLEND_QUALITY_PH_DMA_V40",
+    "factory": "jiujiang",
+    "placeholder": "1",
+    "description": "船用燃料油调合时，40℃运动黏度按有效参调组分的对应性质进行质量约束，成品40℃运动黏度1.5至6.0mm2/s。",
+    "sets": [
+      {
+        "set_name": "Q",
+        "subset_name": "Qw",
+        "element": "V40"
+      },
+      {
+        "set_name": "IU",
+        "subset_name": null,
+        "element": "BLEND_DMA.H2D,BLEND_DMA.H2E,BLEND_DMA.H2K"
+      },
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "BLEND_DMA.DMA"
+      }
+    ],
+    "parameters": {
+      "v40_H2D": {
+        "value": 1.8,
+        "unit": "mm2/s"
+      },
+      "v40_H2E": {
+        "value": 2.4,
+        "unit": "mm2/s"
+      },
+      "v40_H2K": {
+        "value": 3.0,
+        "unit": "mm2/s"
+      },
+      "product_v40_min": {
+        "value": 1.5,
+        "unit": "mm2/s"
+      },
+      "product_v40_max": {
+        "value": 6.0,
+        "unit": "mm2/s"
+      }
+    }
+  }
+]

@@ -1,0 +1,2992 @@
+[
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_01生产S_PRODUCT_中压加裂_01时，产品产出量为29至111吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_01.S_PRODUCT_中压加裂_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 29,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 111,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_02生产S_PRODUCT_中压加裂_02时，产品产出量为32至126吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_02.S_PRODUCT_中压加裂_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 32,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 126,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_03生产S_PRODUCT_中压加裂_03时，产品产出量为35至141吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_03.S_PRODUCT_中压加裂_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 35,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 141,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_04生产S_PRODUCT_中压加裂_04时，产品产出量为38至108吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_04.S_PRODUCT_中压加裂_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 38,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 108,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_05生产S_PRODUCT_中压加裂_05时，产品产出量为41至123吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_05.S_PRODUCT_中压加裂_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 41,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 123,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_06生产S_PRODUCT_中压加裂_06时，产品产出量为44至138吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_06.S_PRODUCT_中压加裂_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 44,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 138,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_07生产S_PRODUCT_中压加裂_07时，产品产出量为47至153吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_07.S_PRODUCT_中压加裂_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 47,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 153,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_08生产S_PRODUCT_中压加裂_08时，产品产出量为50至120吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_08.S_PRODUCT_中压加裂_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 50,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 120,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_09生产S_PRODUCT_中压加裂_09时，产品产出量为53至135吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_09.S_PRODUCT_中压加裂_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 53,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 135,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_01_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "中压加裂_PH_10生产S_PRODUCT_中压加裂_10时，产品产出量为56至150吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "中压加裂_PH_10.S_PRODUCT_中压加裂_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 56,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 150,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_01生产S_PRODUCT_高压加裂_01时，产品产出量为35至117吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_01.S_PRODUCT_高压加裂_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 35,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 117,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_02生产S_PRODUCT_高压加裂_02时，产品产出量为38至132吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_02.S_PRODUCT_高压加裂_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 38,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 132,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_03生产S_PRODUCT_高压加裂_03时，产品产出量为41至147吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_03.S_PRODUCT_高压加裂_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 41,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 147,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_04生产S_PRODUCT_高压加裂_04时，产品产出量为44至114吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_04.S_PRODUCT_高压加裂_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 44,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 114,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_05生产S_PRODUCT_高压加裂_05时，产品产出量为47至129吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_05.S_PRODUCT_高压加裂_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 47,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 129,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_06生产S_PRODUCT_高压加裂_06时，产品产出量为50至144吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_06.S_PRODUCT_高压加裂_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 50,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 144,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_07生产S_PRODUCT_高压加裂_07时，产品产出量为53至159吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_07.S_PRODUCT_高压加裂_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 53,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 159,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_08生产S_PRODUCT_高压加裂_08时，产品产出量为56至126吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_08.S_PRODUCT_高压加裂_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 56,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 126,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_09生产S_PRODUCT_高压加裂_09时，产品产出量为59至141吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_09.S_PRODUCT_高压加裂_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 59,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 141,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_02_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "高压加裂_PH_10生产S_PRODUCT_高压加裂_10时，产品产出量为62至156吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "高压加裂_PH_10.S_PRODUCT_高压加裂_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 62,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 156,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_01生产S_PRODUCT_催拆改制_01时，产品产出量为41至123吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_01.S_PRODUCT_催拆改制_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 41,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 123,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_02生产S_PRODUCT_催拆改制_02时，产品产出量为44至138吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_02.S_PRODUCT_催拆改制_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 44,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 138,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_03生产S_PRODUCT_催拆改制_03时，产品产出量为47至153吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_03.S_PRODUCT_催拆改制_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 47,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 153,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_04生产S_PRODUCT_催拆改制_04时，产品产出量为50至120吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_04.S_PRODUCT_催拆改制_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 50,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 120,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_05生产S_PRODUCT_催拆改制_05时，产品产出量为53至135吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_05.S_PRODUCT_催拆改制_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 53,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 135,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_06生产S_PRODUCT_催拆改制_06时，产品产出量为56至150吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_06.S_PRODUCT_催拆改制_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 56,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 150,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_07生产S_PRODUCT_催拆改制_07时，产品产出量为59至165吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_07.S_PRODUCT_催拆改制_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 59,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 165,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_08生产S_PRODUCT_催拆改制_08时，产品产出量为62至132吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_08.S_PRODUCT_催拆改制_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 62,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 132,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_09生产S_PRODUCT_催拆改制_09时，产品产出量为65至147吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_09.S_PRODUCT_催拆改制_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 65,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 147,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_03_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催拆改制_PH_10生产S_PRODUCT_催拆改制_10时，产品产出量为68至162吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催拆改制_PH_10.S_PRODUCT_催拆改制_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 68,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 162,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_01生产S_PRODUCT_渣加_01时，产品产出量为47至129吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_01.S_PRODUCT_渣加_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 47,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 129,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_02生产S_PRODUCT_渣加_02时，产品产出量为50至144吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_02.S_PRODUCT_渣加_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 50,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 144,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_03生产S_PRODUCT_渣加_03时，产品产出量为53至159吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_03.S_PRODUCT_渣加_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 53,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 159,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_04生产S_PRODUCT_渣加_04时，产品产出量为56至126吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_04.S_PRODUCT_渣加_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 56,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 126,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_05生产S_PRODUCT_渣加_05时，产品产出量为59至141吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_05.S_PRODUCT_渣加_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 59,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 141,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_06生产S_PRODUCT_渣加_06时，产品产出量为62至156吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_06.S_PRODUCT_渣加_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 62,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 156,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_07生产S_PRODUCT_渣加_07时，产品产出量为65至171吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_07.S_PRODUCT_渣加_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 65,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 171,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_08生产S_PRODUCT_渣加_08时，产品产出量为68至138吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_08.S_PRODUCT_渣加_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 68,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 138,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_09生产S_PRODUCT_渣加_09时，产品产出量为71至153吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_09.S_PRODUCT_渣加_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 71,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 153,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_04_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "渣加_PH_10生产S_PRODUCT_渣加_10时，产品产出量为74至168吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "渣加_PH_10.S_PRODUCT_渣加_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 74,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 168,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_01生产S_PRODUCT_延迟焦化_01时，产品产出量为53至135吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_01.S_PRODUCT_延迟焦化_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 53,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 135,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_02生产S_PRODUCT_延迟焦化_02时，产品产出量为56至150吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_02.S_PRODUCT_延迟焦化_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 56,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 150,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_03生产S_PRODUCT_延迟焦化_03时，产品产出量为59至165吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_03.S_PRODUCT_延迟焦化_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 59,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 165,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_04生产S_PRODUCT_延迟焦化_04时，产品产出量为62至132吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_04.S_PRODUCT_延迟焦化_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 62,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 132,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_05生产S_PRODUCT_延迟焦化_05时，产品产出量为65至147吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_05.S_PRODUCT_延迟焦化_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 65,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 147,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_06生产S_PRODUCT_延迟焦化_06时，产品产出量为68至162吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_06.S_PRODUCT_延迟焦化_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 68,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 162,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_07生产S_PRODUCT_延迟焦化_07时，产品产出量为71至177吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_07.S_PRODUCT_延迟焦化_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 71,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 177,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_08生产S_PRODUCT_延迟焦化_08时，产品产出量为74至144吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_08.S_PRODUCT_延迟焦化_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 74,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 144,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_09生产S_PRODUCT_延迟焦化_09时，产品产出量为77至159吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_09.S_PRODUCT_延迟焦化_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 77,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 159,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_05_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "延迟焦化_PH_10生产S_PRODUCT_延迟焦化_10时，产品产出量为80至174吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "延迟焦化_PH_10.S_PRODUCT_延迟焦化_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 80,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 174,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_01生产S_PRODUCT_汽柴油加氢_01时，产品产出量为59至141吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_01.S_PRODUCT_汽柴油加氢_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 59,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 141,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_02生产S_PRODUCT_汽柴油加氢_02时，产品产出量为62至156吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_02.S_PRODUCT_汽柴油加氢_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 62,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 156,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_03生产S_PRODUCT_汽柴油加氢_03时，产品产出量为65至171吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_03.S_PRODUCT_汽柴油加氢_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 65,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 171,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_04生产S_PRODUCT_汽柴油加氢_04时，产品产出量为68至138吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_04.S_PRODUCT_汽柴油加氢_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 68,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 138,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_05生产S_PRODUCT_汽柴油加氢_05时，产品产出量为71至153吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_05.S_PRODUCT_汽柴油加氢_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 71,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 153,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_06生产S_PRODUCT_汽柴油加氢_06时，产品产出量为74至168吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_06.S_PRODUCT_汽柴油加氢_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 74,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 168,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_07生产S_PRODUCT_汽柴油加氢_07时，产品产出量为77至183吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_07.S_PRODUCT_汽柴油加氢_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 77,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 183,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_08生产S_PRODUCT_汽柴油加氢_08时，产品产出量为80至150吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_08.S_PRODUCT_汽柴油加氢_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 80,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 150,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_09生产S_PRODUCT_汽柴油加氢_09时，产品产出量为83至165吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_09.S_PRODUCT_汽柴油加氢_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 83,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 165,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_06_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "汽柴油加氢_PH_10生产S_PRODUCT_汽柴油加氢_10时，产品产出量为86至180吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "汽柴油加氢_PH_10.S_PRODUCT_汽柴油加氢_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 86,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 180,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_01生产S_PRODUCT_重整_01时，产品产出量为65至147吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_01.S_PRODUCT_重整_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 65,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 147,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_02生产S_PRODUCT_重整_02时，产品产出量为68至162吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_02.S_PRODUCT_重整_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 68,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 162,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_03生产S_PRODUCT_重整_03时，产品产出量为71至177吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_03.S_PRODUCT_重整_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 71,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 177,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_04生产S_PRODUCT_重整_04时，产品产出量为74至144吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_04.S_PRODUCT_重整_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 74,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 144,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_05生产S_PRODUCT_重整_05时，产品产出量为77至159吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_05.S_PRODUCT_重整_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 77,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 159,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_06生产S_PRODUCT_重整_06时，产品产出量为80至174吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_06.S_PRODUCT_重整_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 80,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 174,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_07生产S_PRODUCT_重整_07时，产品产出量为83至189吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_07.S_PRODUCT_重整_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 83,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 189,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_08生产S_PRODUCT_重整_08时，产品产出量为86至156吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_08.S_PRODUCT_重整_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 86,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 156,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_09生产S_PRODUCT_重整_09时，产品产出量为89至171吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_09.S_PRODUCT_重整_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 89,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 171,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_07_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "重整_PH_10生产S_PRODUCT_重整_10时，产品产出量为92至186吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "重整_PH_10.S_PRODUCT_重整_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 92,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 186,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_01生产S_PRODUCT_催化_01时，产品产出量为71至153吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_01.S_PRODUCT_催化_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 71,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 153,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_02生产S_PRODUCT_催化_02时，产品产出量为74至168吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_02.S_PRODUCT_催化_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 74,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 168,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_03生产S_PRODUCT_催化_03时，产品产出量为77至183吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_03.S_PRODUCT_催化_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 77,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 183,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_04生产S_PRODUCT_催化_04时，产品产出量为80至150吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_04.S_PRODUCT_催化_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 80,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 150,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_05生产S_PRODUCT_催化_05时，产品产出量为83至165吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_05.S_PRODUCT_催化_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 83,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 165,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_06生产S_PRODUCT_催化_06时，产品产出量为86至180吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_06.S_PRODUCT_催化_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 86,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 180,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_07生产S_PRODUCT_催化_07时，产品产出量为89至195吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_07.S_PRODUCT_催化_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 89,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 195,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_08生产S_PRODUCT_催化_08时，产品产出量为92至162吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_08.S_PRODUCT_催化_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 92,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 162,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_09生产S_PRODUCT_催化_09时，产品产出量为95至177吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_09.S_PRODUCT_催化_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 95,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 177,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_08_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "催化_PH_10生产S_PRODUCT_催化_10时，产品产出量为98至192吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "催化_PH_10.S_PRODUCT_催化_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 98,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 192,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_01生产S_PRODUCT_芳烃_01时，产品产出量为77至159吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_01.S_PRODUCT_芳烃_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 77,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 159,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_02生产S_PRODUCT_芳烃_02时，产品产出量为80至174吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_02.S_PRODUCT_芳烃_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 80,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 174,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_03生产S_PRODUCT_芳烃_03时，产品产出量为83至189吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_03.S_PRODUCT_芳烃_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 83,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 189,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_04生产S_PRODUCT_芳烃_04时，产品产出量为86至156吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_04.S_PRODUCT_芳烃_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 86,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 156,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_05生产S_PRODUCT_芳烃_05时，产品产出量为89至171吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_05.S_PRODUCT_芳烃_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 89,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 171,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_06生产S_PRODUCT_芳烃_06时，产品产出量为92至186吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_06.S_PRODUCT_芳烃_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 92,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 186,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_07生产S_PRODUCT_芳烃_07时，产品产出量为95至201吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_07.S_PRODUCT_芳烃_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 95,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 201,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_08生产S_PRODUCT_芳烃_08时，产品产出量为98至168吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_08.S_PRODUCT_芳烃_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 98,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 168,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_09生产S_PRODUCT_芳烃_09时，产品产出量为101至183吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_09.S_PRODUCT_芳烃_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 101,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 183,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_09_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "芳烃_PH_10生产S_PRODUCT_芳烃_10时，产品产出量为104至198吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "芳烃_PH_10.S_PRODUCT_芳烃_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 104,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 198,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_01生产S_PRODUCT_乙烯_01时，产品产出量为83至165吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_01.S_PRODUCT_乙烯_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 83,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 165,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_02生产S_PRODUCT_乙烯_02时，产品产出量为86至180吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_02.S_PRODUCT_乙烯_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 86,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 180,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_03生产S_PRODUCT_乙烯_03时，产品产出量为89至195吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_03.S_PRODUCT_乙烯_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 89,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 195,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_04",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_04生产S_PRODUCT_乙烯_04时，产品产出量为92至162吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_04.S_PRODUCT_乙烯_04"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 92,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 162,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_05",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_05生产S_PRODUCT_乙烯_05时，产品产出量为95至177吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_05.S_PRODUCT_乙烯_05"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 95,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 177,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_06",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_06生产S_PRODUCT_乙烯_06时，产品产出量为98至192吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_06.S_PRODUCT_乙烯_06"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 98,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 192,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_07",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_07生产S_PRODUCT_乙烯_07时，产品产出量为101至207吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_07.S_PRODUCT_乙烯_07"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 101,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 207,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_08",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_08生产S_PRODUCT_乙烯_08时，产品产出量为104至174吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_08.S_PRODUCT_乙烯_08"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 104,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 174,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_09",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_09生产S_PRODUCT_乙烯_09时，产品产出量为107至189吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_09.S_PRODUCT_乙烯_09"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 107,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 189,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_UP_PH_10_10",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "乙烯_PH_10生产S_PRODUCT_乙烯_10时，产品产出量为110至204吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "乙烯_PH_10.S_PRODUCT_乙烯_10"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 110,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 204,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_01_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_01生产S_PRODUCT_S_Zorb_01时，产品产出量为18至78吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "S-Zorb_PH_01.S_PRODUCT_S_Zorb_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 18,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 78,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_01_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_02生产S_PRODUCT_S_Zorb_02时，产品产出量为20至90吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "S-Zorb_PH_02.S_PRODUCT_S_Zorb_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 20,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 90,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_01_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "S-Zorb_PH_03生产S_PRODUCT_S_Zorb_03时，产品产出量为22至72吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "S-Zorb_PH_03.S_PRODUCT_S_Zorb_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 22,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 72,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_02_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_01生产S_PRODUCT_航煤加氢_01时，产品产出量为22至82吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "航煤加氢_PH_01.S_PRODUCT_航煤加氢_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 22,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 82,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_02_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_02生产S_PRODUCT_航煤加氢_02时，产品产出量为24至94吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "航煤加氢_PH_02.S_PRODUCT_航煤加氢_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 24,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 94,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_02_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "航煤加氢_PH_03生产S_PRODUCT_航煤加氢_03时，产品产出量为26至76吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "航煤加氢_PH_03.S_PRODUCT_航煤加氢_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 26,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 76,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_03_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "PTA_PH_01生产S_PRODUCT_PTA_01时，产品产出量为26至86吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "PTA_PH_01.S_PRODUCT_PTA_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 26,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 86,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_03_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "PTA_PH_02生产S_PRODUCT_PTA_02时，产品产出量为28至98吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "PTA_PH_02.S_PRODUCT_PTA_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 28,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 98,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_03_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "PTA_PH_03生产S_PRODUCT_PTA_03时，产品产出量为30至80吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "PTA_PH_03.S_PRODUCT_PTA_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 30,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 80,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_04_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "轻烃回收_PH_01生产S_PRODUCT_轻烃回收_01时，产品产出量为30至90吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "轻烃回收_PH_01.S_PRODUCT_轻烃回收_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 30,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 90,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_04_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "轻烃回收_PH_02生产S_PRODUCT_轻烃回收_02时，产品产出量为32至102吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "轻烃回收_PH_02.S_PRODUCT_轻烃回收_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 32,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 102,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_04_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "轻烃回收_PH_03生产S_PRODUCT_轻烃回收_03时，产品产出量为34至84吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "轻烃回收_PH_03.S_PRODUCT_轻烃回收_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 34,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 84,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_05_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "气分_PH_01生产S_PRODUCT_气分_01时，产品产出量为34至94吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "气分_PH_01.S_PRODUCT_气分_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 34,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 94,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_05_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "气分_PH_02生产S_PRODUCT_气分_02时，产品产出量为36至106吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "气分_PH_02.S_PRODUCT_气分_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 36,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 106,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_05_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "气分_PH_03生产S_PRODUCT_气分_03时，产品产出量为38至88吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "气分_PH_03.S_PRODUCT_气分_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 38,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 88,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_06_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MTBE_PH_01生产S_PRODUCT_MTBE_01时，产品产出量为38至98吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "MTBE_PH_01.S_PRODUCT_MTBE_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 38,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 98,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_06_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MTBE_PH_02生产S_PRODUCT_MTBE_02时，产品产出量为40至110吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "MTBE_PH_02.S_PRODUCT_MTBE_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 40,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 110,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_06_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "MTBE_PH_03生产S_PRODUCT_MTBE_03时，产品产出量为42至92吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "MTBE_PH_03.S_PRODUCT_MTBE_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 42,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 92,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_07_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "溶脱_PH_01生产S_PRODUCT_溶脱_01时，产品产出量为42至102吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "溶脱_PH_01.S_PRODUCT_溶脱_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 42,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 102,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_07_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "溶脱_PH_02生产S_PRODUCT_溶脱_02时，产品产出量为44至114吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "溶脱_PH_02.S_PRODUCT_溶脱_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 44,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 114,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_07_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "溶脱_PH_03生产S_PRODUCT_溶脱_03时，产品产出量为46至96吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "溶脱_PH_03.S_PRODUCT_溶脱_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 46,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 96,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_08_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "油浆拔头_PH_01生产S_PRODUCT_油浆拔头_01时，产品产出量为46至106吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "油浆拔头_PH_01.S_PRODUCT_油浆拔头_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 46,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 106,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_08_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "油浆拔头_PH_02生产S_PRODUCT_油浆拔头_02时，产品产出量为48至118吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "油浆拔头_PH_02.S_PRODUCT_油浆拔头_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 48,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 118,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_08_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "油浆拔头_PH_03生产S_PRODUCT_油浆拔头_03时，产品产出量为50至100吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "油浆拔头_PH_03.S_PRODUCT_油浆拔头_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 50,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 100,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_09_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚酯_PH_01生产S_PRODUCT_聚酯_01时，产品产出量为50至110吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "聚酯_PH_01.S_PRODUCT_聚酯_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 50,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 110,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_09_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚酯_PH_02生产S_PRODUCT_聚酯_02时，产品产出量为52至122吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "聚酯_PH_02.S_PRODUCT_聚酯_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 52,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 122,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_09_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚酯_PH_03生产S_PRODUCT_聚酯_03时，产品产出量为54至104吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "聚酯_PH_03.S_PRODUCT_聚酯_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 54,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 104,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_10_01",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚烯烃_PH_01生产S_PRODUCT_聚烯烃_01时，产品产出量为54至114吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "聚烯烃_PH_01.S_PRODUCT_聚烯烃_01"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 54,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 114,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_10_02",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚烯烃_PH_02生产S_PRODUCT_聚烯烃_02时，产品产出量为56至126吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "聚烯烃_PH_02.S_PRODUCT_聚烯烃_02"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 56,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 126,
+        "unit": "t/d"
+      }
+    }
+  },
+  {
+    "rule_id": "UNIT_PRODUCT_RATE_BOUND_DOWN_PH_10_03",
+    "factory": "yanlian",
+    "placeholder": "1",
+    "description": "聚烯烃_PH_03生产S_PRODUCT_聚烯烃_03时，产品产出量为58至108吨/天；未生产时为0。",
+    "sets": [
+      {
+        "set_name": "OU",
+        "subset_name": null,
+        "element": "聚烯烃_PH_03.S_PRODUCT_聚烯烃_03"
+      }
+    ],
+    "parameters": {
+      "product_rate_min": {
+        "value": 58,
+        "unit": "t/d"
+      },
+      "product_rate_max": {
+        "value": 108,
+        "unit": "t/d"
+      }
+    }
+  }
+]
